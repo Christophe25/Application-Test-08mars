@@ -1,0 +1,10 @@
+IMPORTANT : NOUVELLE STRUCTURE REACT
+
+Ton application a ete migree vers React pour plus de puissance.
+
+1. L'ancienne version est dans le dossier 'legacy-vanilla'.
+2. La nouvelle version utilise un serveur local.
+3. POUR LANCER LE SITE : Double-clique sur 'LANCER_IA_EDITORIAL.bat' ou 'START.bat'.
+
+Si tu ne vois pas ces fichiers, merci de forcer la synchronisation de ton OneDrive ou de rafraichir le dossier (F5).
+L'index.html a la racine est maintenant configure pour React et ne fonctionnera pas par un simple double-clique.
