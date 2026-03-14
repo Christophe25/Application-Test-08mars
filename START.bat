@@ -1,4 +1,6 @@
 @echo off
+echo [INFO] Synchronisation avec GitHub...
+git pull
 echo [INFO] Contournement de la politique de securite PowerShell...
 powershell -ExecutionPolicy Bypass -Command "npm install"
 if %ERRORLEVEL% NEQ 0 (
