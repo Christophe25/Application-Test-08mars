@@ -168,6 +168,11 @@ async function main() {
         await new Promise(r => setTimeout(r, 200));
     }
 
+    if (allFetchedVideos.length === 0) {
+        console.error("❌ Erreur : Aucune vidéo n'a pu être récupérée. Annulation de la mise à jour pour éviter d'écraser les données.");
+        process.exit(1);
+    }
+
     console.log(`💾 src/data.js mise à jour...`);
 
     const dataContent = `// Fichier généré automatiquement le ${new Date().toISOString()}
