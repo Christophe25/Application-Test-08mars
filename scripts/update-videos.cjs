@@ -192,7 +192,7 @@ async function main() {
         await Promise.all(batch.map(async (video) => {
             // Détection via scraping de durée
             const durationSec = await fetchDuration(video.videoId);
-            if (durationSec !== null && durationSec < 180) {
+            if (durationSec !== null && durationSec < 270) {
                 video.category = "Vidéos Promotionnelles";
                 video.isShort = true;
                 video.duration = Math.round(durationSec);
