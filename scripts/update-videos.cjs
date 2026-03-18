@@ -211,6 +211,13 @@ async function main() {
         process.exit(1);
     }
 
+    if (filteredVideos.length === 0) {
+        console.error("❌ Erreur : Aucune vidéo dans la fenêtre des 2 derniers mois. Annulation pour éviter d'écraser les données.");
+        process.exit(1);
+    }
+
+    const promoCount = filteredVideos.filter(v => v.isShort).length;
+    console.log(`📊 Résumé : ${filteredVideos.length} vidéos au total, dont ${promoCount} formats courts.`);
     console.log(`💾 src/data.js mise à jour...`);
 
     const dataContent = `// Fichier généré automatiquement le ${new Date().toISOString()}
