@@ -36,17 +36,24 @@ const THEMES = [
     "Actualités Tech"
 ];
 
-const fetchOnce = (source) => new Promise((resolve, reject) => {
+const fetchOnce = (source, url) => new Promise((resolve, reject) => {
+    const targetUrl = url || `https://www.youtube.com/feeds/videos.xml?channel_id=${source.id}`;
+    const parsed = new URL(targetUrl);
     const options = {
-        hostname: 'www.youtube.com',
-        path: `/feeds/videos.xml?channel_id=${source.id}`,
+        hostname: parsed.hostname,
+        path: parsed.pathname + parsed.search,
         headers: {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'application/xml, text/xml, */*'
         },
-        timeout: 10000
+        timeout: 15000
     };
     const req = https.get(options, (res) => {
+        // Follow redirects (301, 302, 303, 307, 308)
+        if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+            resolve(fetchOnce(source, res.headers.location));
+            return;
+        }
         if (res.statusCode !== 200) {
             reject(new Error(`HTTP ${res.statusCode}`));
             return;
@@ -58,7 +65,7 @@ const fetchOnce = (source) => new Promise((resolve, reject) => {
     req.on('error', reject);
     req.on('timeout', () => {
         req.destroy();
-        reject(new Error('Timeout after 10s'));
+        reject(new Error('Timeout after 15s'));
     });
 });
 
