@@ -869,6 +869,116 @@ body {
     white-space: nowrap;
 }
 
+/* --- Source Filter --- */
+
+.source-filter-container {
+    margin-bottom: 2rem;
+}
+
+.source-filter-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.source-filter-header .theme-filter-label {
+    margin-bottom: 0;
+    flex-shrink: 0;
+}
+
+.source-filter-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(241, 245, 249, 0.8);
+    border: 1px solid var(--border-color);
+    color: var(--secondary-text);
+    padding: 6px 14px;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 0.78rem;
+    font-weight: 600;
+    transition: var(--transition-smooth);
+}
+
+.source-filter-toggle:hover {
+    background: white;
+    color: var(--primary-text);
+    box-shadow: var(--shadow-soft);
+}
+
+.source-filter-reset {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--accent-gradient);
+    border: none;
+    color: white;
+    padding: 6px 14px;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 0.78rem;
+    font-weight: 700;
+    transition: var(--transition-smooth);
+}
+
+.source-filter-reset:hover {
+    opacity: 0.85;
+    transform: translateY(-1px);
+}
+
+.source-filter-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+    padding: 16px;
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    animation: slideUpFade 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.source-filter-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(241, 245, 249, 0.8);
+    border: 1px solid var(--border-color);
+    color: var(--secondary-text);
+    padding: 6px 14px 6px 6px;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: 600;
+    transition: var(--transition-smooth);
+    white-space: nowrap;
+}
+
+.source-filter-pill:hover {
+    background: white;
+    color: var(--primary-text);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-soft);
+}
+
+.source-filter-pill.active {
+    background: var(--accent-gradient);
+    color: white;
+    border-color: transparent;
+    box-shadow: 0 4px 15px rgba(99, 102, 241, 0.25);
+}
+
+.source-filter-avatar {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1.5px solid rgba(255,255,255,0.5);
+    flex-shrink: 0;
+}
+
 /* --- Empty State --- */
 
 .empty-state {

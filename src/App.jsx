@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react'
 import Header from './components/Header'
 import ThemeFilter from './components/ThemeFilter'
+import SourceFilter from './components/SourceFilter'
 import SourceMonitor from './components/SourceMonitor'
 import VibrantCard from './components/VibrantCard'
 import { allVideos, sources, themes, lastUpdate } from './data'
@@ -8,6 +9,7 @@ import './index.css'
 
 function App() {
     const [activeTheme, setActiveTheme] = useState('Tous');
+    const [activeSource, setActiveSource] = useState(null);
     const [isRefreshing, setIsRefreshing] = useState(false);
     const [lastSync, setLastSync] = useState(lastUpdate || new Date().toLocaleTimeString());
     const [showAll, setShowAll] = useState(false);
@@ -74,12 +76,16 @@ function App() {
     // Thèmes dynamiques incluant les archives
     const appThemes = useMemo(() => [...themes.filter(t => t !== 'Vidéos Promotionnelles'), '📥 Archives'], []);
 
-    // Vidéos filtrées par thème
+    // Vidéos filtrées par thème et par source
     const filteredByTheme = useMemo(() => {
-        if (activeTheme === '📥 Archives') return sortedVideos.filter(v => archivedVideos.includes(v.id));
-        if (activeTheme === 'Tous') return sortedVideos.filter(v => v.category !== 'Vidéos Promotionnelles' && !archivedVideos.includes(v.id));
-        return sortedVideos.filter(v => v.category === activeTheme && !archivedVideos.includes(v.id));
-    }, [activeTheme, sortedVideos, archivedVideos]);
+        let videos;
+        if (activeTheme === '📥 Archives') videos = sortedVideos.filter(v => archivedVideos.includes(v.id));
+        else if (activeTheme === 'Tous') videos = sortedVideos.filter(v => v.category !== 'Vidéos Promotionnelles' && !archivedVideos.includes(v.id));
+        else videos = sortedVideos.filter(v => v.category === activeTheme && !archivedVideos.includes(v.id));
+
+        if (activeSource) videos = videos.filter(v => v.source === activeSource);
+        return videos;
+    }, [activeTheme, activeSource, sortedVideos, archivedVideos]);
 
     // Comptage par thème pour les badges
     const themeCount = useMemo(() => {
@@ -190,7 +196,7 @@ function App() {
                             <h2 className="section-title">📚 Toutes les Vidéos</h2>
                             <p className="section-subtitle">{filteredByTheme.length} vidéo{filteredByTheme.length > 1 ? 's' : ''} {activeTheme !== 'Tous' ? `dans "${activeTheme}"` : 'au total'}</p>
                         </div>
-                        <button className="explore-button back" onClick={() => { setShowAll(false); setActiveTheme('Tous'); }}>
+                        <button className="explore-button back" onClick={() => { setShowAll(false); setActiveTheme('Tous'); setActiveSource(null); }}>
                             <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2.5">
                                 <path d="M19 12H5M12 19l-7-7 7-7" />
                             </svg>
@@ -201,8 +207,14 @@ function App() {
                     <ThemeFilter
                         themes={appThemes}
                         activeTheme={activeTheme}
-                        onThemeChange={setActiveTheme}
+                        onThemeChange={(theme) => { setActiveTheme(theme); setActiveSource(null); }}
                         themeCount={themeCount}
+                    />
+
+                    <SourceFilter
+                        sources={sources}
+                        activeSource={activeSource}
+                        onSourceChange={setActiveSource}
                     />
 
                     <main className={`main container editorial-flow ${isRefreshing ? 'content-fade' : ''}`}>
