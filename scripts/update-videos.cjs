@@ -36,7 +36,11 @@ const THEMES = [
     "Actualités Tech"
 ];
 
-const fetchOnce = (source, url) => new Promise((resolve, reject) => {
+const fetchOnce = (source, url, redirectDepth = 0) => new Promise((resolve, reject) => {
+    if (redirectDepth > 5) {
+        reject(new Error('Too many redirects'));
+        return;
+    }
     const targetUrl = url || `https://www.youtube.com/feeds/videos.xml?channel_id=${source.id}`;
     const parsed = new URL(targetUrl);
     const options = {
@@ -51,7 +55,7 @@ const fetchOnce = (source, url) => new Promise((resolve, reject) => {
     const req = https.get(options, (res) => {
         // Follow redirects (301, 302, 303, 307, 308)
         if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-            resolve(fetchOnce(source, res.headers.location));
+            resolve(fetchOnce(source, res.headers.location, redirectDepth + 1));
             return;
         }
         if (res.statusCode !== 200) {
@@ -118,6 +122,14 @@ const fetchDuration = (videoId) => {
     });
 };
 
+const decodeHtmlEntities = (str) => str
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'");
+
 const parseFeed = (xml, source) => {
     const videos = [];
     const entries = xml.split('<entry>');
@@ -128,9 +140,10 @@ const parseFeed = (xml, source) => {
             const videoIdMatch = entry.match(/<yt:videoId>(.*?)<\/yt:videoId>/);
             if (!videoIdMatch) continue;
             const videoId = videoIdMatch[1];
-            
+
             const titleMatch = entry.match(/<title>(.*?)<\/title>/);
-            const title = titleMatch ? titleMatch[1].replace('<![CDATA[', '').replace(']]>', '') : 'Sans titre';
+            const rawTitle = titleMatch ? titleMatch[1].replace('<![CDATA[', '').replace(']]>', '') : 'Sans titre';
+            const title = decodeHtmlEntities(rawTitle);
             
             const publishedMatch = entry.match(/<published>(.*?)<\/published>/);
             const published = publishedMatch ? publishedMatch[1] : new Date().toISOString();
