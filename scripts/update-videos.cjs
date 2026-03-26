@@ -2,29 +2,30 @@ const fs = require('fs');
 const https = require('https');
 
 const SOURCES = [
-    { handle: '@EtienneTillierStudio', name: 'Etienne Tillier', id: 'UCUlm3shqkgVNHLomYWZsfYA', theme: 'Vibe Coding & Dev IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@Simon_bcome', name: 'Simon Music', id: 'UCaryUIRfj7KAikH_ogrOzig', theme: 'Business & Monétisation IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@HenriExplorIA', name: 'Henri · ExplorIA', id: 'UCxx03UqvjTy9w8iomLwTSuQ', theme: 'Outils & Modèles IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@elliottpierret', name: 'Elliott Pierret', id: 'UCnJAGhDDEPdvY2g4ipf9PMQ', theme: 'Vibe Coding & Dev IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@RenaudDekode', name: 'Renaud Dékode', id: 'UCOWu-2h4IpoEjhsRlTuesFg', theme: 'Actualités Tech', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@ousmanedf', name: 'Ousmane Automatise', id: 'UC1o5Eo5Qf12_f6D836PsoPw', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@yassine-sdiri', name: 'Yassine Sdiri', id: 'UC94UeaPuTt_L51RkDxj9d_w', theme: 'Business & Monétisation IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@cedric_effi10', name: 'Cédric Girard', id: 'UCjhLy8XRh4Q0NM2CD6pFPYQ', theme: 'Outils & Modèles IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@EliottMeunier', name: 'Eliott Meunier', id: 'UCPo1nFSGNkyzrA9yvtkEvIw', theme: 'Productivité & Second Cerveau', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@reverdybusiness', name: 'Lucas Reverdy', id: 'UCabbBG5KYGtdTibrl_XHLOw', theme: 'Business & Monétisation IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@JulienSnsn', name: 'Julien Sanson', id: 'UCK85rF_WKv1N6ojTzVbj3yw', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@NerdyKings', name: 'Nerdy Kings', id: 'UCp7vimq7dYKiVAJLPyI0GcA', theme: 'Outils & Modèles IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@iAlan_automatise', name: 'iAlan', id: 'UCdROsT8FZ2pacpipymmmaPw', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@LouisGraffeuil', name: 'Louis Graffeuil', id: 'UChkCdoCUCNYizE8d9TXsi4A', theme: 'Vibe Coding & Dev IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@Hugo_Buisson', name: 'Hugo Buisson', id: 'UCeZvp_y5meYlfcGCFhl6UJQ', theme: 'Outils & Modèles IA', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@audelalia', name: 'Au-delà l\'IA', id: 'UCNSPV84q4QlUtle6MS_7v1Q', theme: 'Productivité & Second Cerveau', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@thomasbssh', name: 'Thomas Berton', id: 'UCxOWUTmenPJj5V6_g2-CS1g', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@JonasEkanbo', name: 'Jonas Ekanbo', id: 'UCF2fb5WylqKbw0SgOlJKXMA', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@LudovicSalenne', name: 'Ludo Salenne', id: 'UCnnYqSNKKygemgmxC9PyLTw', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@AurelienAutomatisation', name: 'Aurélien Fagioli', id: 'UCdL89Z0gQUDc1HT1882AGLw', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@BaptIA', name: 'Baptiste Simard - IA', id: 'UCzabGLybo9x307MkDtqTyFQ', theme: 'Agents & Automatisation', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' },
-    { handle: '@LudovicNedelec', name: 'Ludovic Nédélec', id: 'UCMJ00y5KeFDKzYh9D6Lc41A', theme: 'Productivité & Second Cerveau', avatar: 'https://yt3.googleusercontent.com/ytc/AIdro_nL7W9X9Tj9s_c_fG_pQ_m_M_M0=s176-c-k-c0x00ffffff-no-rj' }
+    { handle: '@EtienneTillierStudio', name: 'Etienne Tillier', id: 'UCUlm3shqkgVNHLomYWZsfYA', theme: 'Vibe Coding & Dev IA', avatar: 'https://ui-avatars.com/api/?name=Etienne+Tillier&background=0ea5e9&color=fff' },
+    { handle: '@Simon_bcome', name: 'Simon Music', id: 'UCaryUIRfj7KAikH_ogrOzig', theme: 'Business & Monétisation IA', avatar: 'https://ui-avatars.com/api/?name=Simon+Music&background=0ea5e9&color=fff' },
+    { handle: '@HenriExplorIA', name: 'Henri · ExplorIA', id: 'UCxx03UqvjTy9w8iomLwTSuQ', theme: 'Outils & Modèles IA', avatar: 'https://ui-avatars.com/api/?name=Henri+ExplorIA&background=0ea5e9&color=fff' },
+    { handle: '@elliottpierret', name: 'Elliott Pierret', id: 'UCnJAGhDDEPdvY2g4ipf9PMQ', theme: 'Vibe Coding & Dev IA', avatar: 'https://ui-avatars.com/api/?name=Elliott+Pierret&background=0ea5e9&color=fff' },
+    { handle: '@RenaudDekode', name: 'Renaud Dékode', id: 'UCOWu-2h4IpoEjhsRlTuesFg', theme: 'Actualités Tech', avatar: 'https://ui-avatars.com/api/?name=Renaud+Dekode&background=0ea5e9&color=fff' },
+    { handle: '@ousmanedf', name: 'Ousmane Automatise', id: 'UC1o5Eo5Qf12_f6D836PsoPw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Ousmane+Automatise&background=0ea5e9&color=fff' },
+    { handle: '@yassine-sdiri', name: 'Yassine Sdiri', id: 'UC94UeaPuTt_L51RkDxj9d_w', theme: 'Business & Monétisation IA', avatar: 'https://ui-avatars.com/api/?name=Yassine+Sdiri&background=0ea5e9&color=fff' },
+    { handle: '@cedric_effi10', name: 'Cédric Girard', id: 'UCjhLy8XRh4Q0NM2CD6pFPYQ', theme: 'Outils & Modèles IA', avatar: 'https://ui-avatars.com/api/?name=Cedric+Girard&background=0ea5e9&color=fff' },
+    { handle: '@EliottMeunier', name: 'Eliott Meunier', id: 'UCPo1nFSGNkyzrA9yvtkEvIw', theme: 'Productivité & Second Cerveau', avatar: 'https://ui-avatars.com/api/?name=Eliott+Meunier&background=0ea5e9&color=fff' },
+    { handle: '@reverdybusiness', name: 'Lucas Reverdy', id: 'UCabbBG5KYGtdTibrl_XHLOw', theme: 'Business & Monétisation IA', avatar: 'https://ui-avatars.com/api/?name=Lucas+Reverdy&background=0ea5e9&color=fff' },
+    { handle: '@JulienSnsn', name: 'Julien Sanson', id: 'UCK85rF_WKv1N6ojTzVbj3yw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Julien+Sanson&background=0ea5e9&color=fff' },
+    { handle: '@NerdyKings', name: 'Nerdy Kings', id: 'UCp7vimq7dYKiVAJLPyI0GcA', theme: 'Outils & Modèles IA', avatar: 'https://ui-avatars.com/api/?name=Nerdy+Kings&background=0ea5e9&color=fff' },
+    { handle: '@iAlan_automatise', name: 'iAlan', id: 'UCdROsT8FZ2pacpipymmmaPw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=iAlan&background=0ea5e9&color=fff' },
+    { handle: '@LouisGraffeuil', name: 'Louis Graffeuil', id: 'UChkCdoCUCNYizE8d9TXsi4A', theme: 'Vibe Coding & Dev IA', avatar: 'https://ui-avatars.com/api/?name=Louis+Graffeuil&background=0ea5e9&color=fff' },
+    { handle: '@Hugo_Buisson', name: 'Hugo Buisson', id: 'UCeZvp_y5meYlfcGCFhl6UJQ', theme: 'Outils & Modèles IA', avatar: 'https://ui-avatars.com/api/?name=Hugo+Buisson&background=0ea5e9&color=fff' },
+    { handle: '@audelalia', name: 'Au-delà l\'IA', id: 'UCNSPV84q4QlUtle6MS_7v1Q', theme: 'Productivité & Second Cerveau', avatar: 'https://ui-avatars.com/api/?name=Au+dela+l+IA&background=0ea5e9&color=fff' },
+    { handle: '@thomasbssh', name: 'Thomas Berton', id: 'UCxOWUTmenPJj5V6_g2-CS1g', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Thomas+Berton&background=0ea5e9&color=fff' },
+    { handle: '@JonasEkanbo', name: 'Jonas Ekanbo', id: 'UCF2fb5WylqKbw0SgOlJKXMA', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Jonas+Ekanbo&background=0ea5e9&color=fff' },
+    { handle: '@LudovicSalenne', name: 'Ludo Salenne', id: 'UCnnYqSNKKygemgmxC9PyLTw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Ludo+Salenne&background=0ea5e9&color=fff' },
+    { handle: '@AurelienAutomatisation', name: 'Aurélien Fagioli', id: 'UCdL89Z0gQUDc1HT1882AGLw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Aurelien+Fagioli&background=0ea5e9&color=fff' },
+    { handle: '@BaptIA', name: 'Baptiste Simard - IA', id: 'UCzabGLybo9x307MkDtqTyFQ', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Baptiste+Simard&background=0ea5e9&color=fff' },
+    { handle: '@LudovicNedelec', name: 'Ludovic Nédélec', id: 'UCMJ00y5KeFDKzYh9D6Lc41A', theme: 'Productivité & Second Cerveau', avatar: 'https://ui-avatars.com/api/?name=Ludovic+Nedelec&background=0ea5e9&color=fff' }
 ];
+
 
 const THEMES = [
     "Tous",
@@ -53,7 +54,6 @@ const fetchOnce = (source, url, redirectDepth = 0) => new Promise((resolve, reje
         timeout: 15000
     };
     const req = https.get(options, (res) => {
-        // Follow redirects (301, 302, 303, 307, 308)
         if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
             resolve(fetchOnce(source, res.headers.location, redirectDepth + 1));
             return;
@@ -62,9 +62,12 @@ const fetchOnce = (source, url, redirectDepth = 0) => new Promise((resolve, reje
             reject(new Error(`HTTP ${res.statusCode}`));
             return;
         }
-        let body = '';
-        res.on('data', (chunk) => body += chunk);
-        res.on('end', () => resolve(body));
+        const chunks = [];
+        res.on('data', (chunk) => chunks.push(chunk));
+        res.on('end', () => {
+            const buffer = Buffer.concat(chunks);
+            resolve(buffer.toString('utf-8'));
+        });
     });
     req.on('error', reject);
     req.on('timeout', () => {
@@ -96,12 +99,15 @@ const fetchDuration = (videoId) => {
             timeout: 10000
         };
         const req = https.get(options, (res) => {
-            let data = '';
+            const chunks = [];
             res.on('data', (chunk) => {
-                if (data.length < 1000000) data += chunk; // 1MB is enough for durations
+                chunks.push(chunk);
+                const currentLength = chunks.reduce((acc, c) => acc + c.length, 0);
+                if (currentLength > 2000000) res.destroy(); // 2MB is safe
             });
             res.on('end', () => {
                 try {
+                    const data = Buffer.concat(chunks).toString('utf-8');
                     const match = data.match(/"approxDurationMs":"(\d+)"/);
                     if (match) {
                         const seconds = parseInt(match[1]) / 1000;
@@ -122,28 +128,51 @@ const fetchDuration = (videoId) => {
     });
 };
 
-const decodeHtmlEntities = (str) => str
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&apos;/g, "'");
+const decodeHtmlEntities = (str) => {
+    if (!str) return '';
+    return str
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&apos;/g, "'")
+        .replace(/â/g, "'") 
+        .replace(/â/g, "-")
+        .replace(/Ã©/g, "é")
+        .replace(/Ã /g, "à")
+        .replace(/Ã¨/g, "è")
+        .replace(/Ã¹/g, "ù")
+        .replace(/Ã¢/g, "â")
+        .replace(/Ãª/g, "ê")
+        .replace(/Ã®/g, "î")
+        .replace(/Ã´/g, "ô")
+        .replace(/Ã»/g, "û");
+};
 
 const parseFeed = (xml, source) => {
     const videos = [];
     const entries = xml.split('<entry>');
-    entries.shift(); // Remove header
+    entries.shift(); 
+
+    const seenIds = new Set();
+    const seenTitles = new Set();
 
     for (const entry of entries) {
         try {
             const videoIdMatch = entry.match(/<yt:videoId>(.*?)<\/yt:videoId>/);
             if (!videoIdMatch) continue;
             const videoId = videoIdMatch[1];
+            
+            if (seenIds.has(videoId)) continue;
+            seenIds.add(videoId);
 
             const titleMatch = entry.match(/<title>(.*?)<\/title>/);
             const rawTitle = titleMatch ? titleMatch[1].replace('<![CDATA[', '').replace(']]>', '') : 'Sans titre';
             const title = decodeHtmlEntities(rawTitle);
+
+            if (seenTitles.has(title)) continue;
+            seenTitles.add(title);
             
             const publishedMatch = entry.match(/<published>(.*?)<\/published>/);
             const published = publishedMatch ? publishedMatch[1] : new Date().toISOString();
@@ -168,6 +197,7 @@ const parseFeed = (xml, source) => {
     }
     return videos;
 };
+
 
 async function main() {
     console.log("🚀 Démarrage de l'actualisation des vidéos (Optimisé)...");
