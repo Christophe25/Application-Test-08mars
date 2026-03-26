@@ -6,7 +6,6 @@ const SOURCES = [
     { handle: '@Simon_bcome', name: 'Simon Music', id: 'UCaryUIRfj7KAikH_ogrOzig', theme: 'Business & Monétisation IA', avatar: 'https://ui-avatars.com/api/?name=Simon+Music&background=0ea5e9&color=fff' },
     { handle: '@HenriExplorIA', name: 'Henri · ExplorIA', id: 'UCxx03UqvjTy9w8iomLwTSuQ', theme: 'Outils & Modèles IA', avatar: 'https://ui-avatars.com/api/?name=Henri+ExplorIA&background=0ea5e9&color=fff' },
     { handle: '@elliottpierret', name: 'Elliott Pierret', id: 'UCnJAGhDDEPdvY2g4ipf9PMQ', theme: 'Vibe Coding & Dev IA', avatar: 'https://ui-avatars.com/api/?name=Elliott+Pierret&background=0ea5e9&color=fff' },
-    { handle: '@RenaudDekode', name: 'Renaud Dékode', id: 'UCOWu-2h4IpoEjhsRlTuesFg', theme: 'Actualités Tech', avatar: 'https://ui-avatars.com/api/?name=Renaud+Dekode&background=0ea5e9&color=fff' },
     { handle: '@ousmanedf', name: 'Ousmane Automatise', id: 'UC1o5Eo5Qf12_f6D836PsoPw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Ousmane+Automatise&background=0ea5e9&color=fff' },
     { handle: '@yassine-sdiri', name: 'Yassine Sdiri', id: 'UC94UeaPuTt_L51RkDxj9d_w', theme: 'Business & Monétisation IA', avatar: 'https://ui-avatars.com/api/?name=Yassine+Sdiri&background=0ea5e9&color=fff' },
     { handle: '@cedric_effi10', name: 'Cédric Girard', id: 'UCjhLy8XRh4Q0NM2CD6pFPYQ', theme: 'Outils & Modèles IA', avatar: 'https://ui-avatars.com/api/?name=Cedric+Girard&background=0ea5e9&color=fff' },
