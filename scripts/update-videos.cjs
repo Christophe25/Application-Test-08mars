@@ -18,7 +18,6 @@ const SOURCES = [
     { handle: '@Hugo_Buisson', name: 'Hugo Buisson', id: 'UCeZvp_y5meYlfcGCFhl6UJQ', theme: 'Outils & Modèles IA', avatar: 'https://ui-avatars.com/api/?name=Hugo+Buisson&background=0ea5e9&color=fff' },
     { handle: '@audelalia', name: 'Au-delà l\'IA', id: 'UCNSPV84q4QlUtle6MS_7v1Q', theme: 'Productivité & Second Cerveau', avatar: 'https://ui-avatars.com/api/?name=Au+dela+l+IA&background=0ea5e9&color=fff' },
     { handle: '@thomasbssh', name: 'Thomas Berton', id: 'UCxOWUTmenPJj5V6_g2-CS1g', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Thomas+Berton&background=0ea5e9&color=fff' },
-    { handle: '@JonasEkanbo', name: 'Jonas Ekanbo', id: 'UCF2fb5WylqKbw0SgOlJKXMA', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Jonas+Ekanbo&background=0ea5e9&color=fff' },
     { handle: '@LudovicSalenne', name: 'Ludo Salenne', id: 'UCnnYqSNKKygemgmxC9PyLTw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Ludo+Salenne&background=0ea5e9&color=fff' },
     { handle: '@AurelienAutomatisation', name: 'Aurélien Fagioli', id: 'UCdL89Z0gQUDc1HT1882AGLw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Aurelien+Fagioli&background=0ea5e9&color=fff' },
     { handle: '@BaptIA', name: 'Baptiste Simard - IA', id: 'UCzabGLybo9x307MkDtqTyFQ', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Baptiste+Simard&background=0ea5e9&color=fff' },
