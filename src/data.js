@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-30T07:22:01.676Z
+// Fichier généré automatiquement le 2026-03-31T07:07:38.034Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:22:01 AM 3/30/2026";
+export const lastUpdate = "7:07:38 AM 3/31/2026";
 
 export const sources = [
     {
@@ -157,6 +157,96 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "k04lLRq3r0o",
+        "videoId": "k04lLRq3r0o",
+        "title": "CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=k04lLRq3r0o",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)..."
+    },
+    {
+        "id": "SrMi-w30ymo",
+        "videoId": "SrMi-w30ymo",
+        "title": "Cette IA chinoise va détrôner Photoshop ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=SrMi-w30ymo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette IA chinoise va détrôner Photoshop ?..."
+    },
+    {
+        "id": "kwi4T-eauwQ",
+        "videoId": "kwi4T-eauwQ",
+        "title": "ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=kwi4T-eauwQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore...."
+    },
+    {
+        "id": "ESvW-hCHJGc",
+        "videoId": "ESvW-hCHJGc",
+        "title": "Ce site te permet d’utiliser tout les outils d’IA gratuitement",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=ESvW-hCHJGc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce site te permet d’utiliser tout les outils d’IA gratuitement..."
+    },
+    {
+        "id": "X0xCiXQPXvM",
+        "videoId": "X0xCiXQPXvM",
+        "title": "Tribe V2 : Quand Meta contrôle ton cerveau 😳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=X0xCiXQPXvM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Tribe V2 : Quand Meta contrôle ton cerveau 😳..."
+    },
+    {
+        "id": "0ZpaYs68sbQ",
+        "videoId": "0ZpaYs68sbQ",
+        "title": "Créez un site web PRO avec l'IA en 10 minutes ! ⚡️ #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=0ZpaYs68sbQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez un site web PRO avec l'IA en 10 minutes ! ⚡️ #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "jfZH8q4cF6I",
+        "videoId": "jfZH8q4cF6I",
+        "title": "Kling : Créez des vidéos parfaites à 1080p pour 67 centimes ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=jfZH8q4cF6I",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Kling : Créez des vidéos parfaites à 1080p pour 67 centimes ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "2lWwlaOMMcQ",
+        "videoId": "2lWwlaOMMcQ",
+        "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=2lWwlaOMMcQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT..."
+    },
     {
         "id": "7PXK7qmmgvQ",
         "videoId": "7PXK7qmmgvQ",
@@ -522,41 +612,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "W8FXXyUY5mI",
-        "videoId": "W8FXXyUY5mI",
-        "title": "Claude Code: Il crée votre site Web par magie ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=W8FXXyUY5mI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Il crée votre site Web par magie ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "mne9Vc-BeBw",
-        "videoId": "mne9Vc-BeBw",
-        "title": "Cloud Code: Créez des Landing Pages IA sur Mesure Facilement #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=mne9Vc-BeBw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Cloud Code: Créez des Landing Pages IA sur Mesure Facilement #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "iygwnIllavw",
-        "videoId": "iygwnIllavw",
-        "title": "CLAUDE CODE + cette TECHNIQUE = Un site à 9 700€ en 10 MIN !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=iygwnIllavw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE + cette TECHNIQUE = Un site à 9 700€ en 10 MIN !..."
-    },
-    {
         "id": "VxAjVp09vDw",
         "videoId": "VxAjVp09vDw",
         "title": "Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
@@ -632,28 +687,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PAT7dZxCimM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)..."
-    },
-    {
-        "id": "5CH8a_j_pGg",
-        "videoId": "5CH8a_j_pGg",
-        "title": "Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=5CH8a_j_pGg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA..."
-    },
-    {
-        "id": "EGAmlizylp0",
-        "videoId": "EGAmlizylp0",
-        "title": "Importe ta mémoire dans Claude depuis tes autres outils IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=EGAmlizylp0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Importe ta mémoire dans Claude depuis tes autres outils IA !..."
     },
     {
         "id": "rFmH4FxW5Qg",
@@ -742,17 +775,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_5J0kKE13xM",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)..."
-    },
-    {
-        "id": "Izwl9gt_rsI",
-        "videoId": "Izwl9gt_rsI",
-        "title": "Classement des outils IA.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=Izwl9gt_rsI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Classement des outils IA...."
     },
     {
         "id": "BKAfkvBaevs",
@@ -1237,17 +1259,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YW-q8jj9cXY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Cédric Girard : Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯..."
-    },
-    {
-        "id": "54Pil7wUdek",
-        "videoId": "54Pil7wUdek",
-        "title": "DeepSeek V4 : Ce Qu’ils Préparent En Secret… (ÉNORME LEAK) 🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=54Pil7wUdek",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 : Ce Qu’ils Préparent En Secret… (ÉNORME LEAK) 🚨..."
     },
     {
         "id": "J_vj9287Jo0",
