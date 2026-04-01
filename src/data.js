@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-31T07:07:38.034Z
+// Fichier généré automatiquement le 2026-04-01T07:15:08.341Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:07:38 AM 3/31/2026";
+export const lastUpdate = "7:15:08 AM 4/1/2026";
 
 export const sources = [
     {
@@ -158,6 +158,40 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "UdTHKV7Taok",
+        "videoId": "UdTHKV7Taok",
+        "title": "Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=UdTHKV7Taok",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !..."
+    },
+    {
+        "id": "6mhAK3OqToA",
+        "videoId": "6mhAK3OqToA",
+        "title": "Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=6mhAK3OqToA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨..."
+    },
+    {
+        "id": "1lpE_68dX0w",
+        "videoId": "1lpE_68dX0w",
+        "title": "Claude Code V/S n8n : Le Remplaçant Déjà Là? #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=1lpE_68dX0w",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code V/S n8n : Le Remplaçant Déjà Là? #shorts...",
+        "isShort": true
+    },
+    {
         "id": "k04lLRq3r0o",
         "videoId": "k04lLRq3r0o",
         "title": "CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)",
@@ -167,6 +201,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=k04lLRq3r0o",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)..."
+    },
+    {
+        "id": "Ksaqjr4QFdk",
+        "videoId": "Ksaqjr4QFdk",
+        "title": "Cette nouveauté Claude est DINGUE (le futur de l'IA)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Cette nouveauté Claude est DINGUE (le futur de l'IA)..."
     },
     {
         "id": "SrMi-w30ymo",
@@ -598,18 +643,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wWC4wgSF984",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce..."
-    },
-    {
-        "id": "z7cStzDkM04",
-        "videoId": "z7cStzDkM04",
-        "title": "Claude Code : Créez votre site web avec l'IA ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=z7cStzDkM04",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Créez votre site web avec l'IA ! #shorts...",
-        "isShort": true
     },
     {
         "id": "VxAjVp09vDw",
@@ -1182,17 +1215,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yhonnrrw2KU",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponses à vos questions)..."
-    },
-    {
-        "id": "Wlf1_zTdaTo",
-        "videoId": "Wlf1_zTdaTo",
-        "title": "Skywork 2.0 : Test | Cette IA Gratuite A Créé Mon App Entière (Et C’est Impressionnant) 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-05",
-        "url": "https://www.youtube.com/watch?v=Wlf1_zTdaTo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Skywork 2.0 : Test | Cette IA Gratuite A Créé Mon App Entière (Et C’est Impressionnant) 😱🔥..."
     },
     {
         "id": "E3j_BCtwWew",
@@ -2018,16 +2040,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=U8F50w4GTq8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Claude Code : le guide complet pour les non-devs..."
-    },
-    {
-        "id": "eZcpO_pd61Q",
-        "videoId": "eZcpO_pd61Q",
-        "title": "Comment Automatiser N'IMPORTE Quelle Entreprise Avec l'IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-02-01",
-        "url": "https://www.youtube.com/watch?v=eZcpO_pd61Q",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Automatiser N'IMPORTE Quelle Entreprise Avec l'IA..."
     }
 ];
