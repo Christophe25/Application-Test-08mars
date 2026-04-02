@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-01T07:15:08.341Z
+// Fichier généré automatiquement le 2026-04-02T07:07:17.396Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:15:08 AM 4/1/2026";
+export const lastUpdate = "7:07:17 AM 4/2/2026";
 
 export const sources = [
     {
@@ -158,6 +158,73 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "FpVB_B6etu4",
+        "videoId": "FpVB_B6etu4",
+        "title": "GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=FpVB_B6etu4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)..."
+    },
+    {
+        "id": "tLjmEe-xeDw",
+        "videoId": "tLjmEe-xeDw",
+        "title": "ChatGPT est dépassé",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=tLjmEe-xeDw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
+    },
+    {
+        "id": "NUozR4UEYFk",
+        "videoId": "NUozR4UEYFk",
+        "title": "Trouve un emploi avec Claude IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=NUozR4UEYFk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Trouve un emploi avec Claude IA..."
+    },
+    {
+        "id": "mUFTkEVVeK8",
+        "videoId": "mUFTkEVVeK8",
+        "title": "Codex arrive dans Claude Code (TEST)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=mUFTkEVVeK8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Codex arrive dans Claude Code (TEST)..."
+    },
+    {
+        "id": "uOmSNkQEz4g",
+        "videoId": "uOmSNkQEz4g",
+        "title": "Claude Code: Créez des sites web GRATUITEMENT avec l'IA ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=uOmSNkQEz4g",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Créez des sites web GRATUITEMENT avec l'IA ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "PiMNs7xHp2M",
+        "videoId": "PiMNs7xHp2M",
+        "title": "CLAUDE CODE Transforme Ton PC en Assistant IA : Il Fait TOUT à Ta Place ! (même débutant)",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=PiMNs7xHp2M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Transforme Ton PC en Assistant IA : Il Fait TOUT à Ta Place ! (même débutant)..."
+    },
+    {
         "id": "UdTHKV7Taok",
         "videoId": "UdTHKV7Taok",
         "title": "Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !",
@@ -194,13 +261,13 @@ export const allVideos = [
     {
         "id": "k04lLRq3r0o",
         "videoId": "k04lLRq3r0o",
-        "title": "CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)",
+        "title": "Le nouveau CLAUDE CODE à tué n8n ?? Je fais le test ULTIME (sans coder)",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-03-31",
         "url": "https://www.youtube.com/watch?v=k04lLRq3r0o",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)..."
+        "summary": "Nouveauté de Thomas Berton : Le nouveau CLAUDE CODE à tué n8n ?? Je fais le test ULTIME (sans coder)..."
     },
     {
         "id": "Ksaqjr4QFdk",
@@ -600,18 +667,6 @@ export const allVideos = [
         "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
     },
     {
-        "id": "piKEEbqoKzM",
-        "videoId": "piKEEbqoKzM",
-        "title": "Développez votre site Web à distance avec Claude Code! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=piKEEbqoKzM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Développez votre site Web à distance avec Claude Code! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "I378VC9wMiY",
         "videoId": "I378VC9wMiY",
         "title": "Ce site te donne accès à des milliers de modèles d’IA !",
@@ -621,17 +676,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=I378VC9wMiY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des milliers de modèles d’IA !..."
-    },
-    {
-        "id": "glnQ5BEGPfM",
-        "videoId": "glnQ5BEGPfM",
-        "title": "Mieux utiliser l'IA en entreprise 🤖",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=glnQ5BEGPfM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
     },
     {
         "id": "wWC4wgSF984",
@@ -654,17 +698,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
-    },
-    {
-        "id": "4BgN_poX2R0",
-        "videoId": "4BgN_poX2R0",
-        "title": "Mes 10 skills Claude préférés en 30 secondes",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=4BgN_poX2R0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Mes 10 skills Claude préférés en 30 secondes..."
     },
     {
         "id": "-50BGEYgMr4",
@@ -1910,17 +1943,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Claude Opus 4.6 : Tout comprendre sur ce nouveau modèle 👀..."
     },
     {
-        "id": "jd8juEhhYHM",
-        "videoId": "jd8juEhhYHM",
-        "title": "Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) 🚀 #n8n #automation",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-09",
-        "url": "https://www.youtube.com/watch?v=jd8juEhhYHM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) 🚀 #n8n #automation..."
-    },
-    {
         "id": "WpUbNZ9paYk",
         "videoId": "WpUbNZ9paYk",
         "title": "ChatGPT Ne Te Diras Pas Quand Tes Idées Sont NULLES (Sauf Si Tu Fais ÇA)",
@@ -1963,17 +1985,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Y0XmwxEy8bA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)..."
-    },
-    {
-        "id": "ooqRqvHbk3w",
-        "videoId": "ooqRqvHbk3w",
-        "title": "OpenAI Codex : ne fais pas la même erreur que moi",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-02-05",
-        "url": "https://www.youtube.com/watch?v=ooqRqvHbk3w",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : OpenAI Codex : ne fais pas la même erreur que moi..."
     },
     {
         "id": "zdQOD-G49yw",
@@ -2029,16 +2040,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Lda1IGevfQg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : NotebookLM pas à pas. Apprendre plus vite avec l’IA en moins de 20 minutes..."
-    },
-    {
-        "id": "U8F50w4GTq8",
-        "videoId": "U8F50w4GTq8",
-        "title": "Claude Code : le guide complet pour les non-devs",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-02",
-        "url": "https://www.youtube.com/watch?v=U8F50w4GTq8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Claude Code : le guide complet pour les non-devs..."
     }
 ];
