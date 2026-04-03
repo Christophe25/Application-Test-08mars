@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-02T07:07:17.396Z
+// Fichier généré automatiquement le 2026-04-03T07:02:41.795Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:07:17 AM 4/2/2026";
+export const lastUpdate = "7:02:41 AM 4/3/2026";
 
 export const sources = [
     {
@@ -158,6 +158,63 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "95YMCtc9SZk",
+        "videoId": "95YMCtc9SZk",
+        "title": "Automatisez votre quotidien avec Claude grâce à cette vidéo !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=95YMCtc9SZk",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Automatisez votre quotidien avec Claude grâce à cette vidéo !..."
+    },
+    {
+        "id": "PFa2Lao4OP8",
+        "videoId": "PFa2Lao4OP8",
+        "title": "Readdy.ai : Je Crée une plateforme IA RENTABLE en 10 minutes 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=PFa2Lao4OP8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Readdy.ai : Je Crée une plateforme IA RENTABLE en 10 minutes 😱..."
+    },
+    {
+        "id": "j1O39iKKllM",
+        "videoId": "j1O39iKKllM",
+        "title": "L'IA crée des descriptions YouTube et résout des bugs ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=j1O39iKKllM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : L'IA crée des descriptions YouTube et résout des bugs ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "GB8Fwceh0ls",
+        "videoId": "GB8Fwceh0ls",
+        "title": "Simplifiez vos LLMs avec Open Router: 1 clé pour tout! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=GB8Fwceh0ls",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Simplifiez vos LLMs avec Open Router: 1 clé pour tout! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "RKKK4uJ1ygU",
+        "videoId": "RKKK4uJ1ygU",
+        "title": "Ce Tuto NotebookLM devait durer 10 min... Mais j'ai tout mis.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=RKKK4uJ1ygU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Ce Tuto NotebookLM devait durer 10 min... Mais j'ai tout mis...."
+    },
+    {
         "id": "FpVB_B6etu4",
         "videoId": "FpVB_B6etu4",
         "title": "GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)",
@@ -216,13 +273,13 @@ export const allVideos = [
     {
         "id": "PiMNs7xHp2M",
         "videoId": "PiMNs7xHp2M",
-        "title": "CLAUDE CODE Transforme Ton PC en Assistant IA : Il Fait TOUT à Ta Place ! (même débutant)",
+        "title": "CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)",
         "author": "Aurélien Fagioli",
         "source": "@AurelienAutomatisation",
         "date": "2026-04-01",
         "url": "https://www.youtube.com/watch?v=PiMNs7xHp2M",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Transforme Ton PC en Assistant IA : Il Fait TOUT à Ta Place ! (même débutant)..."
+        "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)..."
     },
     {
         "id": "UdTHKV7Taok",
@@ -373,13 +430,13 @@ export const allVideos = [
     {
         "id": "sJeAFbIJwFA",
         "videoId": "sJeAFbIJwFA",
-        "title": "Apprenez ça au lieu de l'automatisation en 2026",
+        "title": "Apprenez ça au lieu de l'automatisation IA en 2026",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-03-29",
         "url": "https://www.youtube.com/watch?v=sJeAFbIJwFA",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Apprenez ça au lieu de l'automatisation en 2026..."
+        "summary": "Nouveauté de Yassine Sdiri : Apprenez ça au lieu de l'automatisation IA en 2026..."
     },
     {
         "id": "Wue_5RVLpRk",
@@ -608,30 +665,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=adMlsFoc3z4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀..."
-    },
-    {
-        "id": "G0vhlJ02rN8",
-        "videoId": "G0vhlJ02rN8",
-        "title": "Révélez vos AirPods avec l'IA : De l'image à la vidéo explosive ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=G0vhlJ02rN8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Révélez vos AirPods avec l'IA : De l'image à la vidéo explosive ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "A6LK27QEY5w",
-        "videoId": "A6LK27QEY5w",
-        "title": "Crée des sites web Apple avec Claude AI & VS Code #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=A6LK27QEY5w",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Crée des sites web Apple avec Claude AI & VS Code #shorts...",
-        "isShort": true
     },
     {
         "id": "-LXUVXwv2FI",
@@ -977,13 +1010,13 @@ export const allVideos = [
     {
         "id": "vWMA0U2xj50",
         "videoId": "vWMA0U2xj50",
-        "title": "CLAUDE a RÉSOLU le plus GROS problème de l’IA.",
+        "title": "CLAUDE a RÉSOLU le plus GROS problème de l'IA.",
         "author": "Simon Music",
         "source": "@Simon_bcome",
         "date": "2026-03-15",
         "url": "https://www.youtube.com/watch?v=vWMA0U2xj50",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : CLAUDE a RÉSOLU le plus GROS problème de l’IA...."
+        "summary": "Nouveauté de Simon Music : CLAUDE a RÉSOLU le plus GROS problème de l'IA...."
     },
     {
         "id": "Q7RcgXzBtDQ",
@@ -1204,17 +1237,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZwsKbTq8hak",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Obsidian + Claude Code : ce que ce débutant a fait en 10 jours est bluffant..."
-    },
-    {
-        "id": "WHvWcZ4uDsU",
-        "videoId": "WHvWcZ4uDsU",
-        "title": "GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? 🤔 (Je Le Teste à Fond)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-06",
-        "url": "https://www.youtube.com/watch?v=WHvWcZ4uDsU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? 🤔 (Je Le Teste à Fond)..."
     },
     {
         "id": "wmEVJ3TXinM",
@@ -2018,27 +2040,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vkY_TWpM_lc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Cédric Girard : Créer son propre générateur de prompts en 10mn ⏱️..."
-    },
-    {
-        "id": "8xtrYwjEw8w",
-        "videoId": "8xtrYwjEw8w",
-        "title": "J'ai Construis Un Site Web Animé En 7 Minutes Grâce à l'IA",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-02-03",
-        "url": "https://www.youtube.com/watch?v=8xtrYwjEw8w",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : J'ai Construis Un Site Web Animé En 7 Minutes Grâce à l'IA..."
-    },
-    {
-        "id": "Lda1IGevfQg",
-        "videoId": "Lda1IGevfQg",
-        "title": "NotebookLM pas à pas. Apprendre plus vite avec l’IA en moins de 20 minutes",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-02-03",
-        "url": "https://www.youtube.com/watch?v=Lda1IGevfQg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : NotebookLM pas à pas. Apprendre plus vite avec l’IA en moins de 20 minutes..."
     }
 ];
