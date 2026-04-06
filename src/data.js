@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-05T07:00:50.707Z
+// Fichier généré automatiquement le 2026-04-06T07:24:22.752Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:00:50 AM 4/5/2026";
+export const lastUpdate = "7:24:22 AM 4/6/2026";
 
 export const sources = [
     {
@@ -157,6 +157,63 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "-xOk8SVdC6U",
+        "videoId": "-xOk8SVdC6U",
+        "title": "1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=-xOk8SVdC6U",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : 1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)..."
+    },
+    {
+        "id": "m2QptFP0sLM",
+        "videoId": "m2QptFP0sLM",
+        "title": "J’ai Créé 5 Sites Web en 18 Minutes avec le NOUVEAU Claude IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=m2QptFP0sLM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : J’ai Créé 5 Sites Web en 18 Minutes avec le NOUVEAU Claude IA..."
+    },
+    {
+        "id": "ecL5Kt4v-kI",
+        "videoId": "ecL5Kt4v-kI",
+        "title": "La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
+    },
+    {
+        "id": "C533WVnfE-g",
+        "videoId": "C533WVnfE-g",
+        "title": "Répliquer N8N sur Claude Code: Le défi est lancé ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=C533WVnfE-g",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Répliquer N8N sur Claude Code: Le défi est lancé ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LohyAnj5XOg",
+        "videoId": "LohyAnj5XOg",
+        "title": "N8N vs Claude Code: Automatisation Stable ou IA Instable? #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=LohyAnj5XOg",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : N8N vs Claude Code: Automatisation Stable ou IA Instable? #shorts...",
+        "isShort": true
+    },
     {
         "id": "sbl9oFY-xXY",
         "videoId": "sbl9oFY-xXY",
@@ -586,30 +643,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xXWznwbcFe8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
-    },
-    {
-        "id": "YLDY9537UTE",
-        "videoId": "YLDY9537UTE",
-        "title": "WaveSpeed AI: Le futur de la création d'images et vidéos avec Kling & Nano Banana 2 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=YLDY9537UTE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : WaveSpeed AI: Le futur de la création d'images et vidéos avec Kling & Nano Banana 2 #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Ma8GOJhzXTw",
-        "videoId": "Ma8GOJhzXTw",
-        "title": "Créez des sites web avec Claude Code & VS Code ! 🚀 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=Ma8GOJhzXTw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez des sites web avec Claude Code & VS Code ! 🚀 #shorts...",
-        "isShort": true
     },
     {
         "id": "uwzui8VnNC4",
@@ -1908,28 +1941,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UYmDnBDtZfg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : AntiGravity déploie mon app en ligne GRATUITEMENT (Guide complet)..."
-    },
-    {
-        "id": "DXzg6atbX48",
-        "videoId": "DXzg6atbX48",
-        "title": "ANTIGRAVITY + STITCH crée des APPS IA incroyables (TUTO Complet)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-02-11",
-        "url": "https://www.youtube.com/watch?v=DXzg6atbX48",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : ANTIGRAVITY + STITCH crée des APPS IA incroyables (TUTO Complet)..."
-    },
-    {
-        "id": "E7TdfuPT-AU",
-        "videoId": "E7TdfuPT-AU",
-        "title": "Claude Code devient SURPUISSANT 🚀 grâce à cet outil GRATUIT (SkillsMP)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-10",
-        "url": "https://www.youtube.com/watch?v=E7TdfuPT-AU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Code devient SURPUISSANT 🚀 grâce à cet outil GRATUIT (SkillsMP)..."
     },
     {
         "id": "LERgdkeA5IE",
