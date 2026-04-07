@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-06T07:24:22.752Z
+// Fichier généré automatiquement le 2026-04-07T07:10:12.182Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:24:22 AM 4/6/2026";
+export const lastUpdate = "7:10:12 AM 4/7/2026";
 
 export const sources = [
     {
@@ -158,6 +158,63 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "wkj501BcL0U",
+        "videoId": "wkj501BcL0U",
+        "title": "Transforme ta vidéo dans une ambiance « Golden Hour »",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=wkj501BcL0U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Transforme ta vidéo dans une ambiance « Golden Hour »..."
+    },
+    {
+        "id": "avDtMURiHs0",
+        "videoId": "avDtMURiHs0",
+        "title": "Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=avDtMURiHs0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳..."
+    },
+    {
+        "id": "rAXZYTg_SFs",
+        "videoId": "rAXZYTg_SFs",
+        "title": "N8N & Claude Code: Attention aux injections de prompt dévastatrices! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=rAXZYTg_SFs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : N8N & Claude Code: Attention aux injections de prompt dévastatrices! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "dP1VThZHwfo",
+        "videoId": "dP1VThZHwfo",
+        "title": "Claude Code Corrige L'Erreur \"Cloud Code\" Automatiquement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=dP1VThZHwfo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code Corrige L'Erreur \"Cloud Code\" Automatiquement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "BWwGSK-pKpY",
+        "videoId": "BWwGSK-pKpY",
+        "title": "Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=BWwGSK-pKpY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)..."
+    },
+    {
         "id": "-xOk8SVdC6U",
         "videoId": "-xOk8SVdC6U",
         "title": "1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)",
@@ -228,13 +285,13 @@ export const allVideos = [
     {
         "id": "qkDQMUVzLNY",
         "videoId": "qkDQMUVzLNY",
-        "title": "Le Guide ULTIME de Claude en 2026 (de débutant à expert)",
+        "title": "J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-04-04",
         "url": "https://www.youtube.com/watch?v=qkDQMUVzLNY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le Guide ULTIME de Claude en 2026 (de débutant à expert)..."
+        "summary": "Nouveauté de Henri · ExplorIA : J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais..."
     },
     {
         "id": "Kksw2LAMXvg",
@@ -586,30 +643,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Wue_5RVLpRk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳..."
-    },
-    {
-        "id": "h2pCb7_GyGI",
-        "videoId": "h2pCb7_GyGI",
-        "title": "Créez un site web pour VOTRE produit unique avec ce stylo ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=h2pCb7_GyGI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez un site web pour VOTRE produit unique avec ce stylo ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "ib4HN0EtRuo",
-        "videoId": "ib4HN0EtRuo",
-        "title": "Site Web Créé par IA : Le Résultat vous Surprendra ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=ib4HN0EtRuo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Site Web Créé par IA : Le Résultat vous Surprendra ! #shorts...",
-        "isShort": true
     },
     {
         "id": "9gpanAr9M_s",
@@ -1116,17 +1149,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YebMrY_Cr5s",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
-    },
-    {
-        "id": "AR8GzP7tgQY",
-        "videoId": "AR8GzP7tgQY",
-        "title": "Anthropic Explique ENFIN Pourquoi Les IA Deviennent Folles 😱 (Le Persona Drift)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-12",
-        "url": "https://www.youtube.com/watch?v=AR8GzP7tgQY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Anthropic Explique ENFIN Pourquoi Les IA Deviennent Folles 😱 (Le Persona Drift)..."
     },
     {
         "id": "cv8PsVX1tbg",
@@ -2018,16 +2040,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5rYeXw5xGro",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Claude IA va changé la création de contenu à jamais..."
-    },
-    {
-        "id": "Y0XmwxEy8bA",
-        "videoId": "Y0XmwxEy8bA",
-        "title": "J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-07",
-        "url": "https://www.youtube.com/watch?v=Y0XmwxEy8bA",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)..."
     }
 ];
