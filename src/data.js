@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-08T07:12:36.872Z
+// Fichier généré automatiquement le 2026-04-09T07:16:42.810Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:12:36 AM 4/8/2026";
+export const lastUpdate = "7:16:42 AM 4/9/2026";
 
 export const sources = [
     {
@@ -157,6 +157,73 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "ha6JkWePF94",
+        "videoId": "ha6JkWePF94",
+        "title": "J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=ha6JkWePF94",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)..."
+    },
+    {
+        "id": "iLpyTd5biIA",
+        "videoId": "iLpyTd5biIA",
+        "title": "La nouvelle IA de Claude vient de changer Internet pour toujours",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=iLpyTd5biIA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : La nouvelle IA de Claude vient de changer Internet pour toujours..."
+    },
+    {
+        "id": "ep5BYfZtINM",
+        "videoId": "ep5BYfZtINM",
+        "title": "Utilise ce mode pour maîtriser Claude Code 🧑‍💻",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=ep5BYfZtINM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Utilise ce mode pour maîtriser Claude Code 🧑‍💻..."
+    },
+    {
+        "id": "p0nmZg0q6o4",
+        "videoId": "p0nmZg0q6o4",
+        "title": "Qwen 3.6 Plus : Enfin un Modèle Open Source au Niveau d’Opus ? 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=p0nmZg0q6o4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.6 Plus : Enfin un Modèle Open Source au Niveau d’Opus ? 😱🔥..."
+    },
+    {
+        "id": "BoNBJYEY4ok",
+        "videoId": "BoNBJYEY4ok",
+        "title": "Le plan COMPLET de Claude : L'IA qui transforme YouTube en OR ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=BoNBJYEY4ok",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Le plan COMPLET de Claude : L'IA qui transforme YouTube en OR ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "svRtxQemC9I",
+        "videoId": "svRtxQemC9I",
+        "title": "J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=svRtxQemC9I",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)..."
+    },
     {
         "id": "PJtphhpRm1E",
         "videoId": "PJtphhpRm1E",
@@ -576,18 +643,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6mhAK3OqToA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨..."
-    },
-    {
-        "id": "1lpE_68dX0w",
-        "videoId": "1lpE_68dX0w",
-        "title": "Claude Code V/S n8n : Le Remplaçant Déjà Là? #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=1lpE_68dX0w",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code V/S n8n : Le Remplaçant Déjà Là? #shorts...",
-        "isShort": true
     },
     {
         "id": "Ksaqjr4QFdk",
@@ -1171,17 +1226,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uqV3ujeaeKs",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)..."
-    },
-    {
-        "id": "pbgav-ijKqo",
-        "videoId": "pbgav-ijKqo",
-        "title": "DeepSeek V4 : Deux Modèles Furtifs Ont Fuité ? (Test Hunter et Healer)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=pbgav-ijKqo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 : Deux Modèles Furtifs Ont Fuité ? (Test Hunter et Healer)..."
     },
     {
         "id": "YebMrY_Cr5s",
@@ -1844,17 +1888,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Comment j'ai créé un assistant qui me connait par coeur [Série OS IA - 2/5]..."
     },
     {
-        "id": "eILes_d1q8w",
-        "videoId": "eILes_d1q8w",
-        "title": "La fin de N8N ?",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-17",
-        "url": "https://www.youtube.com/watch?v=eILes_d1q8w",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : La fin de N8N ?..."
-    },
-    {
         "id": "A8curb1SrKg",
         "videoId": "A8curb1SrKg",
         "title": "Claude Code AGENT TEAMS : cette NOUVELLE fonctionnalité CHANGE TOUT  🚀",
@@ -1886,17 +1919,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=P56CwdKSyq0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude 5 Sonnet va faire trembler OpenAI 👀..."
-    },
-    {
-        "id": "5bxzPaQm8Vk",
-        "videoId": "5bxzPaQm8Vk",
-        "title": "Mon classement des meilleurs outils IA 2026 (TIER LIST)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-02-15",
-        "url": "https://www.youtube.com/watch?v=5bxzPaQm8Vk",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Mon classement des meilleurs outils IA 2026 (TIER LIST)..."
     },
     {
         "id": "OrrvAMRUYy0",
@@ -2040,16 +2062,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=G85xgqXB27I",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Créer tes propres outils d’apprentissage avec Claude (mode artefact)..."
-    },
-    {
-        "id": "WpUbNZ9paYk",
-        "videoId": "WpUbNZ9paYk",
-        "title": "ChatGPT Ne Te Diras Pas Quand Tes Idées Sont NULLES (Sauf Si Tu Fais ÇA)",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-02-09",
-        "url": "https://www.youtube.com/watch?v=WpUbNZ9paYk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : ChatGPT Ne Te Diras Pas Quand Tes Idées Sont NULLES (Sauf Si Tu Fais ÇA)..."
     }
 ];
