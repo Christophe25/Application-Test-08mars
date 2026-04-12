@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-11T06:58:16.029Z
+// Fichier généré automatiquement le 2026-04-12T07:09:01.990Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "6:58:16 AM 4/11/2026";
+export const lastUpdate = "7:09:01 AM 4/12/2026";
 
 export const sources = [
     {
@@ -158,6 +158,85 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "w7Hli9du028",
+        "videoId": "w7Hli9du028",
+        "title": "Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)",
+        "author": "Ousmane Automatise",
+        "source": "@ousmanedf",
+        "date": "2026-04-11",
+        "url": "https://www.youtube.com/watch?v=w7Hli9du028",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ousmane Automatise : Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)..."
+    },
+    {
+        "id": "uIjp0Bx9mWg",
+        "videoId": "uIjp0Bx9mWg",
+        "title": "Où vont vraiment vos données quand vous parlez à l'IA",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-04-11",
+        "url": "https://www.youtube.com/watch?v=uIjp0Bx9mWg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Où vont vraiment vos données quand vous parlez à l'IA..."
+    },
+    {
+        "id": "yZsjXWvQ7uI",
+        "videoId": "yZsjXWvQ7uI",
+        "title": "Contrôlez Claude Code à distance via Telegram ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-11",
+        "url": "https://www.youtube.com/watch?v=yZsjXWvQ7uI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Contrôlez Claude Code à distance via Telegram ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "FH8A5rayanQ",
+        "videoId": "FH8A5rayanQ",
+        "title": "Sécurisez Claude Code: Accès Telegram Protégé! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-11",
+        "url": "https://www.youtube.com/watch?v=FH8A5rayanQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Sécurisez Claude Code: Accès Telegram Protégé! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "ylQjPERdnPM",
+        "videoId": "ylQjPERdnPM",
+        "title": "3 façons d’utiliser Claude qui sont surpuissante !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-10",
+        "url": "https://www.youtube.com/watch?v=ylQjPERdnPM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 3 façons d’utiliser Claude qui sont surpuissante !..."
+    },
+    {
+        "id": "eT_srmttI3M",
+        "videoId": "eT_srmttI3M",
+        "title": "L'IA organise mes vacances, imaginez ce qu'elle fait pour mon business",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-10",
+        "url": "https://www.youtube.com/watch?v=eT_srmttI3M",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : L'IA organise mes vacances, imaginez ce qu'elle fait pour mon business..."
+    },
+    {
+        "id": "k5c0MC0BAX8",
+        "videoId": "k5c0MC0BAX8",
+        "title": "Muse Spark : l’IA de Meta est INCROYABLE ? (test complet) 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-10",
+        "url": "https://www.youtube.com/watch?v=k5c0MC0BAX8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Muse Spark : l’IA de Meta est INCROYABLE ? (test complet) 😱🚨..."
+    },
+    {
         "id": "I5FbWuX7AZQ",
         "videoId": "I5FbWuX7AZQ",
         "title": "Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi",
@@ -167,6 +246,165 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=I5FbWuX7AZQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi..."
+    },
+    {
+        "id": "DEMm8_P0BJg",
+        "videoId": "DEMm8_P0BJg",
+        "title": "Firefly & AI OS: Révolutionnez Vos Réunions Pro! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-10",
+        "url": "https://www.youtube.com/watch?v=DEMm8_P0BJg",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Firefly & AI OS: Révolutionnez Vos Réunions Pro! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "buJF9Lc6mrQ",
+        "videoId": "buJF9Lc6mrQ",
+        "title": "Révolutionnez Votre Business avec cet Assistant IA Cloud! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-10",
+        "url": "https://www.youtube.com/watch?v=buJF9Lc6mrQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Révolutionnez Votre Business avec cet Assistant IA Cloud! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "4pEAqRxuNXA",
+        "videoId": "4pEAqRxuNXA",
+        "title": "Trois choses à faire immédiatement quand tu commences à utiliser Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=4pEAqRxuNXA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Trois choses à faire immédiatement quand tu commences à utiliser Claude..."
+    },
+    {
+        "id": "_vUbdaThfag",
+        "videoId": "_vUbdaThfag",
+        "title": "Microsoft Copilot est devenu incroyable... 7 exemples concrets !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=_vUbdaThfag",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est devenu incroyable... 7 exemples concrets !..."
+    },
+    {
+        "id": "-cjtkR_lR2Q",
+        "videoId": "-cjtkR_lR2Q",
+        "title": "Claude Mythos : L’IA Trop Dangereuse Pour Être Publiée ? 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=-cjtkR_lR2Q",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude Mythos : L’IA Trop Dangereuse Pour Être Publiée ? 😱..."
+    },
+    {
+        "id": "fGnr9h5JUGc",
+        "videoId": "fGnr9h5JUGc",
+        "title": "Paperclip + OpenClaw : mon équipe IA tourne 24h/24",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=fGnr9h5JUGc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Paperclip + OpenClaw : mon équipe IA tourne 24h/24..."
+    },
+    {
+        "id": "DarX43yChKY",
+        "videoId": "DarX43yChKY",
+        "title": "IA & Telegram: Le Futur est là! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=DarX43yChKY",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA & Telegram: Le Futur est là! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "aSY3enQYIuE",
+        "videoId": "aSY3enQYIuE",
+        "title": "IA Claude Code: Votre Assistant Personnel 24/7 Révolutionnaire #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=aSY3enQYIuE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Claude Code: Votre Assistant Personnel 24/7 Révolutionnaire #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "e97xFyORj_k",
+        "videoId": "e97xFyORj_k",
+        "title": "Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=e97xFyORj_k",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !..."
+    },
+    {
+        "id": "ha6JkWePF94",
+        "videoId": "ha6JkWePF94",
+        "title": "J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=ha6JkWePF94",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)..."
+    },
+    {
+        "id": "iLpyTd5biIA",
+        "videoId": "iLpyTd5biIA",
+        "title": "La nouvelle IA de Claude vient de changer Internet pour toujours",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=iLpyTd5biIA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : La nouvelle IA de Claude vient de changer Internet pour toujours..."
+    },
+    {
+        "id": "ep5BYfZtINM",
+        "videoId": "ep5BYfZtINM",
+        "title": "Utilise ce mode pour maîtriser Claude Code 🧑‍💻",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=ep5BYfZtINM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Utilise ce mode pour maîtriser Claude Code 🧑‍💻..."
+    },
+    {
+        "id": "p0nmZg0q6o4",
+        "videoId": "p0nmZg0q6o4",
+        "title": "Qwen 3.6 Plus : Enfin un Modèle Open Source au Niveau d’Opus ? 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=p0nmZg0q6o4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.6 Plus : Enfin un Modèle Open Source au Niveau d’Opus ? 😱🔥..."
+    },
+    {
+        "id": "BoNBJYEY4ok",
+        "videoId": "BoNBJYEY4ok",
+        "title": "Le plan COMPLET de Claude : L'IA qui transforme YouTube en OR ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=BoNBJYEY4ok",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Le plan COMPLET de Claude : L'IA qui transforme YouTube en OR ! #shorts...",
+        "isShort": true
     },
     {
         "id": "svRtxQemC9I",
@@ -180,6 +418,442 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)..."
     },
     {
+        "id": "PJtphhpRm1E",
+        "videoId": "PJtphhpRm1E",
+        "title": "Produire du meilleur contenu grâce à l’IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=PJtphhpRm1E",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Produire du meilleur contenu grâce à l’IA..."
+    },
+    {
+        "id": "dFM7dnRRdM8",
+        "videoId": "dFM7dnRRdM8",
+        "title": "Le nouveau GPT Image 2 dans ChatGPT est époustouflant !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=dFM7dnRRdM8",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le nouveau GPT Image 2 dans ChatGPT est époustouflant !..."
+    },
+    {
+        "id": "qn-mTwCVO88",
+        "videoId": "qn-mTwCVO88",
+        "title": "Si tu débutes sur Claude Code apprends ça 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=qn-mTwCVO88",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Si tu débutes sur Claude Code apprends ça 👀..."
+    },
+    {
+        "id": "6d9HeBlu7Iw",
+        "videoId": "6d9HeBlu7Iw",
+        "title": "Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais.",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
+    },
+    {
+        "id": "g57l3uFVffA",
+        "videoId": "g57l3uFVffA",
+        "title": "Automatisez Vos Vidéos YouTube Avec une IA Connectée à Telegram ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=g57l3uFVffA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Automatisez Vos Vidéos YouTube Avec une IA Connectée à Telegram ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "deD29pvffko",
+        "videoId": "deD29pvffko",
+        "title": "Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=deD29pvffko",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "fAB9YTgAu2c",
+        "videoId": "fAB9YTgAu2c",
+        "title": "NOUVEAU : Ces deux Plugins CLAUDE CODE changent TOUT !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=fAB9YTgAu2c",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : NOUVEAU : Ces deux Plugins CLAUDE CODE changent TOUT !..."
+    },
+    {
+        "id": "wkj501BcL0U",
+        "videoId": "wkj501BcL0U",
+        "title": "Transforme ta vidéo dans une ambiance « Golden Hour »",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=wkj501BcL0U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Transforme ta vidéo dans une ambiance « Golden Hour »..."
+    },
+    {
+        "id": "avDtMURiHs0",
+        "videoId": "avDtMURiHs0",
+        "title": "Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=avDtMURiHs0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳..."
+    },
+    {
+        "id": "rAXZYTg_SFs",
+        "videoId": "rAXZYTg_SFs",
+        "title": "N8N & Claude Code: Attention aux injections de prompt dévastatrices! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=rAXZYTg_SFs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : N8N & Claude Code: Attention aux injections de prompt dévastatrices! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "dP1VThZHwfo",
+        "videoId": "dP1VThZHwfo",
+        "title": "Claude Code Corrige L'Erreur \"Cloud Code\" Automatiquement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=dP1VThZHwfo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code Corrige L'Erreur \"Cloud Code\" Automatiquement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "BWwGSK-pKpY",
+        "videoId": "BWwGSK-pKpY",
+        "title": "Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=BWwGSK-pKpY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)..."
+    },
+    {
+        "id": "-xOk8SVdC6U",
+        "videoId": "-xOk8SVdC6U",
+        "title": "1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=-xOk8SVdC6U",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : 1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)..."
+    },
+    {
+        "id": "m2QptFP0sLM",
+        "videoId": "m2QptFP0sLM",
+        "title": "J’ai Créé 5 Sites Web en 28 Minutes avec le NOUVEAU Claude IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=m2QptFP0sLM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : J’ai Créé 5 Sites Web en 28 Minutes avec le NOUVEAU Claude IA..."
+    },
+    {
+        "id": "ecL5Kt4v-kI",
+        "videoId": "ecL5Kt4v-kI",
+        "title": "La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
+    },
+    {
+        "id": "C533WVnfE-g",
+        "videoId": "C533WVnfE-g",
+        "title": "Répliquer N8N sur Claude Code: Le défi est lancé ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=C533WVnfE-g",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Répliquer N8N sur Claude Code: Le défi est lancé ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LohyAnj5XOg",
+        "videoId": "LohyAnj5XOg",
+        "title": "N8N vs Claude Code: Automatisation Stable ou IA Instable? #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-05",
+        "url": "https://www.youtube.com/watch?v=LohyAnj5XOg",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : N8N vs Claude Code: Automatisation Stable ou IA Instable? #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "sbl9oFY-xXY",
+        "videoId": "sbl9oFY-xXY",
+        "title": "5 commandes secrètes qui rendent Claude 10x plus puissant",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=sbl9oFY-xXY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes qui rendent Claude 10x plus puissant..."
+    },
+    {
+        "id": "qkDQMUVzLNY",
+        "videoId": "qkDQMUVzLNY",
+        "title": "J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=qkDQMUVzLNY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais..."
+    },
+    {
+        "id": "Kksw2LAMXvg",
+        "videoId": "Kksw2LAMXvg",
+        "title": "Gemma 4 (26B & 31B) : Les Meilleurs Modèles Open Source du Moment ? 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=Kksw2LAMXvg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Gemma 4 (26B & 31B) : Les Meilleurs Modèles Open Source du Moment ? 😱🔥..."
+    },
+    {
+        "id": "MbqpwzsUF5M",
+        "videoId": "MbqpwzsUF5M",
+        "title": "Automatisation YouTube : L'IA crée vos descriptions et posts en un clin d'œil ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=MbqpwzsUF5M",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Automatisation YouTube : L'IA crée vos descriptions et posts en un clin d'œil ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "95YMCtc9SZk",
+        "videoId": "95YMCtc9SZk",
+        "title": "Automatisez votre quotidien avec Claude grâce à cette vidéo !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=95YMCtc9SZk",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Automatisez votre quotidien avec Claude grâce à cette vidéo !..."
+    },
+    {
+        "id": "PFa2Lao4OP8",
+        "videoId": "PFa2Lao4OP8",
+        "title": "Readdy.ai : L’IA qui build un business COMPLET toute seule (test réel)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=PFa2Lao4OP8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Readdy.ai : L’IA qui build un business COMPLET toute seule (test réel)..."
+    },
+    {
+        "id": "RKKK4uJ1ygU",
+        "videoId": "RKKK4uJ1ygU",
+        "title": "Ce Tuto NotebookLM devait durer 10 min... Mais j'ai tout mis.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=RKKK4uJ1ygU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Ce Tuto NotebookLM devait durer 10 min... Mais j'ai tout mis...."
+    },
+    {
+        "id": "FpVB_B6etu4",
+        "videoId": "FpVB_B6etu4",
+        "title": "GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=FpVB_B6etu4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)..."
+    },
+    {
+        "id": "tLjmEe-xeDw",
+        "videoId": "tLjmEe-xeDw",
+        "title": "ChatGPT est dépassé",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=tLjmEe-xeDw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
+    },
+    {
+        "id": "NUozR4UEYFk",
+        "videoId": "NUozR4UEYFk",
+        "title": "Trouve un emploi avec Claude IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=NUozR4UEYFk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Trouve un emploi avec Claude IA..."
+    },
+    {
+        "id": "mUFTkEVVeK8",
+        "videoId": "mUFTkEVVeK8",
+        "title": "Codex arrive dans Claude Code (TEST)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=mUFTkEVVeK8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Codex arrive dans Claude Code (TEST)..."
+    },
+    {
+        "id": "PiMNs7xHp2M",
+        "videoId": "PiMNs7xHp2M",
+        "title": "CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=PiMNs7xHp2M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)..."
+    },
+    {
+        "id": "UdTHKV7Taok",
+        "videoId": "UdTHKV7Taok",
+        "title": "Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=UdTHKV7Taok",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !..."
+    },
+    {
+        "id": "6mhAK3OqToA",
+        "videoId": "6mhAK3OqToA",
+        "title": "Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=6mhAK3OqToA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨..."
+    },
+    {
+        "id": "Ksaqjr4QFdk",
+        "videoId": "Ksaqjr4QFdk",
+        "title": "Cette nouveauté Claude est DINGUE (le futur de l'IA)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Cette nouveauté Claude est DINGUE (le futur de l'IA)..."
+    },
+    {
+        "id": "SrMi-w30ymo",
+        "videoId": "SrMi-w30ymo",
+        "title": "Cette IA chinoise va détrôner Photoshop ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=SrMi-w30ymo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette IA chinoise va détrôner Photoshop ?..."
+    },
+    {
+        "id": "kwi4T-eauwQ",
+        "videoId": "kwi4T-eauwQ",
+        "title": "ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=kwi4T-eauwQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore...."
+    },
+    {
+        "id": "X0xCiXQPXvM",
+        "videoId": "X0xCiXQPXvM",
+        "title": "Tribe V2 : Quand Meta contrôle ton cerveau 😳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=X0xCiXQPXvM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Tribe V2 : Quand Meta contrôle ton cerveau 😳..."
+    },
+    {
+        "id": "2lWwlaOMMcQ",
+        "videoId": "2lWwlaOMMcQ",
+        "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=2lWwlaOMMcQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT..."
+    },
+    {
+        "id": "7PXK7qmmgvQ",
+        "videoId": "7PXK7qmmgvQ",
+        "title": "On m'a payé +10k€ pour un Outil IA (j'ai aucune compétence technique)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=7PXK7qmmgvQ",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : On m'a payé +10k€ pour un Outil IA (j'ai aucune compétence technique)..."
+    },
+    {
+        "id": "sJeAFbIJwFA",
+        "videoId": "sJeAFbIJwFA",
+        "title": "Apprenez ça au lieu de l'automatisation IA en 2026",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=sJeAFbIJwFA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Apprenez ça au lieu de l'automatisation IA en 2026..."
+    },
+    {
+        "id": "Wue_5RVLpRk",
+        "videoId": "Wue_5RVLpRk",
+        "title": "GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=Wue_5RVLpRk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳..."
+    },
+    {
         "id": "9gpanAr9M_s",
         "videoId": "9gpanAr9M_s",
         "title": "Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)",
@@ -189,6 +863,116 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9gpanAr9M_s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)..."
+    },
+    {
+        "id": "PT-xSwitJl8",
+        "videoId": "PT-xSwitJl8",
+        "title": "TRIBE v2 : le NOUVEAU Modèle de Meta qui Simule Ton Cerveau 🧠😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=PT-xSwitJl8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : TRIBE v2 : le NOUVEAU Modèle de Meta qui Simule Ton Cerveau 🧠😱..."
+    },
+    {
+        "id": "xXWznwbcFe8",
+        "videoId": "xXWznwbcFe8",
+        "title": "J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=xXWznwbcFe8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
+    },
+    {
+        "id": "4aUzQlpRQbk",
+        "videoId": "4aUzQlpRQbk",
+        "title": "Copilot dans Powerpoint est devenu dingue !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-27",
+        "url": "https://www.youtube.com/watch?v=4aUzQlpRQbk",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Copilot dans Powerpoint est devenu dingue !..."
+    },
+    {
+        "id": "W7Z5ATjmois",
+        "videoId": "W7Z5ATjmois",
+        "title": "L’AGI n’est pas prête d’arriver, voici la preuve",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-27",
+        "url": "https://www.youtube.com/watch?v=W7Z5ATjmois",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : L’AGI n’est pas prête d’arriver, voici la preuve..."
+    },
+    {
+        "id": "P-CRHw0vqtE",
+        "videoId": "P-CRHw0vqtE",
+        "title": "ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=P-CRHw0vqtE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨..."
+    },
+    {
+        "id": "4GgbcgfKibw",
+        "videoId": "4GgbcgfKibw",
+        "title": "Créer une chanson avec l'IA Gemini (Tuto Lyria 3 Pro)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=4GgbcgfKibw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Créer une chanson avec l'IA Gemini (Tuto Lyria 3 Pro)..."
+    },
+    {
+        "id": "Z50mk04Xlis",
+        "videoId": "Z50mk04Xlis",
+        "title": "Claude Code pour les NULS : Crée ton premier projet IA en 2026",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=Z50mk04Xlis",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Claude Code pour les NULS : Crée ton premier projet IA en 2026..."
+    },
+    {
+        "id": "adMlsFoc3z4",
+        "videoId": "adMlsFoc3z4",
+        "title": "Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=adMlsFoc3z4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀..."
+    },
+    {
+        "id": "-LXUVXwv2FI",
+        "videoId": "-LXUVXwv2FI",
+        "title": "Claude Dispatch, la nouvelle folie d'Anthropic !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=-LXUVXwv2FI",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Claude Dispatch, la nouvelle folie d'Anthropic !..."
+    },
+    {
+        "id": "6E7_p3gxRdc",
+        "videoId": "6E7_p3gxRdc",
+        "title": "Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=6E7_p3gxRdc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯..."
     },
     {
         "id": "e0hwvA2cjGY",
@@ -202,6 +986,204 @@ export const allVideos = [
         "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
     },
     {
+        "id": "wWC4wgSF984",
+        "videoId": "wWC4wgSF984",
+        "title": "Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=wWC4wgSF984",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce..."
+    },
+    {
+        "id": "VxAjVp09vDw",
+        "videoId": "VxAjVp09vDw",
+        "title": "Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
+    },
+    {
+        "id": "-50BGEYgMr4",
+        "videoId": "-50BGEYgMr4",
+        "title": "Tout Comprendre sur Claude IA en 22 Minutes",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur Claude IA en 22 Minutes..."
+    },
+    {
+        "id": "GhkppQ6eqlY",
+        "videoId": "GhkppQ6eqlY",
+        "title": "Utilise Claude Code GRATUITEMENT avec OpenRouter !",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=GhkppQ6eqlY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Utilise Claude Code GRATUITEMENT avec OpenRouter !..."
+    },
+    {
+        "id": "6vgFGdalWXQ",
+        "videoId": "6vgFGdalWXQ",
+        "title": "Utilise Claude Code gratuitement avec cette méthode (Pas besoin de RAM)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=6vgFGdalWXQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Utilise Claude Code gratuitement avec cette méthode (Pas besoin de RAM)..."
+    },
+    {
+        "id": "QKuLiksBzbY",
+        "videoId": "QKuLiksBzbY",
+        "title": "MiniMax M2.7 est INCROYABLE 🤯 : Meilleur qu’Opus 4.6 (20x Moins Cher) ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=QKuLiksBzbY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : MiniMax M2.7 est INCROYABLE 🤯 : Meilleur qu’Opus 4.6 (20x Moins Cher) ?..."
+    },
+    {
+        "id": "PAT7dZxCimM",
+        "videoId": "PAT7dZxCimM",
+        "title": "Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=PAT7dZxCimM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)..."
+    },
+    {
+        "id": "rFmH4FxW5Qg",
+        "videoId": "rFmH4FxW5Qg",
+        "title": "Le vrai problème d'OpenClaw (que personne ne mentionne)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=rFmH4FxW5Qg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le vrai problème d'OpenClaw (que personne ne mentionne)..."
+    },
+    {
+        "id": "aELai2cF_kk",
+        "videoId": "aELai2cF_kk",
+        "title": "Ce plugin Claude Code va donner accès à toutes les APIs à jour !",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=aELai2cF_kk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Ce plugin Claude Code va donner accès à toutes les APIs à jour !..."
+    },
+    {
+        "id": "DL9imqmWs_8",
+        "videoId": "DL9imqmWs_8",
+        "title": "Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=DL9imqmWs_8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻..."
+    },
+    {
+        "id": "a8tM3ZD1NRg",
+        "videoId": "a8tM3ZD1NRg",
+        "title": "CES OUTILS sont SURPUISSANTS",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=a8tM3ZD1NRg",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : CES OUTILS sont SURPUISSANTS..."
+    },
+    {
+        "id": "X43XHtAUMCA",
+        "videoId": "X43XHtAUMCA",
+        "title": "Microsoft lance Copilot Cowork et... c'est une claque !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=X43XHtAUMCA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Microsoft lance Copilot Cowork et... c'est une claque !..."
+    },
+    {
+        "id": "THc6XfAUFpU",
+        "videoId": "THc6XfAUFpU",
+        "title": "Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=THc6XfAUFpU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️..."
+    },
+    {
+        "id": "X3wKzD2fauc",
+        "videoId": "X3wKzD2fauc",
+        "title": "Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=X3wKzD2fauc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀..."
+    },
+    {
+        "id": "_5J0kKE13xM",
+        "videoId": "_5J0kKE13xM",
+        "title": "MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=_5J0kKE13xM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)..."
+    },
+    {
+        "id": "BKAfkvBaevs",
+        "videoId": "BKAfkvBaevs",
+        "title": "5 plugins qui vont rendre ton Claude Code surpuissant",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=BKAfkvBaevs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : 5 plugins qui vont rendre ton Claude Code surpuissant..."
+    },
+    {
+        "id": "20Q2Ry-Q8mA",
+        "videoId": "20Q2Ry-Q8mA",
+        "title": "Suis ta conso Claude Code super simplement ! 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=20Q2Ry-Q8mA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Suis ta conso Claude Code super simplement ! 👀..."
+    },
+    {
+        "id": "kKBXnbNUjTc",
+        "videoId": "kKBXnbNUjTc",
+        "title": "Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=kKBXnbNUjTc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱..."
+    },
+    {
         "id": "vP0qh6ch99o",
         "videoId": "vP0qh6ch99o",
         "title": "La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)",
@@ -211,6 +1193,226 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vP0qh6ch99o",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)..."
+    },
+    {
+        "id": "RtHqiIYu-FU",
+        "videoId": "RtHqiIYu-FU",
+        "title": "SEO IA : Méthode puissante pour se positionner sur Google",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-17",
+        "url": "https://www.youtube.com/watch?v=RtHqiIYu-FU",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : SEO IA : Méthode puissante pour se positionner sur Google..."
+    },
+    {
+        "id": "vJNF25rhYj4",
+        "videoId": "vJNF25rhYj4",
+        "title": "RAG + Gemini en 2026 (TUTO)🔥",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-17",
+        "url": "https://www.youtube.com/watch?v=vJNF25rhYj4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : RAG + Gemini en 2026 (TUTO)🔥..."
+    },
+    {
+        "id": "yUaIYBlIFdw",
+        "videoId": "yUaIYBlIFdw",
+        "title": "Comment bien utiliser Google Antigravity – Tuto Complet",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-03-17",
+        "url": "https://www.youtube.com/watch?v=yUaIYBlIFdw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Comment bien utiliser Google Antigravity – Tuto Complet..."
+    },
+    {
+        "id": "kYTgB1uNn5E",
+        "videoId": "kYTgB1uNn5E",
+        "title": "Guide Complet | Claude Code : Ton Assistant IA 24/7 en 40 Minutes (No Code) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-03-17",
+        "url": "https://www.youtube.com/watch?v=kYTgB1uNn5E",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Guide Complet | Claude Code : Ton Assistant IA 24/7 en 40 Minutes (No Code) !..."
+    },
+    {
+        "id": "StOwdLhbQtg",
+        "videoId": "StOwdLhbQtg",
+        "title": "IA, CLAUDE CODE, SAAS,... ET TOUT CE QUI VA AVEC.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-16",
+        "url": "https://www.youtube.com/watch?v=StOwdLhbQtg",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : IA, CLAUDE CODE, SAAS,... ET TOUT CE QUI VA AVEC...."
+    },
+    {
+        "id": "30Ia0AVIdys",
+        "videoId": "30Ia0AVIdys",
+        "title": "10 astuces Canva à connaître absolument en 2026 ! (Devenez un pro)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-16",
+        "url": "https://www.youtube.com/watch?v=30Ia0AVIdys",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : 10 astuces Canva à connaître absolument en 2026 ! (Devenez un pro)..."
+    },
+    {
+        "id": "vWMA0U2xj50",
+        "videoId": "vWMA0U2xj50",
+        "title": "CLAUDE a RÉSOLU le plus GROS problème de l'IA.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-15",
+        "url": "https://www.youtube.com/watch?v=vWMA0U2xj50",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : CLAUDE a RÉSOLU le plus GROS problème de l'IA...."
+    },
+    {
+        "id": "Q7RcgXzBtDQ",
+        "videoId": "Q7RcgXzBtDQ",
+        "title": "L'art de devenir milliardaire à 19 ans grâce à l'IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-03-15",
+        "url": "https://www.youtube.com/watch?v=Q7RcgXzBtDQ",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : L'art de devenir milliardaire à 19 ans grâce à l'IA..."
+    },
+    {
+        "id": "uqV3ujeaeKs",
+        "videoId": "uqV3ujeaeKs",
+        "title": "L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-03-14",
+        "url": "https://www.youtube.com/watch?v=uqV3ujeaeKs",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)..."
+    },
+    {
+        "id": "YebMrY_Cr5s",
+        "videoId": "YebMrY_Cr5s",
+        "title": "Comment utiliser EXCEL avec un AGENT IA ?",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-13",
+        "url": "https://www.youtube.com/watch?v=YebMrY_Cr5s",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
+    },
+    {
+        "id": "cv8PsVX1tbg",
+        "videoId": "cv8PsVX1tbg",
+        "title": "Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-12",
+        "url": "https://www.youtube.com/watch?v=cv8PsVX1tbg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡..."
+    },
+    {
+        "id": "XQEdkNRGPZs",
+        "videoId": "XQEdkNRGPZs",
+        "title": "ANTIGRAVITY est devenu MONSTRUEUX",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=XQEdkNRGPZs",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : ANTIGRAVITY est devenu MONSTRUEUX..."
+    },
+    {
+        "id": "HcDf0P1EJ3U",
+        "videoId": "HcDf0P1EJ3U",
+        "title": "Ce nouvel outil Google rend Claude Code 10x plus puissant",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=HcDf0P1EJ3U",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Ce nouvel outil Google rend Claude Code 10x plus puissant..."
+    },
+    {
+        "id": "Mg37t-H7-10",
+        "videoId": "Mg37t-H7-10",
+        "title": "Google : ce nouvel outil débride ton Claude Code (GRATUIT) 🔥",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=Mg37t-H7-10",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Google : ce nouvel outil débride ton Claude Code (GRATUIT) 🔥..."
+    },
+    {
+        "id": "5T0irFpaa1U",
+        "videoId": "5T0irFpaa1U",
+        "title": "J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-03-10",
+        "url": "https://www.youtube.com/watch?v=5T0irFpaa1U",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)..."
+    },
+    {
+        "id": "oCRDxYWh4ZI",
+        "videoId": "oCRDxYWh4ZI",
+        "title": "NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-09",
+        "url": "https://www.youtube.com/watch?v=oCRDxYWh4ZI",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)..."
+    },
+    {
+        "id": "0qNflUjEORM",
+        "videoId": "0qNflUjEORM",
+        "title": "Un nouveau modèle de SaaS IA va fabriquer des millionnaires en 2026 (voici comment)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=0qNflUjEORM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Un nouveau modèle de SaaS IA va fabriquer des millionnaires en 2026 (voici comment)..."
+    },
+    {
+        "id": "04P0GIKNNa4",
+        "videoId": "04P0GIKNNa4",
+        "title": "Créer Son Premier Agent IA Vocal en 48 minutes",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=04P0GIKNNa4",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Créer Son Premier Agent IA Vocal en 48 minutes..."
+    },
+    {
+        "id": "rucvJdjqmH4",
+        "videoId": "rucvJdjqmH4",
+        "title": "10 Astuces pour devenir un PRO sur Claude Code !",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=rucvJdjqmH4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : 10 Astuces pour devenir un PRO sur Claude Code !..."
+    },
+    {
+        "id": "k7fvdpqBWcM",
+        "videoId": "k7fvdpqBWcM",
+        "title": "Voici comment bien configurer un projet Claude Code 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=k7fvdpqBWcM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Voici comment bien configurer un projet Claude Code 👀..."
     },
     {
         "id": "FF1JIA_TCug",
@@ -235,6 +1437,28 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : 19 Agents IA OpenClaw 24H/24H pour seulement 6 € / mois..."
     },
     {
+        "id": "3b9FcPJZdtE",
+        "videoId": "3b9FcPJZdtE",
+        "title": "GEMINI 3.1 : Pourquoi c'est mieux que ChatGPT ?",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-06",
+        "url": "https://www.youtube.com/watch?v=3b9FcPJZdtE",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : GEMINI 3.1 : Pourquoi c'est mieux que ChatGPT ?..."
+    },
+    {
+        "id": "ZwsKbTq8hak",
+        "videoId": "ZwsKbTq8hak",
+        "title": "Obsidian + Claude Code : ce que ce débutant a fait en 10 jours est bluffant",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-03-06",
+        "url": "https://www.youtube.com/watch?v=ZwsKbTq8hak",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Obsidian + Claude Code : ce que ce débutant a fait en 10 jours est bluffant..."
+    },
+    {
         "id": "wmEVJ3TXinM",
         "videoId": "wmEVJ3TXinM",
         "title": "Tierlist des applications de Google",
@@ -244,6 +1468,61 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wmEVJ3TXinM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des applications de Google..."
+    },
+    {
+        "id": "R0hHH4lzfYE",
+        "videoId": "R0hHH4lzfYE",
+        "title": "ChatGPT perd ses utilisateurs... et voici pourquoi !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=R0hHH4lzfYE",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : ChatGPT perd ses utilisateurs... et voici pourquoi !..."
+    },
+    {
+        "id": "yhonnrrw2KU",
+        "videoId": "yhonnrrw2KU",
+        "title": "Je vous présente mon système IA (+ réponses à vos questions)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=yhonnrrw2KU",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponses à vos questions)..."
+    },
+    {
+        "id": "E3j_BCtwWew",
+        "videoId": "E3j_BCtwWew",
+        "title": "Comment utiliser les SKILLS ANTIGRAVITY mieux que 99 % des gens",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-04",
+        "url": "https://www.youtube.com/watch?v=E3j_BCtwWew",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Comment utiliser les SKILLS ANTIGRAVITY mieux que 99 % des gens..."
+    },
+    {
+        "id": "uU66mgOmgkY",
+        "videoId": "uU66mgOmgkY",
+        "title": "Résumer et réviser une œuvre littéraire pour le BAC avec #NotebookLM #revisionexam #français",
+        "author": "Cédric Girard",
+        "source": "@cedric_effi10",
+        "date": "2026-03-04",
+        "url": "https://www.youtube.com/watch?v=uU66mgOmgkY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Cédric Girard : Résumer et réviser une œuvre littéraire pour le BAC avec #NotebookLM #revisionexam #français..."
+    },
+    {
+        "id": "mSNYOWpnsuY",
+        "videoId": "mSNYOWpnsuY",
+        "title": "Claude Code ou n8n ? De l'automatisation IA à l'automatisation agentique !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-03-04",
+        "url": "https://www.youtube.com/watch?v=mSNYOWpnsuY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Claude Code ou n8n ? De l'automatisation IA à l'automatisation agentique !..."
     },
     {
         "id": "ziMfHt9hnlw",
@@ -257,6 +1536,50 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Les meilleurs outils IA à utiliser en 2026..."
     },
     {
+        "id": "5YPzT47Txl8",
+        "videoId": "5YPzT47Txl8",
+        "title": "J'ai piraté mon cerveau avec NotebookLM : L'apprentissage TURBOCHARGÉ",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=5YPzT47Txl8",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai piraté mon cerveau avec NotebookLM : L'apprentissage TURBOCHARGÉ..."
+    },
+    {
+        "id": "YW-q8jj9cXY",
+        "videoId": "YW-q8jj9cXY",
+        "title": "Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯",
+        "author": "Cédric Girard",
+        "source": "@cedric_effi10",
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=YW-q8jj9cXY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Cédric Girard : Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯..."
+    },
+    {
+        "id": "J_vj9287Jo0",
+        "videoId": "J_vj9287Jo0",
+        "title": "OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=J_vj9287Jo0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)..."
+    },
+    {
+        "id": "M6mxHWfjxms",
+        "videoId": "M6mxHWfjxms",
+        "title": "LA MORT DU SAAS... L'ARRIVÉ DES PAAS IA (TUTO BUSINESS 2026)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-02",
+        "url": "https://www.youtube.com/watch?v=M6mxHWfjxms",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : LA MORT DU SAAS... L'ARRIVÉ DES PAAS IA (TUTO BUSINESS 2026)..."
+    },
+    {
         "id": "9wQIJOmUpEM",
         "videoId": "9wQIJOmUpEM",
         "title": "Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)",
@@ -266,6 +1589,94 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9wQIJOmUpEM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)..."
+    },
+    {
+        "id": "9PYIce0J6Xg",
+        "videoId": "9PYIce0J6Xg",
+        "title": "De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-02",
+        "url": "https://www.youtube.com/watch?v=9PYIce0J6Xg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT..."
+    },
+    {
+        "id": "XnkPhN7S3B8",
+        "videoId": "XnkPhN7S3B8",
+        "title": "Pourquoi le monde entier est obsédé par OpenClaw (Guide Complet Débutant)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=XnkPhN7S3B8",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Pourquoi le monde entier est obsédé par OpenClaw (Guide Complet Débutant)..."
+    },
+    {
+        "id": "xfO9fMx6PlA",
+        "videoId": "xfO9fMx6PlA",
+        "title": "J'ai branché l'IA sur mon second cerveau (avant/après)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=xfO9fMx6PlA",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : J'ai branché l'IA sur mon second cerveau (avant/après)..."
+    },
+    {
+        "id": "UWtsTSy71j0",
+        "videoId": "UWtsTSy71j0",
+        "title": "BREAKING NEWS : CLAUDE VIENT JUSTE D'ÊTRE BANNI DES USA.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-02-28",
+        "url": "https://www.youtube.com/watch?v=UWtsTSy71j0",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : BREAKING NEWS : CLAUDE VIENT JUSTE D'ÊTRE BANNI DES USA...."
+    },
+    {
+        "id": "b2UF-1l3I_Q",
+        "videoId": "b2UF-1l3I_Q",
+        "title": "J'ai connecté l'IA à mes outils et elle automatise tout à ma place - [Série OS IA - 5/5]",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-02-28",
+        "url": "https://www.youtube.com/watch?v=b2UF-1l3I_Q",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : J'ai connecté l'IA à mes outils et elle automatise tout à ma place - [Série OS IA - 5/5]..."
+    },
+    {
+        "id": "XdTmq1shdac",
+        "videoId": "XdTmq1shdac",
+        "title": "LA FIN DES DÉVELOPPEURS ? Le métier évolue grandement",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-02-27",
+        "url": "https://www.youtube.com/watch?v=XdTmq1shdac",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : LA FIN DES DÉVELOPPEURS ? Le métier évolue grandement..."
+    },
+    {
+        "id": "YaK_n0yhPXE",
+        "videoId": "YaK_n0yhPXE",
+        "title": "Claude connecte Google à n8n sans erreur | Tutoriel complet",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-02-27",
+        "url": "https://www.youtube.com/watch?v=YaK_n0yhPXE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Claude connecte Google à n8n sans erreur | Tutoriel complet..."
+    },
+    {
+        "id": "t8nxFyZtgbw",
+        "videoId": "t8nxFyZtgbw",
+        "title": "Claude vient d'arriver dans Powerpoint... c'est terrifiant !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-02-26",
+        "url": "https://www.youtube.com/watch?v=t8nxFyZtgbw",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Claude vient d'arriver dans Powerpoint... c'est terrifiant !..."
     },
     {
         "id": "by_rpps-zdM",
@@ -279,6 +1690,61 @@ export const allVideos = [
         "summary": "Nouveauté de Louis Graffeuil : Les Agents IA sont TROP Utilisés. Voici ce qu’il faut faire à la place..."
     },
     {
+        "id": "aIx8UECB3HA",
+        "videoId": "aIx8UECB3HA",
+        "title": "ENFIN.... !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-02-26",
+        "url": "https://www.youtube.com/watch?v=aIx8UECB3HA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : ENFIN.... !..."
+    },
+    {
+        "id": "fKGW2r8z6iI",
+        "videoId": "fKGW2r8z6iI",
+        "title": "Claude Cowork est la première IA qui donne l'impression d'être un véritable employé.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=fKGW2r8z6iI",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Claude Cowork est la première IA qui donne l'impression d'être un véritable employé...."
+    },
+    {
+        "id": "gIhkAD_DCOo",
+        "videoId": "gIhkAD_DCOo",
+        "title": "FIGMA EST MORT ? Google arrive fort avec cette nouvelle IA ! 😱",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-02-24",
+        "url": "https://www.youtube.com/watch?v=gIhkAD_DCOo",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : FIGMA EST MORT ? Google arrive fort avec cette nouvelle IA ! 😱..."
+    },
+    {
+        "id": "04CweTdLVnk",
+        "videoId": "04CweTdLVnk",
+        "title": "Comment créer votre PREMIER agent IA en 2026 (sans coder) - [Série OS IA - 4/5]",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-02-24",
+        "url": "https://www.youtube.com/watch?v=04CweTdLVnk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Comment créer votre PREMIER agent IA en 2026 (sans coder) - [Série OS IA - 4/5]..."
+    },
+    {
+        "id": "sWM7WVMsMJk",
+        "videoId": "sWM7WVMsMJk",
+        "title": "OpenClaw : 4 ASTUCES pour le rendre 10x plus PUISSANT 🔥(VPS Hostinger)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-02-24",
+        "url": "https://www.youtube.com/watch?v=sWM7WVMsMJk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : OpenClaw : 4 ASTUCES pour le rendre 10x plus PUISSANT 🔥(VPS Hostinger)..."
+    },
+    {
         "id": "ExfqNGWETMU",
         "videoId": "ExfqNGWETMU",
         "title": "Gemini 3.1 Pro vient de sortir, et c’est une dinguerie",
@@ -288,6 +1754,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ExfqNGWETMU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro vient de sortir, et c’est une dinguerie..."
+    },
+    {
+        "id": "--zIrAuE90c",
+        "videoId": "--zIrAuE90c",
+        "title": "Apprendre en 2026 : Ma méthode pour assimiler 2x plus d’infos",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-02-24",
+        "url": "https://www.youtube.com/watch?v=--zIrAuE90c",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Apprendre en 2026 : Ma méthode pour assimiler 2x plus d’infos..."
+    },
+    {
+        "id": "4f9JPpdwmWg",
+        "videoId": "4f9JPpdwmWg",
+        "title": "Installer Claude Code sur VS Code en 30 secondes 🎯 (tuto débutant)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-02-23",
+        "url": "https://www.youtube.com/watch?v=4f9JPpdwmWg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Installer Claude Code sur VS Code en 30 secondes 🎯 (tuto débutant)..."
     },
     {
         "id": "2QY2v_MAg8U",
@@ -301,6 +1789,83 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro + Antigravity détruisent tous les designers de sites..."
     },
     {
+        "id": "3gNKmyr7Q28",
+        "videoId": "3gNKmyr7Q28",
+        "title": "Comment signer ses Premiers Clients IA (avec 0 audience et 0 témoignages).",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-02-22",
+        "url": "https://www.youtube.com/watch?v=3gNKmyr7Q28",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Comment signer ses Premiers Clients IA (avec 0 audience et 0 témoignages)...."
+    },
+    {
+        "id": "unA3slO6aSY",
+        "videoId": "unA3slO6aSY",
+        "title": "5 Automatisations IA à Implémenter dans TOUTES Les Entreprises",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-02-22",
+        "url": "https://www.youtube.com/watch?v=unA3slO6aSY",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : 5 Automatisations IA à Implémenter dans TOUTES Les Entreprises..."
+    },
+    {
+        "id": "ebdv_ac6hQY",
+        "videoId": "ebdv_ac6hQY",
+        "title": "Construis une app en 2 min avec Claude Code (même si t'y connais rien)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-02-22",
+        "url": "https://www.youtube.com/watch?v=ebdv_ac6hQY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Construis une app en 2 min avec Claude Code (même si t'y connais rien)..."
+    },
+    {
+        "id": "UBpAR_Uewy4",
+        "videoId": "UBpAR_Uewy4",
+        "title": "Maitrise 90% de Claude Code en 28min (en tant que débutant)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-02-22",
+        "url": "https://www.youtube.com/watch?v=UBpAR_Uewy4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Maitrise 90% de Claude Code en 28min (en tant que débutant)..."
+    },
+    {
+        "id": "5PJsJX0a1x0",
+        "videoId": "5PJsJX0a1x0",
+        "title": "Claude fait mon MONTAGE en AUTOMATIQUE, je te montre comment !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-02-22",
+        "url": "https://www.youtube.com/watch?v=5PJsJX0a1x0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Claude fait mon MONTAGE en AUTOMATIQUE, je te montre comment !..."
+    },
+    {
+        "id": "4uZAIEFBOc4",
+        "videoId": "4uZAIEFBOc4",
+        "title": "Vous utilisez l'IA mais vous ne gagnez pas de temps ? Je vous montre comment changer ça",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-02-21",
+        "url": "https://www.youtube.com/watch?v=4uZAIEFBOc4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Vous utilisez l'IA mais vous ne gagnez pas de temps ? Je vous montre comment changer ça..."
+    },
+    {
+        "id": "JmI6CiZTR0Y",
+        "videoId": "JmI6CiZTR0Y",
+        "title": "ANTIGRAVITY + HOSTINGER : les meilleurs outils pour vibecoder",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-02-20",
+        "url": "https://www.youtube.com/watch?v=JmI6CiZTR0Y",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : ANTIGRAVITY + HOSTINGER : les meilleurs outils pour vibecoder..."
+    },
+    {
         "id": "gob6AZwS-TI",
         "videoId": "gob6AZwS-TI",
         "title": "Le Guide Claude COWORK ULTIME en 2026 ! (méthode complète)",
@@ -310,6 +1875,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gob6AZwS-TI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Le Guide Claude COWORK ULTIME en 2026 ! (méthode complète)..."
+    },
+    {
+        "id": "RLpMbcWaQnE",
+        "videoId": "RLpMbcWaQnE",
+        "title": "Claude surpasse toutes les IA... 7 exemples concrets !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-02-19",
+        "url": "https://www.youtube.com/watch?v=RLpMbcWaQnE",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Claude surpasse toutes les IA... 7 exemples concrets !..."
     },
     {
         "id": "Ri3kfMy9aD0",
@@ -323,6 +1899,127 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des meilleurs outils IA de 2026..."
     },
     {
+        "id": "JPpP4aLQOpM",
+        "videoId": "JPpP4aLQOpM",
+        "title": "AntiGravity + Claude Code détruit TOUS les outils de Workflow (NOUVELLE compétence)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-02-18",
+        "url": "https://www.youtube.com/watch?v=JPpP4aLQOpM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : AntiGravity + Claude Code détruit TOUS les outils de Workflow (NOUVELLE compétence)..."
+    },
+    {
+        "id": "t3Dr073cCHQ",
+        "videoId": "t3Dr073cCHQ",
+        "title": "Comment Prospecter sur Linkedin en Automatique avec n8n, Unipile et Apify (Système Complet)",
+        "author": "Lucas Reverdy",
+        "source": "@reverdybusiness",
+        "date": "2026-02-18",
+        "url": "https://www.youtube.com/watch?v=t3Dr073cCHQ",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Lucas Reverdy : Comment Prospecter sur Linkedin en Automatique avec n8n, Unipile et Apify (Système Complet)..."
+    },
+    {
+        "id": "6Z43WEeP6kI",
+        "videoId": "6Z43WEeP6kI",
+        "title": "Que vaut Claude Sonnet 4.6 ? 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-02-18",
+        "url": "https://www.youtube.com/watch?v=6Z43WEeP6kI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Que vaut Claude Sonnet 4.6 ? 👀..."
+    },
+    {
+        "id": "_EdJxe6f47o",
+        "videoId": "_EdJxe6f47o",
+        "title": "J'ai payé les 3 abonnements IA : Lequel vaut VRAIMENT ses 20€ ?",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-02-17",
+        "url": "https://www.youtube.com/watch?v=_EdJxe6f47o",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai payé les 3 abonnements IA : Lequel vaut VRAIMENT ses 20€ ?..."
+    },
+    {
+        "id": "aNOzasja-TE",
+        "videoId": "aNOzasja-TE",
+        "title": "Comment j'ai créé un assistant qui me connait par coeur [Série OS IA - 2/5]",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-02-17",
+        "url": "https://www.youtube.com/watch?v=aNOzasja-TE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Comment j'ai créé un assistant qui me connait par coeur [Série OS IA - 2/5]..."
+    },
+    {
+        "id": "A8curb1SrKg",
+        "videoId": "A8curb1SrKg",
+        "title": "Claude Code AGENT TEAMS : cette NOUVELLE fonctionnalité CHANGE TOUT  🚀",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-02-17",
+        "url": "https://www.youtube.com/watch?v=A8curb1SrKg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Code AGENT TEAMS : cette NOUVELLE fonctionnalité CHANGE TOUT  🚀..."
+    },
+    {
+        "id": "hY49cyKN1T0",
+        "videoId": "hY49cyKN1T0",
+        "title": "Mode apprentissage IA : ChatGPT ou Gemini, qui est le plus EFFICACE ?",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-02-17",
+        "url": "https://www.youtube.com/watch?v=hY49cyKN1T0",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Mode apprentissage IA : ChatGPT ou Gemini, qui est le plus EFFICACE ?..."
+    },
+    {
+        "id": "P56CwdKSyq0",
+        "videoId": "P56CwdKSyq0",
+        "title": "Claude 5 Sonnet va faire trembler OpenAI 👀",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-02-16",
+        "url": "https://www.youtube.com/watch?v=P56CwdKSyq0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude 5 Sonnet va faire trembler OpenAI 👀..."
+    },
+    {
+        "id": "OrrvAMRUYy0",
+        "videoId": "OrrvAMRUYy0",
+        "title": "Arrête d'utiliser des agents IA pour tout (utilise ça à la place)",
+        "author": "Ousmane Automatise",
+        "source": "@ousmanedf",
+        "date": "2026-02-15",
+        "url": "https://www.youtube.com/watch?v=OrrvAMRUYy0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ousmane Automatise : Arrête d'utiliser des agents IA pour tout (utilise ça à la place)..."
+    },
+    {
+        "id": "OW-t9oaTyGU",
+        "videoId": "OW-t9oaTyGU",
+        "title": "J’ai Recréé une APP à 34M€ en 20 Minutes avec l’IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-02-15",
+        "url": "https://www.youtube.com/watch?v=OW-t9oaTyGU",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : J’ai Recréé une APP à 34M€ en 20 Minutes avec l’IA..."
+    },
+    {
+        "id": "4rIbDGu1nkg",
+        "videoId": "4rIbDGu1nkg",
+        "title": "L'IA devient simple quand on utilise ce système [Série OS IA - 1/5]",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-02-14",
+        "url": "https://www.youtube.com/watch?v=4rIbDGu1nkg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L'IA devient simple quand on utilise ce système [Série OS IA - 1/5]..."
+    },
+    {
         "id": "RM2zdhCSOMM",
         "videoId": "RM2zdhCSOMM",
         "title": "Les automatisations N8N c'est terminé, voici Antigravity et Claude Code",
@@ -332,5 +2029,27 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RM2zdhCSOMM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les automatisations N8N c'est terminé, voici Antigravity et Claude Code..."
+    },
+    {
+        "id": "ma0NCBnbPQA",
+        "videoId": "ma0NCBnbPQA",
+        "title": "J'ai découvert le combo ULTIME pour VIBECODER",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-02-13",
+        "url": "https://www.youtube.com/watch?v=ma0NCBnbPQA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai découvert le combo ULTIME pour VIBECODER..."
+    },
+    {
+        "id": "IO_795Ha2XQ",
+        "videoId": "IO_795Ha2XQ",
+        "title": "Installe ton Assistant Personnel IA OpenClaw en 5 minutes",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-02-13",
+        "url": "https://www.youtube.com/watch?v=IO_795Ha2XQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Installe ton Assistant Personnel IA OpenClaw en 5 minutes..."
     }
 ];
