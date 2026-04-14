@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-13T07:56:55.344Z
+// Fichier généré automatiquement le 2026-04-14T07:24:56.763Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:56:55 AM 4/13/2026";
+export const lastUpdate = "7:24:56 AM 4/14/2026";
 
 export const sources = [
     {
@@ -167,6 +167,74 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Dv6suL5-fAE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : 7 leviers (que personne n’utilise) pour boire la concurrence dans l’IA...."
+    },
+    {
+        "id": "avCn3cdcT_g",
+        "videoId": "avCn3cdcT_g",
+        "title": "5 commandes secrètes pour ChatGPT # short",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-13",
+        "url": "https://www.youtube.com/watch?v=avCn3cdcT_g",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes pour ChatGPT # short..."
+    },
+    {
+        "id": "wriLF7fReMQ",
+        "videoId": "wriLF7fReMQ",
+        "title": "Claude fait votre Excel à votre place",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-13",
+        "url": "https://www.youtube.com/watch?v=wriLF7fReMQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude fait votre Excel à votre place..."
+    },
+    {
+        "id": "BP8dRHl3ij4",
+        "videoId": "BP8dRHl3ij4",
+        "title": "MAUVAIS vs BON vs EXCELLENT 🤖",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-13",
+        "url": "https://www.youtube.com/watch?v=BP8dRHl3ij4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : MAUVAIS vs BON vs EXCELLENT 🤖..."
+    },
+    {
+        "id": "BE-a3usqB4w",
+        "videoId": "BE-a3usqB4w",
+        "title": "Claude AI: Test Dispatch avec Nouvelle Fonctionnalité Incroyable #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-13",
+        "url": "https://www.youtube.com/watch?v=BE-a3usqB4w",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude AI: Test Dispatch avec Nouvelle Fonctionnalité Incroyable #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "k3YkKPM9MjY",
+        "videoId": "k3YkKPM9MjY",
+        "title": "Claude in Chrome : La révolution pour YouTube #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-13",
+        "url": "https://www.youtube.com/watch?v=k3YkKPM9MjY",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude in Chrome : La révolution pour YouTube #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LbPvgHNthJs",
+        "videoId": "LbPvgHNthJs",
+        "title": "J'ai appris l'espagnol en 2 semaines avec l'IA (Je teste ça à Séville)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-13",
+        "url": "https://www.youtube.com/watch?v=LbPvgHNthJs",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'ai appris l'espagnol en 2 semaines avec l'IA (Je teste ça à Séville)..."
     },
     {
         "id": "VeG1rqTZ-EM",
@@ -545,13 +613,13 @@ export const allVideos = [
     {
         "id": "fAB9YTgAu2c",
         "videoId": "fAB9YTgAu2c",
-        "title": "NOUVEAU : Ces deux Plugins CLAUDE CODE changent TOUT !",
+        "title": "ENFIN !! Ces Plugins CLAUDE CODE ouvrent la voie vers l'AIOS ! (j'explique tout)",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-04-07",
         "url": "https://www.youtube.com/watch?v=fAB9YTgAu2c",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : NOUVEAU : Ces deux Plugins CLAUDE CODE changent TOUT !..."
+        "summary": "Nouveauté de Thomas Berton : ENFIN !! Ces Plugins CLAUDE CODE ouvrent la voie vers l'AIOS ! (j'explique tout)..."
     },
     {
         "id": "wkj501BcL0U",
@@ -588,18 +656,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "dP1VThZHwfo",
-        "videoId": "dP1VThZHwfo",
-        "title": "Claude Code Corrige L'Erreur \"Cloud Code\" Automatiquement ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=dP1VThZHwfo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code Corrige L'Erreur \"Cloud Code\" Automatiquement ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "BWwGSK-pKpY",
         "videoId": "BWwGSK-pKpY",
         "title": "Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)",
@@ -624,13 +680,13 @@ export const allVideos = [
     {
         "id": "m2QptFP0sLM",
         "videoId": "m2QptFP0sLM",
-        "title": "J’ai Créé 5 Sites Web en 28 Minutes avec le NOUVEAU Claude IA",
+        "title": "Comment Créer des Sites Web INCROYABLE avec Claude IA",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-04-05",
         "url": "https://www.youtube.com/watch?v=m2QptFP0sLM",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : J’ai Créé 5 Sites Web en 28 Minutes avec le NOUVEAU Claude IA..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment Créer des Sites Web INCROYABLE avec Claude IA..."
     },
     {
         "id": "ecL5Kt4v-kI",
@@ -642,18 +698,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
-    },
-    {
-        "id": "C533WVnfE-g",
-        "videoId": "C533WVnfE-g",
-        "title": "Répliquer N8N sur Claude Code: Le défi est lancé ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-05",
-        "url": "https://www.youtube.com/watch?v=C533WVnfE-g",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Répliquer N8N sur Claude Code: Le défi est lancé ! #shorts...",
-        "isShort": true
     },
     {
         "id": "sbl9oFY-xXY",
@@ -744,17 +788,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
     },
     {
-        "id": "NUozR4UEYFk",
-        "videoId": "NUozR4UEYFk",
-        "title": "Trouve un emploi avec Claude IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=NUozR4UEYFk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Trouve un emploi avec Claude IA..."
-    },
-    {
         "id": "mUFTkEVVeK8",
         "videoId": "mUFTkEVVeK8",
         "title": "Codex arrive dans Claude Code (TEST)",
@@ -808,28 +841,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Cette nouveauté Claude est DINGUE (le futur de l'IA)..."
-    },
-    {
-        "id": "SrMi-w30ymo",
-        "videoId": "SrMi-w30ymo",
-        "title": "Cette IA chinoise va détrôner Photoshop ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=SrMi-w30ymo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Cette IA chinoise va détrôner Photoshop ?..."
-    },
-    {
-        "id": "kwi4T-eauwQ",
-        "videoId": "kwi4T-eauwQ",
-        "title": "ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=kwi4T-eauwQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore...."
     },
     {
         "id": "X0xCiXQPXvM",
@@ -2029,27 +2040,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OW-t9oaTyGU",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : J’ai Recréé une APP à 34M€ en 20 Minutes avec l’IA..."
-    },
-    {
-        "id": "4rIbDGu1nkg",
-        "videoId": "4rIbDGu1nkg",
-        "title": "L'IA devient simple quand on utilise ce système",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-14",
-        "url": "https://www.youtube.com/watch?v=4rIbDGu1nkg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'IA devient simple quand on utilise ce système..."
-    },
-    {
-        "id": "RM2zdhCSOMM",
-        "videoId": "RM2zdhCSOMM",
-        "title": "Les automatisations N8N c'est terminé, voici Antigravity et Claude Code",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-14",
-        "url": "https://www.youtube.com/watch?v=RM2zdhCSOMM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Les automatisations N8N c'est terminé, voici Antigravity et Claude Code..."
     }
 ];
