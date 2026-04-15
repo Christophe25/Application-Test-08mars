@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-14T07:24:56.763Z
+// Fichier généré automatiquement le 2026-04-15T07:25:15.099Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:24:56 AM 4/14/2026";
+export const lastUpdate = "7:25:15 AM 4/15/2026";
 
 export const sources = [
     {
@@ -157,6 +157,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "ol-6uHtwPa8",
+        "videoId": "ol-6uHtwPa8",
+        "title": "Vibe Prospecting - Claude IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=ol-6uHtwPa8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Vibe Prospecting - Claude IA..."
+    },
+    {
+        "id": "9RVzj8bJj6g",
+        "videoId": "9RVzj8bJj6g",
+        "title": "Copilot Cowork est désormais disponible... quelle folie !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=9RVzj8bJj6g",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Copilot Cowork est désormais disponible... quelle folie !..."
+    },
+    {
+        "id": "9_T-RzbA_EQ",
+        "videoId": "9_T-RzbA_EQ",
+        "title": "Votre futur employeur est une IA (ça a déjà commencé)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=9_T-RzbA_EQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Votre futur employeur est une IA (ça a déjà commencé)..."
+    },
     {
         "id": "Dv6suL5-fAE",
         "videoId": "Dv6suL5-fAE",
@@ -2018,27 +2051,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=P56CwdKSyq0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude 5 Sonnet va faire trembler OpenAI 👀..."
-    },
-    {
-        "id": "OrrvAMRUYy0",
-        "videoId": "OrrvAMRUYy0",
-        "title": "Arrête d'utiliser des agents IA pour tout (utilise ça à la place)",
-        "author": "Ousmane Automatise",
-        "source": "@ousmanedf",
-        "date": "2026-02-15",
-        "url": "https://www.youtube.com/watch?v=OrrvAMRUYy0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ousmane Automatise : Arrête d'utiliser des agents IA pour tout (utilise ça à la place)..."
-    },
-    {
-        "id": "OW-t9oaTyGU",
-        "videoId": "OW-t9oaTyGU",
-        "title": "J’ai Recréé une APP à 34M€ en 20 Minutes avec l’IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-02-15",
-        "url": "https://www.youtube.com/watch?v=OW-t9oaTyGU",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : J’ai Recréé une APP à 34M€ en 20 Minutes avec l’IA..."
     }
 ];
