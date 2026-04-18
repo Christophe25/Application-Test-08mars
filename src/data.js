@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-17T07:26:58.295Z
+// Fichier généré automatiquement le 2026-04-18T07:01:54.044Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:26:58 AM 4/17/2026";
+export const lastUpdate = "7:01:54 AM 4/18/2026";
 
 export const sources = [
     {
@@ -157,6 +157,73 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "DHBtvl6k_1E",
+        "videoId": "DHBtvl6k_1E",
+        "title": "J’ai nettoyé ma boîte mail grâce à Claude Cowork",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=DHBtvl6k_1E",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J’ai nettoyé ma boîte mail grâce à Claude Cowork..."
+    },
+    {
+        "id": "WLn98Sdvb3c",
+        "videoId": "WLn98Sdvb3c",
+        "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=WLn98Sdvb3c",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨..."
+    },
+    {
+        "id": "wRaGk8WVBEI",
+        "videoId": "wRaGk8WVBEI",
+        "title": "Opus 4.7 dans Claude Code : ça CHANGE tout 🔥",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=wRaGk8WVBEI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Opus 4.7 dans Claude Code : ça CHANGE tout 🔥..."
+    },
+    {
+        "id": "LAgKHltJRW0",
+        "videoId": "LAgKHltJRW0",
+        "title": "Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=LAgKHltJRW0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "7sgi0zIf8r0",
+        "videoId": "7sgi0zIf8r0",
+        "title": "GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=7sgi0zIf8r0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !..."
+    },
+    {
+        "id": "sb0PTDh2zLs",
+        "videoId": "sb0PTDh2zLs",
+        "title": "Canva vient de lancer quelque chose d'INSANE 🤯",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=sb0PTDh2zLs",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Canva vient de lancer quelque chose d'INSANE 🤯..."
+    },
     {
         "id": "er63Jet24pM",
         "videoId": "er63Jet24pM",
@@ -743,18 +810,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "deD29pvffko",
-        "videoId": "deD29pvffko",
-        "title": "Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=deD29pvffko",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts...",
-        "isShort": true
-    },
-    {
         "id": "wkj501BcL0U",
         "videoId": "wkj501BcL0U",
         "title": "Transforme ta vidéo dans une ambiance « Golden Hour »",
@@ -896,17 +951,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=FpVB_B6etu4",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)..."
-    },
-    {
-        "id": "tLjmEe-xeDw",
-        "videoId": "tLjmEe-xeDw",
-        "title": "ChatGPT est dépassé",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=tLjmEe-xeDw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
     },
     {
         "id": "mUFTkEVVeK8",
@@ -1336,17 +1380,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=20Q2Ry-Q8mA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Suis ta conso Claude Code super simplement ! 👀..."
-    },
-    {
-        "id": "kKBXnbNUjTc",
-        "videoId": "kKBXnbNUjTc",
-        "title": "Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=kKBXnbNUjTc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱..."
     },
     {
         "id": "vP0qh6ch99o",
@@ -2040,16 +2073,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ri3kfMy9aD0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des meilleurs outils IA de 2026..."
-    },
-    {
-        "id": "t3Dr073cCHQ",
-        "videoId": "t3Dr073cCHQ",
-        "title": "Comment Prospecter sur Linkedin en Automatique avec n8n, Unipile et Apify (Système Complet)",
-        "author": "Lucas Reverdy",
-        "source": "@reverdybusiness",
-        "date": "2026-02-18",
-        "url": "https://www.youtube.com/watch?v=t3Dr073cCHQ",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Lucas Reverdy : Comment Prospecter sur Linkedin en Automatique avec n8n, Unipile et Apify (Système Complet)..."
     }
 ];
