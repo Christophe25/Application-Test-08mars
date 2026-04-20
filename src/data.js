@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-19T07:13:36.039Z
+// Fichier généré automatiquement le 2026-04-20T08:00:15.954Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:13:36 AM 4/19/2026";
+export const lastUpdate = "8:00:15 AM 4/20/2026";
 
 export const sources = [
     {
@@ -157,6 +157,96 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "drl9eIkOHYE",
+        "videoId": "drl9eIkOHYE",
+        "title": "Faire 10K€/mois dans l'IA sans compétences, c'est facile (c'est mathématique)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=drl9eIkOHYE",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Faire 10K€/mois dans l'IA sans compétences, c'est facile (c'est mathématique)..."
+    },
+    {
+        "id": "j-cSUOacZqA",
+        "videoId": "j-cSUOacZqA",
+        "title": "Google a lancé discrètement 6 outils d’IA 100 % gratuits",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=j-cSUOacZqA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Google a lancé discrètement 6 outils d’IA 100 % gratuits..."
+    },
+    {
+        "id": "5MIDO2fApqU",
+        "videoId": "5MIDO2fApqU",
+        "title": "Classement des meilleures IA !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=5MIDO2fApqU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Classement des meilleures IA !..."
+    },
+    {
+        "id": "H9BNiEn_pJ8",
+        "videoId": "H9BNiEn_pJ8",
+        "title": "7 Outils IA Indispensables Pour Votre Business",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=H9BNiEn_pJ8",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : 7 Outils IA Indispensables Pour Votre Business..."
+    },
+    {
+        "id": "42YwmEATn9E",
+        "videoId": "42YwmEATn9E",
+        "title": "Créez des designs INCROYABLES avec l'IA ! Inspiration Claude & Inspiré par Claude #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=42YwmEATn9E",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez des designs INCROYABLES avec l'IA ! Inspiration Claude & Inspiré par Claude #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "lDONBpCpQCo",
+        "videoId": "lDONBpCpQCo",
+        "title": "IA Révolutionne Votre Design Web : Changements Express Instantanés ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=lDONBpCpQCo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Révolutionne Votre Design Web : Changements Express Instantanés ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "kWrWE8q-e9s",
+        "videoId": "kWrWE8q-e9s",
+        "title": "Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=kWrWE8q-e9s",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)..."
+    },
+    {
+        "id": "R6Kc3fQs3CQ",
+        "videoId": "R6Kc3fQs3CQ",
+        "title": "La surprise Canva Create que personne n'a vu venir",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-19",
+        "url": "https://www.youtube.com/watch?v=R6Kc3fQs3CQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : La surprise Canva Create que personne n'a vu venir..."
+    },
     {
         "id": "Pz9R-Y8eISU",
         "videoId": "Pz9R-Y8eISU",
@@ -709,30 +799,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Paperclip + OpenClaw : mon équipe IA tourne 24h/24..."
     },
     {
-        "id": "DarX43yChKY",
-        "videoId": "DarX43yChKY",
-        "title": "IA & Telegram: Le Futur est là! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=DarX43yChKY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA & Telegram: Le Futur est là! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "aSY3enQYIuE",
-        "videoId": "aSY3enQYIuE",
-        "title": "IA Claude Code: Votre Assistant Personnel 24/7 Révolutionnaire #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=aSY3enQYIuE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Claude Code: Votre Assistant Personnel 24/7 Révolutionnaire #shorts...",
-        "isShort": true
-    },
-    {
         "id": "e97xFyORj_k",
         "videoId": "e97xFyORj_k",
         "title": "Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !",
@@ -799,17 +865,6 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)..."
     },
     {
-        "id": "PJtphhpRm1E",
-        "videoId": "PJtphhpRm1E",
-        "title": "Produire du meilleur contenu grâce à l’IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=PJtphhpRm1E",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Produire du meilleur contenu grâce à l’IA..."
-    },
-    {
         "id": "dFM7dnRRdM8",
         "videoId": "dFM7dnRRdM8",
         "title": "Le nouveau GPT Image 2 dans ChatGPT est époustouflant !",
@@ -841,17 +896,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
-    },
-    {
-        "id": "wkj501BcL0U",
-        "videoId": "wkj501BcL0U",
-        "title": "Transforme ta vidéo dans une ambiance « Golden Hour »",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=wkj501BcL0U",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Transforme ta vidéo dans une ambiance « Golden Hour »..."
     },
     {
         "id": "avDtMURiHs0",
@@ -1910,17 +1954,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : ENFIN.... !..."
     },
     {
-        "id": "fKGW2r8z6iI",
-        "videoId": "fKGW2r8z6iI",
-        "title": "Claude Cowork est la première IA qui donne l'impression d'être un véritable employé.",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-02-25",
-        "url": "https://www.youtube.com/watch?v=fKGW2r8z6iI",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Claude Cowork est la première IA qui donne l'impression d'être un véritable employé...."
-    },
-    {
         "id": "gIhkAD_DCOo",
         "videoId": "gIhkAD_DCOo",
         "title": "FIGMA EST MORT ? Google arrive fort avec cette nouvelle IA ! 😱",
@@ -2040,27 +2073,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4uZAIEFBOc4",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Vous utilisez l'IA mais vous ne gagnez pas de temps ? Je vous montre comment changer ça..."
-    },
-    {
-        "id": "JmI6CiZTR0Y",
-        "videoId": "JmI6CiZTR0Y",
-        "title": "ANTIGRAVITY + HOSTINGER : les meilleurs outils pour vibecoder",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-02-20",
-        "url": "https://www.youtube.com/watch?v=JmI6CiZTR0Y",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : ANTIGRAVITY + HOSTINGER : les meilleurs outils pour vibecoder..."
-    },
-    {
-        "id": "gob6AZwS-TI",
-        "videoId": "gob6AZwS-TI",
-        "title": "Le Guide Claude COWORK ULTIME en 2026 ! (méthode complète)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-20",
-        "url": "https://www.youtube.com/watch?v=gob6AZwS-TI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Le Guide Claude COWORK ULTIME en 2026 ! (méthode complète)..."
     }
 ];
