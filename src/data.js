@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-20T08:00:15.954Z
+// Fichier généré automatiquement le 2026-04-21T07:29:10.118Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:00:15 AM 4/20/2026";
+export const lastUpdate = "7:29:10 AM 4/21/2026";
 
 export const sources = [
     {
@@ -157,6 +157,63 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "WuifYc86nQk",
+        "videoId": "WuifYc86nQk",
+        "title": "7 utilisations INCROYABLES de Claude DESIGN (Anthropic frappe FORT)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-20",
+        "url": "https://www.youtube.com/watch?v=WuifYc86nQk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 7 utilisations INCROYABLES de Claude DESIGN (Anthropic frappe FORT)..."
+    },
+    {
+        "id": "yAmJcjT9RcY",
+        "videoId": "yAmJcjT9RcY",
+        "title": "Comment installer Claude Code de manière 100% gratuite",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-20",
+        "url": "https://www.youtube.com/watch?v=yAmJcjT9RcY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code de manière 100% gratuite..."
+    },
+    {
+        "id": "L9ZE0wi3-3Y",
+        "videoId": "L9ZE0wi3-3Y",
+        "title": "L'IA refait votre site web en orange : design fluide et rapide #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-20",
+        "url": "https://www.youtube.com/watch?v=L9ZE0wi3-3Y",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : L'IA refait votre site web en orange : design fluide et rapide #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "MWFlTdpwi74",
+        "videoId": "MWFlTdpwi74",
+        "title": "Créez des landing pages IA stylées en quelques secondes ! 🚀 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-20",
+        "url": "https://www.youtube.com/watch?v=MWFlTdpwi74",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez des landing pages IA stylées en quelques secondes ! 🚀 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "MduQOd_cDzs",
+        "videoId": "MduQOd_cDzs",
+        "title": "La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-20",
+        "url": "https://www.youtube.com/watch?v=MduQOd_cDzs",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)..."
+    },
     {
         "id": "drl9eIkOHYE",
         "videoId": "drl9eIkOHYE",
@@ -729,41 +786,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=I5FbWuX7AZQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi..."
-    },
-    {
-        "id": "DEMm8_P0BJg",
-        "videoId": "DEMm8_P0BJg",
-        "title": "Firefly & AI OS: Révolutionnez Vos Réunions Pro! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=DEMm8_P0BJg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Firefly & AI OS: Révolutionnez Vos Réunions Pro! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "buJF9Lc6mrQ",
-        "videoId": "buJF9Lc6mrQ",
-        "title": "Révolutionnez Votre Business avec cet Assistant IA Cloud! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=buJF9Lc6mrQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Révolutionnez Votre Business avec cet Assistant IA Cloud! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "4pEAqRxuNXA",
-        "videoId": "4pEAqRxuNXA",
-        "title": "Trois choses à faire immédiatement quand tu commences à utiliser Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=4pEAqRxuNXA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Trois choses à faire immédiatement quand tu commences à utiliser Claude..."
     },
     {
         "id": "_vUbdaThfag",
@@ -2062,16 +2084,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5PJsJX0a1x0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Claude fait mon MONTAGE en AUTOMATIQUE, je te montre comment !..."
-    },
-    {
-        "id": "4uZAIEFBOc4",
-        "videoId": "4uZAIEFBOc4",
-        "title": "Vous utilisez l'IA mais vous ne gagnez pas de temps ? Je vous montre comment changer ça",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-21",
-        "url": "https://www.youtube.com/watch?v=4uZAIEFBOc4",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Vous utilisez l'IA mais vous ne gagnez pas de temps ? Je vous montre comment changer ça..."
     }
 ];
