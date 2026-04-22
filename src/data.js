@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-21T07:29:10.118Z
+// Fichier généré automatiquement le 2026-04-22T07:26:47.171Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:29:10 AM 4/21/2026";
+export const lastUpdate = "7:26:47 AM 4/22/2026";
 
 export const sources = [
     {
@@ -157,6 +157,63 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "JLrI5I3114M",
+        "videoId": "JLrI5I3114M",
+        "title": "5 choses que Claude Cowork peut faire à ta place pendant que tu dors !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-21",
+        "url": "https://www.youtube.com/watch?v=JLrI5I3114M",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 choses que Claude Cowork peut faire à ta place pendant que tu dors !..."
+    },
+    {
+        "id": "RQhj_I_erVg",
+        "videoId": "RQhj_I_erVg",
+        "title": "5 secrets sur Claude que personne ne connait !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-21",
+        "url": "https://www.youtube.com/watch?v=RQhj_I_erVg",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 5 secrets sur Claude que personne ne connait !..."
+    },
+    {
+        "id": "PvkMwQkqw2Q",
+        "videoId": "PvkMwQkqw2Q",
+        "title": "Ce design IA colle PARFAITEMENT à Claude - Incroyable ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-21",
+        "url": "https://www.youtube.com/watch?v=PvkMwQkqw2Q",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ce design IA colle PARFAITEMENT à Claude - Incroyable ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "NKvWOv1H9n8",
+        "videoId": "NKvWOv1H9n8",
+        "title": "Stitch : Votre SAS devient un VRAI site web interactif ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-21",
+        "url": "https://www.youtube.com/watch?v=NKvWOv1H9n8",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Stitch : Votre SAS devient un VRAI site web interactif ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "rj4jY_hTB0E",
+        "videoId": "rj4jY_hTB0E",
+        "title": "Le secret pour débloquer Canva AI 2.0 gratuitement",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-21",
+        "url": "https://www.youtube.com/watch?v=rj4jY_hTB0E",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Le secret pour débloquer Canva AI 2.0 gratuitement..."
+    },
     {
         "id": "WuifYc86nQk",
         "videoId": "WuifYc86nQk",
@@ -718,30 +775,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uIjp0Bx9mWg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Où vont vraiment vos données quand vous parlez à l'IA..."
-    },
-    {
-        "id": "yZsjXWvQ7uI",
-        "videoId": "yZsjXWvQ7uI",
-        "title": "Contrôlez Claude Code à distance via Telegram ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=yZsjXWvQ7uI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Contrôlez Claude Code à distance via Telegram ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "FH8A5rayanQ",
-        "videoId": "FH8A5rayanQ",
-        "title": "Sécurisez Claude Code: Accès Telegram Protégé! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=FH8A5rayanQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Sécurisez Claude Code: Accès Telegram Protégé! #shorts...",
-        "isShort": true
     },
     {
         "id": "ylQjPERdnPM",
@@ -2051,38 +2084,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2QY2v_MAg8U",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro + Antigravity détruisent tous les designers de sites..."
-    },
-    {
-        "id": "unA3slO6aSY",
-        "videoId": "unA3slO6aSY",
-        "title": "5 Automatisations IA à Implémenter dans TOUTES Les Entreprises",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-02-22",
-        "url": "https://www.youtube.com/watch?v=unA3slO6aSY",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 5 Automatisations IA à Implémenter dans TOUTES Les Entreprises..."
-    },
-    {
-        "id": "ebdv_ac6hQY",
-        "videoId": "ebdv_ac6hQY",
-        "title": "Construis une app en 2 min avec Claude Code (même si t'y connais rien)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-22",
-        "url": "https://www.youtube.com/watch?v=ebdv_ac6hQY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Construis une app en 2 min avec Claude Code (même si t'y connais rien)..."
-    },
-    {
-        "id": "5PJsJX0a1x0",
-        "videoId": "5PJsJX0a1x0",
-        "title": "Claude fait mon MONTAGE en AUTOMATIQUE, je te montre comment !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-02-22",
-        "url": "https://www.youtube.com/watch?v=5PJsJX0a1x0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Claude fait mon MONTAGE en AUTOMATIQUE, je te montre comment !..."
     }
 ];
