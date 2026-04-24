@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-23T07:44:53.411Z
+// Fichier généré automatiquement le 2026-04-24T07:56:14.464Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:44:53 AM 4/23/2026";
+export const lastUpdate = "7:56:14 AM 4/24/2026";
 
 export const sources = [
     {
@@ -158,6 +158,63 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "RIlyLguqR8o",
+        "videoId": "RIlyLguqR8o",
+        "title": "Claude vient d'anéantir les web designers.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=RIlyLguqR8o",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'anéantir les web designers...."
+    },
+    {
+        "id": "aWadvdrEP6I",
+        "videoId": "aWadvdrEP6I",
+        "title": "Claude Code + Blotato : Créer une campagne marketing en 1 prompt",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=aWadvdrEP6I",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Code + Blotato : Créer une campagne marketing en 1 prompt..."
+    },
+    {
+        "id": "7nAJfe2afoU",
+        "videoId": "7nAJfe2afoU",
+        "title": "Claude Code + Blotato : 30 Jours de Contenu en 1 Seul Prompt",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=7nAJfe2afoU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Code + Blotato : 30 Jours de Contenu en 1 Seul Prompt..."
+    },
+    {
+        "id": "tMEynH4FBoM",
+        "videoId": "tMEynH4FBoM",
+        "title": "Connectez Claude Code à Stitch : Le MCP Expliqué ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=tMEynH4FBoM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Connectez Claude Code à Stitch : Le MCP Expliqué ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "EPcWZPXd0Vo",
+        "videoId": "EPcWZPXd0Vo",
+        "title": "Ce SAS pour créer des hooks : un design qui cartonne ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=EPcWZPXd0Vo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ce SAS pour créer des hooks : un design qui cartonne ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "uozXZRzevKQ",
         "videoId": "uozXZRzevKQ",
         "title": "Sélectionner et commenter des éléments visuels en direct #shorts",
@@ -168,6 +225,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Sélectionner et commenter des éléments visuels en direct #shorts...",
         "isShort": true
+    },
+    {
+        "id": "Ac6etyFXc54",
+        "videoId": "Ac6etyFXc54",
+        "title": "Utilise Claude Design pour le Montage Vidéo (Crois moi)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=Ac6etyFXc54",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Utilise Claude Design pour le Montage Vidéo (Crois moi)..."
     },
     {
         "id": "lXnCuvAbXrA",
@@ -194,13 +262,13 @@ export const allVideos = [
     {
         "id": "dOlYHNSifGc",
         "videoId": "dOlYHNSifGc",
-        "title": "Le nouveau GPT Image 2 est disponible.. et c'est bluffant !",
+        "title": "7 Exemples DINGUES de ChatGPT Image 2.0 !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-04-22",
         "url": "https://www.youtube.com/watch?v=dOlYHNSifGc",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le nouveau GPT Image 2 est disponible.. et c'est bluffant !..."
+        "summary": "Nouveauté de Elliott Pierret : 7 Exemples DINGUES de ChatGPT Image 2.0 !..."
     },
     {
         "id": "CkUtbdamfCk",
@@ -687,18 +755,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire...."
     },
     {
-        "id": "--EcemLcPng",
-        "videoId": "--EcemLcPng",
-        "title": "Meilleures Voix IA 2026: Mon Classement Ultime #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=--EcemLcPng",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Meilleures Voix IA 2026: Mon Classement Ultime #shorts...",
-        "isShort": true
-    },
-    {
         "id": "ol-6uHtwPa8",
         "videoId": "ol-6uHtwPa8",
         "title": "Vibe Prospecting - Claude IA",
@@ -776,18 +832,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : MAUVAIS vs BON vs EXCELLENT 🤖..."
     },
     {
-        "id": "BE-a3usqB4w",
-        "videoId": "BE-a3usqB4w",
-        "title": "Claude AI: Test Dispatch avec Nouvelle Fonctionnalité Incroyable #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=BE-a3usqB4w",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude AI: Test Dispatch avec Nouvelle Fonctionnalité Incroyable #shorts...",
-        "isShort": true
-    },
-    {
         "id": "LbPvgHNthJs",
         "videoId": "LbPvgHNthJs",
         "title": "J'ai appris l'espagnol en 2 semaines avec l'IA (Je teste ça à Séville)",
@@ -852,17 +896,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ylQjPERdnPM",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 3 façons d’utiliser Claude qui sont surpuissante !..."
-    },
-    {
-        "id": "eT_srmttI3M",
-        "videoId": "eT_srmttI3M",
-        "title": "L'IA organise mes vacances, imaginez ce qu'elle fait pour mon business",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=eT_srmttI3M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : L'IA organise mes vacances, imaginez ce qu'elle fait pour mon business..."
     },
     {
         "id": "k5c0MC0BAX8",
@@ -1767,17 +1800,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : 10 Astuces pour devenir un PRO sur Claude Code !..."
     },
     {
-        "id": "k7fvdpqBWcM",
-        "videoId": "k7fvdpqBWcM",
-        "title": "Voici comment bien configurer un projet Claude Code 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-08",
-        "url": "https://www.youtube.com/watch?v=k7fvdpqBWcM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Voici comment bien configurer un projet Claude Code 👀..."
-    },
-    {
         "id": "FF1JIA_TCug",
         "videoId": "FF1JIA_TCug",
         "title": "Claude code Remote control vient de détrôner openclaw",
@@ -2051,60 +2073,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aIx8UECB3HA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : ENFIN.... !..."
-    },
-    {
-        "id": "gIhkAD_DCOo",
-        "videoId": "gIhkAD_DCOo",
-        "title": "FIGMA EST MORT ? Google arrive fort avec cette nouvelle IA ! 😱",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-02-24",
-        "url": "https://www.youtube.com/watch?v=gIhkAD_DCOo",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : FIGMA EST MORT ? Google arrive fort avec cette nouvelle IA ! 😱..."
-    },
-    {
-        "id": "04CweTdLVnk",
-        "videoId": "04CweTdLVnk",
-        "title": "Comment créer votre PREMIER agent IA en 2026 (sans coder)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-24",
-        "url": "https://www.youtube.com/watch?v=04CweTdLVnk",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Comment créer votre PREMIER agent IA en 2026 (sans coder)..."
-    },
-    {
-        "id": "sWM7WVMsMJk",
-        "videoId": "sWM7WVMsMJk",
-        "title": "OpenClaw : 4 ASTUCES pour le rendre 10x plus PUISSANT 🔥(VPS Hostinger)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-24",
-        "url": "https://www.youtube.com/watch?v=sWM7WVMsMJk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : OpenClaw : 4 ASTUCES pour le rendre 10x plus PUISSANT 🔥(VPS Hostinger)..."
-    },
-    {
-        "id": "ExfqNGWETMU",
-        "videoId": "ExfqNGWETMU",
-        "title": "Gemini 3.1 Pro vient de sortir, et c’est une dinguerie",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-24",
-        "url": "https://www.youtube.com/watch?v=ExfqNGWETMU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro vient de sortir, et c’est une dinguerie..."
-    },
-    {
-        "id": "--zIrAuE90c",
-        "videoId": "--zIrAuE90c",
-        "title": "Apprendre en 2026 : Ma méthode pour assimiler 2x plus d’infos",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-02-24",
-        "url": "https://www.youtube.com/watch?v=--zIrAuE90c",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Apprendre en 2026 : Ma méthode pour assimiler 2x plus d’infos..."
     }
 ];
