@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-24T07:56:14.464Z
+// Fichier généré automatiquement le 2026-04-25T07:08:23.095Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:56:14 AM 4/24/2026";
+export const lastUpdate = "7:08:23 AM 4/25/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "DxcWipXoUV8",
+        "videoId": "DxcWipXoUV8",
+        "title": "Claude vient d'enterrer les logiciels de montage",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=DxcWipXoUV8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'enterrer les logiciels de montage..."
+    },
+    {
+        "id": "bWvUQNEGqDE",
+        "videoId": "bWvUQNEGqDE",
+        "title": "DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=bWvUQNEGqDE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳..."
+    },
     {
         "id": "RIlyLguqR8o",
         "videoId": "RIlyLguqR8o",
@@ -887,17 +909,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Où vont vraiment vos données quand vous parlez à l'IA..."
     },
     {
-        "id": "ylQjPERdnPM",
-        "videoId": "ylQjPERdnPM",
-        "title": "3 façons d’utiliser Claude qui sont surpuissante !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=ylQjPERdnPM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 façons d’utiliser Claude qui sont surpuissante !..."
-    },
-    {
         "id": "k5c0MC0BAX8",
         "videoId": "k5c0MC0BAX8",
         "title": "Muse Spark : l’IA de Meta est INCROYABLE ? (test complet) 😱🚨",
@@ -1380,17 +1391,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-LXUVXwv2FI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Claude Dispatch, la nouvelle folie d'Anthropic !..."
-    },
-    {
-        "id": "6E7_p3gxRdc",
-        "videoId": "6E7_p3gxRdc",
-        "title": "Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=6E7_p3gxRdc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯..."
     },
     {
         "id": "e0hwvA2cjGY",
