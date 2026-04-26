@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-25T07:08:23.095Z
+// Fichier généré automatiquement le 2026-04-26T07:22:48.208Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:08:23 AM 4/25/2026";
+export const lastUpdate = "7:22:48 AM 4/26/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "gOZzPFNR0Kw",
+        "videoId": "gOZzPFNR0Kw",
+        "title": "Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-25",
+        "url": "https://www.youtube.com/watch?v=gOZzPFNR0Kw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?..."
+    },
+    {
+        "id": "eDhOomO4FpE",
+        "videoId": "eDhOomO4FpE",
+        "title": "Le paradoxe de l'IA : plus tu progresses, plus tu te perds",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-04-25",
+        "url": "https://www.youtube.com/watch?v=eDhOomO4FpE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le paradoxe de l'IA : plus tu progresses, plus tu te perds..."
+    },
     {
         "id": "DxcWipXoUV8",
         "videoId": "DxcWipXoUV8",
@@ -841,17 +863,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wriLF7fReMQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE dans EXCEL : l'IA qui change tout..."
-    },
-    {
-        "id": "BP8dRHl3ij4",
-        "videoId": "BP8dRHl3ij4",
-        "title": "MAUVAIS vs BON vs EXCELLENT 🤖",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=BP8dRHl3ij4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : MAUVAIS vs BON vs EXCELLENT 🤖..."
     },
     {
         "id": "LbPvgHNthJs",
@@ -2040,38 +2051,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YaK_n0yhPXE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Claude connecte Google à n8n sans erreur | Tutoriel complet..."
-    },
-    {
-        "id": "t8nxFyZtgbw",
-        "videoId": "t8nxFyZtgbw",
-        "title": "Claude vient d'arriver dans Powerpoint... c'est terrifiant !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-02-26",
-        "url": "https://www.youtube.com/watch?v=t8nxFyZtgbw",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Claude vient d'arriver dans Powerpoint... c'est terrifiant !..."
-    },
-    {
-        "id": "by_rpps-zdM",
-        "videoId": "by_rpps-zdM",
-        "title": "Les Agents IA sont TROP Utilisés. Voici ce qu’il faut faire à la place",
-        "author": "Louis Graffeuil",
-        "source": "@LouisGraffeuil",
-        "date": "2026-02-26",
-        "url": "https://www.youtube.com/watch?v=by_rpps-zdM",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Louis Graffeuil : Les Agents IA sont TROP Utilisés. Voici ce qu’il faut faire à la place..."
-    },
-    {
-        "id": "aIx8UECB3HA",
-        "videoId": "aIx8UECB3HA",
-        "title": "ENFIN.... !",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-02-26",
-        "url": "https://www.youtube.com/watch?v=aIx8UECB3HA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : ENFIN.... !..."
     }
 ];
