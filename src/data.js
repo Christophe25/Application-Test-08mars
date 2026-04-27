@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-26T07:22:48.208Z
+// Fichier généré automatiquement le 2026-04-27T08:14:23.990Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:22:48 AM 4/26/2026";
+export const lastUpdate = "8:14:23 AM 4/27/2026";
 
 export const sources = [
     {
@@ -157,6 +157,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "iZnp0kQ_NnY",
+        "videoId": "iZnp0kQ_NnY",
+        "title": "Comment faire 12.000€/mois avec Claude Code",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-26",
+        "url": "https://www.youtube.com/watch?v=iZnp0kQ_NnY",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Comment faire 12.000€/mois avec Claude Code..."
+    },
+    {
+        "id": "aq6WqNxWfw4",
+        "videoId": "aq6WqNxWfw4",
+        "title": "3 choses qui rendent tes sessions Claude Code plus chères et voici comment les corriger.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-26",
+        "url": "https://www.youtube.com/watch?v=aq6WqNxWfw4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 3 choses qui rendent tes sessions Claude Code plus chères et voici comment les corriger...."
+    },
+    {
+        "id": "kpG1v9uZd4E",
+        "videoId": "kpG1v9uZd4E",
+        "title": "Claude Design est INCROYABLE",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-04-26",
+        "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Claude Design est INCROYABLE..."
+    },
     {
         "id": "gOZzPFNR0Kw",
         "videoId": "gOZzPFNR0Kw",
@@ -852,17 +885,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=avCn3cdcT_g",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes pour ChatGPT # short..."
-    },
-    {
-        "id": "wriLF7fReMQ",
-        "videoId": "wriLF7fReMQ",
-        "title": "CLAUDE dans EXCEL : l'IA qui change tout",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=wriLF7fReMQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE dans EXCEL : l'IA qui change tout..."
     },
     {
         "id": "LbPvgHNthJs",
@@ -1965,17 +1987,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)..."
     },
     {
-        "id": "M6mxHWfjxms",
-        "videoId": "M6mxHWfjxms",
-        "title": "LA MORT DU SAAS... L'ARRIVÉ DES PAAS IA (TUTO BUSINESS 2026)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-02",
-        "url": "https://www.youtube.com/watch?v=M6mxHWfjxms",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : LA MORT DU SAAS... L'ARRIVÉ DES PAAS IA (TUTO BUSINESS 2026)..."
-    },
-    {
         "id": "9wQIJOmUpEM",
         "videoId": "9wQIJOmUpEM",
         "title": "Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)",
@@ -2029,27 +2040,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=b2UF-1l3I_Q",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : J'ai connecté l'IA à mes outils et elle automatise tout à ma place..."
-    },
-    {
-        "id": "XdTmq1shdac",
-        "videoId": "XdTmq1shdac",
-        "title": "LA FIN DES DÉVELOPPEURS ? Le métier évolue grandement",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-02-27",
-        "url": "https://www.youtube.com/watch?v=XdTmq1shdac",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : LA FIN DES DÉVELOPPEURS ? Le métier évolue grandement..."
-    },
-    {
-        "id": "YaK_n0yhPXE",
-        "videoId": "YaK_n0yhPXE",
-        "title": "Claude connecte Google à n8n sans erreur | Tutoriel complet",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-02-27",
-        "url": "https://www.youtube.com/watch?v=YaK_n0yhPXE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Claude connecte Google à n8n sans erreur | Tutoriel complet..."
     }
 ];
