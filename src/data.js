@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-27T08:14:23.990Z
+// Fichier généré automatiquement le 2026-04-28T08:18:05.774Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:14:23 AM 4/27/2026";
+export const lastUpdate = "8:18:05 AM 4/28/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "YU4bmtJF_J4",
+        "videoId": "YU4bmtJF_J4",
+        "title": "5 outils IA indispensables pour les petites entreprises en 2026",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=YU4bmtJF_J4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 outils IA indispensables pour les petites entreprises en 2026..."
+    },
+    {
+        "id": "lMsM3SmfTuY",
+        "videoId": "lMsM3SmfTuY",
+        "title": "Créer un court métrage gratuit avec l'IA (TUTO COMPLET)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=lMsM3SmfTuY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Créer un court métrage gratuit avec l'IA (TUTO COMPLET)..."
+    },
     {
         "id": "iZnp0kQ_NnY",
         "videoId": "iZnp0kQ_NnY",
@@ -874,17 +896,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Dv6suL5-fAE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : 7 leviers (que personne n’utilise) pour boire la concurrence dans l’IA...."
-    },
-    {
-        "id": "avCn3cdcT_g",
-        "videoId": "avCn3cdcT_g",
-        "title": "5 commandes secrètes pour ChatGPT # short",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=avCn3cdcT_g",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes pour ChatGPT # short..."
     },
     {
         "id": "LbPvgHNthJs",
@@ -2029,16 +2040,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xfO9fMx6PlA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : J'ai branché l'IA sur mon second cerveau (avant/après)..."
-    },
-    {
-        "id": "b2UF-1l3I_Q",
-        "videoId": "b2UF-1l3I_Q",
-        "title": "J'ai connecté l'IA à mes outils et elle automatise tout à ma place",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-28",
-        "url": "https://www.youtube.com/watch?v=b2UF-1l3I_Q",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai connecté l'IA à mes outils et elle automatise tout à ma place..."
     }
 ];
