@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-28T08:18:05.774Z
+// Fichier généré automatiquement le 2026-04-29T08:09:36.460Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:18:05 AM 4/28/2026";
+export const lastUpdate = "8:09:36 AM 4/29/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "ZRvSBz1I1Hk",
+        "videoId": "ZRvSBz1I1Hk",
+        "title": "Cette IA chinoise vient de faire trembler tous les générateurs vidéo du marché.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-28",
+        "url": "https://www.youtube.com/watch?v=ZRvSBz1I1Hk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette IA chinoise vient de faire trembler tous les générateurs vidéo du marché...."
+    },
+    {
+        "id": "REiHTKMFDSI",
+        "videoId": "REiHTKMFDSI",
+        "title": "5 Hacks pour économiser tes Tokens dans Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-28",
+        "url": "https://www.youtube.com/watch?v=REiHTKMFDSI",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 5 Hacks pour économiser tes Tokens dans Claude !..."
+    },
     {
         "id": "YU4bmtJF_J4",
         "videoId": "YU4bmtJF_J4",
@@ -852,17 +874,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=x35M5aKFN78",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire...."
-    },
-    {
-        "id": "ol-6uHtwPa8",
-        "videoId": "ol-6uHtwPa8",
-        "title": "Vibe Prospecting - Claude IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-14",
-        "url": "https://www.youtube.com/watch?v=ol-6uHtwPa8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Vibe Prospecting - Claude IA..."
     },
     {
         "id": "9RVzj8bJj6g",
@@ -2018,27 +2029,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9PYIce0J6Xg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT..."
-    },
-    {
-        "id": "XnkPhN7S3B8",
-        "videoId": "XnkPhN7S3B8",
-        "title": "Pourquoi le monde entier est obsédé par OpenClaw (Guide Complet Débutant)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-03-01",
-        "url": "https://www.youtube.com/watch?v=XnkPhN7S3B8",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Pourquoi le monde entier est obsédé par OpenClaw (Guide Complet Débutant)..."
-    },
-    {
-        "id": "xfO9fMx6PlA",
-        "videoId": "xfO9fMx6PlA",
-        "title": "J'ai branché l'IA sur mon second cerveau (avant/après)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-01",
-        "url": "https://www.youtube.com/watch?v=xfO9fMx6PlA",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai branché l'IA sur mon second cerveau (avant/après)..."
     }
 ];
