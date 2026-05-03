@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-02T07:26:35.820Z
+// Fichier généré automatiquement le 2026-05-03T07:56:47.491Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:26:35 AM 5/2/2026";
+export const lastUpdate = "7:56:47 AM 5/3/2026";
 
 export const sources = [
     {
@@ -158,6 +158,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "XVZ3gjv8mfs",
+        "videoId": "XVZ3gjv8mfs",
+        "title": "Tu brûles des crédits Claude sans le savoir.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=XVZ3gjv8mfs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu brûles des crédits Claude sans le savoir...."
+    },
+    {
+        "id": "IubQUC9TL2w",
+        "videoId": "IubQUC9TL2w",
+        "title": "L'IA devient simple avec un Second Cerveau IA (cours complet)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=IubQUC9TL2w",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L'IA devient simple avec un Second Cerveau IA (cours complet)..."
+    },
+    {
+        "id": "_QR6ShC4Yvw",
+        "videoId": "_QR6ShC4Yvw",
+        "title": "La Chine bloque Meta : 2 milliards $ perdus et l'IA mondiale en danger",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=_QR6ShC4Yvw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : La Chine bloque Meta : 2 milliards $ perdus et l'IA mondiale en danger..."
+    },
+    {
+        "id": "uO5p0AtXQOk",
+        "videoId": "uO5p0AtXQOk",
+        "title": "Cette IA code pour vous pendant que vous dormez 😴",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=uO5p0AtXQOk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Cette IA code pour vous pendant que vous dormez 😴..."
+    },
+    {
         "id": "Pj-8HkJyEAA",
         "videoId": "Pj-8HkJyEAA",
         "title": "Quelqu'un vient de construire l'outil Claude le plus puissant de la planète.",
@@ -238,13 +282,13 @@ export const allVideos = [
     {
         "id": "jSTEoB1gGQQ",
         "videoId": "jSTEoB1gGQQ",
-        "title": "Claude IA m'a trouvé l'idée, cette IA l'a lancée en 1h (débutant)",
+        "title": "Claude m'a trouvé l'idée, cette IA l'a lancée (débutant)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-04-29",
         "url": "https://www.youtube.com/watch?v=jSTEoB1gGQQ",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude IA m'a trouvé l'idée, cette IA l'a lancée en 1h (débutant)..."
+        "summary": "Nouveauté de Henri · ExplorIA : Claude m'a trouvé l'idée, cette IA l'a lancée (débutant)..."
     },
     {
         "id": "7cTenhHWfsk",
@@ -696,17 +740,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Google a lancé discrètement 6 outils d’IA 100 % gratuits..."
     },
     {
-        "id": "5MIDO2fApqU",
-        "videoId": "5MIDO2fApqU",
-        "title": "Classement des meilleures IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=5MIDO2fApqU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Classement des meilleures IA !..."
-    },
-    {
         "id": "H9BNiEn_pJ8",
         "videoId": "H9BNiEn_pJ8",
         "title": "7 Outils IA Indispensables Pour Votre Business",
@@ -787,18 +820,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "4TamT8db7GQ",
-        "videoId": "4TamT8db7GQ",
-        "title": "Stitch de Google: La fin des designers web est là! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=4TamT8db7GQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Stitch de Google: La fin des designers web est là! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "WLn98Sdvb3c",
         "videoId": "WLn98Sdvb3c",
         "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
@@ -819,18 +840,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wRaGk8WVBEI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Opus 4.7 dans Claude Code : ça CHANGE tout 🔥..."
-    },
-    {
-        "id": "LAgKHltJRW0",
-        "videoId": "LAgKHltJRW0",
-        "title": "Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=LAgKHltJRW0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts...",
-        "isShort": true
     },
     {
         "id": "7sgi0zIf8r0",
@@ -2030,38 +2039,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ziMfHt9hnlw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les meilleurs outils IA à utiliser en 2026..."
-    },
-    {
-        "id": "5YPzT47Txl8",
-        "videoId": "5YPzT47Txl8",
-        "title": "J'ai piraté mon cerveau avec NotebookLM : L'apprentissage TURBOCHARGÉ",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=5YPzT47Txl8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : J'ai piraté mon cerveau avec NotebookLM : L'apprentissage TURBOCHARGÉ..."
-    },
-    {
-        "id": "YW-q8jj9cXY",
-        "videoId": "YW-q8jj9cXY",
-        "title": "Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯",
-        "author": "Cédric Girard",
-        "source": "@cedric_effi10",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=YW-q8jj9cXY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Cédric Girard : Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯..."
-    },
-    {
-        "id": "J_vj9287Jo0",
-        "videoId": "J_vj9287Jo0",
-        "title": "OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=J_vj9287Jo0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)..."
     }
 ];
