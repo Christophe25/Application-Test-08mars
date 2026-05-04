@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-03T07:56:47.491Z
+// Fichier généré automatiquement le 2026-05-04T08:24:47.129Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:56:47 AM 5/3/2026";
+export const lastUpdate = "8:24:47 AM 5/4/2026";
 
 export const sources = [
     {
@@ -157,6 +157,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "z47n9g-QJOc",
+        "videoId": "z47n9g-QJOc",
+        "title": "Ta dernière chance de devenir riche avant 2027.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=z47n9g-QJOc",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Ta dernière chance de devenir riche avant 2027...."
+    },
+    {
+        "id": "O6rl4VClt4k",
+        "videoId": "O6rl4VClt4k",
+        "title": "Google vient de détruire Duolingo avec trois outils IA gratuits.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=O6rl4VClt4k",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Google vient de détruire Duolingo avec trois outils IA gratuits...."
+    },
+    {
+        "id": "f31RvRfWSXc",
+        "videoId": "f31RvRfWSXc",
+        "title": "Comment Devenir Dangereusement Intelligent (avec l’IA)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=f31RvRfWSXc",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Dangereusement Intelligent (avec l’IA)..."
+    },
+    {
+        "id": "mn7RcxKSddc",
+        "videoId": "mn7RcxKSddc",
+        "title": "Construire un second cerveau n'a jamais été aussi simple (Claude Code + Obsidian)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=mn7RcxKSddc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Construire un second cerveau n'a jamais été aussi simple (Claude Code + Obsidian)..."
+    },
+    {
+        "id": "2k7qP8oXFmw",
+        "videoId": "2k7qP8oXFmw",
+        "title": "Crée ta base de connaissance en 5 min! (Claude Code + Obsidian)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=2k7qP8oXFmw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Crée ta base de connaissance en 5 min! (Claude Code + Obsidian)..."
+    },
+    {
+        "id": "DjODUUu_QrE",
+        "videoId": "DjODUUu_QrE",
+        "title": "Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=DjODUUu_QrE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce..."
+    },
     {
         "id": "XVZ3gjv8mfs",
         "videoId": "XVZ3gjv8mfs",
@@ -650,17 +716,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "rj4jY_hTB0E",
-        "videoId": "rj4jY_hTB0E",
-        "title": "Le secret pour débloquer Canva AI 2.0 gratuitement",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=rj4jY_hTB0E",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Le secret pour débloquer Canva AI 2.0 gratuitement..."
-    },
-    {
         "id": "WuifYc86nQk",
         "videoId": "WuifYc86nQk",
         "title": "7 utilisations INCROYABLES de Claude DESIGN (Anthropic frappe FORT)",
@@ -729,17 +784,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Faire 10K€/mois dans l'IA sans compétences, c'est facile (c'est mathématique)..."
     },
     {
-        "id": "j-cSUOacZqA",
-        "videoId": "j-cSUOacZqA",
-        "title": "Google a lancé discrètement 6 outils d’IA 100 % gratuits",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=j-cSUOacZqA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Google a lancé discrètement 6 outils d’IA 100 % gratuits..."
-    },
-    {
         "id": "H9BNiEn_pJ8",
         "videoId": "H9BNiEn_pJ8",
         "title": "7 Outils IA Indispensables Pour Votre Business",
@@ -784,17 +828,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kWrWE8q-e9s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)..."
-    },
-    {
-        "id": "R6Kc3fQs3CQ",
-        "videoId": "R6Kc3fQs3CQ",
-        "title": "La surprise Canva Create que personne n'a vu venir",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=R6Kc3fQs3CQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : La surprise Canva Create que personne n'a vu venir..."
     },
     {
         "id": "XphRDltcYSA",
@@ -851,17 +884,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7sgi0zIf8r0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !..."
-    },
-    {
-        "id": "sb0PTDh2zLs",
-        "videoId": "sb0PTDh2zLs",
-        "title": "Canva vient de lancer quelque chose d'INSANE 🤯",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=sb0PTDh2zLs",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Canva vient de lancer quelque chose d'INSANE 🤯..."
     },
     {
         "id": "R7O2TaM709Y",
@@ -1689,17 +1711,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : 5 plugins qui vont rendre ton Claude Code surpuissant..."
     },
     {
-        "id": "20Q2Ry-Q8mA",
-        "videoId": "20Q2Ry-Q8mA",
-        "title": "Suis ta conso Claude Code super simplement ! 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=20Q2Ry-Q8mA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Suis ta conso Claude Code super simplement ! 👀..."
-    },
-    {
         "id": "vP0qh6ch99o",
         "videoId": "vP0qh6ch99o",
         "title": "La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)",
@@ -1790,13 +1801,13 @@ export const allVideos = [
     {
         "id": "Q7RcgXzBtDQ",
         "videoId": "Q7RcgXzBtDQ",
-        "title": "Personne ne réalise ce que cet ado a créé avec l'IA",
+        "title": "Personne ne réalise ce que cet ado vient de créer avec l'IA",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-03-15",
         "url": "https://www.youtube.com/watch?v=Q7RcgXzBtDQ",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que cet ado a créé avec l'IA..."
+        "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que cet ado vient de créer avec l'IA..."
     },
     {
         "id": "uqV3ujeaeKs",
@@ -1909,17 +1920,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Créer Son Premier Agent IA Vocal en 48 minutes..."
     },
     {
-        "id": "rucvJdjqmH4",
-        "videoId": "rucvJdjqmH4",
-        "title": "10 Astuces pour devenir un PRO sur Claude Code !",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-08",
-        "url": "https://www.youtube.com/watch?v=rucvJdjqmH4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : 10 Astuces pour devenir un PRO sur Claude Code !..."
-    },
-    {
         "id": "FF1JIA_TCug",
         "videoId": "FF1JIA_TCug",
         "title": "Claude code Remote control vient de détrôner openclaw",
@@ -1995,49 +1995,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yhonnrrw2KU",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponses à vos questions)..."
-    },
-    {
-        "id": "E3j_BCtwWew",
-        "videoId": "E3j_BCtwWew",
-        "title": "Comment utiliser les SKILLS ANTIGRAVITY mieux que 99 % des gens",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-04",
-        "url": "https://www.youtube.com/watch?v=E3j_BCtwWew",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment utiliser les SKILLS ANTIGRAVITY mieux que 99 % des gens..."
-    },
-    {
-        "id": "uU66mgOmgkY",
-        "videoId": "uU66mgOmgkY",
-        "title": "Résumer et réviser une œuvre littéraire pour le BAC avec #NotebookLM #revisionexam #français",
-        "author": "Cédric Girard",
-        "source": "@cedric_effi10",
-        "date": "2026-03-04",
-        "url": "https://www.youtube.com/watch?v=uU66mgOmgkY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Cédric Girard : Résumer et réviser une œuvre littéraire pour le BAC avec #NotebookLM #revisionexam #français..."
-    },
-    {
-        "id": "mSNYOWpnsuY",
-        "videoId": "mSNYOWpnsuY",
-        "title": "Claude Code ou n8n ? De l'automatisation IA à l'automatisation agentique !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-03-04",
-        "url": "https://www.youtube.com/watch?v=mSNYOWpnsuY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Claude Code ou n8n ? De l'automatisation IA à l'automatisation agentique !..."
-    },
-    {
-        "id": "ziMfHt9hnlw",
-        "videoId": "ziMfHt9hnlw",
-        "title": "Les meilleurs outils IA à utiliser en 2026",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-04",
-        "url": "https://www.youtube.com/watch?v=ziMfHt9hnlw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Les meilleurs outils IA à utiliser en 2026..."
     }
 ];
