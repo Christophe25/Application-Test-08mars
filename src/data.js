@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-04T08:24:47.129Z
+// Fichier généré automatiquement le 2026-05-05T08:02:56.560Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:24:47 AM 5/4/2026";
+export const lastUpdate = "8:02:56 AM 5/5/2026";
 
 export const sources = [
     {
@@ -158,6 +158,51 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "9qRbx0VhtSU",
+        "videoId": "9qRbx0VhtSU",
+        "title": "Claude devient ton coach sportif avec 1 seule skill.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=9qRbx0VhtSU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton coach sportif avec 1 seule skill...."
+    },
+    {
+        "id": "53xYgNz3ajY",
+        "videoId": "53xYgNz3ajY",
+        "title": "J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=53xYgNz3ajY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)..."
+    },
+    {
+        "id": "6UQEipBOXcQ",
+        "videoId": "6UQEipBOXcQ",
+        "title": "IA Vendeuse: Votre Business Vendre 24/7 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=6UQEipBOXcQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Vendeuse: Votre Business Vendre 24/7 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "KPc5qTqTn1o",
+        "videoId": "KPc5qTqTn1o",
+        "title": "Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=KPc5qTqTn1o",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT..."
+    },
+    {
         "id": "z47n9g-QJOc",
         "videoId": "z47n9g-QJOc",
         "title": "Ta dernière chance de devenir riche avant 2027.",
@@ -182,13 +227,13 @@ export const allVideos = [
     {
         "id": "f31RvRfWSXc",
         "videoId": "f31RvRfWSXc",
-        "title": "Comment Devenir Dangereusement Intelligent (avec l’IA)",
+        "title": "Comment l’IA Peut Vous Rendre Dangereusement Intelligent",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-05-03",
         "url": "https://www.youtube.com/watch?v=f31RvRfWSXc",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Dangereusement Intelligent (avec l’IA)..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment l’IA Peut Vous Rendre Dangereusement Intelligent..."
     },
     {
         "id": "mn7RcxKSddc",
@@ -447,13 +492,13 @@ export const allVideos = [
     {
         "id": "kpG1v9uZd4E",
         "videoId": "kpG1v9uZd4E",
-        "title": "Claude Design est INCROYABLE (Guide Complet Débutant)",
+        "title": "Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-04-26",
         "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Claude Design est INCROYABLE (Guide Complet Débutant)..."
+        "summary": "Nouveauté de Yassine Sdiri : Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes..."
     },
     {
         "id": "gOZzPFNR0Kw",
@@ -716,28 +761,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "WuifYc86nQk",
-        "videoId": "WuifYc86nQk",
-        "title": "7 utilisations INCROYABLES de Claude DESIGN (Anthropic frappe FORT)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=WuifYc86nQk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 7 utilisations INCROYABLES de Claude DESIGN (Anthropic frappe FORT)..."
-    },
-    {
-        "id": "yAmJcjT9RcY",
-        "videoId": "yAmJcjT9RcY",
-        "title": "Comment installer Claude Code de manière 100% gratuite",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=yAmJcjT9RcY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code de manière 100% gratuite..."
-    },
-    {
         "id": "L9ZE0wi3-3Y",
         "videoId": "L9ZE0wi3-3Y",
         "title": "L'IA refait votre site web en orange : design fluide et rapide #shorts",
@@ -839,18 +862,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XphRDltcYSA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
-    },
-    {
-        "id": "dgVmGBLTMQA",
-        "videoId": "dgVmGBLTMQA",
-        "title": "Créez des Sites Web Parfaits: Intégrez Facilement Vos Designs Stitch avec Claude Code! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=dgVmGBLTMQA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez des Sites Web Parfaits: Intégrez Facilement Vos Designs Stitch avec Claude Code! #shorts...",
-        "isShort": true
     },
     {
         "id": "WLn98Sdvb3c",
@@ -1973,27 +1984,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wmEVJ3TXinM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des applications de Google..."
-    },
-    {
-        "id": "R0hHH4lzfYE",
-        "videoId": "R0hHH4lzfYE",
-        "title": "ChatGPT perd ses utilisateurs... et voici pourquoi !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-03-05",
-        "url": "https://www.youtube.com/watch?v=R0hHH4lzfYE",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : ChatGPT perd ses utilisateurs... et voici pourquoi !..."
-    },
-    {
-        "id": "yhonnrrw2KU",
-        "videoId": "yhonnrrw2KU",
-        "title": "Je vous présente mon système IA (+ réponses à vos questions)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-05",
-        "url": "https://www.youtube.com/watch?v=yhonnrrw2KU",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponses à vos questions)..."
     }
 ];
