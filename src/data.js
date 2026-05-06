@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-05T08:02:56.560Z
+// Fichier généré automatiquement le 2026-05-06T08:20:14.490Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:02:56 AM 5/5/2026";
+export const lastUpdate = "8:20:14 AM 5/6/2026";
 
 export const sources = [
     {
@@ -157,6 +157,17 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "ZDj8kDdAc9c",
+        "videoId": "ZDj8kDdAc9c",
+        "title": "300 skills gratuits viennent de sortir",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-05",
+        "url": "https://www.youtube.com/watch?v=ZDj8kDdAc9c",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 300 skills gratuits viennent de sortir..."
+    },
     {
         "id": "9qRbx0VhtSU",
         "videoId": "9qRbx0VhtSU",
@@ -713,17 +724,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : L'IA Réinvente le Web Design : Couleurs et Modification Facile ! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "JLrI5I3114M",
-        "videoId": "JLrI5I3114M",
-        "title": "5 choses que Claude Cowork peut faire à ta place pendant que tu dors !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=JLrI5I3114M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 choses que Claude Cowork peut faire à ta place pendant que tu dors !..."
     },
     {
         "id": "RQhj_I_erVg",
@@ -1951,38 +1951,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8fpKyNkN3X4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : 19 Agents IA OpenClaw 24H/24H pour seulement 6 € / mois..."
-    },
-    {
-        "id": "3b9FcPJZdtE",
-        "videoId": "3b9FcPJZdtE",
-        "title": "GEMINI 3.1 : Pourquoi c'est mieux que ChatGPT ?",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-06",
-        "url": "https://www.youtube.com/watch?v=3b9FcPJZdtE",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : GEMINI 3.1 : Pourquoi c'est mieux que ChatGPT ?..."
-    },
-    {
-        "id": "ZwsKbTq8hak",
-        "videoId": "ZwsKbTq8hak",
-        "title": "Obsidian + Claude Code : ce que ce débutant a fait en 10 jours est bluffant",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-06",
-        "url": "https://www.youtube.com/watch?v=ZwsKbTq8hak",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Obsidian + Claude Code : ce que ce débutant a fait en 10 jours est bluffant..."
-    },
-    {
-        "id": "wmEVJ3TXinM",
-        "videoId": "wmEVJ3TXinM",
-        "title": "Tierlist des applications de Google",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-06",
-        "url": "https://www.youtube.com/watch?v=wmEVJ3TXinM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des applications de Google..."
     }
 ];
