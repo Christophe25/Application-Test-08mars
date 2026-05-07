@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-06T08:20:14.490Z
+// Fichier généré automatiquement le 2026-05-07T08:28:08.573Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:20:14 AM 5/6/2026";
+export const lastUpdate = "8:28:08 AM 5/7/2026";
 
 export const sources = [
     {
@@ -158,6 +158,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "o2e8yZtmxIA",
+        "videoId": "o2e8yZtmxIA",
+        "title": "Claude Design : c'est ILLÉGAL d'être aussi puissant",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=o2e8yZtmxIA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Claude Design : c'est ILLÉGAL d'être aussi puissant..."
+    },
+    {
+        "id": "L3YfsM5RTJs",
+        "videoId": "L3YfsM5RTJs",
+        "title": "Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=L3YfsM5RTJs",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)..."
+    },
+    {
+        "id": "8F2oktq_x6U",
+        "videoId": "8F2oktq_x6U",
+        "title": "Claude vient de détruire des centaines d'entreprises avec cette mise à jour massive.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=8F2oktq_x6U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de détruire des centaines d'entreprises avec cette mise à jour massive...."
+    },
+    {
+        "id": "iEeaHdbNPcw",
+        "videoId": "iEeaHdbNPcw",
+        "title": "5 faits secrets sur ChatGPT que personne ne connaît !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=iEeaHdbNPcw",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 5 faits secrets sur ChatGPT que personne ne connaît !..."
+    },
+    {
+        "id": "g2PdHA-1Lho",
+        "videoId": "g2PdHA-1Lho",
+        "title": "Le plan machiavélique d'Anthropic (et comment s'en protéger)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=g2PdHA-1Lho",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
+    },
+    {
         "id": "ZDj8kDdAc9c",
         "videoId": "ZDj8kDdAc9c",
         "title": "300 skills gratuits viennent de sortir",
@@ -182,13 +237,13 @@ export const allVideos = [
     {
         "id": "53xYgNz3ajY",
         "videoId": "53xYgNz3ajY",
-        "title": "J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)",
+        "title": "J'ai créé un site à 10 000€ avec CLAUDE (sans coder)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-05-04",
         "url": "https://www.youtube.com/watch?v=53xYgNz3ajY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)..."
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai créé un site à 10 000€ avec CLAUDE (sans coder)..."
     },
     {
         "id": "6UQEipBOXcQ",
@@ -554,17 +609,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=bWvUQNEGqDE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳..."
-    },
-    {
-        "id": "RIlyLguqR8o",
-        "videoId": "RIlyLguqR8o",
-        "title": "Claude vient d'anéantir les web designers.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=RIlyLguqR8o",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'anéantir les web designers...."
     },
     {
         "id": "aWadvdrEP6I",
@@ -1909,17 +1953,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludovic Nédélec : NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)..."
     },
     {
-        "id": "0qNflUjEORM",
-        "videoId": "0qNflUjEORM",
-        "title": "Un nouveau modèle de SaaS IA va fabriquer des millionnaires en 2026 (voici comment)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-08",
-        "url": "https://www.youtube.com/watch?v=0qNflUjEORM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Un nouveau modèle de SaaS IA va fabriquer des millionnaires en 2026 (voici comment)..."
-    },
-    {
         "id": "04P0GIKNNa4",
         "videoId": "04P0GIKNNa4",
         "title": "Créer Son Premier Agent IA Vocal en 48 minutes",
@@ -1940,16 +1973,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=FF1JIA_TCug",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude code Remote control vient de détrôner openclaw..."
-    },
-    {
-        "id": "8fpKyNkN3X4",
-        "videoId": "8fpKyNkN3X4",
-        "title": "19 Agents IA OpenClaw 24H/24H pour seulement 6 € / mois",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-07",
-        "url": "https://www.youtube.com/watch?v=8fpKyNkN3X4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : 19 Agents IA OpenClaw 24H/24H pour seulement 6 € / mois..."
     }
 ];
