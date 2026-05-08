@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-07T08:28:08.573Z
+// Fichier généré automatiquement le 2026-05-08T07:23:57.440Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:28:08 AM 5/7/2026";
+export const lastUpdate = "7:23:57 AM 5/8/2026";
 
 export const sources = [
     {
@@ -157,6 +157,61 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "T5t3PNtCSKo",
+        "videoId": "T5t3PNtCSKo",
+        "title": "Higgsfield vient de lancer leur nouveau MCP : tu peux maintenant connecter Claude directement.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=T5t3PNtCSKo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Higgsfield vient de lancer leur nouveau MCP : tu peux maintenant connecter Claude directement...."
+    },
+    {
+        "id": "NCvARWY-_aQ",
+        "videoId": "NCvARWY-_aQ",
+        "title": "Ne plus JAMAIS atteindre la limite de Tokens dans Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=NCvARWY-_aQ",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Ne plus JAMAIS atteindre la limite de Tokens dans Claude !..."
+    },
+    {
+        "id": "sXGDheIjn6w",
+        "videoId": "sXGDheIjn6w",
+        "title": "Xiaomi MiMo V2.5 PRO : Le Monstre Open Source (10x moins cher que Claude)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=sXGDheIjn6w",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Xiaomi MiMo V2.5 PRO : Le Monstre Open Source (10x moins cher que Claude)..."
+    },
+    {
+        "id": "pb8pza8dmCg",
+        "videoId": "pb8pza8dmCg",
+        "title": "Mon IA prospecte à ma place 24h/24 (je te DONNE le système) 🤖",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=pb8pza8dmCg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Mon IA prospecte à ma place 24h/24 (je te DONNE le système) 🤖..."
+    },
+    {
+        "id": "Sz7pWrYWpHs",
+        "videoId": "Sz7pWrYWpHs",
+        "title": "Passer de ChatGPT à Gemini sans RIEN perdre (Tuto Complet)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=Sz7pWrYWpHs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Passer de ChatGPT à Gemini sans RIEN perdre (Tuto Complet)..."
+    },
     {
         "id": "o2e8yZtmxIA",
         "videoId": "o2e8yZtmxIA",
@@ -415,13 +470,13 @@ export const allVideos = [
     {
         "id": "vJNI-NyacCg",
         "videoId": "vJNI-NyacCg",
-        "title": "Claude Design : TOUT comprendre en 21 min ! (je vous montre)",
+        "title": "Maîtriser 95% de Claude Design en 21 min !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-04-30",
         "url": "https://www.youtube.com/watch?v=vJNI-NyacCg",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Claude Design : TOUT comprendre en 21 min ! (je vous montre)..."
+        "summary": "Nouveauté de Elliott Pierret : Maîtriser 95% de Claude Design en 21 min !..."
     },
     {
         "id": "3eMkVtKNtEU",
@@ -587,17 +642,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eDhOomO4FpE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le paradoxe de l'IA : plus tu progresses, plus tu te perds..."
-    },
-    {
-        "id": "DxcWipXoUV8",
-        "videoId": "DxcWipXoUV8",
-        "title": "Claude vient d'enterrer les logiciels de montage",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-24",
-        "url": "https://www.youtube.com/watch?v=DxcWipXoUV8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'enterrer les logiciels de montage..."
     },
     {
         "id": "bWvUQNEGqDE",
@@ -1350,13 +1394,13 @@ export const allVideos = [
     {
         "id": "RKKK4uJ1ygU",
         "videoId": "RKKK4uJ1ygU",
-        "title": "Ce Tuto NotebookLM devait durer 10 min... Mais j'ai tout mis.",
+        "title": "Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-04-02",
         "url": "https://www.youtube.com/watch?v=RKKK4uJ1ygU",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Ce Tuto NotebookLM devait durer 10 min... Mais j'ai tout mis...."
+        "summary": "Nouveauté de Ludo Salenne : Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)..."
     },
     {
         "id": "FpVB_B6etu4",
@@ -1416,13 +1460,13 @@ export const allVideos = [
     {
         "id": "Ksaqjr4QFdk",
         "videoId": "Ksaqjr4QFdk",
-        "title": "Cette nouveauté Claude est DINGUE (le futur de l'IA)",
+        "title": "Claude Cowork Dispatch : c'est quoi et comment ça marche ?",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-03-31",
         "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Cette nouveauté Claude est DINGUE (le futur de l'IA)..."
+        "summary": "Nouveauté de Ludo Salenne : Claude Cowork Dispatch : c'est quoi et comment ça marche ?..."
     },
     {
         "id": "X0xCiXQPXvM",
@@ -1533,17 +1577,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=W7Z5ATjmois",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : L’AGI n’est pas prête d’arriver, voici la preuve..."
-    },
-    {
-        "id": "P-CRHw0vqtE",
-        "videoId": "P-CRHw0vqtE",
-        "title": "ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=P-CRHw0vqtE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨..."
     },
     {
         "id": "4GgbcgfKibw",
@@ -1801,13 +1834,13 @@ export const allVideos = [
     {
         "id": "yUaIYBlIFdw",
         "videoId": "yUaIYBlIFdw",
-        "title": "Comment bien utiliser Google Antigravity – Tuto Complet",
+        "title": "Créer une app avec Google Antigravity (sans savoir coder)",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=yUaIYBlIFdw",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Comment bien utiliser Google Antigravity – Tuto Complet..."
+        "summary": "Nouveauté de Ludo Salenne : Créer une app avec Google Antigravity (sans savoir coder)..."
     },
     {
         "id": "kYTgB1uNn5E",
@@ -1920,17 +1953,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Ce nouvel outil Google rend Claude Code 10x plus puissant..."
     },
     {
-        "id": "Mg37t-H7-10",
-        "videoId": "Mg37t-H7-10",
-        "title": "Google : ce nouvel outil débride ton Claude Code (GRATUIT) 🔥",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=Mg37t-H7-10",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Google : ce nouvel outil débride ton Claude Code (GRATUIT) 🔥..."
-    },
-    {
         "id": "5T0irFpaa1U",
         "videoId": "5T0irFpaa1U",
         "title": "J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)",
@@ -1951,27 +1973,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oCRDxYWh4ZI",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)..."
-    },
-    {
-        "id": "04P0GIKNNa4",
-        "videoId": "04P0GIKNNa4",
-        "title": "Créer Son Premier Agent IA Vocal en 48 minutes",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-03-08",
-        "url": "https://www.youtube.com/watch?v=04P0GIKNNa4",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Créer Son Premier Agent IA Vocal en 48 minutes..."
-    },
-    {
-        "id": "FF1JIA_TCug",
-        "videoId": "FF1JIA_TCug",
-        "title": "Claude code Remote control vient de détrôner openclaw",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-08",
-        "url": "https://www.youtube.com/watch?v=FF1JIA_TCug",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Claude code Remote control vient de détrôner openclaw..."
     }
 ];
