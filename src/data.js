@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-08T07:23:57.440Z
+// Fichier généré automatiquement le 2026-05-09T07:50:40.457Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:23:57 AM 5/8/2026";
+export const lastUpdate = "7:50:40 AM 5/9/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "iCvtJrw28MA",
+        "videoId": "iCvtJrw28MA",
+        "title": "Claude peut maintenant devenir ton agent WhatsApp.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-08",
+        "url": "https://www.youtube.com/watch?v=iCvtJrw28MA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant devenir ton agent WhatsApp...."
+    },
+    {
+        "id": "SgxSUle-TcE",
+        "videoId": "SgxSUle-TcE",
+        "title": "Agents IA, souveraineté, lock-in : je réponds sans filtre",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-08",
+        "url": "https://www.youtube.com/watch?v=SgxSUle-TcE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Agents IA, souveraineté, lock-in : je réponds sans filtre..."
+    },
     {
         "id": "T5t3PNtCSKo",
         "videoId": "T5t3PNtCSKo",
@@ -620,17 +642,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes..."
-    },
-    {
-        "id": "gOZzPFNR0Kw",
-        "videoId": "gOZzPFNR0Kw",
-        "title": "Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-25",
-        "url": "https://www.youtube.com/watch?v=gOZzPFNR0Kw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?..."
     },
     {
         "id": "eDhOomO4FpE",
@@ -1962,16 +1973,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5T0irFpaa1U",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)..."
-    },
-    {
-        "id": "oCRDxYWh4ZI",
-        "videoId": "oCRDxYWh4ZI",
-        "title": "NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-03-09",
-        "url": "https://www.youtube.com/watch?v=oCRDxYWh4ZI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)..."
     }
 ];
