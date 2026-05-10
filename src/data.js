@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-09T07:50:40.457Z
+// Fichier généré automatiquement le 2026-05-10T08:03:11.189Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:50:40 AM 5/9/2026";
+export const lastUpdate = "8:03:11 AM 5/10/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "kFdDZYKXvmw",
+        "videoId": "kFdDZYKXvmw",
+        "title": "Claude peut maintenant t'aider à devenir fluide dans n'importe quelle langue avec 1 unique skill.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-09",
+        "url": "https://www.youtube.com/watch?v=kFdDZYKXvmw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant t'aider à devenir fluide dans n'importe quelle langue avec 1 unique skill...."
+    },
+    {
+        "id": "y0taBHJRJXY",
+        "videoId": "y0taBHJRJXY",
+        "title": "Ce plombier a un meilleur système IA que la plupart des devs",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-09",
+        "url": "https://www.youtube.com/watch?v=y0taBHJRJXY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Ce plombier a un meilleur système IA que la plupart des devs..."
+    },
+    {
+        "id": "diCd1Y-QUtk",
+        "videoId": "diCd1Y-QUtk",
+        "title": "i10X : Peut-il remplacer 100€ d’abonnements IA pour 8€ ? 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-09",
+        "url": "https://www.youtube.com/watch?v=diCd1Y-QUtk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : i10X : Peut-il remplacer 100€ d’abonnements IA pour 8€ ? 😱..."
+    },
+    {
+        "id": "3UVbXmUIBSk",
+        "videoId": "3UVbXmUIBSk",
+        "title": "Le Système IA Complet pour Automatiser en 1 Prompt (Claude Code + n8n) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-05-09",
+        "url": "https://www.youtube.com/watch?v=3UVbXmUIBSk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Le Système IA Complet pour Automatiser en 1 Prompt (Claude Code + n8n) !..."
+    },
     {
         "id": "iCvtJrw28MA",
         "videoId": "iCvtJrw28MA",
@@ -370,13 +414,13 @@ export const allVideos = [
     {
         "id": "f31RvRfWSXc",
         "videoId": "f31RvRfWSXc",
-        "title": "Comment l’IA Peut Vous Rendre Dangereusement Intelligent",
+        "title": "Comment Devenir Dangereusement Intelligent (avec l’IA)",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-05-03",
         "url": "https://www.youtube.com/watch?v=f31RvRfWSXc",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment l’IA Peut Vous Rendre Dangereusement Intelligent..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Dangereusement Intelligent (avec l’IA)..."
     },
     {
         "id": "mn7RcxKSddc",
@@ -620,17 +664,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iZnp0kQ_NnY",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment faire 12.000€/mois avec Claude Code..."
-    },
-    {
-        "id": "aq6WqNxWfw4",
-        "videoId": "aq6WqNxWfw4",
-        "title": "3 choses qui rendent tes sessions Claude Code plus chères et voici comment les corriger.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-26",
-        "url": "https://www.youtube.com/watch?v=aq6WqNxWfw4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 choses qui rendent tes sessions Claude Code plus chères et voici comment les corriger...."
     },
     {
         "id": "kpG1v9uZd4E",
@@ -1579,17 +1612,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Copilot dans Powerpoint est devenu dingue !..."
     },
     {
-        "id": "W7Z5ATjmois",
-        "videoId": "W7Z5ATjmois",
-        "title": "L’AGI n’est pas prête d’arriver, voici la preuve",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=W7Z5ATjmois",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : L’AGI n’est pas prête d’arriver, voici la preuve..."
-    },
-    {
         "id": "4GgbcgfKibw",
         "videoId": "4GgbcgfKibw",
         "title": "Créer une chanson avec l'IA Gemini (Tuto Complet)",
@@ -1962,16 +1984,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=HcDf0P1EJ3U",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Ce nouvel outil Google rend Claude Code 10x plus puissant..."
-    },
-    {
-        "id": "5T0irFpaa1U",
-        "videoId": "5T0irFpaa1U",
-        "title": "J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-03-10",
-        "url": "https://www.youtube.com/watch?v=5T0irFpaa1U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)..."
     }
 ];
