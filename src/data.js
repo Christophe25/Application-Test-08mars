@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-10T08:03:11.189Z
+// Fichier généré automatiquement le 2026-05-11T09:32:47.872Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:03:11 AM 5/10/2026";
+export const lastUpdate = "9:32:47 AM 5/11/2026";
 
 export const sources = [
     {
@@ -158,6 +158,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "J4hyyVkt_Bo",
+        "videoId": "J4hyyVkt_Bo",
+        "title": "Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-05-10",
+        "url": "https://www.youtube.com/watch?v=J4hyyVkt_Bo",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)..."
+    },
+    {
+        "id": "Z6AQ5cNvQCQ",
+        "videoId": "Z6AQ5cNvQCQ",
+        "title": "Qu'est-ce qui se passe quand tu demandes à Claude tous les points faibles de ton projet ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-10",
+        "url": "https://www.youtube.com/watch?v=Z6AQ5cNvQCQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Qu'est-ce qui se passe quand tu demandes à Claude tous les points faibles de ton projet ?..."
+    },
+    {
+        "id": "xhVeCqF4I-Q",
+        "videoId": "xhVeCqF4I-Q",
+        "title": "Je suis passé de ChatGPT à Claude (et tu devrais aussi)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-10",
+        "url": "https://www.youtube.com/watch?v=xhVeCqF4I-Q",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Je suis passé de ChatGPT à Claude (et tu devrais aussi)..."
+    },
+    {
+        "id": "w2JE7HUNJFU",
+        "videoId": "w2JE7HUNJFU",
+        "title": "5 Astuces Secrètes sur Claude IA à Absolument Connaître en 2026",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-05-10",
+        "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : 5 Astuces Secrètes sur Claude IA à Absolument Connaître en 2026..."
+    },
+    {
         "id": "kFdDZYKXvmw",
         "videoId": "kFdDZYKXvmw",
         "title": "Claude peut maintenant t'aider à devenir fluide dans n'importe quelle langue avec 1 unique skill.",
@@ -193,13 +237,13 @@ export const allVideos = [
     {
         "id": "3UVbXmUIBSk",
         "videoId": "3UVbXmUIBSk",
-        "title": "Le Système IA Complet pour Automatiser en 1 Prompt (Claude Code + n8n) !",
+        "title": "Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !",
         "author": "Aurélien Fagioli",
         "source": "@AurelienAutomatisation",
         "date": "2026-05-09",
         "url": "https://www.youtube.com/watch?v=3UVbXmUIBSk",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Le Système IA Complet pour Automatiser en 1 Prompt (Claude Code + n8n) !..."
+        "summary": "Nouveauté de Aurélien Fagioli : Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !..."
     },
     {
         "id": "iCvtJrw28MA",
@@ -215,13 +259,13 @@ export const allVideos = [
     {
         "id": "SgxSUle-TcE",
         "videoId": "SgxSUle-TcE",
-        "title": "Agents IA, souveraineté, lock-in : je réponds sans filtre",
+        "title": "Créer son système IA : ça vaut encore le coup ?",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-08",
         "url": "https://www.youtube.com/watch?v=SgxSUle-TcE",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Agents IA, souveraineté, lock-in : je réponds sans filtre..."
+        "summary": "Nouveauté de Eliott Meunier : Créer son système IA : ça vaut encore le coup ?..."
     },
     {
         "id": "T5t3PNtCSKo",
@@ -611,17 +655,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Comment écrire avec l'IA ? – Formation Complète..."
     },
     {
-        "id": "ZRvSBz1I1Hk",
-        "videoId": "ZRvSBz1I1Hk",
-        "title": "Cette IA chinoise vient de faire trembler tous les générateurs vidéo du marché.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-28",
-        "url": "https://www.youtube.com/watch?v=ZRvSBz1I1Hk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Cette IA chinoise vient de faire trembler tous les générateurs vidéo du marché...."
-    },
-    {
         "id": "REiHTKMFDSI",
         "videoId": "REiHTKMFDSI",
         "title": "5 Hacks pour économiser tes Tokens dans Claude !",
@@ -631,17 +664,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=REiHTKMFDSI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 5 Hacks pour économiser tes Tokens dans Claude !..."
-    },
-    {
-        "id": "YU4bmtJF_J4",
-        "videoId": "YU4bmtJF_J4",
-        "title": "5 outils IA indispensables pour les petites entreprises en 2026",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-27",
-        "url": "https://www.youtube.com/watch?v=YU4bmtJF_J4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 outils IA indispensables pour les petites entreprises en 2026..."
     },
     {
         "id": "lMsM3SmfTuY",
@@ -1962,27 +1984,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cv8PsVX1tbg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡..."
-    },
-    {
-        "id": "XQEdkNRGPZs",
-        "videoId": "XQEdkNRGPZs",
-        "title": "ANTIGRAVITY est devenu MONSTRUEUX",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=XQEdkNRGPZs",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : ANTIGRAVITY est devenu MONSTRUEUX..."
-    },
-    {
-        "id": "HcDf0P1EJ3U",
-        "videoId": "HcDf0P1EJ3U",
-        "title": "Ce nouvel outil Google rend Claude Code 10x plus puissant",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=HcDf0P1EJ3U",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Ce nouvel outil Google rend Claude Code 10x plus puissant..."
     }
 ];
