@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-11T09:32:47.872Z
+// Fichier généré automatiquement le 2026-05-12T08:33:46.401Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:32:47 AM 5/11/2026";
+export const lastUpdate = "8:33:46 AM 5/12/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "GWY3ANofbgw",
+        "videoId": "GWY3ANofbgw",
+        "title": "Le créateur de Claude Code vient de sortir ce skill qui va changer comment tu utilises Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-11",
+        "url": "https://www.youtube.com/watch?v=GWY3ANofbgw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de sortir ce skill qui va changer comment tu utilises Claude..."
+    },
+    {
+        "id": "YCttZsEIuqI",
+        "videoId": "YCttZsEIuqI",
+        "title": "Il a connecté son ADN et sa montre à l'IA (le résultat est génial)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-11",
+        "url": "https://www.youtube.com/watch?v=YCttZsEIuqI",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Il a connecté son ADN et sa montre à l'IA (le résultat est génial)..."
+    },
+    {
+        "id": "Z9-B4hSu-3o",
+        "videoId": "Z9-B4hSu-3o",
+        "title": "DeepSeek V4 Détruit Les IA à Plusieurs Milliards…Gratuitement ? 🤔",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-11",
+        "url": "https://www.youtube.com/watch?v=Z9-B4hSu-3o",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Détruit Les IA à Plusieurs Milliards…Gratuitement ? 🤔..."
+    },
+    {
+        "id": "mfkp0t85nKQ",
+        "videoId": "mfkp0t85nKQ",
+        "title": "Arrêtez les mauvais diapos | Voici la méthode qui marche",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-05-11",
+        "url": "https://www.youtube.com/watch?v=mfkp0t85nKQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Arrêtez les mauvais diapos | Voici la méthode qui marche..."
+    },
     {
         "id": "J4hyyVkt_Bo",
         "videoId": "J4hyyVkt_Bo",
@@ -402,13 +446,13 @@ export const allVideos = [
     {
         "id": "53xYgNz3ajY",
         "videoId": "53xYgNz3ajY",
-        "title": "J'ai créé un site à 10 000€ avec CLAUDE (sans coder)",
+        "title": "CLAUDE Code + Design : un site à 10 000€ sans coder (copie-moi)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-05-04",
         "url": "https://www.youtube.com/watch?v=53xYgNz3ajY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai créé un site à 10 000€ avec CLAUDE (sans coder)..."
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE Code + Design : un site à 10 000€ sans coder (copie-moi)..."
     },
     {
         "id": "6UQEipBOXcQ",
@@ -620,17 +664,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vvBQET43U64",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude vient de lancer Claude Design..."
-    },
-    {
-        "id": "jSTEoB1gGQQ",
-        "videoId": "jSTEoB1gGQQ",
-        "title": "Claude m'a trouvé l'idée, cette IA l'a lancée (débutant)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=jSTEoB1gGQQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude m'a trouvé l'idée, cette IA l'a lancée (débutant)..."
     },
     {
         "id": "7cTenhHWfsk",
@@ -1601,17 +1634,6 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)..."
     },
     {
-        "id": "PT-xSwitJl8",
-        "videoId": "PT-xSwitJl8",
-        "title": "TRIBE v2 : le NOUVEAU Modèle de Meta qui Simule Ton Cerveau 🧠😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=PT-xSwitJl8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : TRIBE v2 : le NOUVEAU Modèle de Meta qui Simule Ton Cerveau 🧠😱..."
-    },
-    {
         "id": "xXWznwbcFe8",
         "videoId": "xXWznwbcFe8",
         "title": "J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce",
@@ -1973,16 +1995,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YebMrY_Cr5s",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
-    },
-    {
-        "id": "cv8PsVX1tbg",
-        "videoId": "cv8PsVX1tbg",
-        "title": "Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-12",
-        "url": "https://www.youtube.com/watch?v=cv8PsVX1tbg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡..."
     }
 ];
