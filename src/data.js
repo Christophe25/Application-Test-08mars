@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-12T08:33:46.401Z
+// Fichier généré automatiquement le 2026-05-13T08:39:32.436Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:33:46 AM 5/12/2026";
+export const lastUpdate = "8:39:32 AM 5/13/2026";
 
 export const sources = [
     {
@@ -157,6 +157,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "hr5J7g2R0H8",
+        "videoId": "hr5J7g2R0H8",
+        "title": "Je vous présente mon système IA (+ réponse à vos questions)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=hr5J7g2R0H8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponse à vos questions)..."
+    },
+    {
+        "id": "FQNRsqdB9ac",
+        "videoId": "FQNRsqdB9ac",
+        "title": "Claude devient ton gestionnaire d'annonces Meta",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=FQNRsqdB9ac",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton gestionnaire d'annonces Meta..."
+    },
+    {
+        "id": "dyZjwf1GeYk",
+        "videoId": "dyZjwf1GeYk",
+        "title": "Anthropic vient de simplifier ENORMEMENT la gestion d’agents!",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
+    },
     {
         "id": "GWY3ANofbgw",
         "videoId": "GWY3ANofbgw",
@@ -653,17 +686,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ioJMtQ8OOWw",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Les 5 skills à AVOIR dans ton Claude Code..."
-    },
-    {
-        "id": "vvBQET43U64",
-        "videoId": "vvBQET43U64",
-        "title": "Claude vient de lancer Claude Design",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=vvBQET43U64",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de lancer Claude Design..."
     },
     {
         "id": "7cTenhHWfsk",
@@ -1865,17 +1887,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)..."
     },
     {
-        "id": "BKAfkvBaevs",
-        "videoId": "BKAfkvBaevs",
-        "title": "5 plugins qui vont rendre ton Claude Code surpuissant",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=BKAfkvBaevs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : 5 plugins qui vont rendre ton Claude Code surpuissant..."
-    },
-    {
         "id": "vP0qh6ch99o",
         "videoId": "vP0qh6ch99o",
         "title": "La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)",
@@ -1984,16 +1995,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uqV3ujeaeKs",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)..."
-    },
-    {
-        "id": "YebMrY_Cr5s",
-        "videoId": "YebMrY_Cr5s",
-        "title": "Comment utiliser EXCEL avec un AGENT IA ?",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=YebMrY_Cr5s",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
     }
 ];
