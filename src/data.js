@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-13T08:39:32.436Z
+// Fichier généré automatiquement le 2026-05-14T08:32:44.680Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:39:32 AM 5/13/2026";
+export const lastUpdate = "8:32:44 AM 5/14/2026";
 
 export const sources = [
     {
@@ -158,15 +158,59 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "JOPrKZheAc4",
+        "videoId": "JOPrKZheAc4",
+        "title": "J'ai arrêté d'utiliser OpenClaw (je t'explique pourquoi)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=JOPrKZheAc4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai arrêté d'utiliser OpenClaw (je t'explique pourquoi)..."
+    },
+    {
+        "id": "yBqaOHHDnU8",
+        "videoId": "yBqaOHHDnU8",
+        "title": "Claude gère mes courses chaque dimanche.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=yBqaOHHDnU8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude gère mes courses chaque dimanche...."
+    },
+    {
+        "id": "PxthwNWLV_E",
+        "videoId": "PxthwNWLV_E",
+        "title": "Mon classement des fonctionnalités dans Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=PxthwNWLV_E",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
+    },
+    {
         "id": "hr5J7g2R0H8",
         "videoId": "hr5J7g2R0H8",
-        "title": "Je vous présente mon système IA (+ réponse à vos questions)",
+        "title": "Je vous présente mon second cerveau IA (+ réponse à vos questions)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-13",
         "url": "https://www.youtube.com/watch?v=hr5J7g2R0H8",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponse à vos questions)..."
+        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon second cerveau IA (+ réponse à vos questions)..."
+    },
+    {
+        "id": "Z678vGFryxE",
+        "videoId": "Z678vGFryxE",
+        "title": "Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=Z678vGFryxE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥..."
     },
     {
         "id": "FQNRsqdB9ac",
@@ -642,17 +686,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Claude Code: La Magie de la Conversion Audio #shorts...",
         "isShort": true
-    },
-    {
-        "id": "er2vIjpeOOQ",
-        "videoId": "er2vIjpeOOQ",
-        "title": "Si tu utilises Claude Code, tu dois connaître ces 5 outils gratuits.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=er2vIjpeOOQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si tu utilises Claude Code, tu dois connaître ces 5 outils gratuits...."
     },
     {
         "id": "vJNI-NyacCg",
@@ -1634,17 +1667,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Apprenez ça au lieu de l'automatisation IA en 2026..."
     },
     {
-        "id": "Wue_5RVLpRk",
-        "videoId": "Wue_5RVLpRk",
-        "title": "GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=Wue_5RVLpRk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳..."
-    },
-    {
         "id": "9gpanAr9M_s",
         "videoId": "9gpanAr9M_s",
         "title": "Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)",
@@ -1843,17 +1865,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : CES OUTILS sont SURPUISSANTS..."
     },
     {
-        "id": "X43XHtAUMCA",
-        "videoId": "X43XHtAUMCA",
-        "title": "Microsoft lance Copilot Cowork et... c'est une claque !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=X43XHtAUMCA",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Microsoft lance Copilot Cowork et... c'est une claque !..."
-    },
-    {
         "id": "THc6XfAUFpU",
         "videoId": "THc6XfAUFpU",
         "title": "Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️",
@@ -1984,16 +1995,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Q7RcgXzBtDQ",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que cet ado vient de créer avec l'IA..."
-    },
-    {
-        "id": "uqV3ujeaeKs",
-        "videoId": "uqV3ujeaeKs",
-        "title": "L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=uqV3ujeaeKs",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)..."
     }
 ];
