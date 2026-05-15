@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-14T08:32:44.680Z
+// Fichier généré automatiquement le 2026-05-15T08:44:10.489Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:32:44 AM 5/14/2026";
+export const lastUpdate = "8:44:10 AM 5/15/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "_cvcso_h0H4",
+        "videoId": "_cvcso_h0H4",
+        "title": "Claude lance 10 agents IA pour la finance",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-14",
+        "url": "https://www.youtube.com/watch?v=_cvcso_h0H4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude lance 10 agents IA pour la finance..."
+    },
+    {
+        "id": "aQ3DckyO4eE",
+        "videoId": "aQ3DckyO4eE",
+        "title": "TicNote Cloud : Le Meilleur Outil IA pour Tes Réunions ? (Test Complet) 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-14",
+        "url": "https://www.youtube.com/watch?v=aQ3DckyO4eE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : TicNote Cloud : Le Meilleur Outil IA pour Tes Réunions ? (Test Complet) 😱🔥..."
+    },
+    {
+        "id": "uHHYXQZzNSM",
+        "videoId": "uHHYXQZzNSM",
+        "title": "J'ai remplacé mon monteur vidéo par Claude (voici le workflow exact)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-05-14",
+        "url": "https://www.youtube.com/watch?v=uHHYXQZzNSM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai remplacé mon monteur vidéo par Claude (voici le workflow exact)..."
+    },
+    {
+        "id": "cY9h0zre4dI",
+        "videoId": "cY9h0zre4dI",
+        "title": "Le Guide Claude Code OS ULTIME en 2026 (l'AIOS expliqué)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-05-14",
+        "url": "https://www.youtube.com/watch?v=cY9h0zre4dI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Le Guide Claude Code OS ULTIME en 2026 (l'AIOS expliqué)..."
+    },
     {
         "id": "JOPrKZheAc4",
         "videoId": "JOPrKZheAc4",
@@ -663,17 +707,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uO5p0AtXQOk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Cette IA code pour vous pendant que vous dormez 😴..."
-    },
-    {
-        "id": "Pj-8HkJyEAA",
-        "videoId": "Pj-8HkJyEAA",
-        "title": "Quelqu'un vient de construire l'outil Claude le plus puissant de la planète.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-01",
-        "url": "https://www.youtube.com/watch?v=Pj-8HkJyEAA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire l'outil Claude le plus puissant de la planète...."
     },
     {
         "id": "JyMiXlVBoew",
@@ -1623,17 +1656,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Claude Cowork Dispatch : c'est quoi et comment ça marche ?..."
     },
     {
-        "id": "X0xCiXQPXvM",
-        "videoId": "X0xCiXQPXvM",
-        "title": "Tribe V2 : Quand Meta contrôle ton cerveau 😳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=X0xCiXQPXvM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Tribe V2 : Quand Meta contrôle ton cerveau 😳..."
-    },
-    {
         "id": "2lWwlaOMMcQ",
         "videoId": "2lWwlaOMMcQ",
         "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
@@ -1973,27 +1995,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=30Ia0AVIdys",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : 10 astuces Canva à connaître absolument en 2026 ! (Devenez un pro)..."
-    },
-    {
-        "id": "vWMA0U2xj50",
-        "videoId": "vWMA0U2xj50",
-        "title": "CLAUDE a RÉSOLU le plus GROS problème de l'IA.",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-15",
-        "url": "https://www.youtube.com/watch?v=vWMA0U2xj50",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : CLAUDE a RÉSOLU le plus GROS problème de l'IA...."
-    },
-    {
-        "id": "Q7RcgXzBtDQ",
-        "videoId": "Q7RcgXzBtDQ",
-        "title": "Personne ne réalise ce que cet ado vient de créer avec l'IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-03-15",
-        "url": "https://www.youtube.com/watch?v=Q7RcgXzBtDQ",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que cet ado vient de créer avec l'IA..."
     }
 ];
