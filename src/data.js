@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-18T09:53:28.619Z
+// Fichier généré automatiquement le 2026-05-19T09:35:35.734Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:53:28 AM 5/18/2026";
+export const lastUpdate = "9:35:35 AM 5/19/2026";
 
 export const sources = [
     {
@@ -158,6 +158,17 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "iXD2xJmDe3I",
+        "videoId": "iXD2xJmDe3I",
+        "title": "La plupart des gens utilisent Claude comme un chatbot basique : et c'est pour ça qu'ils sont déçus.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=iXD2xJmDe3I",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude comme un chatbot basique : et c'est pour ça qu'ils sont déçus...."
+    },
+    {
         "id": "b5HDUbwcgzo",
         "videoId": "b5HDUbwcgzo",
         "title": "Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?",
@@ -167,6 +178,52 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=b5HDUbwcgzo",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?..."
+    },
+    {
+        "id": "-tPJLy0hqxQ",
+        "videoId": "-tPJLy0hqxQ",
+        "title": "L'IA Révolutionne Vos Réseaux Sociaux avec Claude Code & Vibe Socials #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=-tPJLy0hqxQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : L'IA Révolutionne Vos Réseaux Sociaux avec Claude Code & Vibe Socials #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "8kLeL9OERPU",
+        "videoId": "8kLeL9OERPU",
+        "title": "Installez Ollama Facilement sur Votre PC: Le Futur est Là ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=8kLeL9OERPU",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Installez Ollama Facilement sur Votre PC: Le Futur est Là ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "ZfOCoTnpymA",
+        "videoId": "ZfOCoTnpymA",
+        "title": "Divise ta facture Claude Code par 10 avec ce nouvel outil (Tuto Complet)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=ZfOCoTnpymA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Divise ta facture Claude Code par 10 avec ce nouvel outil (Tuto Complet)..."
+    },
+    {
+        "id": "tWneZs6ttSA",
+        "videoId": "tWneZs6ttSA",
+        "title": "Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=tWneZs6ttSA",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine..."
     },
     {
         "id": "T7vTh4StDZM",
@@ -193,13 +250,13 @@ export const allVideos = [
     {
         "id": "oS1RvuLPGbA",
         "videoId": "oS1RvuLPGbA",
-        "title": "Formation Claude Code: De Zéro à Pro Sans Coder (2026) | Guide Complet Débutant",
+        "title": "Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-05-17",
         "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Formation Claude Code: De Zéro à Pro Sans Coder (2026) | Guide Complet Débutant..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant..."
     },
     {
         "id": "JntQOBm7-44",
@@ -688,17 +745,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
     },
     {
-        "id": "ZDj8kDdAc9c",
-        "videoId": "ZDj8kDdAc9c",
-        "title": "300 skills gratuits viennent de sortir",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-05",
-        "url": "https://www.youtube.com/watch?v=ZDj8kDdAc9c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 300 skills gratuits viennent de sortir..."
-    },
-    {
         "id": "6UQEipBOXcQ",
         "videoId": "6UQEipBOXcQ",
         "title": "IA Vendeuse: Votre Business Vendre 24/7 #shorts",
@@ -1122,30 +1168,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PvkMwQkqw2Q",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Ce design IA colle PARFAITEMENT à Claude - Incroyable ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "NKvWOv1H9n8",
-        "videoId": "NKvWOv1H9n8",
-        "title": "Stitch : Votre SAS devient un VRAI site web interactif ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=NKvWOv1H9n8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Stitch : Votre SAS devient un VRAI site web interactif ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "L9ZE0wi3-3Y",
-        "videoId": "L9ZE0wi3-3Y",
-        "title": "L'IA refait votre site web en orange : design fluide et rapide #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=L9ZE0wi3-3Y",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : L'IA refait votre site web en orange : design fluide et rapide #shorts...",
         "isShort": true
     },
     {
@@ -1917,38 +1939,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DL9imqmWs_8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻..."
-    },
-    {
-        "id": "a8tM3ZD1NRg",
-        "videoId": "a8tM3ZD1NRg",
-        "title": "CES OUTILS sont SURPUISSANTS",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=a8tM3ZD1NRg",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : CES OUTILS sont SURPUISSANTS..."
-    },
-    {
-        "id": "THc6XfAUFpU",
-        "videoId": "THc6XfAUFpU",
-        "title": "Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=THc6XfAUFpU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️..."
-    },
-    {
-        "id": "X3wKzD2fauc",
-        "videoId": "X3wKzD2fauc",
-        "title": "Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=X3wKzD2fauc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀..."
     }
 ];
