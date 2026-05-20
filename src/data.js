@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-19T09:35:35.734Z
+// Fichier généré automatiquement le 2026-05-20T08:59:34.497Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:35:35 AM 5/19/2026";
+export const lastUpdate = "8:59:34 AM 5/20/2026";
 
 export const sources = [
     {
@@ -157,6 +157,85 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "9BnO43ijZwE",
+        "videoId": "9BnO43ijZwE",
+        "title": "Qwen 3.7 est la !",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=9BnO43ijZwE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 est la !..."
+    },
+    {
+        "id": "xFs7A_fEFa4",
+        "videoId": "xFs7A_fEFa4",
+        "title": "Ce site te donne accès à des centaines d’outils IA gratuitement",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-19",
+        "url": "https://www.youtube.com/watch?v=xFs7A_fEFa4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des centaines d’outils IA gratuitement..."
+    },
+    {
+        "id": "flZ8Etn_N8E",
+        "videoId": "flZ8Etn_N8E",
+        "title": "Arrête de payer pour ElevenLabs",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-19",
+        "url": "https://www.youtube.com/watch?v=flZ8Etn_N8E",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Arrête de payer pour ElevenLabs..."
+    },
+    {
+        "id": "UD-p0mPV38A",
+        "videoId": "UD-p0mPV38A",
+        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-19",
+        "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
+    },
+    {
+        "id": "6FPbsQnDYCM",
+        "videoId": "6FPbsQnDYCM",
+        "title": "Ollama: Les Modèles IA qui Tournent sur VOTRE PC ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-19",
+        "url": "https://www.youtube.com/watch?v=6FPbsQnDYCM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ollama: Les Modèles IA qui Tournent sur VOTRE PC ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Xle7whxjTcc",
+        "videoId": "Xle7whxjTcc",
+        "title": "Télécharge tes modèles IA avec Ollama : Productivité Offline Assurée ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-19",
+        "url": "https://www.youtube.com/watch?v=Xle7whxjTcc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Télécharge tes modèles IA avec Ollama : Productivité Offline Assurée ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "wjFdqDyTz3s",
+        "videoId": "wjFdqDyTz3s",
+        "title": "J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-05-19",
+        "url": "https://www.youtube.com/watch?v=wjFdqDyTz3s",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)..."
+    },
     {
         "id": "iXD2xJmDe3I",
         "videoId": "iXD2xJmDe3I",
@@ -635,17 +714,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Créer son système IA : ça vaut encore le coup ?..."
     },
     {
-        "id": "T5t3PNtCSKo",
-        "videoId": "T5t3PNtCSKo",
-        "title": "Higgsfield vient de lancer leur nouveau MCP : tu peux maintenant connecter Claude directement.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=T5t3PNtCSKo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Higgsfield vient de lancer leur nouveau MCP : tu peux maintenant connecter Claude directement...."
-    },
-    {
         "id": "NCvARWY-_aQ",
         "videoId": "NCvARWY-_aQ",
         "title": "Ne plus JAMAIS atteindre la limite de Tokens dans Claude !",
@@ -710,17 +778,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=L3YfsM5RTJs",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)..."
-    },
-    {
-        "id": "8F2oktq_x6U",
-        "videoId": "8F2oktq_x6U",
-        "title": "Claude vient de détruire des centaines d'entreprises avec cette mise à jour massive.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=8F2oktq_x6U",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de détruire des centaines d'entreprises avec cette mise à jour massive...."
     },
     {
         "id": "iEeaHdbNPcw",
@@ -1136,18 +1193,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "Tr9xtmY5Msk",
-        "videoId": "Tr9xtmY5Msk",
-        "title": "L'IA Réinvente le Web Design : Couleurs et Modification Facile ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=Tr9xtmY5Msk",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : L'IA Réinvente le Web Design : Couleurs et Modification Facile ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "RQhj_I_erVg",
         "videoId": "RQhj_I_erVg",
         "title": "5 secrets sur Claude que personne ne connait !",
@@ -1157,18 +1202,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RQhj_I_erVg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 5 secrets sur Claude que personne ne connait !..."
-    },
-    {
-        "id": "PvkMwQkqw2Q",
-        "videoId": "PvkMwQkqw2Q",
-        "title": "Ce design IA colle PARFAITEMENT à Claude - Incroyable ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=PvkMwQkqw2Q",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ce design IA colle PARFAITEMENT à Claude - Incroyable ! #shorts...",
-        "isShort": true
     },
     {
         "id": "MduQOd_cDzs",
@@ -1578,17 +1611,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
     },
     {
-        "id": "avDtMURiHs0",
-        "videoId": "avDtMURiHs0",
-        "title": "Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=avDtMURiHs0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳..."
-    },
-    {
         "id": "BWwGSK-pKpY",
         "videoId": "BWwGSK-pKpY",
         "title": "Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)",
@@ -1631,17 +1653,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
-    },
-    {
-        "id": "Kksw2LAMXvg",
-        "videoId": "Kksw2LAMXvg",
-        "title": "Gemma 4 (26B & 31B) : Les Meilleurs Modèles Open Source du Moment ? 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-04",
-        "url": "https://www.youtube.com/watch?v=Kksw2LAMXvg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Gemma 4 (26B & 31B) : Les Meilleurs Modèles Open Source du Moment ? 😱🔥..."
     },
     {
         "id": "95YMCtc9SZk",
@@ -1928,16 +1939,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aELai2cF_kk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Ce plugin Claude Code va donner accès à toutes les APIs à jour !..."
-    },
-    {
-        "id": "DL9imqmWs_8",
-        "videoId": "DL9imqmWs_8",
-        "title": "Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=DL9imqmWs_8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻..."
     }
 ];
