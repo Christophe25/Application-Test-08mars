@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-21T09:31:58.751Z
+// Fichier généré automatiquement le 2026-05-22T08:55:05.271Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:31:58 AM 5/21/2026";
+export const lastUpdate = "8:55:05 AM 5/22/2026";
 
 export const sources = [
     {
@@ -157,6 +157,96 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "KxkxqmRNndU",
+        "videoId": "KxkxqmRNndU",
+        "title": "Connecte Claude directement à ton compte Instagram !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=KxkxqmRNndU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Connecte Claude directement à ton compte Instagram !..."
+    },
+    {
+        "id": "9j6ecsEpZks",
+        "videoId": "9j6ecsEpZks",
+        "title": "Le directeur de Gemini vient de publier un repo GitHub qui devient viral.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=9j6ecsEpZks",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le directeur de Gemini vient de publier un repo GitHub qui devient viral...."
+    },
+    {
+        "id": "o3-6jJvOpjI",
+        "videoId": "o3-6jJvOpjI",
+        "title": "Codex est devenu INCROYABLE... 7 Exemples concrets !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=o3-6jJvOpjI",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Codex est devenu INCROYABLE... 7 Exemples concrets !..."
+    },
+    {
+        "id": "0AEsQYXHAmY",
+        "videoId": "0AEsQYXHAmY",
+        "title": "Créer un vrai SaaS avec l’IA en 2026 : Tuto Complet Hostinger Horizons 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=0AEsQYXHAmY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Créer un vrai SaaS avec l’IA en 2026 : Tuto Complet Hostinger Horizons 😱🔥..."
+    },
+    {
+        "id": "ULlBUO1dAQ4",
+        "videoId": "ULlBUO1dAQ4",
+        "title": "Claude Design vs Figma : j'ai recréé Apple.com pour comparer",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=ULlBUO1dAQ4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Design vs Figma : j'ai recréé Apple.com pour comparer..."
+    },
+    {
+        "id": "F74GXOsWEiE",
+        "videoId": "F74GXOsWEiE",
+        "title": "IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=F74GXOsWEiE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "-6PHej38buw",
+        "videoId": "-6PHej38buw",
+        "title": "Le co-fondateur d'OpenAI vient de changer Claude Code pour toujours (LLM Wiki)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=-6PHej38buw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Le co-fondateur d'OpenAI vient de changer Claude Code pour toujours (LLM Wiki)..."
+    },
+    {
+        "id": "BZgiYCH65ho",
+        "videoId": "BZgiYCH65ho",
+        "title": "Ollama + Claude Code : Une machine de guerre est nécessaire ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=BZgiYCH65ho",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ollama + Claude Code : Une machine de guerre est nécessaire ! #shorts...",
+        "isShort": true
+    },
     {
         "id": "NU3G3RHuIX8",
         "videoId": "NU3G3RHuIX8",
@@ -694,17 +784,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Qu'est-ce qui se passe quand tu demandes à Claude tous les points faibles de ton projet ?..."
     },
     {
-        "id": "xhVeCqF4I-Q",
-        "videoId": "xhVeCqF4I-Q",
-        "title": "Je suis passé de ChatGPT à Claude (et tu devrais aussi)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-10",
-        "url": "https://www.youtube.com/watch?v=xhVeCqF4I-Q",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Je suis passé de ChatGPT à Claude (et tu devrais aussi)..."
-    },
-    {
         "id": "w2JE7HUNJFU",
         "videoId": "w2JE7HUNJFU",
         "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
@@ -714,17 +793,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population..."
-    },
-    {
-        "id": "kFdDZYKXvmw",
-        "videoId": "kFdDZYKXvmw",
-        "title": "Claude peut maintenant t'aider à devenir fluide dans n'importe quelle langue avec 1 unique skill.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=kFdDZYKXvmw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant t'aider à devenir fluide dans n'importe quelle langue avec 1 unique skill...."
     },
     {
         "id": "y0taBHJRJXY",
@@ -970,18 +1038,6 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : Cette IA code pour vous pendant que vous dormez 😴..."
     },
     {
-        "id": "JyMiXlVBoew",
-        "videoId": "JyMiXlVBoew",
-        "title": "Claude Code: La Magie de la Conversion Audio #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-01",
-        "url": "https://www.youtube.com/watch?v=JyMiXlVBoew",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: La Magie de la Conversion Audio #shorts...",
-        "isShort": true
-    },
-    {
         "id": "vJNI-NyacCg",
         "videoId": "vJNI-NyacCg",
         "title": "Maîtriser 95% de Claude Design en 21 min !",
@@ -1123,30 +1179,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7nAJfe2afoU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Claude Code + Blotato : 30 Jours de Contenu en 1 Seul Prompt..."
-    },
-    {
-        "id": "tMEynH4FBoM",
-        "videoId": "tMEynH4FBoM",
-        "title": "Connectez Claude Code à Stitch : Le MCP Expliqué ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=tMEynH4FBoM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Connectez Claude Code à Stitch : Le MCP Expliqué ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "EPcWZPXd0Vo",
-        "videoId": "EPcWZPXd0Vo",
-        "title": "Ce SAS pour créer des hooks : un design qui cartonne ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=EPcWZPXd0Vo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ce SAS pour créer des hooks : un design qui cartonne ! #shorts...",
-        "isShort": true
     },
     {
         "id": "Ac6etyFXc54",
@@ -1523,17 +1555,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot a totalement changé ! (7 exemples INCROYABLES)..."
     },
     {
-        "id": "-cjtkR_lR2Q",
-        "videoId": "-cjtkR_lR2Q",
-        "title": "Claude Mythos : L’IA Trop Dangereuse Pour Être Publiée ? 😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=-cjtkR_lR2Q",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Mythos : L’IA Trop Dangereuse Pour Être Publiée ? 😱..."
-    },
-    {
         "id": "fGnr9h5JUGc",
         "videoId": "fGnr9h5JUGc",
         "title": "Paperclip + OpenClaw : mon équipe IA tourne 24h/24",
@@ -1809,17 +1830,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
     },
     {
-        "id": "4aUzQlpRQbk",
-        "videoId": "4aUzQlpRQbk",
-        "title": "Copilot dans Powerpoint est devenu dingue !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=4aUzQlpRQbk",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Copilot dans Powerpoint est devenu dingue !..."
-    },
-    {
         "id": "4GgbcgfKibw",
         "videoId": "4GgbcgfKibw",
         "title": "Créer une chanson avec l'IA Gemini (Tuto Complet)",
@@ -1884,49 +1894,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
-    },
-    {
-        "id": "-50BGEYgMr4",
-        "videoId": "-50BGEYgMr4",
-        "title": "Tout Comprendre sur Claude IA en 22 Minutes",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur Claude IA en 22 Minutes..."
-    },
-    {
-        "id": "GhkppQ6eqlY",
-        "videoId": "GhkppQ6eqlY",
-        "title": "Utilise Claude Code GRATUITEMENT avec OpenRouter !",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=GhkppQ6eqlY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Utilise Claude Code GRATUITEMENT avec OpenRouter !..."
-    },
-    {
-        "id": "6vgFGdalWXQ",
-        "videoId": "6vgFGdalWXQ",
-        "title": "Utilise Claude Code gratuitement avec cette méthode (Pas besoin de RAM)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=6vgFGdalWXQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Utilise Claude Code gratuitement avec cette méthode (Pas besoin de RAM)..."
-    },
-    {
-        "id": "PAT7dZxCimM",
-        "videoId": "PAT7dZxCimM",
-        "title": "Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=PAT7dZxCimM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)..."
     }
 ];
