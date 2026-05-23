@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-22T08:55:05.271Z
+// Fichier généré automatiquement le 2026-05-23T08:12:36.734Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:55:05 AM 5/22/2026";
+export const lastUpdate = "8:12:36 AM 5/23/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "6vq00uTyYu8",
+        "videoId": "6vq00uTyYu8",
+        "title": "La seule certification IA qui vaut vraiment quelque chose en 2026.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=6vq00uTyYu8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La seule certification IA qui vaut vraiment quelque chose en 2026...."
+    },
+    {
+        "id": "VMUDRIYRoQs",
+        "videoId": "VMUDRIYRoQs",
+        "title": "Actus IA : Google dégaine... ChatGPT et Claude ripostent !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=VMUDRIYRoQs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : Google dégaine... ChatGPT et Claude ripostent !..."
+    },
     {
         "id": "KxkxqmRNndU",
         "videoId": "KxkxqmRNndU",
@@ -588,13 +610,13 @@ export const allVideos = [
     {
         "id": "9nXqUad7x9o",
         "videoId": "9nXqUad7x9o",
-        "title": "ChatGPT, Gemini, Claude, Mistral... du nouveau PARTOUT !",
+        "title": "Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-05-15",
         "url": "https://www.youtube.com/watch?v=9nXqUad7x9o",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : ChatGPT, Gemini, Claude, Mistral... du nouveau PARTOUT !..."
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !..."
     },
     {
         "id": "_cvcso_h0H4",
@@ -771,17 +793,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J4hyyVkt_Bo",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)..."
-    },
-    {
-        "id": "Z6AQ5cNvQCQ",
-        "videoId": "Z6AQ5cNvQCQ",
-        "title": "Qu'est-ce qui se passe quand tu demandes à Claude tous les points faibles de ton projet ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-10",
-        "url": "https://www.youtube.com/watch?v=Z6AQ5cNvQCQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Qu'est-ce qui se passe quand tu demandes à Claude tous les points faibles de ton projet ?..."
     },
     {
         "id": "w2JE7HUNJFU",
@@ -1447,13 +1458,13 @@ export const allVideos = [
     {
         "id": "9_T-RzbA_EQ",
         "videoId": "9_T-RzbA_EQ",
-        "title": "Votre futur employeur est une IA (ça a déjà commencé)",
+        "title": "Actus IA : une IA a embauché des Humains (ça fait peur)",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-04-14",
         "url": "https://www.youtube.com/watch?v=9_T-RzbA_EQ",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Votre futur employeur est une IA (ça a déjà commencé)..."
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : une IA a embauché des Humains (ça fait peur)..."
     },
     {
         "id": "Dv6suL5-fAE",
@@ -1872,27 +1883,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=e0hwvA2cjGY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
-    },
-    {
-        "id": "wWC4wgSF984",
-        "videoId": "wWC4wgSF984",
-        "title": "Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=wWC4wgSF984",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce..."
-    },
-    {
-        "id": "VxAjVp09vDw",
-        "videoId": "VxAjVp09vDw",
-        "title": "Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
     }
 ];
