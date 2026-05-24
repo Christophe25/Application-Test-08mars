@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-23T08:12:36.734Z
+// Fichier généré automatiquement le 2026-05-24T08:24:02.650Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:12:36 AM 5/23/2026";
+export const lastUpdate = "8:24:02 AM 5/24/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "i0iU1iFXAfA",
+        "videoId": "i0iU1iFXAfA",
+        "title": "J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=i0iU1iFXAfA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code...."
+    },
+    {
+        "id": "m7bYnWcx8s0",
+        "videoId": "m7bYnWcx8s0",
+        "title": "200 entrepreneurs, 21 hectares, 4 jours",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=m7bYnWcx8s0",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : 200 entrepreneurs, 21 hectares, 4 jours..."
+    },
     {
         "id": "6vq00uTyYu8",
         "videoId": "6vq00uTyYu8",
@@ -738,17 +760,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
-    },
-    {
-        "id": "GWY3ANofbgw",
-        "videoId": "GWY3ANofbgw",
-        "title": "Le créateur de Claude Code vient de sortir ce skill qui va changer comment tu utilises Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=GWY3ANofbgw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de sortir ce skill qui va changer comment tu utilises Claude..."
     },
     {
         "id": "YCttZsEIuqI",
@@ -1872,16 +1883,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=adMlsFoc3z4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀..."
-    },
-    {
-        "id": "e0hwvA2cjGY",
-        "videoId": "e0hwvA2cjGY",
-        "title": "Openclaw 3.23 est INCROYABLE - Voici ce que ça change",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=e0hwvA2cjGY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
     }
 ];
