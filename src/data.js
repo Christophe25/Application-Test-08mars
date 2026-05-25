@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-24T08:24:02.650Z
+// Fichier généré automatiquement le 2026-05-25T09:57:21.895Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:24:02 AM 5/24/2026";
+export const lastUpdate = "9:57:21 AM 5/25/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "jNYq99U5gR4",
+        "videoId": "jNYq99U5gR4",
+        "title": "Tu savais que Claude Code avait une barre de statut cachée ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-24",
+        "url": "https://www.youtube.com/watch?v=jNYq99U5gR4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que Claude Code avait une barre de statut cachée ?..."
+    },
+    {
+        "id": "y4AAFTlA6ak",
+        "videoId": "y4AAFTlA6ak",
+        "title": "Claude Skills : Tout le monde peut ENFIN automatiser !",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-05-24",
+        "url": "https://www.youtube.com/watch?v=y4AAFTlA6ak",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Claude Skills : Tout le monde peut ENFIN automatiser !..."
+    },
     {
         "id": "i0iU1iFXAfA",
         "videoId": "i0iU1iFXAfA",
@@ -738,17 +760,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Z678vGFryxE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥..."
-    },
-    {
-        "id": "FQNRsqdB9ac",
-        "videoId": "FQNRsqdB9ac",
-        "title": "Claude devient ton gestionnaire d'annonces Meta",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-12",
-        "url": "https://www.youtube.com/watch?v=FQNRsqdB9ac",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton gestionnaire d'annonces Meta..."
     },
     {
         "id": "dyZjwf1GeYk",
@@ -1861,27 +1872,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4GgbcgfKibw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Créer une chanson avec l'IA Gemini (Tuto Complet)..."
-    },
-    {
-        "id": "Z50mk04Xlis",
-        "videoId": "Z50mk04Xlis",
-        "title": "Claude Code pour les NULS : Crée ton premier projet IA en 2026",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=Z50mk04Xlis",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Claude Code pour les NULS : Crée ton premier projet IA en 2026..."
-    },
-    {
-        "id": "adMlsFoc3z4",
-        "videoId": "adMlsFoc3z4",
-        "title": "Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=adMlsFoc3z4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀..."
     }
 ];
