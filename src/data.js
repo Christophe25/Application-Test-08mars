@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-25T09:57:21.895Z
+// Fichier généré automatiquement le 2026-05-26T09:44:06.701Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:57:21 AM 5/25/2026";
+export const lastUpdate = "9:44:06 AM 5/26/2026";
 
 export const sources = [
     {
@@ -157,6 +157,17 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "yS7zBSvI0Y8",
+        "videoId": "yS7zBSvI0Y8",
+        "title": "Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-05-25",
+        "url": "https://www.youtube.com/watch?v=yS7zBSvI0Y8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours..."
+    },
     {
         "id": "jNYq99U5gR4",
         "videoId": "jNYq99U5gR4",
@@ -738,17 +749,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PxthwNWLV_E",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
-    },
-    {
-        "id": "hr5J7g2R0H8",
-        "videoId": "hr5J7g2R0H8",
-        "title": "Je vous présente mon second cerveau IA (+ réponse à vos questions)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=hr5J7g2R0H8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon second cerveau IA (+ réponse à vos questions)..."
     },
     {
         "id": "Z678vGFryxE",
@@ -1861,16 +1861,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xXWznwbcFe8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
-    },
-    {
-        "id": "4GgbcgfKibw",
-        "videoId": "4GgbcgfKibw",
-        "title": "Créer une chanson avec l'IA Gemini (Tuto Complet)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=4GgbcgfKibw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Créer une chanson avec l'IA Gemini (Tuto Complet)..."
     }
 ];
