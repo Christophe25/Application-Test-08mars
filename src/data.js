@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-26T09:44:06.701Z
+// Fichier généré automatiquement le 2026-05-27T09:37:44.487Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:44:06 AM 5/26/2026";
+export const lastUpdate = "9:37:44 AM 5/27/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "MjCJIJ4PuSw",
+        "videoId": "MjCJIJ4PuSw",
+        "title": "57 minutes pour comprendre les LLM en profondeur (sans être mathématicien)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : 57 minutes pour comprendre les LLM en profondeur (sans être mathématicien)..."
+    },
+    {
+        "id": "BZA2kdEeODI",
+        "videoId": "BZA2kdEeODI",
+        "title": "Qu’est-ce que le MCP ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-26",
+        "url": "https://www.youtube.com/watch?v=BZA2kdEeODI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Qu’est-ce que le MCP ?..."
+    },
+    {
+        "id": "OZo57C9nohk",
+        "videoId": "OZo57C9nohk",
+        "title": "Le créateur de Claude Code réserve tous ses vols et hôtels avec Cowork",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-26",
+        "url": "https://www.youtube.com/watch?v=OZo57C9nohk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code réserve tous ses vols et hôtels avec Cowork..."
+    },
+    {
+        "id": "9KvncVTC6zU",
+        "videoId": "9KvncVTC6zU",
+        "title": "Claude Opus 4.8 a leak : Anthropic prépare un MONSTRE 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-26",
+        "url": "https://www.youtube.com/watch?v=9KvncVTC6zU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 a leak : Anthropic prépare un MONSTRE 😱..."
+    },
     {
         "id": "yS7zBSvI0Y8",
         "videoId": "yS7zBSvI0Y8",
@@ -674,17 +718,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !..."
     },
     {
-        "id": "_cvcso_h0H4",
-        "videoId": "_cvcso_h0H4",
-        "title": "Claude lance 10 agents IA pour la finance",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-14",
-        "url": "https://www.youtube.com/watch?v=_cvcso_h0H4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude lance 10 agents IA pour la finance..."
-    },
-    {
         "id": "aQ3DckyO4eE",
         "videoId": "aQ3DckyO4eE",
         "title": "TicNote Cloud : Le Meilleur Outil IA pour Tes Réunions ? (Test Complet) 😱🔥",
@@ -727,17 +760,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=JOPrKZheAc4",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : J'ai arrêté d'utiliser OpenClaw (je t'explique pourquoi)..."
-    },
-    {
-        "id": "yBqaOHHDnU8",
-        "videoId": "yBqaOHHDnU8",
-        "title": "Claude gère mes courses chaque dimanche.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=yBqaOHHDnU8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude gère mes courses chaque dimanche...."
     },
     {
         "id": "PxthwNWLV_E",
@@ -1553,17 +1575,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uIjp0Bx9mWg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Où vont vraiment vos données quand vous parlez à l'IA..."
-    },
-    {
-        "id": "k5c0MC0BAX8",
-        "videoId": "k5c0MC0BAX8",
-        "title": "Muse Spark : l’IA de Meta est INCROYABLE ? (test complet) 😱🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=k5c0MC0BAX8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Muse Spark : l’IA de Meta est INCROYABLE ? (test complet) 😱🚨..."
     },
     {
         "id": "I5FbWuX7AZQ",
