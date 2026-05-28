@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-27T09:37:44.487Z
+// Fichier généré automatiquement le 2026-05-28T09:54:51.572Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:37:44 AM 5/27/2026";
+export const lastUpdate = "9:54:51 AM 5/28/2026";
 
 export const sources = [
     {
@@ -158,15 +158,59 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "gXm3Go03l_s",
+        "videoId": "gXm3Go03l_s",
+        "title": "J'ai codé une IA qui fait mes miniatures (c'est dingue)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=gXm3Go03l_s",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai codé une IA qui fait mes miniatures (c'est dingue)..."
+    },
+    {
+        "id": "Qgq9-8VVgpc",
+        "videoId": "Qgq9-8VVgpc",
+        "title": "Le plan SECRET de la Chine pour dominer l'IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=Qgq9-8VVgpc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le plan SECRET de la Chine pour dominer l'IA..."
+    },
+    {
         "id": "MjCJIJ4PuSw",
         "videoId": "MjCJIJ4PuSw",
-        "title": "57 minutes pour comprendre les LLM en profondeur (sans être mathématicien)",
+        "title": "J'ai étudié les LLM pendant 6 mois (et j'ai enfin compris comment ChatGPT fonctionne)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-27",
         "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : 57 minutes pour comprendre les LLM en profondeur (sans être mathématicien)..."
+        "summary": "Nouveauté de Eliott Meunier : J'ai étudié les LLM pendant 6 mois (et j'ai enfin compris comment ChatGPT fonctionne)..."
+    },
+    {
+        "id": "luQNxwS1yc8",
+        "videoId": "luQNxwS1yc8",
+        "title": "Pourquoi DeepSeek Va Changer L’avenir Des Agents IA à Jamais 🐳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=luQNxwS1yc8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi DeepSeek Va Changer L’avenir Des Agents IA à Jamais 🐳..."
+    },
+    {
+        "id": "9ySW-tzoDpU",
+        "videoId": "9ySW-tzoDpU",
+        "title": "Réponses IA : comment passer de ça... à ÇA !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=9ySW-tzoDpU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Réponses IA : comment passer de ça... à ÇA !..."
     },
     {
         "id": "BZA2kdEeODI",
@@ -193,13 +237,13 @@ export const allVideos = [
     {
         "id": "9KvncVTC6zU",
         "videoId": "9KvncVTC6zU",
-        "title": "Claude Opus 4.8 a leak : Anthropic prépare un MONSTRE 😱",
+        "title": "Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-05-26",
         "url": "https://www.youtube.com/watch?v=9KvncVTC6zU",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 a leak : Anthropic prépare un MONSTRE 😱..."
+        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)..."
     },
     {
         "id": "yS7zBSvI0Y8",
@@ -674,26 +718,15 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : FindSkills te donne le skill Claude qu'il te faut !..."
     },
     {
-        "id": "enABNvv1FXE",
-        "videoId": "enABNvv1FXE",
-        "title": "60+ entreprises m'ont demandé ces 5 systèmes IA (copie-les)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=enABNvv1FXE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 60+ entreprises m'ont demandé ces 5 systèmes IA (copie-les)..."
-    },
-    {
         "id": "m0tqhlkr2pw",
         "videoId": "m0tqhlkr2pw",
-        "title": "GPT-5.5 Instant : Extrêmement Impressionnant… Mais Inquiétant 🤔",
+        "title": "GPT 5.5 Instant : OpenAI admet un vrai problème",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-05-15",
         "url": "https://www.youtube.com/watch?v=m0tqhlkr2pw",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT-5.5 Instant : Extrêmement Impressionnant… Mais Inquiétant 🤔..."
+        "summary": "Nouveauté de Nerdy Kings : GPT 5.5 Instant : OpenAI admet un vrai problème..."
     },
     {
         "id": "PIwy3Sg_Us8",
@@ -1379,17 +1412,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
     },
     {
-        "id": "WLn98Sdvb3c",
-        "videoId": "WLn98Sdvb3c",
-        "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=WLn98Sdvb3c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨..."
-    },
-    {
         "id": "wRaGk8WVBEI",
         "videoId": "wRaGk8WVBEI",
         "title": "Opus 4.7 dans Claude Code : ça CHANGE tout 🔥",
@@ -1861,16 +1883,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9gpanAr9M_s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)..."
-    },
-    {
-        "id": "xXWznwbcFe8",
-        "videoId": "xXWznwbcFe8",
-        "title": "J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=xXWznwbcFe8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
     }
 ];
