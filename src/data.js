@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-28T09:54:51.572Z
+// Fichier généré automatiquement le 2026-05-29T09:44:35.194Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:54:51 AM 5/28/2026";
+export const lastUpdate = "9:44:35 AM 5/29/2026";
 
 export const sources = [
     {
@@ -158,6 +158,72 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "dcH39RAdQ5Y",
+        "videoId": "dcH39RAdQ5Y",
+        "title": "3 repos GitHub pour économiser jusqu'à 98% de tokens avec Claude.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=dcH39RAdQ5Y",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 3 repos GitHub pour économiser jusqu'à 98% de tokens avec Claude...."
+    },
+    {
+        "id": "fmv0UlVZ19E",
+        "videoId": "fmv0UlVZ19E",
+        "title": "J'ai testé ChatGPT dans Excel... et c'est juste magique !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : J'ai testé ChatGPT dans Excel... et c'est juste magique !..."
+    },
+    {
+        "id": "mv5Sb75QLgc",
+        "videoId": "mv5Sb75QLgc",
+        "title": "Comment Claude Génère mes Propales à +10k€ en 10 minutes (Guide Complet)",
+        "author": "Lucas Reverdy",
+        "source": "@reverdybusiness",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=mv5Sb75QLgc",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Lucas Reverdy : Comment Claude Génère mes Propales à +10k€ en 10 minutes (Guide Complet)..."
+    },
+    {
+        "id": "vunt2M-BYmI",
+        "videoId": "vunt2M-BYmI",
+        "title": "Rocket 1.0 : L’IA Parfaite Pour Lancer un SaaS ? (Test réel 🔥)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=vunt2M-BYmI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Rocket 1.0 : L’IA Parfaite Pour Lancer un SaaS ? (Test réel 🔥)..."
+    },
+    {
+        "id": "ZSoi6C6jOEA",
+        "videoId": "ZSoi6C6jOEA",
+        "title": "Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=ZSoi6C6jOEA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖..."
+    },
+    {
+        "id": "G-Tjz_hC1L4",
+        "videoId": "G-Tjz_hC1L4",
+        "title": "GROK Voice Fast + CLAUDE CODE = Agent IA qui se vend 400€/mois !!",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=G-Tjz_hC1L4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : GROK Voice Fast + CLAUDE CODE = Agent IA qui se vend 400€/mois !!..."
+    },
+    {
         "id": "gXm3Go03l_s",
         "videoId": "gXm3Go03l_s",
         "title": "J'ai codé une IA qui fait mes miniatures (c'est dingue)",
@@ -171,13 +237,13 @@ export const allVideos = [
     {
         "id": "Qgq9-8VVgpc",
         "videoId": "Qgq9-8VVgpc",
-        "title": "Le plan SECRET de la Chine pour dominer l'IA",
+        "title": "La Chine est plus en avance sur l’IA que vous le pensez…",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-05-27",
         "url": "https://www.youtube.com/watch?v=Qgq9-8VVgpc",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le plan SECRET de la Chine pour dominer l'IA..."
+        "summary": "Nouveauté de Henri · ExplorIA : La Chine est plus en avance sur l’IA que vous le pensez…..."
     },
     {
         "id": "MjCJIJ4PuSw",
@@ -707,17 +773,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
     },
     {
-        "id": "xP59L4fnJSw",
-        "videoId": "xP59L4fnJSw",
-        "title": "FindSkills te donne le skill Claude qu'il te faut !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=xP59L4fnJSw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : FindSkills te donne le skill Claude qu'il te faut !..."
-    },
-    {
         "id": "m0tqhlkr2pw",
         "videoId": "m0tqhlkr2pw",
         "title": "GPT 5.5 Instant : OpenAI admet un vrai problème",
@@ -1115,17 +1170,6 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : La Chine bloque Meta : 2 milliards $ perdus et l'IA mondiale en danger..."
     },
     {
-        "id": "uO5p0AtXQOk",
-        "videoId": "uO5p0AtXQOk",
-        "title": "Cette IA code pour vous pendant que vous dormez 😴",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-02",
-        "url": "https://www.youtube.com/watch?v=uO5p0AtXQOk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Cette IA code pour vous pendant que vous dormez 😴..."
-    },
-    {
         "id": "vJNI-NyacCg",
         "videoId": "vJNI-NyacCg",
         "title": "Maîtriser 95% de Claude Design en 21 min !",
@@ -1322,17 +1366,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=CkUtbdamfCk",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Je regrette d'avoir créé des interfaces avec l'IA (pas à cause du code)..."
-    },
-    {
-        "id": "5G8ampZBkKE",
-        "videoId": "5G8ampZBkKE",
-        "title": "🚨 Qwen 3.6-35B-A3B : UN TOURNANT pour l’Open Source ? (Adieu Gemma 4) 😳🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=5G8ampZBkKE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : 🚨 Qwen 3.6-35B-A3B : UN TOURNANT pour l’Open Source ? (Adieu Gemma 4) 😳🔥..."
     },
     {
         "id": "XByAQxs4yCY",
@@ -1819,17 +1852,6 @@ export const allVideos = [
         "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)..."
     },
     {
-        "id": "UdTHKV7Taok",
-        "videoId": "UdTHKV7Taok",
-        "title": "Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=UdTHKV7Taok",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !..."
-    },
-    {
         "id": "Ksaqjr4QFdk",
         "videoId": "Ksaqjr4QFdk",
         "title": "Claude Cowork Dispatch : c'est quoi et comment ça marche ?",
@@ -1850,38 +1872,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2lWwlaOMMcQ",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT..."
-    },
-    {
-        "id": "7PXK7qmmgvQ",
-        "videoId": "7PXK7qmmgvQ",
-        "title": "On m'a payé +10k€ pour un Outil IA (j'ai aucune compétence technique)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=7PXK7qmmgvQ",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : On m'a payé +10k€ pour un Outil IA (j'ai aucune compétence technique)..."
-    },
-    {
-        "id": "sJeAFbIJwFA",
-        "videoId": "sJeAFbIJwFA",
-        "title": "Apprenez ça au lieu de l'automatisation IA en 2026",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=sJeAFbIJwFA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Apprenez ça au lieu de l'automatisation IA en 2026..."
-    },
-    {
-        "id": "9gpanAr9M_s",
-        "videoId": "9gpanAr9M_s",
-        "title": "Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=9gpanAr9M_s",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)..."
     }
 ];
