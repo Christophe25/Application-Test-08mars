@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-30T08:23:22.300Z
+// Fichier généré automatiquement le 2026-05-31T08:39:21.430Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:23:22 AM 5/30/2026";
+export const lastUpdate = "8:39:21 AM 5/31/2026";
 
 export const sources = [
     {
@@ -169,6 +169,28 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA..."
     },
     {
+        "id": "pjRKfnlsTfk",
+        "videoId": "pjRKfnlsTfk",
+        "title": "Le vrai problème de l'IA en entreprise (que les consultants cachent)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=pjRKfnlsTfk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le vrai problème de l'IA en entreprise (que les consultants cachent)..."
+    },
+    {
+        "id": "MXs3pnS9ie4",
+        "videoId": "MXs3pnS9ie4",
+        "title": "OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=MXs3pnS9ie4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠..."
+    },
+    {
         "id": "oNfx1PdTXfU",
         "videoId": "oNfx1PdTXfU",
         "title": "OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)",
@@ -178,6 +200,41 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oNfx1PdTXfU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)..."
+    },
+    {
+        "id": "tmXpiLrw3zA",
+        "videoId": "tmXpiLrw3zA",
+        "title": "J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=tmXpiLrw3zA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
+    },
+    {
+        "id": "wb3Y1iFmEn4",
+        "videoId": "wb3Y1iFmEn4",
+        "title": "Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=wb3Y1iFmEn4",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "L89fHYO-NOc",
+        "videoId": "L89fHYO-NOc",
+        "title": "Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=L89fHYO-NOc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts...",
+        "isShort": true
     },
     {
         "id": "woNAzDic5XQ",
@@ -807,18 +864,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "qjYCG4Hx5Ys",
-        "videoId": "qjYCG4Hx5Ys",
-        "title": "IA en avion : Code Cloud local, sans WiFi ni argent ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=qjYCG4Hx5Ys",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA en avion : Code Cloud local, sans WiFi ni argent ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "q5IfMPw6mFg",
         "videoId": "q5IfMPw6mFg",
         "title": "Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)",
@@ -839,17 +884,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=m0tqhlkr2pw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : GPT 5.5 Instant : OpenAI admet un vrai problème..."
-    },
-    {
-        "id": "PIwy3Sg_Us8",
-        "videoId": "PIwy3Sg_Us8",
-        "title": "J'ai lancé un LLM open source dans un avion : résultats choquants",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=PIwy3Sg_Us8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai lancé un LLM open source dans un avion : résultats choquants..."
     },
     {
         "id": "9nXqUad7x9o",
@@ -1873,16 +1907,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PiMNs7xHp2M",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)..."
-    },
-    {
-        "id": "Ksaqjr4QFdk",
-        "videoId": "Ksaqjr4QFdk",
-        "title": "Claude Cowork Dispatch : c'est quoi et comment ça marche ?",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Claude Cowork Dispatch : c'est quoi et comment ça marche ?..."
     }
 ];
