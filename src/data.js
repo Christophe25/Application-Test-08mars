@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-31T08:39:21.430Z
+// Fichier généré automatiquement le 2026-06-01T11:23:34.739Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:39:21 AM 5/31/2026";
+export const lastUpdate = "11:23:34 AM 6/1/2026";
 
 export const sources = [
     {
@@ -157,6 +157,75 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "0uhgtGBLNNE",
+        "videoId": "0uhgtGBLNNE",
+        "title": "Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=0uhgtGBLNNE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "O3WljjqqkfI",
+        "videoId": "O3WljjqqkfI",
+        "title": "L'IA a-t-elle tué tous les business en ligne en 2026 ?",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-05-31",
+        "url": "https://www.youtube.com/watch?v=O3WljjqqkfI",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : L'IA a-t-elle tué tous les business en ligne en 2026 ?..."
+    },
+    {
+        "id": "WTZ_B4yL1uQ",
+        "videoId": "WTZ_B4yL1uQ",
+        "title": "Quelqu'un vient de créer un OS agentique complet dans Claude Code.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-31",
+        "url": "https://www.youtube.com/watch?v=WTZ_B4yL1uQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code...."
+    },
+    {
+        "id": "logRxGmCaLo",
+        "videoId": "logRxGmCaLo",
+        "title": "Ce LLM Wiki Révolutionne Votre Organisation : Claude Code Explorez le Futur ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-31",
+        "url": "https://www.youtube.com/watch?v=logRxGmCaLo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ce LLM Wiki Révolutionne Votre Organisation : Claude Code Explorez le Futur ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "52DQ1_sg5HI",
+        "videoId": "52DQ1_sg5HI",
+        "title": "Créez votre cerveau digital avec LLM Wiki ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-31",
+        "url": "https://www.youtube.com/watch?v=52DQ1_sg5HI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez votre cerveau digital avec LLM Wiki ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "fOQCeQx22HI",
+        "videoId": "fOQCeQx22HI",
+        "title": "J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-05-31",
+        "url": "https://www.youtube.com/watch?v=fOQCeQx22HI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde...."
+    },
     {
         "id": "OhT8HBfsRo0",
         "videoId": "OhT8HBfsRo0",
@@ -716,17 +785,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des centaines d’outils IA gratuitement..."
     },
     {
-        "id": "flZ8Etn_N8E",
-        "videoId": "flZ8Etn_N8E",
-        "title": "Arrête de payer pour ElevenLabs",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=flZ8Etn_N8E",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Arrête de payer pour ElevenLabs..."
-    },
-    {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
         "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
@@ -784,30 +842,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?..."
     },
     {
-        "id": "-tPJLy0hqxQ",
-        "videoId": "-tPJLy0hqxQ",
-        "title": "L'IA Révolutionne Vos Réseaux Sociaux avec Claude Code & Vibe Socials #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=-tPJLy0hqxQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : L'IA Révolutionne Vos Réseaux Sociaux avec Claude Code & Vibe Socials #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "8kLeL9OERPU",
-        "videoId": "8kLeL9OERPU",
-        "title": "Installez Ollama Facilement sur Votre PC: Le Futur est Là ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=8kLeL9OERPU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Installez Ollama Facilement sur Votre PC: Le Futur est Là ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "ZfOCoTnpymA",
         "videoId": "ZfOCoTnpymA",
         "title": "Divise ta facture Claude Code par 10 avec ce nouvel outil (Tuto Complet)",
@@ -850,18 +884,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant..."
-    },
-    {
-        "id": "JntQOBm7-44",
-        "videoId": "JntQOBm7-44",
-        "title": "Trouve le MEILLEUR modèle IA pour ton PC avec Ollama ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=JntQOBm7-44",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Trouve le MEILLEUR modèle IA pour ton PC avec Ollama ! #shorts...",
-        "isShort": true
     },
     {
         "id": "q5IfMPw6mFg",
@@ -1874,38 +1896,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RKKK4uJ1ygU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)..."
-    },
-    {
-        "id": "FpVB_B6etu4",
-        "videoId": "FpVB_B6etu4",
-        "title": "GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=FpVB_B6etu4",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)..."
-    },
-    {
-        "id": "mUFTkEVVeK8",
-        "videoId": "mUFTkEVVeK8",
-        "title": "Codex arrive dans Claude Code (TEST)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=mUFTkEVVeK8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Codex arrive dans Claude Code (TEST)..."
-    },
-    {
-        "id": "PiMNs7xHp2M",
-        "videoId": "PiMNs7xHp2M",
-        "title": "CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=PiMNs7xHp2M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)..."
     }
 ];
