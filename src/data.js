@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-01T11:23:34.739Z
+// Fichier généré automatiquement le 2026-06-02T10:14:38.011Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:23:34 AM 6/1/2026";
+export const lastUpdate = "10:14:38 AM 6/2/2026";
 
 export const sources = [
     {
@@ -158,6 +158,74 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "kcCxHJXhMEE",
+        "videoId": "kcCxHJXhMEE",
+        "title": "Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=kcCxHJXhMEE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur...."
+    },
+    {
+        "id": "y-cxnWhY7Ek",
+        "videoId": "y-cxnWhY7Ek",
+        "title": "Comment mon associé et moi créons des entreprises IA #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=y-cxnWhY7Ek",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Comment mon associé et moi créons des entreprises IA #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "pxaXhfyQPKE",
+        "videoId": "pxaXhfyQPKE",
+        "title": "La méthode en 5 étapes pour découvrir les vraies capacités de Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=pxaXhfyQPKE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La méthode en 5 étapes pour découvrir les vraies capacités de Claude !..."
+    },
+    {
+        "id": "c3ndfrHeUcA",
+        "videoId": "c3ndfrHeUcA",
+        "title": "Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=c3ndfrHeUcA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter...."
+    },
+    {
+        "id": "1eOQtGqgeyU",
+        "videoId": "1eOQtGqgeyU",
+        "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Comment J’apprendrais l’IA en 2026 (si je devais recommencer)..."
+    },
+    {
+        "id": "KhovqSzDkfs",
+        "videoId": "KhovqSzDkfs",
+        "title": "IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=KhovqSzDkfs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "0uhgtGBLNNE",
         "videoId": "0uhgtGBLNNE",
         "title": "Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts",
@@ -168,6 +236,28 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts...",
         "isShort": true
+    },
+    {
+        "id": "zQHOgFqCsUE",
+        "videoId": "zQHOgFqCsUE",
+        "title": "J'ai Cloné mon Visage, mon Corps, ma Voix avec CLAUDE, je ne filme plus !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=zQHOgFqCsUE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : J'ai Cloné mon Visage, mon Corps, ma Voix avec CLAUDE, je ne filme plus !..."
+    },
+    {
+        "id": "AvwQEp6h1nU",
+        "videoId": "AvwQEp6h1nU",
+        "title": "J'ai découvert 5 façons d'utiliser NotebookLM que personne ne vous montre",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=AvwQEp6h1nU",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'ai découvert 5 façons d'utiliser NotebookLM que personne ne vous montre..."
     },
     {
         "id": "O3WljjqqkfI",
@@ -190,6 +280,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WTZ_B4yL1uQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code...."
+    },
+    {
+        "id": "VfpcGq415EI",
+        "videoId": "VfpcGq415EI",
+        "title": "Quelqu'un vient de créer un OS agentique complet dans Claude Code",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-31",
+        "url": "https://www.youtube.com/watch?v=VfpcGq415EI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code..."
     },
     {
         "id": "logRxGmCaLo",
@@ -387,13 +488,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "Le NOUVEAU ChatGPT dans Excel vient de tout changer !",
+        "title": "ChatGPT vient de rendre Excel simple ! (C'est magique)",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le NOUVEAU ChatGPT dans Excel vient de tout changer !..."
+        "summary": "Nouveauté de Elliott Pierret : ChatGPT vient de rendre Excel simple ! (C'est magique)..."
     },
     {
         "id": "mv5Sb75QLgc",
@@ -605,28 +706,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Actus IA : Google dégaine... ChatGPT et Claude ripostent !..."
     },
     {
-        "id": "KxkxqmRNndU",
-        "videoId": "KxkxqmRNndU",
-        "title": "Connecte Claude directement à ton compte Instagram !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=KxkxqmRNndU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Connecte Claude directement à ton compte Instagram !..."
-    },
-    {
-        "id": "9j6ecsEpZks",
-        "videoId": "9j6ecsEpZks",
-        "title": "Le directeur de Gemini vient de publier un repo GitHub qui devient viral.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=9j6ecsEpZks",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le directeur de Gemini vient de publier un repo GitHub qui devient viral...."
-    },
-    {
         "id": "o3-6jJvOpjI",
         "videoId": "o3-6jJvOpjI",
         "title": "Codex est devenu INCROYABLE... 7 Exemples concrets !",
@@ -706,17 +785,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : N'importe qui peut coder ? Ce gérant de salle d’escalade en est la PREUVE !..."
     },
     {
-        "id": "XCWlHH8iMqU",
-        "videoId": "XCWlHH8iMqU",
-        "title": "Anthropic vient de lancer un pack complet pour les petites entreprises",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=XCWlHH8iMqU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Anthropic vient de lancer un pack complet pour les petites entreprises..."
-    },
-    {
         "id": "6sgCPGojZTA",
         "videoId": "6sgCPGojZTA",
         "title": "Le prompt à toujours utiliser dans Claude !",
@@ -774,17 +842,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "xFs7A_fEFa4",
-        "videoId": "xFs7A_fEFa4",
-        "title": "Ce site te donne accès à des centaines d’outils IA gratuitement",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=xFs7A_fEFa4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des centaines d’outils IA gratuitement..."
-    },
-    {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
         "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
@@ -794,30 +851,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
-    },
-    {
-        "id": "6FPbsQnDYCM",
-        "videoId": "6FPbsQnDYCM",
-        "title": "Ollama: Les Modèles IA qui Tournent sur VOTRE PC ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=6FPbsQnDYCM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ollama: Les Modèles IA qui Tournent sur VOTRE PC ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Xle7whxjTcc",
-        "videoId": "Xle7whxjTcc",
-        "title": "Télécharge tes modèles IA avec Ollama : Productivité Offline Assurée ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=Xle7whxjTcc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Télécharge tes modèles IA avec Ollama : Productivité Offline Assurée ! #shorts...",
-        "isShort": true
     },
     {
         "id": "wjFdqDyTz3s",
@@ -1874,27 +1907,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
-    },
-    {
-        "id": "95YMCtc9SZk",
-        "videoId": "95YMCtc9SZk",
-        "title": "Automatisez votre quotidien avec Claude grâce à cette vidéo !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-02",
-        "url": "https://www.youtube.com/watch?v=95YMCtc9SZk",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Automatisez votre quotidien avec Claude grâce à cette vidéo !..."
-    },
-    {
-        "id": "RKKK4uJ1ygU",
-        "videoId": "RKKK4uJ1ygU",
-        "title": "Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-04-02",
-        "url": "https://www.youtube.com/watch?v=RKKK4uJ1ygU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)..."
     }
 ];
