@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-02T10:14:38.011Z
+// Fichier généré automatiquement le 2026-06-03T10:50:39.395Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:14:38 AM 6/2/2026";
+export const lastUpdate = "10:50:39 AM 6/3/2026";
 
 export const sources = [
     {
@@ -158,6 +158,39 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "z3oXZtuJNok",
+        "videoId": "z3oXZtuJNok",
+        "title": "Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=z3oXZtuJNok",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)..."
+    },
+    {
+        "id": "G4EKG-wf_KU",
+        "videoId": "G4EKG-wf_KU",
+        "title": "Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=G4EKG-wf_KU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout..."
+    },
+    {
+        "id": "_CX5Ls02oE8",
+        "videoId": "_CX5Ls02oE8",
+        "title": "Cette mise à jour de Claude est dingue !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=_CX5Ls02oE8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette mise à jour de Claude est dingue !..."
+    },
+    {
         "id": "kcCxHJXhMEE",
         "videoId": "kcCxHJXhMEE",
         "title": "Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur.",
@@ -167,6 +200,29 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kcCxHJXhMEE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur...."
+    },
+    {
+        "id": "GYZMfDdcTVw",
+        "videoId": "GYZMfDdcTVw",
+        "title": "Générer +1000 leads par mois gratuitement (Google Maps + n8n)",
+        "author": "Ousmane Automatise",
+        "source": "@ousmanedf",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=GYZMfDdcTVw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ousmane Automatise : Générer +1000 leads par mois gratuitement (Google Maps + n8n)..."
+    },
+    {
+        "id": "liuhzHlHQjI",
+        "videoId": "liuhzHlHQjI",
+        "title": "Claude Code: Accès Terminal Facile et Tutoriels Vidéo Complet #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=liuhzHlHQjI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Accès Terminal Facile et Tutoriels Vidéo Complet #shorts...",
+        "isShort": true
     },
     {
         "id": "y-cxnWhY7Ek",
@@ -179,6 +235,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Comment mon associé et moi créons des entreprises IA #shorts...",
         "isShort": true
+    },
+    {
+        "id": "lrDOv-cEllQ",
+        "videoId": "lrDOv-cEllQ",
+        "title": "Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=lrDOv-cEllQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo...."
     },
     {
         "id": "pxaXhfyQPKE",
@@ -684,17 +751,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : 200 entrepreneurs, 21 hectares, 4 jours..."
     },
     {
-        "id": "6vq00uTyYu8",
-        "videoId": "6vq00uTyYu8",
-        "title": "La seule certification IA qui vaut vraiment quelque chose en 2026.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=6vq00uTyYu8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La seule certification IA qui vaut vraiment quelque chose en 2026...."
-    },
-    {
         "id": "VMUDRIYRoQs",
         "videoId": "VMUDRIYRoQs",
         "title": "Actus IA : Google dégaine... ChatGPT et Claude ripostent !",
@@ -827,18 +883,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AdFp_9DktUg",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Téléchargez des modèles IA facilement avec Ollama ! 🚀 #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "LXImtt7MgNE",
-        "videoId": "LXImtt7MgNE",
-        "title": "Ollama : Le lancement qui fait des siennes #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=LXImtt7MgNE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ollama : Le lancement qui fait des siennes #shorts...",
         "isShort": true
     },
     {
@@ -1137,17 +1181,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=NCvARWY-_aQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Ne plus JAMAIS atteindre la limite de Tokens dans Claude !..."
-    },
-    {
-        "id": "sXGDheIjn6w",
-        "videoId": "sXGDheIjn6w",
-        "title": "Xiaomi MiMo V2.5 PRO : Le Monstre Open Source (10x moins cher que Claude)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=sXGDheIjn6w",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Xiaomi MiMo V2.5 PRO : Le Monstre Open Source (10x moins cher que Claude)..."
     },
     {
         "id": "pb8pza8dmCg",
