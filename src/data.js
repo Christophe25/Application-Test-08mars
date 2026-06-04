@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-03T10:50:39.395Z
+// Fichier généré automatiquement le 2026-06-04T09:50:33.274Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:50:39 AM 6/3/2026";
+export const lastUpdate = "9:50:33 AM 6/4/2026";
 
 export const sources = [
     {
@@ -158,6 +158,17 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "QS1fDU-W59s",
+        "videoId": "QS1fDU-W59s",
+        "title": "Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=QS1fDU-W59s",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire...."
+    },
+    {
         "id": "z3oXZtuJNok",
         "videoId": "z3oXZtuJNok",
         "title": "Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)",
@@ -178,6 +189,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=G4EKG-wf_KU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout..."
+    },
+    {
+        "id": "lj1gBlPZnjc",
+        "videoId": "lj1gBlPZnjc",
+        "title": "IA: Créez des agents en 10 min, vendez-les MAINTENANT ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=lj1gBlPZnjc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA: Créez des agents en 10 min, vendez-les MAINTENANT ! #shorts...",
+        "isShort": true
     },
     {
         "id": "_CX5Ls02oE8",
@@ -729,17 +752,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Claude Skills : Tout le monde peut ENFIN automatiser !..."
     },
     {
-        "id": "i0iU1iFXAfA",
-        "videoId": "i0iU1iFXAfA",
-        "title": "J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-23",
-        "url": "https://www.youtube.com/watch?v=i0iU1iFXAfA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code...."
-    },
-    {
         "id": "m7bYnWcx8s0",
         "videoId": "m7bYnWcx8s0",
         "title": "200 entrepreneurs, 21 hectares, 4 jours",
@@ -872,18 +884,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9BnO43ijZwE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 est la !..."
-    },
-    {
-        "id": "AdFp_9DktUg",
-        "videoId": "AdFp_9DktUg",
-        "title": "Téléchargez des modèles IA facilement avec Ollama ! 🚀 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=AdFp_9DktUg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Téléchargez des modèles IA facilement avec Ollama ! 🚀 #shorts...",
-        "isShort": true
     },
     {
         "id": "UD-p0mPV38A",
