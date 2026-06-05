@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-04T09:50:33.274Z
+// Fichier généré automatiquement le 2026-06-05T09:38:29.070Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:50:33 AM 6/4/2026";
+export const lastUpdate = "9:38:29 AM 6/5/2026";
 
 export const sources = [
     {
@@ -158,6 +158,28 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "FyqV1frE-uk",
+        "videoId": "FyqV1frE-uk",
+        "title": "Le nouveau Claude est là ! (OPUS 4.8)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=FyqV1frE-uk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le nouveau Claude est là ! (OPUS 4.8)..."
+    },
+    {
+        "id": "Q0aStCgpm0I",
+        "videoId": "Q0aStCgpm0I",
+        "title": "Ne fais jamais de copier-coller des réponses que te donne Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=Q0aStCgpm0I",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ne fais jamais de copier-coller des réponses que te donne Claude..."
+    },
+    {
         "id": "QS1fDU-W59s",
         "videoId": "QS1fDU-W59s",
         "title": "Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire.",
@@ -169,15 +191,72 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire...."
     },
     {
+        "id": "2u3A5-3FuEg",
+        "videoId": "2u3A5-3FuEg",
+        "title": "Claude Cowork: de débutant à ton premier agent 🤖",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=2u3A5-3FuEg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Cowork: de débutant à ton premier agent 🤖..."
+    },
+    {
+        "id": "PValXQP9nEQ",
+        "videoId": "PValXQP9nEQ",
+        "title": "Claude Cowork: de débutant à tes premiers agents (en 20 min)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=PValXQP9nEQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Cowork: de débutant à tes premiers agents (en 20 min)..."
+    },
+    {
+        "id": "1ccrMaPQYhs",
+        "videoId": "1ccrMaPQYhs",
+        "title": "Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=1ccrMaPQYhs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯..."
+    },
+    {
+        "id": "R87u5AyyhFA",
+        "videoId": "R87u5AyyhFA",
+        "title": "Créez Votre Agent Vocal IA FACILEMENT (Coulisses Claude Code) #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=R87u5AyyhFA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez Votre Agent Vocal IA FACILEMENT (Coulisses Claude Code) #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "OjqBYg7UqHw",
+        "videoId": "OjqBYg7UqHw",
+        "title": "Grok Voice : L'IA qui Révolutionne les Appels Starlink en 5 Minutes ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=OjqBYg7UqHw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Grok Voice : L'IA qui Révolutionne les Appels Starlink en 5 Minutes ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "z3oXZtuJNok",
         "videoId": "z3oXZtuJNok",
-        "title": "Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)",
+        "title": "Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)",
         "author": "Etienne Tillier",
         "source": "@EtienneTillierStudio",
         "date": "2026-06-03",
         "url": "https://www.youtube.com/watch?v=z3oXZtuJNok",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)..."
+        "summary": "Nouveauté de Etienne Tillier : Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)..."
     },
     {
         "id": "G4EKG-wf_KU",
@@ -697,17 +776,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Qu’est-ce que le MCP ?..."
     },
     {
-        "id": "OZo57C9nohk",
-        "videoId": "OZo57C9nohk",
-        "title": "Le créateur de Claude Code réserve tous ses vols et hôtels avec Cowork",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-26",
-        "url": "https://www.youtube.com/watch?v=OZo57C9nohk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code réserve tous ses vols et hôtels avec Cowork..."
-    },
-    {
         "id": "9KvncVTC6zU",
         "videoId": "9KvncVTC6zU",
         "title": "Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)",
@@ -728,17 +796,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yS7zBSvI0Y8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours..."
-    },
-    {
-        "id": "jNYq99U5gR4",
-        "videoId": "jNYq99U5gR4",
-        "title": "Tu savais que Claude Code avait une barre de statut cachée ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-24",
-        "url": "https://www.youtube.com/watch?v=jNYq99U5gR4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que Claude Code avait une barre de statut cachée ?..."
     },
     {
         "id": "y4AAFTlA6ak",
@@ -816,29 +873,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F74GXOsWEiE",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "-6PHej38buw",
-        "videoId": "-6PHej38buw",
-        "title": "Le co-fondateur d'OpenAI vient de changer Claude Code pour toujours (LLM Wiki)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=-6PHej38buw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Le co-fondateur d'OpenAI vient de changer Claude Code pour toujours (LLM Wiki)..."
-    },
-    {
-        "id": "BZgiYCH65ho",
-        "videoId": "BZgiYCH65ho",
-        "title": "Ollama + Claude Code : Une machine de guerre est nécessaire ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=BZgiYCH65ho",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ollama + Claude Code : Une machine de guerre est nécessaire ! #shorts...",
         "isShort": true
     },
     {
@@ -1907,38 +1941,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BWwGSK-pKpY",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)..."
-    },
-    {
-        "id": "-xOk8SVdC6U",
-        "videoId": "-xOk8SVdC6U",
-        "title": "1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-05",
-        "url": "https://www.youtube.com/watch?v=-xOk8SVdC6U",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : 1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)..."
-    },
-    {
-        "id": "m2QptFP0sLM",
-        "videoId": "m2QptFP0sLM",
-        "title": "Comment Créer des Sites Web INCROYABLE avec Claude IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-04-05",
-        "url": "https://www.youtube.com/watch?v=m2QptFP0sLM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Créer des Sites Web INCROYABLE avec Claude IA..."
-    },
-    {
-        "id": "ecL5Kt4v-kI",
-        "videoId": "ecL5Kt4v-kI",
-        "title": "La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-05",
-        "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
     }
 ];
