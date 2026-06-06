@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-05T09:38:29.070Z
+// Fichier généré automatiquement le 2026-06-06T08:29:04.583Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:38:29 AM 6/5/2026";
+export const lastUpdate = "8:29:04 AM 6/6/2026";
 
 export const sources = [
     {
@@ -157,6 +157,52 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "DOAIeeCzs94",
+        "videoId": "DOAIeeCzs94",
+        "title": "Tu peux construire un agent IA de stratégie d'investissement avec Claude en moins d'une minute",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=DOAIeeCzs94",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux construire un agent IA de stratégie d'investissement avec Claude en moins d'une minute..."
+    },
+    {
+        "id": "pTWKv6bQ5UM",
+        "videoId": "pTWKv6bQ5UM",
+        "title": "Hébergez votre code sur GitHub et lancez votre projet facilement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=pTWKv6bQ5UM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Hébergez votre code sur GitHub et lancez votre projet facilement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "NBBGvsqX8SI",
+        "videoId": "NBBGvsqX8SI",
+        "title": "IA pour votre resto : Adaptez votre agent vocal en 1 clic ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=NBBGvsqX8SI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA pour votre resto : Adaptez votre agent vocal en 1 clic ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "s_ShtMRFYOs",
+        "videoId": "s_ShtMRFYOs",
+        "title": "Actus IA : les Agents IA débarquent de PARTOUT !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=s_ShtMRFYOs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : les Agents IA débarquent de PARTOUT !..."
+    },
     {
         "id": "FyqV1frE-uk",
         "videoId": "FyqV1frE-uk",
@@ -699,17 +745,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖..."
     },
     {
-        "id": "G-Tjz_hC1L4",
-        "videoId": "G-Tjz_hC1L4",
-        "title": "Construire des Agents IA Vocaux n'a jamais été aussi facile (GROK + CLAUDE CODE )",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=G-Tjz_hC1L4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Construire des Agents IA Vocaux n'a jamais été aussi facile (GROK + CLAUDE CODE )..."
-    },
-    {
         "id": "gXm3Go03l_s",
         "videoId": "gXm3Go03l_s",
         "title": "J'ai codé une IA qui fait mes miniatures (c'est dingue)",
@@ -763,17 +798,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9ySW-tzoDpU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Réponses IA : comment passer de ça... à ÇA !..."
-    },
-    {
-        "id": "BZA2kdEeODI",
-        "videoId": "BZA2kdEeODI",
-        "title": "Qu’est-ce que le MCP ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-26",
-        "url": "https://www.youtube.com/watch?v=BZA2kdEeODI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Qu’est-ce que le MCP ?..."
     },
     {
         "id": "9KvncVTC6zU",
@@ -862,18 +886,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ULlBUO1dAQ4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Design vs Figma : j'ai recréé Apple.com pour comparer..."
-    },
-    {
-        "id": "F74GXOsWEiE",
-        "videoId": "F74GXOsWEiE",
-        "title": "IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=F74GXOsWEiE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts...",
-        "isShort": true
     },
     {
         "id": "NU3G3RHuIX8",
@@ -1930,16 +1942,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
-    },
-    {
-        "id": "BWwGSK-pKpY",
-        "videoId": "BWwGSK-pKpY",
-        "title": "Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=BWwGSK-pKpY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)..."
     }
 ];
