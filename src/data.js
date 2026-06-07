@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-06T08:29:04.583Z
+// Fichier généré automatiquement le 2026-06-07T08:50:09.423Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:29:04 AM 6/6/2026";
+export const lastUpdate = "8:50:09 AM 6/7/2026";
 
 export const sources = [
     {
@@ -157,6 +157,85 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "svJTEkSnBe8",
+        "videoId": "svJTEkSnBe8",
+        "title": "Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=svJTEkSnBe8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain..."
+    },
+    {
+        "id": "PAw5aeiEs5Q",
+        "videoId": "PAw5aeiEs5Q",
+        "title": "Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=PAw5aeiEs5Q",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
+    },
+    {
+        "id": "udf-JB-FLzQ",
+        "videoId": "udf-JB-FLzQ",
+        "title": "Quelqu'un vient d'open sourcer un CRM complet (alternative directe à Salesforce qui devient virale)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=udf-JB-FLzQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient d'open sourcer un CRM complet (alternative directe à Salesforce qui devient virale)..."
+    },
+    {
+        "id": "97-oN2YrXVc",
+        "videoId": "97-oN2YrXVc",
+        "title": "DeepSeek V4 : le modele qui humilie les IA américaines",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=97-oN2YrXVc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : DeepSeek V4 : le modele qui humilie les IA américaines..."
+    },
+    {
+        "id": "vKQ7LKgAQps",
+        "videoId": "vKQ7LKgAQps",
+        "title": "La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=vKQ7LKgAQps",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔..."
+    },
+    {
+        "id": "AIoPnpfZfSs",
+        "videoId": "AIoPnpfZfSs",
+        "title": "Claude Code: L'IA qui Révolutionne l'Adaptation pour Vos Clients #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=AIoPnpfZfSs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: L'IA qui Révolutionne l'Adaptation pour Vos Clients #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "9frB4KcKHR0",
+        "videoId": "9frB4KcKHR0",
+        "title": "IA Révolutionne Votre Business : L'App Grok Voice Change Tout ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=9frB4KcKHR0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Révolutionne Votre Business : L'App Grok Voice Change Tout ! #shorts...",
+        "isShort": true
+    },
     {
         "id": "DOAIeeCzs94",
         "videoId": "DOAIeeCzs94",
@@ -655,30 +734,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)..."
     },
     {
-        "id": "sClcb1Z1i8E",
-        "videoId": "sClcb1Z1i8E",
-        "title": "Claude Code : Zéro Installation, Organisation Maximale avec Obsidian ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=sClcb1Z1i8E",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Zéro Installation, Organisation Maximale avec Obsidian ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Mi-eYRSfHuI",
-        "videoId": "Mi-eYRSfHuI",
-        "title": "Le Cerveau IA de Karpathy Révolutionne Tes Connaissances ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=Mi-eYRSfHuI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Le Cerveau IA de Karpathy Révolutionne Tes Connaissances ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "z5mGCGeMaDY",
         "videoId": "z5mGCGeMaDY",
         "title": "Actus IA : on vient de franchir un cap (un GROS !)",
@@ -688,17 +743,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=z5mGCGeMaDY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : on vient de franchir un cap (un GROS !)..."
-    },
-    {
-        "id": "dcH39RAdQ5Y",
-        "videoId": "dcH39RAdQ5Y",
-        "title": "3 repos GitHub pour économiser jusqu'à 98% de tokens avec Claude.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=dcH39RAdQ5Y",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 repos GitHub pour économiser jusqu'à 98% de tokens avec Claude...."
     },
     {
         "id": "fmv0UlVZ19E",
@@ -754,17 +798,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gXm3Go03l_s",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : J'ai codé une IA qui fait mes miniatures (c'est dingue)..."
-    },
-    {
-        "id": "Qgq9-8VVgpc",
-        "videoId": "Qgq9-8VVgpc",
-        "title": "La Chine est plus en avance sur l’IA que vous le pensez…",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=Qgq9-8VVgpc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La Chine est plus en avance sur l’IA que vous le pensez…..."
     },
     {
         "id": "MjCJIJ4PuSw",
@@ -1183,17 +1216,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=y0taBHJRJXY",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Ce plombier a un meilleur système IA que la plupart des devs..."
-    },
-    {
-        "id": "diCd1Y-QUtk",
-        "videoId": "diCd1Y-QUtk",
-        "title": "i10X : Peut-il remplacer 100€ d’abonnements IA pour 8€ ? 😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=diCd1Y-QUtk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : i10X : Peut-il remplacer 100€ d’abonnements IA pour 8€ ? 😱..."
     },
     {
         "id": "3UVbXmUIBSk",
@@ -1812,17 +1834,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ousmane Automatise : Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)..."
     },
     {
-        "id": "uIjp0Bx9mWg",
-        "videoId": "uIjp0Bx9mWg",
-        "title": "Où vont vraiment vos données quand vous parlez à l'IA",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=uIjp0Bx9mWg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Où vont vraiment vos données quand vous parlez à l'IA..."
-    },
-    {
         "id": "I5FbWuX7AZQ",
         "videoId": "I5FbWuX7AZQ",
         "title": "Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi",
@@ -1909,38 +1920,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=svRtxQemC9I",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)..."
-    },
-    {
-        "id": "dFM7dnRRdM8",
-        "videoId": "dFM7dnRRdM8",
-        "title": "Le nouveau GPT Image 2 dans ChatGPT est époustouflant !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=dFM7dnRRdM8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le nouveau GPT Image 2 dans ChatGPT est époustouflant !..."
-    },
-    {
-        "id": "qn-mTwCVO88",
-        "videoId": "qn-mTwCVO88",
-        "title": "Si tu débutes sur Claude Code apprends ça 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=qn-mTwCVO88",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Si tu débutes sur Claude Code apprends ça 👀..."
-    },
-    {
-        "id": "6d9HeBlu7Iw",
-        "videoId": "6d9HeBlu7Iw",
-        "title": "Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais.",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
     }
 ];
