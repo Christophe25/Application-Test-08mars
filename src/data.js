@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-07T08:50:09.423Z
+// Fichier généré automatiquement le 2026-06-08T10:28:33.866Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:50:09 AM 6/7/2026";
+export const lastUpdate = "10:28:33 AM 6/8/2026";
 
 export const sources = [
     {
@@ -158,6 +158,40 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "lJaqds5LVZc",
+        "videoId": "lJaqds5LVZc",
+        "title": "Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=lJaqds5LVZc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "YMbeWIkr1NA",
+        "videoId": "YMbeWIkr1NA",
+        "title": "J'ai demandé à Claude de me faire Gagner un MAX d'Argent",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=YMbeWIkr1NA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : J'ai demandé à Claude de me faire Gagner un MAX d'Argent..."
+    },
+    {
+        "id": "0OSHC4B8o_Q",
+        "videoId": "0OSHC4B8o_Q",
+        "title": "Fais passer de 65% à 94% ta précision avec Claude Code",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=0OSHC4B8o_Q",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Fais passer de 65% à 94% ta précision avec Claude Code..."
+    },
+    {
         "id": "svJTEkSnBe8",
         "videoId": "svJTEkSnBe8",
         "title": "Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain",
@@ -169,6 +203,28 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain..."
     },
     {
+        "id": "pZpH-IknJB8",
+        "videoId": "pZpH-IknJB8",
+        "title": "5 choses secrètes sur Claude qui sont dingues !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=pZpH-IknJB8",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 5 choses secrètes sur Claude qui sont dingues !..."
+    },
+    {
+        "id": "Ccb_A56ONWA",
+        "videoId": "Ccb_A56ONWA",
+        "title": "Configurez Claude mieux que 99% des gens (fichier secret à installer)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=Ccb_A56ONWA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Configurez Claude mieux que 99% des gens (fichier secret à installer)..."
+    },
+    {
         "id": "PAw5aeiEs5Q",
         "videoId": "PAw5aeiEs5Q",
         "title": "Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !",
@@ -178,6 +234,52 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PAw5aeiEs5Q",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
+    },
+    {
+        "id": "UxsGe4N8G_g",
+        "videoId": "UxsGe4N8G_g",
+        "title": "Anthropic panique ! Ils veulent une pause ✋🛑",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=UxsGe4N8G_g",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Anthropic panique ! Ils veulent une pause ✋🛑..."
+    },
+    {
+        "id": "MMsk2jsavmo",
+        "videoId": "MMsk2jsavmo",
+        "title": "IA Test: L'IA Répond sur le Restaurant \"Le Poisson Rouge\"! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=MMsk2jsavmo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Test: L'IA Répond sur le Restaurant \"Le Poisson Rouge\"! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "MHR_i4doDMQ",
+        "videoId": "MHR_i4doDMQ",
+        "title": "29 ASTUCES pour passer PRO avec Claude Code !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=MHR_i4doDMQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 29 ASTUCES pour passer PRO avec Claude Code !..."
+    },
+    {
+        "id": "_YL9qDIloHY",
+        "videoId": "_YL9qDIloHY",
+        "title": "IA Téléphonique : Déploiement Rapide et Flexible avec les Nouveaux Modèles ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=_YL9qDIloHY",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Téléphonique : Déploiement Rapide et Flexible avec les Nouveaux Modèles ! #shorts...",
+        "isShort": true
     },
     {
         "id": "udf-JB-FLzQ",
@@ -587,30 +689,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code..."
     },
     {
-        "id": "logRxGmCaLo",
-        "videoId": "logRxGmCaLo",
-        "title": "Ce LLM Wiki Révolutionne Votre Organisation : Claude Code Explorez le Futur ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=logRxGmCaLo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ce LLM Wiki Révolutionne Votre Organisation : Claude Code Explorez le Futur ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "52DQ1_sg5HI",
-        "videoId": "52DQ1_sg5HI",
-        "title": "Créez votre cerveau digital avec LLM Wiki ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=52DQ1_sg5HI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez votre cerveau digital avec LLM Wiki ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "fOQCeQx22HI",
         "videoId": "fOQCeQx22HI",
         "title": "J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde.",
@@ -677,30 +755,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
     },
     {
-        "id": "wb3Y1iFmEn4",
-        "videoId": "wb3Y1iFmEn4",
-        "title": "Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=wb3Y1iFmEn4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "L89fHYO-NOc",
-        "videoId": "L89fHYO-NOc",
-        "title": "Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=L89fHYO-NOc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "woNAzDic5XQ",
         "videoId": "woNAzDic5XQ",
         "title": "Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀",
@@ -710,17 +764,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=woNAzDic5XQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀..."
-    },
-    {
-        "id": "jqbNiDJFYYw",
-        "videoId": "jqbNiDJFYYw",
-        "title": "C’est quoi le fichier Claude.MD ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=jqbNiDJFYYw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : C’est quoi le fichier Claude.MD ?..."
     },
     {
         "id": "vfeWJBbiai8",
@@ -1161,17 +1204,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YCttZsEIuqI",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Il a connecté son ADN et sa montre à l'IA (le résultat est génial)..."
-    },
-    {
-        "id": "Z9-B4hSu-3o",
-        "videoId": "Z9-B4hSu-3o",
-        "title": "DeepSeek V4 Détruit Les IA à Plusieurs Milliards…Gratuitement ? 🤔",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=Z9-B4hSu-3o",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Détruit Les IA à Plusieurs Milliards…Gratuitement ? 🤔..."
     },
     {
         "id": "mfkp0t85nKQ",
@@ -1876,49 +1908,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=e97xFyORj_k",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !..."
-    },
-    {
-        "id": "ha6JkWePF94",
-        "videoId": "ha6JkWePF94",
-        "title": "J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=ha6JkWePF94",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)..."
-    },
-    {
-        "id": "iLpyTd5biIA",
-        "videoId": "iLpyTd5biIA",
-        "title": "La nouvelle IA de Claude vient de changer Internet pour toujours",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=iLpyTd5biIA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : La nouvelle IA de Claude vient de changer Internet pour toujours..."
-    },
-    {
-        "id": "ep5BYfZtINM",
-        "videoId": "ep5BYfZtINM",
-        "title": "Utilise ce mode pour maîtriser Claude Code 🧑‍💻",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=ep5BYfZtINM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Utilise ce mode pour maîtriser Claude Code 🧑‍💻..."
-    },
-    {
-        "id": "svRtxQemC9I",
-        "videoId": "svRtxQemC9I",
-        "title": "J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=svRtxQemC9I",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)..."
     }
 ];
