@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-08T10:28:33.866Z
+// Fichier généré automatiquement le 2026-06-09T09:34:05.157Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:28:33 AM 6/8/2026";
+export const lastUpdate = "9:34:05 AM 6/9/2026";
 
 export const sources = [
     {
@@ -158,6 +158,29 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "aauE7jDGZ7o",
+        "videoId": "aauE7jDGZ7o",
+        "title": "J'ai automatisé toute ma routine matinale avec Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=aauE7jDGZ7o",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai automatisé toute ma routine matinale avec Claude..."
+    },
+    {
+        "id": "fWxjnGwP3WM",
+        "videoId": "fWxjnGwP3WM",
+        "title": "Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=fWxjnGwP3WM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "lJaqds5LVZc",
         "videoId": "lJaqds5LVZc",
         "title": "Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts",
@@ -168,6 +191,28 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts...",
         "isShort": true
+    },
+    {
+        "id": "1aDis6yHcSE",
+        "videoId": "1aDis6yHcSE",
+        "title": "Le Guide HERMES AGENT Ultime de 2026 (méthode complète)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=1aDis6yHcSE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Le Guide HERMES AGENT Ultime de 2026 (méthode complète)..."
+    },
+    {
+        "id": "p72OAhiNC9I",
+        "videoId": "p72OAhiNC9I",
+        "title": "J'ai vécu un voyage incroyable à Chypre grâce à ChatGPT et 3 GPTs cachés !",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=p72OAhiNC9I",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'ai vécu un voyage incroyable à Chypre grâce à ChatGPT et 3 GPTs cachés !..."
     },
     {
         "id": "YMbeWIkr1NA",
@@ -622,18 +667,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "0uhgtGBLNNE",
-        "videoId": "0uhgtGBLNNE",
-        "title": "Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=0uhgtGBLNNE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts...",
-        "isShort": true
-    },
-    {
         "id": "zQHOgFqCsUE",
         "videoId": "zQHOgFqCsUE",
         "title": "J'ai Cloné mon Visage, mon Corps, ma Voix avec CLAUDE, je ne filme plus !",
@@ -753,17 +786,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tmXpiLrw3zA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
-    },
-    {
-        "id": "woNAzDic5XQ",
-        "videoId": "woNAzDic5XQ",
-        "title": "Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=woNAzDic5XQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀..."
     },
     {
         "id": "vfeWJBbiai8",
@@ -1875,38 +1897,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=I5FbWuX7AZQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi..."
-    },
-    {
-        "id": "_vUbdaThfag",
-        "videoId": "_vUbdaThfag",
-        "title": "Microsoft Copilot a totalement changé ! (7 exemples INCROYABLES)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=_vUbdaThfag",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot a totalement changé ! (7 exemples INCROYABLES)..."
-    },
-    {
-        "id": "fGnr9h5JUGc",
-        "videoId": "fGnr9h5JUGc",
-        "title": "Paperclip + OpenClaw : mon équipe IA tourne 24h/24",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=fGnr9h5JUGc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Paperclip + OpenClaw : mon équipe IA tourne 24h/24..."
-    },
-    {
-        "id": "e97xFyORj_k",
-        "videoId": "e97xFyORj_k",
-        "title": "Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=e97xFyORj_k",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !..."
     }
 ];
