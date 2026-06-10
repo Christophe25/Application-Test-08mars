@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-09T09:34:05.157Z
+// Fichier généré automatiquement le 2026-06-10T09:50:34.870Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:34:05 AM 6/9/2026";
+export const lastUpdate = "9:50:34 AM 6/10/2026";
 
 export const sources = [
     {
@@ -157,6 +157,63 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "-0tsnwvnosw",
+        "videoId": "-0tsnwvnosw",
+        "title": "Les 5 réglages qui rendent Claude Code 10x meilleur",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=-0tsnwvnosw",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Les 5 réglages qui rendent Claude Code 10x meilleur..."
+    },
+    {
+        "id": "IZL28cs_q_k",
+        "videoId": "IZL28cs_q_k",
+        "title": "5 commandes secrètes qui rendent Claude 10x plus puissant.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=IZL28cs_q_k",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes qui rendent Claude 10x plus puissant...."
+    },
+    {
+        "id": "tleqoViHG9Y",
+        "videoId": "tleqoViHG9Y",
+        "title": "PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=tleqoViHG9Y",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯..."
+    },
+    {
+        "id": "olmxu3q_kkk",
+        "videoId": "olmxu3q_kkk",
+        "title": "Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=olmxu3q_kkk",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "K9fi47wevDQ",
+        "videoId": "K9fi47wevDQ",
+        "title": "IA Agent Vocal : Prêt en 60 Secondes ! Incroyable #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=K9fi47wevDQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Agent Vocal : Prêt en 60 Secondes ! Incroyable #shorts...",
+        "isShort": true
+    },
     {
         "id": "aauE7jDGZ7o",
         "videoId": "aauE7jDGZ7o",
@@ -599,18 +656,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "y-cxnWhY7Ek",
-        "videoId": "y-cxnWhY7Ek",
-        "title": "Comment mon associé et moi créons des entreprises IA #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=y-cxnWhY7Ek",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Comment mon associé et moi créons des entreprises IA #shorts...",
-        "isShort": true
-    },
-    {
         "id": "lrDOv-cEllQ",
         "videoId": "lrDOv-cEllQ",
         "title": "Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo.",
@@ -653,18 +698,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment J’apprendrais l’IA en 2026 (si je devais recommencer)..."
-    },
-    {
-        "id": "KhovqSzDkfs",
-        "videoId": "KhovqSzDkfs",
-        "title": "IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=KhovqSzDkfs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts...",
-        "isShort": true
     },
     {
         "id": "zQHOgFqCsUE",
@@ -731,17 +764,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fOQCeQx22HI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde...."
-    },
-    {
-        "id": "OhT8HBfsRo0",
-        "videoId": "OhT8HBfsRo0",
-        "title": "Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=OhT8HBfsRo0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA..."
     },
     {
         "id": "pjRKfnlsTfk",
@@ -1886,16 +1908,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=w7Hli9du028",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ousmane Automatise : Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)..."
-    },
-    {
-        "id": "I5FbWuX7AZQ",
-        "videoId": "I5FbWuX7AZQ",
-        "title": "Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=I5FbWuX7AZQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi..."
     }
 ];
