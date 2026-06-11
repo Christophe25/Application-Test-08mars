@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-10T09:50:34.870Z
+// Fichier généré automatiquement le 2026-06-11T10:15:56.229Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:50:34 AM 6/10/2026";
+export const lastUpdate = "10:15:56 AM 6/11/2026";
 
 export const sources = [
     {
@@ -158,6 +158,29 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "urEKiF3BLy4",
+        "videoId": "urEKiF3BLy4",
+        "title": "Fable 5 est INCROYABLE 😳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=urEKiF3BLy4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Fable 5 est INCROYABLE 😳..."
+    },
+    {
+        "id": "jmuhmjBNzes",
+        "videoId": "jmuhmjBNzes",
+        "title": "IA : Ne mélangez PLUS vos projets ! Astuce /clear #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=jmuhmjBNzes",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA : Ne mélangez PLUS vos projets ! Astuce /clear #shorts...",
+        "isShort": true
+    },
+    {
         "id": "-0tsnwvnosw",
         "videoId": "-0tsnwvnosw",
         "title": "Les 5 réglages qui rendent Claude Code 10x meilleur",
@@ -167,6 +190,85 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-0tsnwvnosw",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Les 5 réglages qui rendent Claude Code 10x meilleur..."
+    },
+    {
+        "id": "tzrzFti85_k",
+        "videoId": "tzrzFti85_k",
+        "title": "Quelqu'un vient de sortir un skill complet de cybersécurité pour Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=tzrzFti85_k",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir un skill complet de cybersécurité pour Claude..."
+    },
+    {
+        "id": "a6Q7EyW8UpI",
+        "videoId": "a6Q7EyW8UpI",
+        "title": "Claude se connecte à Canva et créer tes posts automatiquement !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=a6Q7EyW8UpI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude se connecte à Canva et créer tes posts automatiquement !..."
+    },
+    {
+        "id": "EHJk-x17AP0",
+        "videoId": "EHJk-x17AP0",
+        "title": "Fable 5 : La Vidéo à NE PAS RATER Pour Tout Comprendre 🔥 (+ Test)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=EHJk-x17AP0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Fable 5 : La Vidéo à NE PAS RATER Pour Tout Comprendre 🔥 (+ Test)..."
+    },
+    {
+        "id": "mh4fMN_Jyz8",
+        "videoId": "mh4fMN_Jyz8",
+        "title": "Claude Fable 5 : deux fois plus cher, mais ça vaut le coup ? (TEST ULTIME)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=mh4fMN_Jyz8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Fable 5 : deux fois plus cher, mais ça vaut le coup ? (TEST ULTIME)..."
+    },
+    {
+        "id": "ywpxXcH065c",
+        "videoId": "ywpxXcH065c",
+        "title": "Déployez vos Apps Facilement avec CloudCode et Docker ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=ywpxXcH065c",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Déployez vos Apps Facilement avec CloudCode et Docker ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "EktDldCFKI4",
+        "videoId": "EktDldCFKI4",
+        "title": "Configurez votre IA : Le guide complet pour le VPS Hostinger ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=EktDldCFKI4",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Configurez votre IA : Le guide complet pour le VPS Hostinger ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "FukC8qIEqY4",
+        "videoId": "FukC8qIEqY4",
+        "title": "Je découvre le nouveau Claude Fable 5 (cette IA est DINGUE)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=FukC8qIEqY4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Je découvre le nouveau Claude Fable 5 (cette IA est DINGUE)..."
     },
     {
         "id": "IZL28cs_q_k",
@@ -565,18 +667,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "OjqBYg7UqHw",
-        "videoId": "OjqBYg7UqHw",
-        "title": "Grok Voice : L'IA qui Révolutionne les Appels Starlink en 5 Minutes ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=OjqBYg7UqHw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Grok Voice : L'IA qui Révolutionne les Appels Starlink en 5 Minutes ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "z3oXZtuJNok",
         "videoId": "z3oXZtuJNok",
         "title": "Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)",
@@ -597,18 +687,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=G4EKG-wf_KU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout..."
-    },
-    {
-        "id": "lj1gBlPZnjc",
-        "videoId": "lj1gBlPZnjc",
-        "title": "IA: Créez des agents en 10 min, vendez-les MAINTENANT ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-03",
-        "url": "https://www.youtube.com/watch?v=lj1gBlPZnjc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA: Créez des agents en 10 min, vendez-les MAINTENANT ! #shorts...",
-        "isShort": true
     },
     {
         "id": "_CX5Ls02oE8",
@@ -642,18 +720,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GYZMfDdcTVw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ousmane Automatise : Générer +1000 leads par mois gratuitement (Google Maps + n8n)..."
-    },
-    {
-        "id": "liuhzHlHQjI",
-        "videoId": "liuhzHlHQjI",
-        "title": "Claude Code: Accès Terminal Facile et Tutoriels Vidéo Complet #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=liuhzHlHQjI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Accès Terminal Facile et Tutoriels Vidéo Complet #shorts...",
-        "isShort": true
     },
     {
         "id": "lrDOv-cEllQ",
@@ -731,28 +797,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=O3WljjqqkfI",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : L'IA a-t-elle tué tous les business en ligne en 2026 ?..."
-    },
-    {
-        "id": "WTZ_B4yL1uQ",
-        "videoId": "WTZ_B4yL1uQ",
-        "title": "Quelqu'un vient de créer un OS agentique complet dans Claude Code.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=WTZ_B4yL1uQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code...."
-    },
-    {
-        "id": "VfpcGq415EI",
-        "videoId": "VfpcGq415EI",
-        "title": "Quelqu'un vient de créer un OS agentique complet dans Claude Code",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=VfpcGq415EI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code..."
     },
     {
         "id": "fOQCeQx22HI",
@@ -1162,17 +1206,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !..."
     },
     {
-        "id": "aQ3DckyO4eE",
-        "videoId": "aQ3DckyO4eE",
-        "title": "TicNote Cloud : Le Meilleur Outil IA pour Tes Réunions ? (Test Complet) 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-14",
-        "url": "https://www.youtube.com/watch?v=aQ3DckyO4eE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : TicNote Cloud : Le Meilleur Outil IA pour Tes Réunions ? (Test Complet) 😱🔥..."
-    },
-    {
         "id": "uHHYXQZzNSM",
         "videoId": "uHHYXQZzNSM",
         "title": "J'ai remplacé mon monteur vidéo par Claude (voici le workflow exact)",
@@ -1215,17 +1248,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PxthwNWLV_E",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
-    },
-    {
-        "id": "Z678vGFryxE",
-        "videoId": "Z678vGFryxE",
-        "title": "Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=Z678vGFryxE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥..."
     },
     {
         "id": "dyZjwf1GeYk",
@@ -1897,16 +1919,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kEedBb-kT9g",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment maîtriser Claude Cowork mieux que 99% de la population..."
-    },
-    {
-        "id": "w7Hli9du028",
-        "videoId": "w7Hli9du028",
-        "title": "Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)",
-        "author": "Ousmane Automatise",
-        "source": "@ousmanedf",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=w7Hli9du028",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ousmane Automatise : Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)..."
     }
 ];
