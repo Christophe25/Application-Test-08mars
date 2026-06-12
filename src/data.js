@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-11T10:15:56.229Z
+// Fichier généré automatiquement le 2026-06-12T10:03:48.681Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:15:56 AM 6/11/2026";
+export const lastUpdate = "10:03:48 AM 6/12/2026";
 
 export const sources = [
     {
@@ -158,6 +158,72 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "lyViWxK9ttI",
+        "videoId": "lyViWxK9ttI",
+        "title": "PewDiePie vient de créer un workspace IA complet !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=lyViWxK9ttI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : PewDiePie vient de créer un workspace IA complet !..."
+    },
+    {
+        "id": "2yGmbHTz2ho",
+        "videoId": "2yGmbHTz2ho",
+        "title": "Anthropic a libéré son IA \"trop dangereuse\" (Claude Fable 5)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=2yGmbHTz2ho",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Anthropic a libéré son IA \"trop dangereuse\" (Claude Fable 5)..."
+    },
+    {
+        "id": "xG7nH6OXW5Y",
+        "videoId": "xG7nH6OXW5Y",
+        "title": "CapCut vient d'être open sourcé.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=xG7nH6OXW5Y",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : CapCut vient d'être open sourcé...."
+    },
+    {
+        "id": "84Ov4bLBH7w",
+        "videoId": "84Ov4bLBH7w",
+        "title": "7 Astuces Microsoft Copilot que vous devriez connaître !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=84Ov4bLBH7w",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 7 Astuces Microsoft Copilot que vous devriez connaître !..."
+    },
+    {
+        "id": "ce-2Bk7TrM4",
+        "videoId": "ce-2Bk7TrM4",
+        "title": "Comment Faire un Site Web Cinématique à 5000€ avec Claude et Higgsfield (Guide Complet)",
+        "author": "Lucas Reverdy",
+        "source": "@reverdybusiness",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=ce-2Bk7TrM4",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Lucas Reverdy : Comment Faire un Site Web Cinématique à 5000€ avec Claude et Higgsfield (Guide Complet)..."
+    },
+    {
+        "id": "Vs3PYSOlCRs",
+        "videoId": "Vs3PYSOlCRs",
+        "title": "MiniMax M3 : Meilleur que Claude et 20x moins cher ? (Open Source) 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=Vs3PYSOlCRs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : MiniMax M3 : Meilleur que Claude et 20x moins cher ? (Open Source) 😱..."
+    },
+    {
         "id": "urEKiF3BLy4",
         "videoId": "urEKiF3BLy4",
         "title": "Fable 5 est INCROYABLE 😳",
@@ -167,6 +233,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=urEKiF3BLy4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Fable 5 est INCROYABLE 😳..."
+    },
+    {
+        "id": "jksmIL2Wm5Y",
+        "videoId": "jksmIL2Wm5Y",
+        "title": "Créez Vos Propres Skills Claude: La Révolution est en Marche! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=jksmIL2Wm5Y",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez Vos Propres Skills Claude: La Révolution est en Marche! #shorts...",
+        "isShort": true
     },
     {
         "id": "jmuhmjBNzes",
@@ -591,13 +669,13 @@ export const allVideos = [
     {
         "id": "FyqV1frE-uk",
         "videoId": "FyqV1frE-uk",
-        "title": "Le nouveau Claude est là ! (OPUS 4.8)",
+        "title": "CLAUDE OPUS 4.8 : Tout ce qu'il faut savoir",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-06-04",
         "url": "https://www.youtube.com/watch?v=FyqV1frE-uk",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le nouveau Claude est là ! (OPUS 4.8)..."
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE OPUS 4.8 : Tout ce qu'il faut savoir..."
     },
     {
         "id": "Q0aStCgpm0I",
@@ -655,18 +733,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯..."
     },
     {
-        "id": "R87u5AyyhFA",
-        "videoId": "R87u5AyyhFA",
-        "title": "Créez Votre Agent Vocal IA FACILEMENT (Coulisses Claude Code) #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=R87u5AyyhFA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez Votre Agent Vocal IA FACILEMENT (Coulisses Claude Code) #shorts...",
-        "isShort": true
-    },
-    {
         "id": "z3oXZtuJNok",
         "videoId": "z3oXZtuJNok",
         "title": "Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)",
@@ -700,17 +766,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Cette mise à jour de Claude est dingue !..."
     },
     {
-        "id": "kcCxHJXhMEE",
-        "videoId": "kcCxHJXhMEE",
-        "title": "Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=kcCxHJXhMEE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur...."
-    },
-    {
         "id": "GYZMfDdcTVw",
         "videoId": "GYZMfDdcTVw",
         "title": "Générer +1000 leads par mois gratuitement (Google Maps + n8n)",
@@ -731,28 +786,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lrDOv-cEllQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo...."
-    },
-    {
-        "id": "pxaXhfyQPKE",
-        "videoId": "pxaXhfyQPKE",
-        "title": "La méthode en 5 étapes pour découvrir les vraies capacités de Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=pxaXhfyQPKE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La méthode en 5 étapes pour découvrir les vraies capacités de Claude !..."
-    },
-    {
-        "id": "c3ndfrHeUcA",
-        "videoId": "c3ndfrHeUcA",
-        "title": "Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=c3ndfrHeUcA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter...."
     },
     {
         "id": "1eOQtGqgeyU",
@@ -1182,17 +1215,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
-    },
-    {
-        "id": "m0tqhlkr2pw",
-        "videoId": "m0tqhlkr2pw",
-        "title": "GPT 5.5 Instant : OpenAI admet un vrai problème",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=m0tqhlkr2pw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT 5.5 Instant : OpenAI admet un vrai problème..."
     },
     {
         "id": "9nXqUad7x9o",
@@ -1897,27 +1919,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=LbPvgHNthJs",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : J'ai appris l'espagnol en 2 semaines avec l'IA (Je teste ça à Séville)..."
-    },
-    {
-        "id": "VeG1rqTZ-EM",
-        "videoId": "VeG1rqTZ-EM",
-        "title": "OpenClaw, Claude Code, PaperClip... mais toujours 0€ de CA (voici pourquoi).",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-12",
-        "url": "https://www.youtube.com/watch?v=VeG1rqTZ-EM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : OpenClaw, Claude Code, PaperClip... mais toujours 0€ de CA (voici pourquoi)...."
-    },
-    {
-        "id": "kEedBb-kT9g",
-        "videoId": "kEedBb-kT9g",
-        "title": "Comment maîtriser Claude Cowork mieux que 99% de la population",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-04-12",
-        "url": "https://www.youtube.com/watch?v=kEedBb-kT9g",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment maîtriser Claude Cowork mieux que 99% de la population..."
     }
 ];
