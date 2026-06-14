@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-13T08:52:25.822Z
+// Fichier généré automatiquement le 2026-06-14T09:26:57.786Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:52:25 AM 6/13/2026";
+export const lastUpdate = "9:26:57 AM 6/14/2026";
 
 export const sources = [
     {
@@ -157,6 +157,85 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "aDmGw3zpcJw",
+        "videoId": "aDmGw3zpcJw",
+        "title": "Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=aDmGw3zpcJw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)..."
+    },
+    {
+        "id": "XRuG56ImTYk",
+        "videoId": "XRuG56ImTYk",
+        "title": "Anthropic vient de publier un repo GitHub officiel avec plus de 30 skills pour Claud",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-13",
+        "url": "https://www.youtube.com/watch?v=XRuG56ImTYk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Anthropic vient de publier un repo GitHub officiel avec plus de 30 skills pour Claud..."
+    },
+    {
+        "id": "5WiuP81OVJo",
+        "videoId": "5WiuP81OVJo",
+        "title": "On compare nos seconds cerveau IA (voici ce qui marche vraiment)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-06-13",
+        "url": "https://www.youtube.com/watch?v=5WiuP81OVJo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : On compare nos seconds cerveau IA (voici ce qui marche vraiment)..."
+    },
+    {
+        "id": "LYE4iSRwNWA",
+        "videoId": "LYE4iSRwNWA",
+        "title": "FABLE 5 : La Chute BRUTALE du Modèle Le Plus Attendu (J’explique tout)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-13",
+        "url": "https://www.youtube.com/watch?v=LYE4iSRwNWA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : FABLE 5 : La Chute BRUTALE du Modèle Le Plus Attendu (J’explique tout)..."
+    },
+    {
+        "id": "Vpq9AiiK3sM",
+        "videoId": "Vpq9AiiK3sM",
+        "title": "IA : Moins de contexte = Plus de performance ! Arrêtez-la ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-13",
+        "url": "https://www.youtube.com/watch?v=Vpq9AiiK3sM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA : Moins de contexte = Plus de performance ! Arrêtez-la ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "SlXs-ODADBI",
+        "videoId": "SlXs-ODADBI",
+        "title": "Challenge Claude Code: Obtenez des résultats 2x plus qualitatifs ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-13",
+        "url": "https://www.youtube.com/watch?v=SlXs-ODADBI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Challenge Claude Code: Obtenez des résultats 2x plus qualitatifs ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "myVZ3Vb3YkU",
+        "videoId": "myVZ3Vb3YkU",
+        "title": "HISTORIQUE ! (l’affaire Claude Fable 5)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-13",
+        "url": "https://www.youtube.com/watch?v=myVZ3Vb3YkU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : HISTORIQUE ! (l’affaire Claude Fable 5)..."
+    },
     {
         "id": "lyViWxK9ttI",
         "videoId": "lyViWxK9ttI",
@@ -609,18 +688,6 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : 29 ASTUCES pour passer PRO avec Claude Code !..."
     },
     {
-        "id": "_YL9qDIloHY",
-        "videoId": "_YL9qDIloHY",
-        "title": "IA Téléphonique : Déploiement Rapide et Flexible avec les Nouveaux Modèles ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=_YL9qDIloHY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Téléphonique : Déploiement Rapide et Flexible avec les Nouveaux Modèles ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "udf-JB-FLzQ",
         "videoId": "udf-JB-FLzQ",
         "title": "Quelqu'un vient d'open sourcer un CRM complet (alternative directe à Salesforce qui devient virale)",
@@ -652,18 +719,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vKQ7LKgAQps",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔..."
-    },
-    {
-        "id": "AIoPnpfZfSs",
-        "videoId": "AIoPnpfZfSs",
-        "title": "Claude Code: L'IA qui Révolutionne l'Adaptation pour Vos Clients #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=AIoPnpfZfSs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: L'IA qui Révolutionne l'Adaptation pour Vos Clients #shorts...",
-        "isShort": true
     },
     {
         "id": "DOAIeeCzs94",
@@ -774,17 +829,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=G4EKG-wf_KU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout..."
-    },
-    {
-        "id": "_CX5Ls02oE8",
-        "videoId": "_CX5Ls02oE8",
-        "title": "Cette mise à jour de Claude est dingue !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=_CX5Ls02oE8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Cette mise à jour de Claude est dingue !..."
     },
     {
         "id": "GYZMfDdcTVw",
@@ -1148,17 +1192,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9BnO43ijZwE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 est la !..."
-    },
-    {
-        "id": "UD-p0mPV38A",
-        "videoId": "UD-p0mPV38A",
-        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
     },
     {
         "id": "wjFdqDyTz3s",
@@ -1865,17 +1898,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Claude Routines vient de sortir, et c'est DINGUE (Agents 24h/24 et 7j/7)..."
     },
     {
-        "id": "lZMXl3CfZn8",
-        "videoId": "lZMXl3CfZn8",
-        "title": "Le second cerveau IA de Karpathy est une impasse (+ ce qu'il devrait faire à la place)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=lZMXl3CfZn8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le second cerveau IA de Karpathy est une impasse (+ ce qu'il devrait faire à la place)..."
-    },
-    {
         "id": "x35M5aKFN78",
         "videoId": "x35M5aKFN78",
         "title": "J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire.",
@@ -1885,27 +1907,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=x35M5aKFN78",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire...."
-    },
-    {
-        "id": "9RVzj8bJj6g",
-        "videoId": "9RVzj8bJj6g",
-        "title": "Copilot Cowork est désormais disponible... quelle folie !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-14",
-        "url": "https://www.youtube.com/watch?v=9RVzj8bJj6g",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Copilot Cowork est désormais disponible... quelle folie !..."
-    },
-    {
-        "id": "9_T-RzbA_EQ",
-        "videoId": "9_T-RzbA_EQ",
-        "title": "Actus IA : une IA a embauché des Humains (ça fait peur)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-04-14",
-        "url": "https://www.youtube.com/watch?v=9_T-RzbA_EQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Actus IA : une IA a embauché des Humains (ça fait peur)..."
     }
 ];
