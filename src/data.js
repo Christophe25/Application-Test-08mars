@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-15T11:55:13.074Z
+// Fichier généré automatiquement le 2026-06-16T11:03:07.555Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:55:13 AM 6/15/2026";
+export const lastUpdate = "11:03:07 AM 6/16/2026";
 
 export const sources = [
     {
@@ -158,6 +158,29 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "PKdYOPOkNco",
+        "videoId": "PKdYOPOkNco",
+        "title": "Maîtrisez Claude Code: Ne Perdez Plus Jamais de Temps ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=PKdYOPOkNco",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Maîtrisez Claude Code: Ne Perdez Plus Jamais de Temps ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "t78Y88BX8l0",
+        "videoId": "t78Y88BX8l0",
+        "title": "Voici le projet le plus solide que j'ai vu sortir de la communauté Claude Code.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=t78Y88BX8l0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Voici le projet le plus solide que j'ai vu sortir de la communauté Claude Code...."
+    },
+    {
         "id": "umMOuu58b2o",
         "videoId": "umMOuu58b2o",
         "title": "La SuperApp de ChatGPT vient de fuiter !",
@@ -167,6 +190,29 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=umMOuu58b2o",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : La SuperApp de ChatGPT vient de fuiter !..."
+    },
+    {
+        "id": "gjUFxRVxss0",
+        "videoId": "gjUFxRVxss0",
+        "title": "Comment stopper Claude Code quand il dérape ? 🛑",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=gjUFxRVxss0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Comment stopper Claude Code quand il dérape ? 🛑..."
+    },
+    {
+        "id": "ZrUc7t-vv9o",
+        "videoId": "ZrUc7t-vv9o",
+        "title": "Claude Code: Ne manquez plus jamais ses notifications ! /hooks #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=ZrUc7t-vv9o",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Ne manquez plus jamais ses notifications ! /hooks #shorts...",
+        "isShort": true
     },
     {
         "id": "cCloCy1iwyo",
@@ -179,6 +225,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Challengez Claude Code: Doublez Vos Résultats IA! #shorts...",
         "isShort": true
+    },
+    {
+        "id": "IrknXVGNJlw",
+        "videoId": "IrknXVGNJlw",
+        "title": "J'ai retouché mes photos avec Canva et le résultat est dingue",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=IrknXVGNJlw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'ai retouché mes photos avec Canva et le résultat est dingue..."
     },
     {
         "id": "y8GDFdX4sws",
@@ -610,18 +667,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "K9fi47wevDQ",
-        "videoId": "K9fi47wevDQ",
-        "title": "IA Agent Vocal : Prêt en 60 Secondes ! Incroyable #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=K9fi47wevDQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Agent Vocal : Prêt en 60 Secondes ! Incroyable #shorts...",
-        "isShort": true
-    },
-    {
         "id": "aauE7jDGZ7o",
         "videoId": "aauE7jDGZ7o",
         "title": "J'ai automatisé toute ma routine matinale avec Claude",
@@ -631,18 +676,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aauE7jDGZ7o",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : J'ai automatisé toute ma routine matinale avec Claude..."
-    },
-    {
-        "id": "fWxjnGwP3WM",
-        "videoId": "fWxjnGwP3WM",
-        "title": "Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-08",
-        "url": "https://www.youtube.com/watch?v=fWxjnGwP3WM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts...",
-        "isShort": true
     },
     {
         "id": "1aDis6yHcSE",
@@ -808,17 +841,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=FyqV1frE-uk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE OPUS 4.8 : Tout ce qu'il faut savoir..."
-    },
-    {
-        "id": "Q0aStCgpm0I",
-        "videoId": "Q0aStCgpm0I",
-        "title": "Ne fais jamais de copier-coller des réponses que te donne Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=Q0aStCgpm0I",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ne fais jamais de copier-coller des réponses que te donne Claude..."
     },
     {
         "id": "2u3A5-3FuEg",
@@ -1875,38 +1897,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7sgi0zIf8r0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !..."
-    },
-    {
-        "id": "R7O2TaM709Y",
-        "videoId": "R7O2TaM709Y",
-        "title": "J’ai créé une équipe d’Agents IA dans Claude ! (Ils bossent pour moi)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=R7O2TaM709Y",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai créé une équipe d’Agents IA dans Claude ! (Ils bossent pour moi)..."
-    },
-    {
-        "id": "2CT3wqam2DY",
-        "videoId": "2CT3wqam2DY",
-        "title": "Claude OPUS 4.7 vient de sortir !! (J’étais pas prêt)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=2CT3wqam2DY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Claude OPUS 4.7 vient de sortir !! (J’étais pas prêt)..."
-    },
-    {
-        "id": "kMdJrR3Ku5I",
-        "videoId": "kMdJrR3Ku5I",
-        "title": "Gemma 4 + Ollama = Claude Code local 🎯(GRATUIT)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=kMdJrR3Ku5I",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Gemma 4 + Ollama = Claude Code local 🎯(GRATUIT)..."
     }
 ];
