@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-16T11:03:07.555Z
+// Fichier généré automatiquement le 2026-06-17T10:47:18.927Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:03:07 AM 6/16/2026";
+export const lastUpdate = "10:47:18 AM 6/17/2026";
 
 export const sources = [
     {
@@ -157,6 +157,74 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "TP9R8RkE7lE",
+        "videoId": "TP9R8RkE7lE",
+        "title": "Claude Code + n8n : c'est trop puissant",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=TP9R8RkE7lE",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Claude Code + n8n : c'est trop puissant..."
+    },
+    {
+        "id": "GlXDKO5NrT8",
+        "videoId": "GlXDKO5NrT8",
+        "title": "Ne gaspille plus tes tokens Claude inutilement",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=GlXDKO5NrT8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ne gaspille plus tes tokens Claude inutilement..."
+    },
+    {
+        "id": "Av6rcIs1KTU",
+        "videoId": "Av6rcIs1KTU",
+        "title": "Claude Code : la révolution de la traduction en 5 minutes avec des sous-agents ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=Av6rcIs1KTU",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : la révolution de la traduction en 5 minutes avec des sous-agents ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Gl6ROiWRgGA",
+        "videoId": "Gl6ROiWRgGA",
+        "title": "Toujours une session par tâche, tu me remercieras ! 🙌🏻",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=Gl6ROiWRgGA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Toujours une session par tâche, tu me remercieras ! 🙌🏻..."
+    },
+    {
+        "id": "0MiN0Dh-zaU",
+        "videoId": "0MiN0Dh-zaU",
+        "title": "Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=0MiN0Dh-zaU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯..."
+    },
+    {
+        "id": "EtbFihsgHBk",
+        "videoId": "EtbFihsgHBk",
+        "title": "Claude Code : La Révolution pour vos Projets ! Découvrez l'IA qui pense pour vous. #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=EtbFihsgHBk",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : La Révolution pour vos Projets ! Découvrez l'IA qui pense pour vous. #shorts...",
+        "isShort": true
+    },
     {
         "id": "PKdYOPOkNco",
         "videoId": "PKdYOPOkNco",
@@ -610,18 +678,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "EktDldCFKI4",
-        "videoId": "EktDldCFKI4",
-        "title": "Configurez votre IA : Le guide complet pour le VPS Hostinger ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-10",
-        "url": "https://www.youtube.com/watch?v=EktDldCFKI4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Configurez votre IA : Le guide complet pour le VPS Hostinger ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "FukC8qIEqY4",
         "videoId": "FukC8qIEqY4",
         "title": "Je découvre le nouveau Claude Fable 5 (cette IA est DINGUE)",
@@ -653,18 +709,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tleqoViHG9Y",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯..."
-    },
-    {
-        "id": "olmxu3q_kkk",
-        "videoId": "olmxu3q_kkk",
-        "title": "Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=olmxu3q_kkk",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts...",
-        "isShort": true
     },
     {
         "id": "aauE7jDGZ7o",
@@ -830,17 +874,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=s_ShtMRFYOs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : les Agents IA débarquent de PARTOUT !..."
-    },
-    {
-        "id": "FyqV1frE-uk",
-        "videoId": "FyqV1frE-uk",
-        "title": "CLAUDE OPUS 4.8 : Tout ce qu'il faut savoir",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=FyqV1frE-uk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE OPUS 4.8 : Tout ce qu'il faut savoir..."
     },
     {
         "id": "2u3A5-3FuEg",
@@ -1875,27 +1908,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XphRDltcYSA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
-    },
-    {
-        "id": "wRaGk8WVBEI",
-        "videoId": "wRaGk8WVBEI",
-        "title": "Opus 4.7 dans Claude Code : ça CHANGE tout 🔥",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=wRaGk8WVBEI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Opus 4.7 dans Claude Code : ça CHANGE tout 🔥..."
-    },
-    {
-        "id": "7sgi0zIf8r0",
-        "videoId": "7sgi0zIf8r0",
-        "title": "GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=7sgi0zIf8r0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !..."
     }
 ];
