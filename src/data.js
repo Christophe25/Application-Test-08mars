@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-17T10:47:18.927Z
+// Fichier généré automatiquement le 2026-06-18T10:14:21.407Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:47:18 AM 6/17/2026";
+export const lastUpdate = "10:14:21 AM 6/18/2026";
 
 export const sources = [
     {
@@ -158,6 +158,29 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "0jkbt_xjlw8",
+        "videoId": "0jkbt_xjlw8",
+        "title": "La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=0jkbt_xjlw8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler...."
+    },
+    {
+        "id": "frXN4Ye4j3c",
+        "videoId": "frXN4Ye4j3c",
+        "title": "Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=frXN4Ye4j3c",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts...",
+        "isShort": true
+    },
+    {
         "id": "TP9R8RkE7lE",
         "videoId": "TP9R8RkE7lE",
         "title": "Claude Code + n8n : c'est trop puissant",
@@ -169,6 +192,17 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : Claude Code + n8n : c'est trop puissant..."
     },
     {
+        "id": "jn-uAU7KOpI",
+        "videoId": "jn-uAU7KOpI",
+        "title": "Les meilleurs skills Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=jn-uAU7KOpI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Les meilleurs skills Claude !..."
+    },
+    {
         "id": "GlXDKO5NrT8",
         "videoId": "GlXDKO5NrT8",
         "title": "Ne gaspille plus tes tokens Claude inutilement",
@@ -178,6 +212,40 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GlXDKO5NrT8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Ne gaspille plus tes tokens Claude inutilement..."
+    },
+    {
+        "id": "f3G0LIrQUIk",
+        "videoId": "f3G0LIrQUIk",
+        "title": "Automatise tes tâches répétitivs avec la commande /loop! 🔄",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=f3G0LIrQUIk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Automatise tes tâches répétitivs avec la commande /loop! 🔄..."
+    },
+    {
+        "id": "Zw4-91Y0_FI",
+        "videoId": "Zw4-91Y0_FI",
+        "title": "Demandez à Claude Code d'utiliser des sous-agents moins chers ! 💰 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=Zw4-91Y0_FI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Demandez à Claude Code d'utiliser des sous-agents moins chers ! 💰 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "bH2gIsK3YY4",
+        "videoId": "bH2gIsK3YY4",
+        "title": "Mon SYSTÈME AIOS secret dévoilé (construis le tien aujourd'hui)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=bH2gIsK3YY4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Mon SYSTÈME AIOS secret dévoilé (construis le tien aujourd'hui)..."
     },
     {
         "id": "Av6rcIs1KTU",
@@ -587,30 +655,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Fable 5 est INCROYABLE 😳..."
     },
     {
-        "id": "jksmIL2Wm5Y",
-        "videoId": "jksmIL2Wm5Y",
-        "title": "Créez Vos Propres Skills Claude: La Révolution est en Marche! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=jksmIL2Wm5Y",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez Vos Propres Skills Claude: La Révolution est en Marche! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "jmuhmjBNzes",
-        "videoId": "jmuhmjBNzes",
-        "title": "IA : Ne mélangez PLUS vos projets ! Astuce /clear #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=jmuhmjBNzes",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA : Ne mélangez PLUS vos projets ! Astuce /clear #shorts...",
-        "isShort": true
-    },
-    {
         "id": "-0tsnwvnosw",
         "videoId": "-0tsnwvnosw",
         "title": "Les 5 réglages qui rendent Claude Code 10x meilleur",
@@ -664,18 +708,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mh4fMN_Jyz8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Fable 5 : deux fois plus cher, mais ça vaut le coup ? (TEST ULTIME)..."
-    },
-    {
-        "id": "ywpxXcH065c",
-        "videoId": "ywpxXcH065c",
-        "title": "Déployez vos Apps Facilement avec CloudCode et Docker ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-10",
-        "url": "https://www.youtube.com/watch?v=ywpxXcH065c",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Déployez vos Apps Facilement avec CloudCode et Docker ! #shorts...",
-        "isShort": true
     },
     {
         "id": "FukC8qIEqY4",
@@ -821,17 +853,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Anthropic panique ! Ils veulent une pause ✋🛑..."
     },
     {
-        "id": "udf-JB-FLzQ",
-        "videoId": "udf-JB-FLzQ",
-        "title": "Quelqu'un vient d'open sourcer un CRM complet (alternative directe à Salesforce qui devient virale)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=udf-JB-FLzQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient d'open sourcer un CRM complet (alternative directe à Salesforce qui devient virale)..."
-    },
-    {
         "id": "97-oN2YrXVc",
         "videoId": "97-oN2YrXVc",
         "title": "DeepSeek V4 : le modele qui humilie les IA américaines",
@@ -852,17 +873,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vKQ7LKgAQps",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔..."
-    },
-    {
-        "id": "DOAIeeCzs94",
-        "videoId": "DOAIeeCzs94",
-        "title": "Tu peux construire un agent IA de stratégie d'investissement avec Claude en moins d'une minute",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-05",
-        "url": "https://www.youtube.com/watch?v=DOAIeeCzs94",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu peux construire un agent IA de stratégie d'investissement avec Claude en moins d'une minute..."
     },
     {
         "id": "s_ShtMRFYOs",
@@ -1897,16 +1907,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kWrWE8q-e9s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)..."
-    },
-    {
-        "id": "XphRDltcYSA",
-        "videoId": "XphRDltcYSA",
-        "title": "Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=XphRDltcYSA",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
     }
 ];
