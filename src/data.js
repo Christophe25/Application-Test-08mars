@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-18T10:14:21.407Z
+// Fichier généré automatiquement le 2026-06-19T10:19:27.394Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:14:21 AM 6/18/2026";
+export const lastUpdate = "10:19:27 AM 6/19/2026";
 
 export const sources = [
     {
@@ -158,6 +158,18 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "0JCL_VNNK3E",
+        "videoId": "0JCL_VNNK3E",
+        "title": "Stop Claude being Overwhelmed: Master Context Routing! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=0JCL_VNNK3E",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Stop Claude being Overwhelmed: Master Context Routing! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "0jkbt_xjlw8",
         "videoId": "0jkbt_xjlw8",
         "title": "La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler.",
@@ -167,6 +179,40 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0jkbt_xjlw8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler...."
+    },
+    {
+        "id": "J2YQAs3IQ7c",
+        "videoId": "J2YQAs3IQ7c",
+        "title": "Mon classement des meilleures fonctionnalités dans Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=J2YQAs3IQ7c",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Mon classement des meilleures fonctionnalités dans Claude !..."
+    },
+    {
+        "id": "AwheFul67nU",
+        "videoId": "AwheFul67nU",
+        "title": "n8n a publié ses skills officiels pour Claude Code!",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=AwheFul67nU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : n8n a publié ses skills officiels pour Claude Code!..."
+    },
+    {
+        "id": "oWWjcZGUzGU",
+        "videoId": "oWWjcZGUzGU",
+        "title": "Claude Code: Maîtrisez vos tokens avec /context ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=oWWjcZGUzGU",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Maîtrisez vos tokens avec /context ! #shorts...",
+        "isShort": true
     },
     {
         "id": "frXN4Ye4j3c",
@@ -179,6 +225,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts...",
         "isShort": true
+    },
+    {
+        "id": "VMTweal-GZk",
+        "videoId": "VMTweal-GZk",
+        "title": "J'ai lancé une Agence de Créa Vidéo à 5 000€ (Claude Code + Higgsfield)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=VMTweal-GZk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : J'ai lancé une Agence de Créa Vidéo à 5 000€ (Claude Code + Higgsfield)..."
     },
     {
         "id": "TP9R8RkE7lE",
@@ -552,30 +609,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yMk4Dj7qt-o",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : lance toi....."
-    },
-    {
-        "id": "jV4Z8VPfFEs",
-        "videoId": "jV4Z8VPfFEs",
-        "title": "Créez vos propres Skills pour l'IA : Guides, Prompts et Outils #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=jV4Z8VPfFEs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez vos propres Skills pour l'IA : Guides, Prompts et Outils #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "h5WtbaYp2VA",
-        "videoId": "h5WtbaYp2VA",
-        "title": "Claude Code: Parlez-lui, ne tapez plus ! Ultra Rapide! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=h5WtbaYp2VA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Parlez-lui, ne tapez plus ! Ultra Rapide! #shorts...",
-        "isShort": true
     },
     {
         "id": "Y1gXkFN8JRE",
@@ -1874,38 +1907,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MduQOd_cDzs",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)..."
-    },
-    {
-        "id": "drl9eIkOHYE",
-        "videoId": "drl9eIkOHYE",
-        "title": "Faire 10K€/mois dans l'IA sans compétences, c'est facile (c'est mathématique)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=drl9eIkOHYE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Faire 10K€/mois dans l'IA sans compétences, c'est facile (c'est mathématique)..."
-    },
-    {
-        "id": "H9BNiEn_pJ8",
-        "videoId": "H9BNiEn_pJ8",
-        "title": "7 Outils IA Indispensables Pour Votre Business",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=H9BNiEn_pJ8",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 7 Outils IA Indispensables Pour Votre Business..."
-    },
-    {
-        "id": "kWrWE8q-e9s",
-        "videoId": "kWrWE8q-e9s",
-        "title": "Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=kWrWE8q-e9s",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)..."
     }
 ];
