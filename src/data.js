@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-19T10:19:27.394Z
+// Fichier généré automatiquement le 2026-06-20T08:48:17.328Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:19:27 AM 6/19/2026";
+export const lastUpdate = "8:48:17 AM 6/20/2026";
 
 export const sources = [
     {
@@ -158,6 +158,40 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "DAFrLYL2Omo",
+        "videoId": "DAFrLYL2Omo",
+        "title": "Comment l'IA prospecte à ma place pendant que je dors",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-06-20",
+        "url": "https://www.youtube.com/watch?v=DAFrLYL2Omo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Comment l'IA prospecte à ma place pendant que je dors..."
+    },
+    {
+        "id": "VGyqk1nrqx8",
+        "videoId": "VGyqk1nrqx8",
+        "title": "En 60 minutes tu peux avoir un vrai assistant IA qui connaît ton nom, tes objectifs et tes apps.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=VGyqk1nrqx8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : En 60 minutes tu peux avoir un vrai assistant IA qui connaît ton nom, tes objectifs et tes apps...."
+    },
+    {
+        "id": "ffGqRdkGz2A",
+        "videoId": "ffGqRdkGz2A",
+        "title": "Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=ffGqRdkGz2A",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "0JCL_VNNK3E",
         "videoId": "0JCL_VNNK3E",
         "title": "Stop Claude being Overwhelmed: Master Context Routing! #shorts",
@@ -168,6 +202,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Stop Claude being Overwhelmed: Master Context Routing! #shorts...",
         "isShort": true
+    },
+    {
+        "id": "Msi5PaWHIe8",
+        "videoId": "Msi5PaWHIe8",
+        "title": "Actus IA : Anthropic et OpenAI SOUS PRESSION !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=Msi5PaWHIe8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : Anthropic et OpenAI SOUS PRESSION !..."
     },
     {
         "id": "0jkbt_xjlw8",
@@ -600,17 +645,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱..."
     },
     {
-        "id": "yMk4Dj7qt-o",
-        "videoId": "yMk4Dj7qt-o",
-        "title": "lance toi..",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=yMk4Dj7qt-o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : lance toi....."
-    },
-    {
         "id": "Y1gXkFN8JRE",
         "videoId": "Y1gXkFN8JRE",
         "title": "Actus IA : Claude Fable 5, ChatGPT SuperApp, Siri AI… WOW !",
@@ -829,17 +863,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0OSHC4B8o_Q",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Fais passer de 65% à 94% ta précision avec Claude Code..."
-    },
-    {
-        "id": "svJTEkSnBe8",
-        "videoId": "svJTEkSnBe8",
-        "title": "Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=svJTEkSnBe8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain..."
     },
     {
         "id": "pZpH-IknJB8",
@@ -1896,16 +1919,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RQhj_I_erVg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 5 secrets sur Claude que personne ne connait !..."
-    },
-    {
-        "id": "MduQOd_cDzs",
-        "videoId": "MduQOd_cDzs",
-        "title": "La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=MduQOd_cDzs",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)..."
     }
 ];
