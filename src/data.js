@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-20T08:48:17.328Z
+// Fichier généré automatiquement le 2026-06-21T09:43:06.940Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:48:17 AM 6/20/2026";
+export const lastUpdate = "9:43:06 AM 6/21/2026";
 
 export const sources = [
     {
@@ -158,15 +158,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "Ccc5RMGjIp8",
+        "videoId": "Ccc5RMGjIp8",
+        "title": "J'ai demandé à Claude de me faire gagner le plus d'argent possible.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-20",
+        "url": "https://www.youtube.com/watch?v=Ccc5RMGjIp8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai demandé à Claude de me faire gagner le plus d'argent possible...."
+    },
+    {
         "id": "DAFrLYL2Omo",
         "videoId": "DAFrLYL2Omo",
-        "title": "Comment l'IA prospecte à ma place pendant que je dors",
+        "title": "Comment prospecter avec l'IA ? (Masterclass complète)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-06-20",
         "url": "https://www.youtube.com/watch?v=DAFrLYL2Omo",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Comment l'IA prospecte à ma place pendant que je dors..."
+        "summary": "Nouveauté de Eliott Meunier : Comment prospecter avec l'IA ? (Masterclass complète)..."
+    },
+    {
+        "id": "p7GA6aXWASI",
+        "videoId": "p7GA6aXWASI",
+        "title": "J'ai automatisé ma chaîne YouTube avec UN prompt Claude 👁️",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-20",
+        "url": "https://www.youtube.com/watch?v=p7GA6aXWASI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai automatisé ma chaîne YouTube avec UN prompt Claude 👁️..."
+    },
+    {
+        "id": "5rINRicU04o",
+        "videoId": "5rINRicU04o",
+        "title": "Compactez vos conversations IA : l'astuce qui change tout ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-20",
+        "url": "https://www.youtube.com/watch?v=5rINRicU04o",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Compactez vos conversations IA : l'astuce qui change tout ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "EWsf3f5LUHE",
+        "videoId": "EWsf3f5LUHE",
+        "title": "Claude Code : Posez des questions, validez vos solutions IA ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-20",
+        "url": "https://www.youtube.com/watch?v=EWsf3f5LUHE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Posez des questions, validez vos solutions IA ! #shorts...",
+        "isShort": true
     },
     {
         "id": "VGyqk1nrqx8",
@@ -588,30 +634,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : FABLE 5 : La Chute BRUTALE du Modèle Le Plus Attendu (J’explique tout)..."
     },
     {
-        "id": "Vpq9AiiK3sM",
-        "videoId": "Vpq9AiiK3sM",
-        "title": "IA : Moins de contexte = Plus de performance ! Arrêtez-la ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=Vpq9AiiK3sM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA : Moins de contexte = Plus de performance ! Arrêtez-la ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "SlXs-ODADBI",
-        "videoId": "SlXs-ODADBI",
-        "title": "Challenge Claude Code: Obtenez des résultats 2x plus qualitatifs ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=SlXs-ODADBI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Challenge Claude Code: Obtenez des résultats 2x plus qualitatifs ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "myVZ3Vb3YkU",
         "videoId": "myVZ3Vb3YkU",
         "title": "HISTORIQUE ! (l’affaire Claude Fable 5)",
@@ -852,17 +874,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YMbeWIkr1NA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : J'ai demandé à Claude de me faire Gagner un MAX d'Argent..."
-    },
-    {
-        "id": "0OSHC4B8o_Q",
-        "videoId": "0OSHC4B8o_Q",
-        "title": "Fais passer de 65% à 94% ta précision avec Claude Code",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=0OSHC4B8o_Q",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Fais passer de 65% à 94% ta précision avec Claude Code..."
     },
     {
         "id": "pZpH-IknJB8",
@@ -1908,16 +1919,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XByAQxs4yCY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : GPT Image 2 vs Nano Banana 2 : lequel est vraiment le meilleur 🏆..."
-    },
-    {
-        "id": "RQhj_I_erVg",
-        "videoId": "RQhj_I_erVg",
-        "title": "5 secrets sur Claude que personne ne connait !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=RQhj_I_erVg",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 5 secrets sur Claude que personne ne connait !..."
     }
 ];
