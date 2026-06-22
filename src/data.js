@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-21T09:43:06.940Z
+// Fichier généré automatiquement le 2026-06-22T11:44:55.095Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:43:06 AM 6/21/2026";
+export const lastUpdate = "11:44:55 AM 6/22/2026";
 
 export const sources = [
     {
@@ -157,6 +157,97 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "4E0Gl9fryr0",
+        "videoId": "4E0Gl9fryr0",
+        "title": "Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-22",
+        "url": "https://www.youtube.com/watch?v=4E0Gl9fryr0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !..."
+    },
+    {
+        "id": "7Pe03YVuWZQ",
+        "videoId": "7Pe03YVuWZQ",
+        "title": "Context7 : La Révolution Cloud Code pour Vos APIs #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-22",
+        "url": "https://www.youtube.com/watch?v=7Pe03YVuWZQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Context7 : La Révolution Cloud Code pour Vos APIs #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "b09gXtHcH1M",
+        "videoId": "b09gXtHcH1M",
+        "title": "Comment installer Claude Code moins de 60 secondes !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=b09gXtHcH1M",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code moins de 60 secondes !..."
+    },
+    {
+        "id": "8uTzXlVUHgI",
+        "videoId": "8uTzXlVUHgI",
+        "title": "Top 5 des sites que tout vibe codeur devrait connaître",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=8uTzXlVUHgI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Top 5 des sites que tout vibe codeur devrait connaître..."
+    },
+    {
+        "id": "bof3sJ9P5Ss",
+        "videoId": "bof3sJ9P5Ss",
+        "title": "Tout Comprendre sur les Différentes IA en 19 Minutes",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur les Différentes IA en 19 Minutes..."
+    },
+    {
+        "id": "kKAMnsymufA",
+        "videoId": "kKAMnsymufA",
+        "title": "Claude Code : L'IA qui se vérifie elle-même pour des résultats parfaits développements ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=kKAMnsymufA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : L'IA qui se vérifie elle-même pour des résultats parfaits développements ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "qrnewbSyqKA",
+        "videoId": "qrnewbSyqKA",
+        "title": "Claude Code: Secrets Révélés pour Booster Votre Productivité! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=qrnewbSyqKA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Secrets Révélés pour Booster Votre Productivité! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "fQnMVt-rOHw",
+        "videoId": "fQnMVt-rOHw",
+        "title": "J'ai créé une Appli complète en 2h sans coder avec CLAUDE (Tuto MCP) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=fQnMVt-rOHw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : J'ai créé une Appli complète en 2h sans coder avec CLAUDE (Tuto MCP) !..."
+    },
     {
         "id": "Ccc5RMGjIp8",
         "videoId": "Ccc5RMGjIp8",
@@ -499,18 +590,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "cCloCy1iwyo",
-        "videoId": "cCloCy1iwyo",
-        "title": "Challengez Claude Code: Doublez Vos Résultats IA! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-15",
-        "url": "https://www.youtube.com/watch?v=cCloCy1iwyo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Challengez Claude Code: Doublez Vos Résultats IA! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "IrknXVGNJlw",
         "videoId": "IrknXVGNJlw",
         "title": "J'ai retouché mes photos avec Canva et le résultat est dingue",
@@ -575,30 +654,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=rbjyR_uJlwU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Capafy AI : La Marketplace Pour Vendre Vos Workflows IA 💰🤖..."
-    },
-    {
-        "id": "L2jiy-WCvGQ",
-        "videoId": "L2jiy-WCvGQ",
-        "title": "Ne surchargez plus Claude! Utilisez /compact pour gagner du temps #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=L2jiy-WCvGQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ne surchargez plus Claude! Utilisez /compact pour gagner du temps #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "23uv9BQJ540",
-        "videoId": "23uv9BQJ540",
-        "title": "Plan Mode: La Révolution Claude Code pour TOUS Vos Projets! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=23uv9BQJ540",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Plan Mode: La Révolution Claude Code pour TOUS Vos Projets! #shorts...",
-        "isShort": true
     },
     {
         "id": "XRuG56ImTYk",
@@ -766,17 +821,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir un skill complet de cybersécurité pour Claude..."
     },
     {
-        "id": "a6Q7EyW8UpI",
-        "videoId": "a6Q7EyW8UpI",
-        "title": "Claude se connecte à Canva et créer tes posts automatiquement !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-10",
-        "url": "https://www.youtube.com/watch?v=a6Q7EyW8UpI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude se connecte à Canva et créer tes posts automatiquement !..."
-    },
-    {
         "id": "EHJk-x17AP0",
         "videoId": "EHJk-x17AP0",
         "title": "Fable 5 : La Vidéo à NE PAS RATER Pour Tout Comprendre 🔥 (+ Test)",
@@ -810,17 +854,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Je découvre le nouveau Claude Fable 5 (cette IA est DINGUE)..."
     },
     {
-        "id": "IZL28cs_q_k",
-        "videoId": "IZL28cs_q_k",
-        "title": "5 commandes secrètes qui rendent Claude 10x plus puissant.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=IZL28cs_q_k",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes qui rendent Claude 10x plus puissant...."
-    },
-    {
         "id": "tleqoViHG9Y",
         "videoId": "tleqoViHG9Y",
         "title": "PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯",
@@ -830,17 +863,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tleqoViHG9Y",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯..."
-    },
-    {
-        "id": "aauE7jDGZ7o",
-        "videoId": "aauE7jDGZ7o",
-        "title": "J'ai automatisé toute ma routine matinale avec Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-08",
-        "url": "https://www.youtube.com/watch?v=aauE7jDGZ7o",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai automatisé toute ma routine matinale avec Claude..."
     },
     {
         "id": "1aDis6yHcSE",
@@ -1864,60 +1886,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ac6etyFXc54",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude Remplace les Monteurs Vidéos (Tuto Complet)..."
-    },
-    {
-        "id": "lXnCuvAbXrA",
-        "videoId": "lXnCuvAbXrA",
-        "title": "Agents IA : j'aurai aimé avoir connu ce prompt plus tôt",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=lXnCuvAbXrA",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Agents IA : j'aurai aimé avoir connu ce prompt plus tôt..."
-    },
-    {
-        "id": "jyUJUyYEraI",
-        "videoId": "jyUJUyYEraI",
-        "title": "ChatGPT vient de lancer GPT Image 2.0 (et c’est WOW…)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=jyUJUyYEraI",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : ChatGPT vient de lancer GPT Image 2.0 (et c’est WOW…)..."
-    },
-    {
-        "id": "dOlYHNSifGc",
-        "videoId": "dOlYHNSifGc",
-        "title": "7 Exemples DINGUES de ChatGPT Image 2.0 !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=dOlYHNSifGc",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 7 Exemples DINGUES de ChatGPT Image 2.0 !..."
-    },
-    {
-        "id": "CkUtbdamfCk",
-        "videoId": "CkUtbdamfCk",
-        "title": "Je regrette d'avoir créé des interfaces avec l'IA (pas à cause du code)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=CkUtbdamfCk",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Je regrette d'avoir créé des interfaces avec l'IA (pas à cause du code)..."
-    },
-    {
-        "id": "XByAQxs4yCY",
-        "videoId": "XByAQxs4yCY",
-        "title": "GPT Image 2 vs Nano Banana 2 : lequel est vraiment le meilleur 🏆",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=XByAQxs4yCY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : GPT Image 2 vs Nano Banana 2 : lequel est vraiment le meilleur 🏆..."
     }
 ];
