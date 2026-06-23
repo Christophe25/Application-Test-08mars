@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-22T11:44:55.095Z
+// Fichier généré automatiquement le 2026-06-23T09:30:55.920Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:44:55 AM 6/22/2026";
+export const lastUpdate = "9:30:55 AM 6/23/2026";
 
 export const sources = [
     {
@@ -158,6 +158,17 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "ytvTKQ1iPsA",
+        "videoId": "ytvTKQ1iPsA",
+        "title": "Le prompt le plus flippant à demander à ChatGPT ou Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=ytvTKQ1iPsA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le prompt le plus flippant à demander à ChatGPT ou Claude !..."
+    },
+    {
         "id": "4E0Gl9fryr0",
         "videoId": "4E0Gl9fryr0",
         "title": "Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !",
@@ -167,6 +178,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4E0Gl9fryr0",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !..."
+    },
+    {
+        "id": "LmCfCaf-5XI",
+        "videoId": "LmCfCaf-5XI",
+        "title": "Claude Code: Libérez votre productivité avec les sous-agents ! 🚀 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-22",
+        "url": "https://www.youtube.com/watch?v=LmCfCaf-5XI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Libérez votre productivité avec les sous-agents ! 🚀 #shorts...",
+        "isShort": true
     },
     {
         "id": "7Pe03YVuWZQ",
@@ -179,6 +202,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Context7 : La Révolution Cloud Code pour Vos APIs #shorts...",
         "isShort": true
+    },
+    {
+        "id": "yIMEkzh3Spo",
+        "videoId": "yIMEkzh3Spo",
+        "title": "Oubliez les prompts : ces 7 Skills IA créent votre contenu",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-22",
+        "url": "https://www.youtube.com/watch?v=yIMEkzh3Spo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Oubliez les prompts : ces 7 Skills IA créent votre contenu..."
     },
     {
         "id": "b09gXtHcH1M",
@@ -205,13 +239,13 @@ export const allVideos = [
     {
         "id": "bof3sJ9P5Ss",
         "videoId": "bof3sJ9P5Ss",
-        "title": "Tout Comprendre sur les Différentes IA en 19 Minutes",
+        "title": "Chaque IA Expliquée en 19 Minutes",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-06-21",
         "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur les Différentes IA en 19 Minutes..."
+        "summary": "Nouveauté de Yassine Sdiri : Chaque IA Expliquée en 19 Minutes..."
     },
     {
         "id": "kKAMnsymufA",
@@ -576,18 +610,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gjUFxRVxss0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Comment stopper Claude Code quand il dérape ? 🛑..."
-    },
-    {
-        "id": "ZrUc7t-vv9o",
-        "videoId": "ZrUc7t-vv9o",
-        "title": "Claude Code: Ne manquez plus jamais ses notifications ! /hooks #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-15",
-        "url": "https://www.youtube.com/watch?v=ZrUc7t-vv9o",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Ne manquez plus jamais ses notifications ! /hooks #shorts...",
-        "isShort": true
     },
     {
         "id": "IrknXVGNJlw",
@@ -1853,38 +1875,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eDhOomO4FpE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le paradoxe de l'IA : plus tu progresses, plus tu te perds..."
-    },
-    {
-        "id": "aWadvdrEP6I",
-        "videoId": "aWadvdrEP6I",
-        "title": "Claude Code + Blotato : Créer une campagne marketing en 1 prompt",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=aWadvdrEP6I",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Claude Code + Blotato : Créer une campagne marketing en 1 prompt..."
-    },
-    {
-        "id": "7nAJfe2afoU",
-        "videoId": "7nAJfe2afoU",
-        "title": "Claude Code + Blotato : 30 Jours de Contenu en 1 Seul Prompt",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=7nAJfe2afoU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Claude Code + Blotato : 30 Jours de Contenu en 1 Seul Prompt..."
-    },
-    {
-        "id": "Ac6etyFXc54",
-        "videoId": "Ac6etyFXc54",
-        "title": "Claude Remplace les Monteurs Vidéos (Tuto Complet)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=Ac6etyFXc54",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Claude Remplace les Monteurs Vidéos (Tuto Complet)..."
     }
 ];
