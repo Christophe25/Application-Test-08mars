@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-26T08:57:15.002Z
+// Fichier généré automatiquement le 2026-06-27T08:30:56.173Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:57:15 AM 6/26/2026";
+export const lastUpdate = "8:30:56 AM 6/27/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "gFSQgS0te60",
+        "videoId": "gFSQgS0te60",
+        "title": "Hermès Agents   Révolution ou simple gadget ?",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-06-27",
+        "url": "https://www.youtube.com/watch?v=gFSQgS0te60",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Hermès Agents   Révolution ou simple gadget ?..."
+    },
+    {
+        "id": "sdfc79CzWSw",
+        "videoId": "sdfc79CzWSw",
+        "title": "Ce repo viral fait chuter ta consommation de tokens de 80 à 94%.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=sdfc79CzWSw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce repo viral fait chuter ta consommation de tokens de 80 à 94%...."
+    },
+    {
+        "id": "VzNbgoRUxdk",
+        "videoId": "VzNbgoRUxdk",
+        "title": "On a trouvé un meilleur langage pour les IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=VzNbgoRUxdk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : On a trouvé un meilleur langage pour les IA..."
+    },
+    {
+        "id": "WyA985f8kqg",
+        "videoId": "WyA985f8kqg",
+        "title": "Les 2 seuls VRAIS BUSINESS IA à lancer en 2026",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=WyA985f8kqg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Les 2 seuls VRAIS BUSINESS IA à lancer en 2026..."
+    },
     {
         "id": "Q-Ez9NGRvK4",
         "videoId": "Q-Ez9NGRvK4",
@@ -788,17 +832,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Capafy AI : La Marketplace Pour Vendre Vos Workflows IA 💰🤖..."
     },
     {
-        "id": "XRuG56ImTYk",
-        "videoId": "XRuG56ImTYk",
-        "title": "Anthropic vient de publier un repo GitHub officiel avec plus de 30 skills pour Claud",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=XRuG56ImTYk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Anthropic vient de publier un repo GitHub officiel avec plus de 30 skills pour Claud..."
-    },
-    {
         "id": "5WiuP81OVJo",
         "videoId": "5WiuP81OVJo",
         "title": "On compare nos seconds cerveau IA (voici ce qui marche vraiment)",
@@ -1327,17 +1360,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : J'ai étudié les LLM pendant 6 mois (et j'ai enfin compris comment ChatGPT fonctionne)..."
     },
     {
-        "id": "luQNxwS1yc8",
-        "videoId": "luQNxwS1yc8",
-        "title": "Pourquoi DeepSeek Va Changer L’avenir Des Agents IA à Jamais 🐳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=luQNxwS1yc8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Pourquoi DeepSeek Va Changer L’avenir Des Agents IA à Jamais 🐳..."
-    },
-    {
         "id": "9ySW-tzoDpU",
         "videoId": "9ySW-tzoDpU",
         "title": "Réponses IA : comment passer de ça... à ÇA !",
@@ -1369,17 +1391,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=y4AAFTlA6ak",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Claude Skills : Tout le monde peut ENFIN automatiser !..."
-    },
-    {
-        "id": "m7bYnWcx8s0",
-        "videoId": "m7bYnWcx8s0",
-        "title": "200 entrepreneurs, 21 hectares, 4 jours",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-23",
-        "url": "https://www.youtube.com/watch?v=m7bYnWcx8s0",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : 200 entrepreneurs, 21 hectares, 4 jours..."
     },
     {
         "id": "VMUDRIYRoQs",
@@ -1864,16 +1875,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=REiHTKMFDSI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 5 Hacks pour économiser tes Tokens dans Claude !..."
-    },
-    {
-        "id": "lMsM3SmfTuY",
-        "videoId": "lMsM3SmfTuY",
-        "title": "Créer un court métrage gratuit avec l'IA (TUTO COMPLET)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-27",
-        "url": "https://www.youtube.com/watch?v=lMsM3SmfTuY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Créer un court métrage gratuit avec l'IA (TUTO COMPLET)..."
     }
 ];
