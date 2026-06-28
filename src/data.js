@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-27T08:30:56.173Z
+// Fichier généré automatiquement le 2026-06-28T08:45:54.880Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:30:56 AM 6/27/2026";
+export const lastUpdate = "8:45:54 AM 6/28/2026";
 
 export const sources = [
     {
@@ -158,6 +158,17 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "FXIK6ExdwYY",
+        "videoId": "FXIK6ExdwYY",
+        "title": "Quelqu'un vient enfin d'open sourcer une machine de trading complète",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-27",
+        "url": "https://www.youtube.com/watch?v=FXIK6ExdwYY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin d'open sourcer une machine de trading complète..."
+    },
+    {
         "id": "gFSQgS0te60",
         "videoId": "gFSQgS0te60",
         "title": "Hermès Agents   Révolution ou simple gadget ?",
@@ -167,6 +178,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gFSQgS0te60",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Hermès Agents   Révolution ou simple gadget ?..."
+    },
+    {
+        "id": "s3DthPRppsc",
+        "videoId": "s3DthPRppsc",
+        "title": "L'agentique IA, le nouveau dropshipping",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-06-27",
+        "url": "https://www.youtube.com/watch?v=s3DthPRppsc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : L'agentique IA, le nouveau dropshipping..."
     },
     {
         "id": "sdfc79CzWSw",
@@ -788,17 +810,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Pourquoi t'es devenu un Expert IA qui fait pas 1€ (et comment corriger ça)..."
     },
     {
-        "id": "_D6dNCdjIuo",
-        "videoId": "_D6dNCdjIuo",
-        "title": "Tu veux utiliser Higgsfield mais sans payer ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=_D6dNCdjIuo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu veux utiliser Higgsfield mais sans payer ?..."
-    },
-    {
         "id": "ADJj3VMFWmM",
         "videoId": "ADJj3VMFWmM",
         "title": "Tout le monde peut ENFIN créer son Agent IA ! (Hermes Agent)",
@@ -1296,13 +1307,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "ChatGPT vient de rendre Excel simple ! (C'est magique)",
+        "title": "J’ai testé ChatGPT dans Excel… plus magique que Claude ?",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : ChatGPT vient de rendre Excel simple ! (C'est magique)..."
+        "summary": "Nouveauté de Elliott Pierret : J’ai testé ChatGPT dans Excel… plus magique que Claude ?..."
     },
     {
         "id": "mv5Sb75QLgc",
@@ -1864,16 +1875,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PjaygN19Udc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Comment écrire avec l'IA ? – Formation Complète..."
-    },
-    {
-        "id": "REiHTKMFDSI",
-        "videoId": "REiHTKMFDSI",
-        "title": "5 Hacks pour économiser tes Tokens dans Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-28",
-        "url": "https://www.youtube.com/watch?v=REiHTKMFDSI",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 5 Hacks pour économiser tes Tokens dans Claude !..."
     }
 ];
