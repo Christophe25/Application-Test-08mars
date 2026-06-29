@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-28T08:45:54.880Z
+// Fichier généré automatiquement le 2026-06-29T10:47:43.851Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:45:54 AM 6/28/2026";
+export const lastUpdate = "10:47:43 AM 6/29/2026";
 
 export const sources = [
     {
@@ -158,6 +158,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "ZCdYOnKdPp8",
+        "videoId": "ZCdYOnKdPp8",
+        "title": "Vendre une infrastructure IA 3000€ sans être un vendeur (Matrice POVI)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=ZCdYOnKdPp8",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Vendre une infrastructure IA 3000€ sans être un vendeur (Matrice POVI)..."
+    },
+    {
+        "id": "t5S_VM9m6yY",
+        "videoId": "t5S_VM9m6yY",
+        "title": "Le CEO de Y Combinator vient d'open sourcer tout son setup Claude Code",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=t5S_VM9m6yY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le CEO de Y Combinator vient d'open sourcer tout son setup Claude Code..."
+    },
+    {
+        "id": "JKD_mD70ml8",
+        "videoId": "JKD_mD70ml8",
+        "title": "Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=JKD_mD70ml8",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)..."
+    },
+    {
+        "id": "gl7sgL9pVSE",
+        "videoId": "gl7sgL9pVSE",
+        "title": "Claude IA fait maintenant TOUT à votre place",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=gl7sgL9pVSE",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Claude IA fait maintenant TOUT à votre place..."
+    },
+    {
         "id": "FXIK6ExdwYY",
         "videoId": "FXIK6ExdwYY",
         "title": "Quelqu'un vient enfin d'open sourcer une machine de trading complète",
@@ -171,13 +215,13 @@ export const allVideos = [
     {
         "id": "gFSQgS0te60",
         "videoId": "gFSQgS0te60",
-        "title": "Hermès Agents   Révolution ou simple gadget ?",
+        "title": "J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-06-27",
         "url": "https://www.youtube.com/watch?v=gFSQgS0te60",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Hermès Agents   Révolution ou simple gadget ?..."
+        "summary": "Nouveauté de Eliott Meunier : J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé..."
     },
     {
         "id": "s3DthPRppsc",
@@ -753,17 +797,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0MiN0Dh-zaU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯..."
-    },
-    {
-        "id": "t78Y88BX8l0",
-        "videoId": "t78Y88BX8l0",
-        "title": "Voici le projet le plus solide que j'ai vu sortir de la communauté Claude Code.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-15",
-        "url": "https://www.youtube.com/watch?v=t78Y88BX8l0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Voici le projet le plus solide que j'ai vu sortir de la communauté Claude Code...."
     },
     {
         "id": "umMOuu58b2o",
@@ -1842,38 +1875,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3eMkVtKNtEU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯..."
-    },
-    {
-        "id": "ioJMtQ8OOWw",
-        "videoId": "ioJMtQ8OOWw",
-        "title": "Les 5 skills à AVOIR dans ton Claude Code",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=ioJMtQ8OOWw",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Les 5 skills à AVOIR dans ton Claude Code..."
-    },
-    {
-        "id": "7cTenhHWfsk",
-        "videoId": "7cTenhHWfsk",
-        "title": "La vérité sur les agents IA que personne n'ose vous dire",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=7cTenhHWfsk",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La vérité sur les agents IA que personne n'ose vous dire..."
-    },
-    {
-        "id": "PjaygN19Udc",
-        "videoId": "PjaygN19Udc",
-        "title": "Comment écrire avec l'IA ? – Formation Complète",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=PjaygN19Udc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Comment écrire avec l'IA ? – Formation Complète..."
     }
 ];
