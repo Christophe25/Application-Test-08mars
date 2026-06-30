@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-29T10:47:43.851Z
+// Fichier généré automatiquement le 2026-06-30T09:25:45.511Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:47:43 AM 6/29/2026";
+export const lastUpdate = "9:25:45 AM 6/30/2026";
 
 export const sources = [
     {
@@ -157,6 +157,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "iNI01qteRMk",
+        "videoId": "iNI01qteRMk",
+        "title": "Le system prompt complet de Fable 5 vient de fuiter",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=iNI01qteRMk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le system prompt complet de Fable 5 vient de fuiter..."
+    },
+    {
+        "id": "A1JMuEj-KY4",
+        "videoId": "A1JMuEj-KY4",
+        "title": "Le NOUVEAU langage des IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=A1JMuEj-KY4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Le NOUVEAU langage des IA..."
+    },
+    {
+        "id": "ukf9DBoyas8",
+        "videoId": "ukf9DBoyas8",
+        "title": "L'étape que tout le monde saute avant de choisir son IA",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=ukf9DBoyas8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : L'étape que tout le monde saute avant de choisir son IA..."
+    },
     {
         "id": "ZCdYOnKdPp8",
         "videoId": "ZCdYOnKdPp8",
@@ -755,17 +788,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Les meilleurs skills Claude !..."
     },
     {
-        "id": "GlXDKO5NrT8",
-        "videoId": "GlXDKO5NrT8",
-        "title": "Ne gaspille plus tes tokens Claude inutilement",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=GlXDKO5NrT8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ne gaspille plus tes tokens Claude inutilement..."
-    },
-    {
         "id": "f3G0LIrQUIk",
         "videoId": "f3G0LIrQUIk",
         "title": "Automatise tes tâches répétitivs avec la commande /loop! 🔄",
@@ -1360,17 +1382,6 @@ export const allVideos = [
         "summary": "Nouveauté de Lucas Reverdy : Comment Claude Génère mes Propales à +10k€ en 10 minutes (Guide Complet)..."
     },
     {
-        "id": "vunt2M-BYmI",
-        "videoId": "vunt2M-BYmI",
-        "title": "Rocket 1.0 : L’IA Parfaite Pour Lancer un SaaS ? (Test réel 🔥)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=vunt2M-BYmI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Rocket 1.0 : L’IA Parfaite Pour Lancer un SaaS ? (Test réel 🔥)..."
-    },
-    {
         "id": "ZSoi6C6jOEA",
         "videoId": "ZSoi6C6jOEA",
         "title": "Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖",
@@ -1853,27 +1864,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IubQUC9TL2w",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'IA devient simple avec un Second Cerveau IA (cours complet)..."
-    },
-    {
-        "id": "vJNI-NyacCg",
-        "videoId": "vJNI-NyacCg",
-        "title": "Maîtriser 95% de Claude Design en 21 min !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=vJNI-NyacCg",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Maîtriser 95% de Claude Design en 21 min !..."
-    },
-    {
-        "id": "3eMkVtKNtEU",
-        "videoId": "3eMkVtKNtEU",
-        "title": "OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=3eMkVtKNtEU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯..."
     }
 ];
