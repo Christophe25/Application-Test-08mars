@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-30T09:25:45.511Z
+// Fichier généré automatiquement le 2026-07-01T09:38:01.113Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:25:45 AM 6/30/2026";
+export const lastUpdate = "9:38:01 AM 7/1/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "RUoIJU9tTeI",
+        "videoId": "RUoIJU9tTeI",
+        "title": "CLAUDE génère maintenant des images et vidéos (je montre TOUT)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=RUoIJU9tTeI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE génère maintenant des images et vidéos (je montre TOUT)..."
+    },
+    {
+        "id": "wEaJT8c5xyY",
+        "videoId": "wEaJT8c5xyY",
+        "title": "Ce site regroupe plus de 142.000 compétences gratuites pour n’importe quel Agent IA !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=wEaJT8c5xyY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce site regroupe plus de 142.000 compétences gratuites pour n’importe quel Agent IA !..."
+    },
+    {
+        "id": "xG4iLSn7kbk",
+        "videoId": "xG4iLSn7kbk",
+        "title": "Qu'est-ce qui se passe quand tu demandes à ChatGPT d'effacer toute ton empreinte d'internet ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=xG4iLSn7kbk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Qu'est-ce qui se passe quand tu demandes à ChatGPT d'effacer toute ton empreinte d'internet ?..."
+    },
+    {
+        "id": "fkFQHMCjbJw",
+        "videoId": "fkFQHMCjbJw",
+        "title": "DSpark : DeepSeek vient encore d'accélérer (sans nouveau modèle)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=fkFQHMCjbJw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DSpark : DeepSeek vient encore d'accélérer (sans nouveau modèle)..."
+    },
     {
         "id": "iNI01qteRMk",
         "videoId": "iNI01qteRMk",
@@ -358,13 +402,13 @@ export const allVideos = [
     {
         "id": "ucdLIEhUXjY",
         "videoId": "ucdLIEhUXjY",
-        "title": "Si je devais tout recommencer dans l'IA, voici exactement ce que je ferais",
+        "title": "Si je devais TOUT recommencer dans l'IA, voici EXACTEMENT ce que je ferais",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-06-24",
         "url": "https://www.youtube.com/watch?v=ucdLIEhUXjY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si je devais tout recommencer dans l'IA, voici exactement ce que je ferais..."
+        "summary": "Nouveauté de Henri · ExplorIA : Si je devais TOUT recommencer dans l'IA, voici EXACTEMENT ce que je ferais..."
     },
     {
         "id": "kOCRaZZy_mk",
@@ -403,13 +447,13 @@ export const allVideos = [
     {
         "id": "Q4_UBUZbU5U",
         "videoId": "Q4_UBUZbU5U",
-        "title": "La SEULE VRAI façon d'utiliser CLAUDE CODE pour ton Business",
+        "title": "J'ai arrêté ChatGPT : voici le système que j'utilise pour gérer mon business",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-06-24",
         "url": "https://www.youtube.com/watch?v=Q4_UBUZbU5U",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : La SEULE VRAI façon d'utiliser CLAUDE CODE pour ton Business..."
+        "summary": "Nouveauté de Thomas Berton : J'ai arrêté ChatGPT : voici le système que j'utilise pour gérer mon business..."
     },
     {
         "id": "xlZLpOU4gsw",
@@ -652,17 +696,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "VGyqk1nrqx8",
-        "videoId": "VGyqk1nrqx8",
-        "title": "En 60 minutes tu peux avoir un vrai assistant IA qui connaît ton nom, tes objectifs et tes apps.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=VGyqk1nrqx8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : En 60 minutes tu peux avoir un vrai assistant IA qui connaît ton nom, tes objectifs et tes apps...."
-    },
-    {
         "id": "ffGqRdkGz2A",
         "videoId": "ffGqRdkGz2A",
         "title": "Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts",
@@ -696,17 +729,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Msi5PaWHIe8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : Anthropic et OpenAI SOUS PRESSION !..."
-    },
-    {
-        "id": "0jkbt_xjlw8",
-        "videoId": "0jkbt_xjlw8",
-        "title": "La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=0jkbt_xjlw8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler...."
     },
     {
         "id": "J2YQAs3IQ7c",
@@ -775,17 +797,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=TP9R8RkE7lE",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Claude Code + n8n : c'est trop puissant..."
-    },
-    {
-        "id": "jn-uAU7KOpI",
-        "videoId": "jn-uAU7KOpI",
-        "title": "Les meilleurs skills Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=jn-uAU7KOpI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Les meilleurs skills Claude !..."
     },
     {
         "id": "f3G0LIrQUIk",
@@ -1336,17 +1347,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tmXpiLrw3zA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
-    },
-    {
-        "id": "vfeWJBbiai8",
-        "videoId": "vfeWJBbiai8",
-        "title": "Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=vfeWJBbiai8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)..."
     },
     {
         "id": "z5mGCGeMaDY",
