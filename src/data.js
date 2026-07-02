@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-01T09:38:01.113Z
+// Fichier généré automatiquement le 2026-07-02T08:49:13.786Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:38:01 AM 7/1/2026";
+export const lastUpdate = "8:49:13 AM 7/2/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "eNzSQbz0slo",
+        "videoId": "eNzSQbz0slo",
+        "title": "La seule chose que l'IA ne peut pas copier",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=eNzSQbz0slo",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : La seule chose que l'IA ne peut pas copier..."
+    },
+    {
+        "id": "376dfrK-D7A",
+        "videoId": "376dfrK-D7A",
+        "title": "Top 3 des certifications IA que chaque étudiant devrait avoir sur son CV.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=376dfrK-D7A",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Top 3 des certifications IA que chaque étudiant devrait avoir sur son CV...."
+    },
+    {
+        "id": "x-Pd8VtGkFw",
+        "videoId": "x-Pd8VtGkFw",
+        "title": "Claude Sonnet 5 : Anthropic casse le prix des agents IA 🔥 (+ Test)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=x-Pd8VtGkFw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude Sonnet 5 : Anthropic casse le prix des agents IA 🔥 (+ Test)..."
+    },
+    {
+        "id": "ffwftm89rQg",
+        "videoId": "ffwftm89rQg",
+        "title": "Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=ffwftm89rQg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens...."
+    },
     {
         "id": "RUoIJU9tTeI",
         "videoId": "RUoIJU9tTeI",
@@ -637,17 +681,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fQnMVt-rOHw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé une Appli complète en 2h sans coder avec CLAUDE (Tuto MCP) !..."
-    },
-    {
-        "id": "Ccc5RMGjIp8",
-        "videoId": "Ccc5RMGjIp8",
-        "title": "J'ai demandé à Claude de me faire gagner le plus d'argent possible.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-20",
-        "url": "https://www.youtube.com/watch?v=Ccc5RMGjIp8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai demandé à Claude de me faire gagner le plus d'argent possible...."
     },
     {
         "id": "DAFrLYL2Omo",
@@ -1215,17 +1248,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=z3oXZtuJNok",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)..."
-    },
-    {
-        "id": "G4EKG-wf_KU",
-        "videoId": "G4EKG-wf_KU",
-        "title": "Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-03",
-        "url": "https://www.youtube.com/watch?v=G4EKG-wf_KU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout..."
     },
     {
         "id": "GYZMfDdcTVw",
@@ -1853,16 +1875,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DjODUUu_QrE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce..."
-    },
-    {
-        "id": "IubQUC9TL2w",
-        "videoId": "IubQUC9TL2w",
-        "title": "L'IA devient simple avec un Second Cerveau IA (cours complet)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-02",
-        "url": "https://www.youtube.com/watch?v=IubQUC9TL2w",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'IA devient simple avec un Second Cerveau IA (cours complet)..."
     }
 ];
