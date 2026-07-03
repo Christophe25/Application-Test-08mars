@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-02T08:49:13.786Z
+// Fichier généré automatiquement le 2026-07-03T08:55:46.567Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:49:13 AM 7/2/2026";
+export const lastUpdate = "8:55:46 AM 7/3/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "8bCDHJ5t_H4",
+        "videoId": "8bCDHJ5t_H4",
+        "title": "Claude peut enfin regarder des vidéos",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=8bCDHJ5t_H4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut enfin regarder des vidéos..."
+    },
+    {
+        "id": "0lDVL03DEa0",
+        "videoId": "0lDVL03DEa0",
+        "title": "Claude Fable 5 est ENFIN de retour (tout ce qu'il faut savoir)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=0lDVL03DEa0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Fable 5 est ENFIN de retour (tout ce qu'il faut savoir)..."
+    },
     {
         "id": "eNzSQbz0slo",
         "videoId": "eNzSQbz0slo",
@@ -624,17 +646,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=b09gXtHcH1M",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code moins de 60 secondes !..."
-    },
-    {
-        "id": "8uTzXlVUHgI",
-        "videoId": "8uTzXlVUHgI",
-        "title": "Top 5 des sites que tout vibe codeur devrait connaître",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=8uTzXlVUHgI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Top 5 des sites que tout vibe codeur devrait connaître..."
     },
     {
         "id": "bof3sJ9P5Ss",
@@ -1820,60 +1831,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=KPc5qTqTn1o",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT..."
-    },
-    {
-        "id": "z47n9g-QJOc",
-        "videoId": "z47n9g-QJOc",
-        "title": "Ta dernière chance de devenir riche avant 2027.",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=z47n9g-QJOc",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Ta dernière chance de devenir riche avant 2027...."
-    },
-    {
-        "id": "f31RvRfWSXc",
-        "videoId": "f31RvRfWSXc",
-        "title": "Comment Devenir Dangereusement Intelligent (avec l’IA)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=f31RvRfWSXc",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Dangereusement Intelligent (avec l’IA)..."
-    },
-    {
-        "id": "mn7RcxKSddc",
-        "videoId": "mn7RcxKSddc",
-        "title": "Construire un second cerveau n'a jamais été aussi simple (Claude Code + Obsidian)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=mn7RcxKSddc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Construire un second cerveau n'a jamais été aussi simple (Claude Code + Obsidian)..."
-    },
-    {
-        "id": "2k7qP8oXFmw",
-        "videoId": "2k7qP8oXFmw",
-        "title": "Crée ta base de connaissance en 5 min! (Claude Code + Obsidian)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=2k7qP8oXFmw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Crée ta base de connaissance en 5 min! (Claude Code + Obsidian)..."
-    },
-    {
-        "id": "DjODUUu_QrE",
-        "videoId": "DjODUUu_QrE",
-        "title": "Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=DjODUUu_QrE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce..."
     }
 ];
