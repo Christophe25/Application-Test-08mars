@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-03T08:55:46.567Z
+// Fichier généré automatiquement le 2026-07-04T08:30:39.912Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:55:46 AM 7/3/2026";
+export const lastUpdate = "8:30:39 AM 7/4/2026";
 
 export const sources = [
     {
@@ -157,6 +157,74 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "GLlRO3Wo69w",
+        "videoId": "GLlRO3Wo69w",
+        "title": "Tu peux connecter Claude à Instagram et faire croître ton compte !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=GLlRO3Wo69w",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à Instagram et faire croître ton compte !..."
+    },
+    {
+        "id": "bDkqxrJsiCo",
+        "videoId": "bDkqxrJsiCo",
+        "title": "Comment j'ai fine-tuné une IA pour qu'elle pense mieux",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=bDkqxrJsiCo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Comment j'ai fine-tuné une IA pour qu'elle pense mieux..."
+    },
+    {
+        "id": "hdqEwB_EcEg",
+        "videoId": "hdqEwB_EcEg",
+        "title": "Anthropic offre littéralement six mois gratuits du plan Claude Max.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=hdqEwB_EcEg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Anthropic offre littéralement six mois gratuits du plan Claude Max...."
+    },
+    {
+        "id": "Sk0VgipquZc",
+        "videoId": "Sk0VgipquZc",
+        "title": "AIOS Cloud vs Local: Levé l'inarrêtable employé IA! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=Sk0VgipquZc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : AIOS Cloud vs Local: Levé l'inarrêtable employé IA! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "B5M3FcZq1Y0",
+        "videoId": "B5M3FcZq1Y0",
+        "title": "AIOS Révolutionne le Cloud: Créez Sites & CRM Facilement! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=B5M3FcZq1Y0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : AIOS Révolutionne le Cloud: Créez Sites & CRM Facilement! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "B3XeYkaZrjY",
+        "videoId": "B3XeYkaZrjY",
+        "title": "J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=B3XeYkaZrjY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !..."
+    },
     {
         "id": "8bCDHJ5t_H4",
         "videoId": "8bCDHJ5t_H4",
@@ -591,17 +659,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "4E0Gl9fryr0",
-        "videoId": "4E0Gl9fryr0",
-        "title": "Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-22",
-        "url": "https://www.youtube.com/watch?v=4E0Gl9fryr0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !..."
-    },
-    {
         "id": "LmCfCaf-5XI",
         "videoId": "LmCfCaf-5XI",
         "title": "Claude Code: Libérez votre productivité avec les sous-agents ! 🚀 #shorts",
@@ -635,17 +692,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yIMEkzh3Spo",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Oubliez les prompts : ces 7 Skills IA créent votre contenu..."
-    },
-    {
-        "id": "b09gXtHcH1M",
-        "videoId": "b09gXtHcH1M",
-        "title": "Comment installer Claude Code moins de 60 secondes !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=b09gXtHcH1M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code moins de 60 secondes !..."
     },
     {
         "id": "bof3sJ9P5Ss",
@@ -795,30 +841,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AwheFul67nU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : n8n a publié ses skills officiels pour Claude Code!..."
-    },
-    {
-        "id": "oWWjcZGUzGU",
-        "videoId": "oWWjcZGUzGU",
-        "title": "Claude Code: Maîtrisez vos tokens avec /context ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=oWWjcZGUzGU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Maîtrisez vos tokens avec /context ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "frXN4Ye4j3c",
-        "videoId": "frXN4Ye4j3c",
-        "title": "Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=frXN4Ye4j3c",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts...",
-        "isShort": true
     },
     {
         "id": "VMTweal-GZk",
@@ -1820,16 +1842,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=g2PdHA-1Lho",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
-    },
-    {
-        "id": "KPc5qTqTn1o",
-        "videoId": "KPc5qTqTn1o",
-        "title": "Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=KPc5qTqTn1o",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT..."
     }
 ];
