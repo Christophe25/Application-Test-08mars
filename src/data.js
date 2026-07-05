@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-04T08:30:39.912Z
+// Fichier généré automatiquement le 2026-07-05T08:46:57.277Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:30:39 AM 7/4/2026";
+export const lastUpdate = "8:46:57 AM 7/5/2026";
 
 export const sources = [
     {
@@ -158,6 +158,28 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "MEgLPh5FAqY",
+        "videoId": "MEgLPh5FAqY",
+        "title": "Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-07-05",
+        "url": "https://www.youtube.com/watch?v=MEgLPh5FAqY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)..."
+    },
+    {
+        "id": "d6qhmL7tNPE",
+        "videoId": "d6qhmL7tNPE",
+        "title": "Claude Fable est impressionnant mais il brûle les limites d'utilisation à une vitesse folle",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=d6qhmL7tNPE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude Fable est impressionnant mais il brûle les limites d'utilisation à une vitesse folle..."
+    },
+    {
         "id": "GLlRO3Wo69w",
         "videoId": "GLlRO3Wo69w",
         "title": "Tu peux connecter Claude à Instagram et faire croître ton compte !",
@@ -171,13 +193,37 @@ export const allVideos = [
     {
         "id": "bDkqxrJsiCo",
         "videoId": "bDkqxrJsiCo",
-        "title": "Comment j'ai fine-tuné une IA pour qu'elle pense mieux",
+        "title": "Ton IA n'est pas neutre. Voici pourquoi",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-07-04",
         "url": "https://www.youtube.com/watch?v=bDkqxrJsiCo",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Comment j'ai fine-tuné une IA pour qu'elle pense mieux..."
+        "summary": "Nouveauté de Eliott Meunier : Ton IA n'est pas neutre. Voici pourquoi..."
+    },
+    {
+        "id": "7eSEL11lL_M",
+        "videoId": "7eSEL11lL_M",
+        "title": "Claude AI: Votre Wiki Personnel Automatique Révolutionnaire! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=7eSEL11lL_M",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude AI: Votre Wiki Personnel Automatique Révolutionnaire! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Dii44f2oigA",
+        "videoId": "Dii44f2oigA",
+        "title": "Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=Dii44f2oigA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts...",
+        "isShort": true
     },
     {
         "id": "hdqEwB_EcEg",
@@ -536,24 +582,13 @@ export const allVideos = [
     {
         "id": "ucdLIEhUXjY",
         "videoId": "ucdLIEhUXjY",
-        "title": "Si je devais TOUT recommencer dans l'IA, voici EXACTEMENT ce que je ferais",
+        "title": "Si je devais recommencer dans l'IA, voici EXACTEMENT ce que je ferais",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-06-24",
         "url": "https://www.youtube.com/watch?v=ucdLIEhUXjY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si je devais TOUT recommencer dans l'IA, voici EXACTEMENT ce que je ferais..."
-    },
-    {
-        "id": "kOCRaZZy_mk",
-        "videoId": "kOCRaZZy_mk",
-        "title": "Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=kOCRaZZy_mk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même..."
+        "summary": "Nouveauté de Henri · ExplorIA : Si je devais recommencer dans l'IA, voici EXACTEMENT ce que je ferais..."
     },
     {
         "id": "gWfKTfOxhvE",
@@ -783,30 +818,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EWsf3f5LUHE",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Claude Code : Posez des questions, validez vos solutions IA ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "ffGqRdkGz2A",
-        "videoId": "ffGqRdkGz2A",
-        "title": "Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=ffGqRdkGz2A",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "0JCL_VNNK3E",
-        "videoId": "0JCL_VNNK3E",
-        "title": "Stop Claude being Overwhelmed: Master Context Routing! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=0JCL_VNNK3E",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Stop Claude being Overwhelmed: Master Context Routing! #shorts...",
         "isShort": true
     },
     {
