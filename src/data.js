@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-05T08:46:57.277Z
+// Fichier généré automatiquement le 2026-07-06T10:09:09.408Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:46:57 AM 7/5/2026";
+export const lastUpdate = "10:09:09 AM 7/6/2026";
 
 export const sources = [
     {
@@ -158,6 +158,51 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "_kZ9-KnfgJE",
+        "videoId": "_kZ9-KnfgJE",
+        "title": "Découvrez l'AI OS : Le Futur des Systèmes d'Exploitation #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-06",
+        "url": "https://www.youtube.com/watch?v=_kZ9-KnfgJE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Découvrez l'AI OS : Le Futur des Systèmes d'Exploitation #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LfWkYeyl7Rs",
+        "videoId": "LfWkYeyl7Rs",
+        "title": "Réduis ton utilisation de tokens de 75% dans Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-05",
+        "url": "https://www.youtube.com/watch?v=LfWkYeyl7Rs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Réduis ton utilisation de tokens de 75% dans Claude !..."
+    },
+    {
+        "id": "7XTX2ET5kEE",
+        "videoId": "7XTX2ET5kEE",
+        "title": "Les meilleurs outils IA en 2026 !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-05",
+        "url": "https://www.youtube.com/watch?v=7XTX2ET5kEE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Les meilleurs outils IA en 2026 !..."
+    },
+    {
+        "id": "ReWSbxmIITM",
+        "videoId": "ReWSbxmIITM",
+        "title": "Arrêtez d'Utiliser l'IA sans Comprendre Ça",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-07-05",
+        "url": "https://www.youtube.com/watch?v=ReWSbxmIITM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Arrêtez d'Utiliser l'IA sans Comprendre Ça..."
+    },
+    {
         "id": "MEgLPh5FAqY",
         "videoId": "MEgLPh5FAqY",
         "title": "Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)",
@@ -167,6 +212,30 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MEgLPh5FAqY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)..."
+    },
+    {
+        "id": "XuV42YRDA2I",
+        "videoId": "XuV42YRDA2I",
+        "title": "IA Cloud: Créez votre CRM sur mesure ! Génération d'app #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-05",
+        "url": "https://www.youtube.com/watch?v=XuV42YRDA2I",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Cloud: Créez votre CRM sur mesure ! Génération d'app #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "uwU8YeA-Dos",
+        "videoId": "uwU8YeA-Dos",
+        "title": "Automatisez vos appels : IA Claude & Google Calendar #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-05",
+        "url": "https://www.youtube.com/watch?v=uwU8YeA-Dos",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Automatisez vos appels : IA Claude & Google Calendar #shorts...",
+        "isShort": true
     },
     {
         "id": "d6qhmL7tNPE",
@@ -536,17 +605,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tu peux apprendre une compétence en quelques heures grâce à Claude !..."
     },
     {
-        "id": "a1-ltrrlb8s",
-        "videoId": "a1-ltrrlb8s",
-        "title": "Tu ne devrais jamais corriger Claude Code plus de deux fois sur le même problème",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=a1-ltrrlb8s",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu ne devrais jamais corriger Claude Code plus de deux fois sur le même problème..."
-    },
-    {
         "id": "2ZGXYsul3Mw",
         "videoId": "2ZGXYsul3Mw",
         "title": "Claude + Emergent AI : J’ai Créé Une App Complète Sans Coder 🔥",
@@ -578,17 +636,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pIa4jZuSlwI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : L'unique secret pour survivre à l'IA en 2026..."
-    },
-    {
-        "id": "ucdLIEhUXjY",
-        "videoId": "ucdLIEhUXjY",
-        "title": "Si je devais recommencer dans l'IA, voici EXACTEMENT ce que je ferais",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=ucdLIEhUXjY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si je devais recommencer dans l'IA, voici EXACTEMENT ce que je ferais..."
     },
     {
         "id": "gWfKTfOxhvE",
@@ -752,18 +799,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "qrnewbSyqKA",
-        "videoId": "qrnewbSyqKA",
-        "title": "Claude Code: Secrets Révélés pour Booster Votre Productivité! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=qrnewbSyqKA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Secrets Révélés pour Booster Votre Productivité! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "fQnMVt-rOHw",
         "videoId": "fQnMVt-rOHw",
         "title": "J'ai créé une Appli complète en 2h sans coder avec CLAUDE (Tuto MCP) !",
@@ -795,30 +830,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=p7GA6aXWASI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai automatisé ma chaîne YouTube avec UN prompt Claude 👁️..."
-    },
-    {
-        "id": "5rINRicU04o",
-        "videoId": "5rINRicU04o",
-        "title": "Compactez vos conversations IA : l'astuce qui change tout ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-20",
-        "url": "https://www.youtube.com/watch?v=5rINRicU04o",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Compactez vos conversations IA : l'astuce qui change tout ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "EWsf3f5LUHE",
-        "videoId": "EWsf3f5LUHE",
-        "title": "Claude Code : Posez des questions, validez vos solutions IA ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-20",
-        "url": "https://www.youtube.com/watch?v=EWsf3f5LUHE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Posez des questions, validez vos solutions IA ! #shorts...",
-        "isShort": true
     },
     {
         "id": "Msi5PaWHIe8",
@@ -1809,49 +1820,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Sz7pWrYWpHs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Passer de ChatGPT à Gemini sans RIEN perdre (Tuto Complet)..."
-    },
-    {
-        "id": "o2e8yZtmxIA",
-        "videoId": "o2e8yZtmxIA",
-        "title": "Claude Design : c'est ILLÉGAL d'être aussi puissant",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=o2e8yZtmxIA",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Claude Design : c'est ILLÉGAL d'être aussi puissant..."
-    },
-    {
-        "id": "L3YfsM5RTJs",
-        "videoId": "L3YfsM5RTJs",
-        "title": "Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=L3YfsM5RTJs",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)..."
-    },
-    {
-        "id": "iEeaHdbNPcw",
-        "videoId": "iEeaHdbNPcw",
-        "title": "5 faits secrets sur ChatGPT que personne ne connaît !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=iEeaHdbNPcw",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 5 faits secrets sur ChatGPT que personne ne connaît !..."
-    },
-    {
-        "id": "g2PdHA-1Lho",
-        "videoId": "g2PdHA-1Lho",
-        "title": "Le plan machiavélique d'Anthropic (et comment s'en protéger)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=g2PdHA-1Lho",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
     }
 ];
