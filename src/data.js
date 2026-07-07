@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-06T10:09:09.408Z
+// Fichier généré automatiquement le 2026-07-07T09:33:17.232Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:09:09 AM 7/6/2026";
+export const lastUpdate = "9:33:17 AM 7/7/2026";
 
 export const sources = [
     {
@@ -158,6 +158,51 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "K5npjKYU2yM",
+        "videoId": "K5npjKYU2yM",
+        "title": "Quasi tout le monde utilise Claude Code sans jamais le configurer correctement",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-06",
+        "url": "https://www.youtube.com/watch?v=K5npjKYU2yM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quasi tout le monde utilise Claude Code sans jamais le configurer correctement..."
+    },
+    {
+        "id": "Oqa894jQEDc",
+        "videoId": "Oqa894jQEDc",
+        "title": "Deepseek accélère de 78% !",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-06",
+        "url": "https://www.youtube.com/watch?v=Oqa894jQEDc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Deepseek accélère de 78% !..."
+    },
+    {
+        "id": "oe3rPG87BhU",
+        "videoId": "oe3rPG87BhU",
+        "title": "Accio Work : Enfin Une Vraie Plateforme d’Agents IA ? 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-06",
+        "url": "https://www.youtube.com/watch?v=oe3rPG87BhU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Accio Work : Enfin Une Vraie Plateforme d’Agents IA ? 😱..."
+    },
+    {
+        "id": "WgXEaSGgZOo",
+        "videoId": "WgXEaSGgZOo",
+        "title": "Pilotez votre IA depuis votre téléphone : Incroyable synchronisation ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-06",
+        "url": "https://www.youtube.com/watch?v=WgXEaSGgZOo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Pilotez votre IA depuis votre téléphone : Incroyable synchronisation ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "_kZ9-KnfgJE",
         "videoId": "_kZ9-KnfgJE",
         "title": "Découvrez l'AI OS : Le Futur des Systèmes d'Exploitation #shorts",
@@ -168,6 +213,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Découvrez l'AI OS : Le Futur des Systèmes d'Exploitation #shorts...",
         "isShort": true
+    },
+    {
+        "id": "g25mMKx_e0k",
+        "videoId": "g25mMKx_e0k",
+        "title": "Canva : 30 jours de contenu, une matinée de travail",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-07-06",
+        "url": "https://www.youtube.com/watch?v=g25mMKx_e0k",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Canva : 30 jours de contenu, une matinée de travail..."
     },
     {
         "id": "LfWkYeyl7Rs",
@@ -594,17 +650,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Les 2 seuls VRAIS BUSINESS IA à lancer en 2026..."
     },
     {
-        "id": "Q-Ez9NGRvK4",
-        "videoId": "Q-Ez9NGRvK4",
-        "title": "Tu peux apprendre une compétence en quelques heures grâce à Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=Q-Ez9NGRvK4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu peux apprendre une compétence en quelques heures grâce à Claude !..."
-    },
-    {
         "id": "2ZGXYsul3Mw",
         "videoId": "2ZGXYsul3Mw",
         "title": "Claude + Emergent AI : J’ai Créé Une App Complète Sans Coder 🔥",
@@ -785,18 +830,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Chaque IA Expliquée en 19 Minutes..."
-    },
-    {
-        "id": "kKAMnsymufA",
-        "videoId": "kKAMnsymufA",
-        "title": "Claude Code : L'IA qui se vérifie elle-même pour des résultats parfaits développements ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=kKAMnsymufA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : L'IA qui se vérifie elle-même pour des résultats parfaits développements ! #shorts...",
-        "isShort": true
     },
     {
         "id": "fQnMVt-rOHw",
@@ -1217,17 +1250,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
     },
     {
-        "id": "UxsGe4N8G_g",
-        "videoId": "UxsGe4N8G_g",
-        "title": "Anthropic panique ! Ils veulent une pause ✋🛑",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=UxsGe4N8G_g",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Anthropic panique ! Ils veulent une pause ✋🛑..."
-    },
-    {
         "id": "97-oN2YrXVc",
         "videoId": "97-oN2YrXVc",
         "title": "DeepSeek V4 : le modele qui humilie les IA américaines",
@@ -1237,17 +1259,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=97-oN2YrXVc",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : DeepSeek V4 : le modele qui humilie les IA américaines..."
-    },
-    {
-        "id": "vKQ7LKgAQps",
-        "videoId": "vKQ7LKgAQps",
-        "title": "La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=vKQ7LKgAQps",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔..."
     },
     {
         "id": "s_ShtMRFYOs",
@@ -1787,38 +1798,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=SgxSUle-TcE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Créer son système IA : ça vaut encore le coup ?..."
-    },
-    {
-        "id": "NCvARWY-_aQ",
-        "videoId": "NCvARWY-_aQ",
-        "title": "Ne plus JAMAIS atteindre la limite de Tokens dans Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=NCvARWY-_aQ",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Ne plus JAMAIS atteindre la limite de Tokens dans Claude !..."
-    },
-    {
-        "id": "pb8pza8dmCg",
-        "videoId": "pb8pza8dmCg",
-        "title": "Mon IA prospecte à ma place 24h/24 (je te DONNE le système) 🤖",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=pb8pza8dmCg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Mon IA prospecte à ma place 24h/24 (je te DONNE le système) 🤖..."
-    },
-    {
-        "id": "Sz7pWrYWpHs",
-        "videoId": "Sz7pWrYWpHs",
-        "title": "Passer de ChatGPT à Gemini sans RIEN perdre (Tuto Complet)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=Sz7pWrYWpHs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Passer de ChatGPT à Gemini sans RIEN perdre (Tuto Complet)..."
     }
 ];
