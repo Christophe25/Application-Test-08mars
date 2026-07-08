@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-07T09:33:17.232Z
+// Fichier généré automatiquement le 2026-07-08T08:19:50.876Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:33:17 AM 7/7/2026";
+export const lastUpdate = "8:19:50 AM 7/8/2026";
 
 export const sources = [
     {
@@ -158,6 +158,63 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "J8PZ1os5zxY",
+        "videoId": "J8PZ1os5zxY",
+        "title": "La fin des tokens ? Les Loop Transformers",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=J8PZ1os5zxY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La fin des tokens ? Les Loop Transformers..."
+    },
+    {
+        "id": "txSugkDoIDg",
+        "videoId": "txSugkDoIDg",
+        "title": "Quelqu'un vient de construire un repo qui donne à tes agents un accès en lecture sur 13 plateformes",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-07",
+        "url": "https://www.youtube.com/watch?v=txSugkDoIDg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire un repo qui donne à tes agents un accès en lecture sur 13 plateformes..."
+    },
+    {
+        "id": "KAhbWFS0qPY",
+        "videoId": "KAhbWFS0qPY",
+        "title": "Loop Transformers : la fin du raisonnement en tokens ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-07",
+        "url": "https://www.youtube.com/watch?v=KAhbWFS0qPY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Loop Transformers : la fin du raisonnement en tokens ?..."
+    },
+    {
+        "id": "T1juufPrGpw",
+        "videoId": "T1juufPrGpw",
+        "title": "Automatisez Vos Réunions : Créer Un Skill AI Puissant #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-07",
+        "url": "https://www.youtube.com/watch?v=T1juufPrGpw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Automatisez Vos Réunions : Créer Un Skill AI Puissant #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "ezPYxNNn_6A",
+        "videoId": "ezPYxNNn_6A",
+        "title": "AI OS Révolutionne Mon Business : L'IA en 2026! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-07",
+        "url": "https://www.youtube.com/watch?v=ezPYxNNn_6A",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : AI OS Révolutionne Mon Business : L'IA en 2026! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "K5npjKYU2yM",
         "videoId": "K5npjKYU2yM",
         "title": "Quasi tout le monde utilise Claude Code sans jamais le configurer correctement",
@@ -250,13 +307,13 @@ export const allVideos = [
     {
         "id": "ReWSbxmIITM",
         "videoId": "ReWSbxmIITM",
-        "title": "Arrêtez d'Utiliser l'IA sans Comprendre Ça",
+        "title": "Tout Comprendre sur les LLM en 15 Minutes",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-07-05",
         "url": "https://www.youtube.com/watch?v=ReWSbxmIITM",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Arrêtez d'Utiliser l'IA sans Comprendre Ça..."
+        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur les LLM en 15 Minutes..."
     },
     {
         "id": "MEgLPh5FAqY",
@@ -617,17 +674,6 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : L'agentique IA, le nouveau dropshipping..."
     },
     {
-        "id": "sdfc79CzWSw",
-        "videoId": "sdfc79CzWSw",
-        "title": "Ce repo viral fait chuter ta consommation de tokens de 80 à 94%.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-26",
-        "url": "https://www.youtube.com/watch?v=sdfc79CzWSw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce repo viral fait chuter ta consommation de tokens de 80 à 94%...."
-    },
-    {
         "id": "VzNbgoRUxdk",
         "videoId": "VzNbgoRUxdk",
         "title": "On a trouvé un meilleur langage pour les IA",
@@ -783,30 +829,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vsGtj-a7m9c",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Productivité : Oubliez les Permissions Dangereuses pour Gagner du Temps ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "LmCfCaf-5XI",
-        "videoId": "LmCfCaf-5XI",
-        "title": "Claude Code: Libérez votre productivité avec les sous-agents ! 🚀 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-22",
-        "url": "https://www.youtube.com/watch?v=LmCfCaf-5XI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Libérez votre productivité avec les sous-agents ! 🚀 #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "7Pe03YVuWZQ",
-        "videoId": "7Pe03YVuWZQ",
-        "title": "Context7 : La Révolution Cloud Code pour Vos APIs #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-22",
-        "url": "https://www.youtube.com/watch?v=7Pe03YVuWZQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Context7 : La Révolution Cloud Code pour Vos APIs #shorts...",
         "isShort": true
     },
     {
@@ -1118,17 +1140,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : MiniMax M3 : Meilleur que Claude et 20x moins cher ? (Open Source) 😱..."
     },
     {
-        "id": "urEKiF3BLy4",
-        "videoId": "urEKiF3BLy4",
-        "title": "Fable 5 est INCROYABLE 😳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=urEKiF3BLy4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Fable 5 est INCROYABLE 😳..."
-    },
-    {
         "id": "-0tsnwvnosw",
         "videoId": "-0tsnwvnosw",
         "title": "Les 5 réglages qui rendent Claude Code 10x meilleur",
@@ -1138,17 +1149,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-0tsnwvnosw",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Les 5 réglages qui rendent Claude Code 10x meilleur..."
-    },
-    {
-        "id": "EHJk-x17AP0",
-        "videoId": "EHJk-x17AP0",
-        "title": "Fable 5 : La Vidéo à NE PAS RATER Pour Tout Comprendre 🔥 (+ Test)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-10",
-        "url": "https://www.youtube.com/watch?v=EHJk-x17AP0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Fable 5 : La Vidéo à NE PAS RATER Pour Tout Comprendre 🔥 (+ Test)..."
     },
     {
         "id": "mh4fMN_Jyz8",
@@ -1787,16 +1787,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3UVbXmUIBSk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !..."
-    },
-    {
-        "id": "SgxSUle-TcE",
-        "videoId": "SgxSUle-TcE",
-        "title": "Créer son système IA : ça vaut encore le coup ?",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-08",
-        "url": "https://www.youtube.com/watch?v=SgxSUle-TcE",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Créer son système IA : ça vaut encore le coup ?..."
     }
 ];
