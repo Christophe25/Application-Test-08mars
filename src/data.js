@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-08T08:19:50.876Z
+// Fichier généré automatiquement le 2026-07-09T09:30:13.125Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:19:50 AM 7/8/2026";
+export const lastUpdate = "9:30:13 AM 7/9/2026";
 
 export const sources = [
     {
@@ -167,6 +167,41 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J8PZ1os5zxY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La fin des tokens ? Les Loop Transformers..."
+    },
+    {
+        "id": "nWlSOx0KKyI",
+        "videoId": "nWlSOx0KKyI",
+        "title": "Claude Code avec Kimi K2.7 : tu n'as plus besoin de payer💸",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=nWlSOx0KKyI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Code avec Kimi K2.7 : tu n'as plus besoin de payer💸..."
+    },
+    {
+        "id": "UYuo2RnbUyo",
+        "videoId": "UYuo2RnbUyo",
+        "title": "Contrôlez Votre IA Où Que Vous Soyez, Même en Ville ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=UYuo2RnbUyo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Contrôlez Votre IA Où Que Vous Soyez, Même en Ville ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "RIa7mYjXhtQ",
+        "videoId": "RIa7mYjXhtQ",
+        "title": "Votre IA OS: Le Secret pour Gérer Votre Business Facilement #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=RIa7mYjXhtQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Votre IA OS: Le Secret pour Gérer Votre Business Facilement #shorts...",
+        "isShort": true
     },
     {
         "id": "txSugkDoIDg",
@@ -806,30 +841,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ytvTKQ1iPsA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le prompt le plus flippant à demander à ChatGPT ou Claude !..."
-    },
-    {
-        "id": "PmyVHaMG5oI",
-        "videoId": "PmyVHaMG5oI",
-        "title": "Multi-tâches sur un projet : la solution qui va tout changer ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-23",
-        "url": "https://www.youtube.com/watch?v=PmyVHaMG5oI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Multi-tâches sur un projet : la solution qui va tout changer ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "vsGtj-a7m9c",
-        "videoId": "vsGtj-a7m9c",
-        "title": "Productivité : Oubliez les Permissions Dangereuses pour Gagner du Temps ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-23",
-        "url": "https://www.youtube.com/watch?v=vsGtj-a7m9c",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Productivité : Oubliez les Permissions Dangereuses pour Gagner du Temps ! #shorts...",
-        "isShort": true
     },
     {
         "id": "yIMEkzh3Spo",
@@ -1765,27 +1776,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population..."
-    },
-    {
-        "id": "y0taBHJRJXY",
-        "videoId": "y0taBHJRJXY",
-        "title": "Ce plombier a un meilleur système IA que la plupart des devs",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=y0taBHJRJXY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ce plombier a un meilleur système IA que la plupart des devs..."
-    },
-    {
-        "id": "3UVbXmUIBSk",
-        "videoId": "3UVbXmUIBSk",
-        "title": "Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=3UVbXmUIBSk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !..."
     }
 ];
