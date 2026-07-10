@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-09T09:30:13.125Z
+// Fichier généré automatiquement le 2026-07-10T09:26:30.211Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:30:13 AM 7/9/2026";
+export const lastUpdate = "9:26:30 AM 7/10/2026";
 
 export const sources = [
     {
@@ -157,6 +157,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "k3SxB099nlo",
+        "videoId": "k3SxB099nlo",
+        "title": "Quasi personne ne donne du contexte à Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=k3SxB099nlo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quasi personne ne donne du contexte à Claude !..."
+    },
+    {
+        "id": "NnmorHxu-d0",
+        "videoId": "NnmorHxu-d0",
+        "title": "Ce scrapper est 1600x plus rapide que les autres scrappers !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=NnmorHxu-d0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce scrapper est 1600x plus rapide que les autres scrappers !..."
+    },
+    {
+        "id": "5dF9rDlMGhE",
+        "videoId": "5dF9rDlMGhE",
+        "title": "Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=5dF9rDlMGhE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire...."
+    },
     {
         "id": "J8PZ1os5zxY",
         "videoId": "J8PZ1os5zxY",
@@ -643,17 +676,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Vendre une infrastructure IA 3000€ sans être un vendeur (Matrice POVI)..."
     },
     {
-        "id": "t5S_VM9m6yY",
-        "videoId": "t5S_VM9m6yY",
-        "title": "Le CEO de Y Combinator vient d'open sourcer tout son setup Claude Code",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=t5S_VM9m6yY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le CEO de Y Combinator vient d'open sourcer tout son setup Claude Code..."
-    },
-    {
         "id": "JKD_mD70ml8",
         "videoId": "JKD_mD70ml8",
         "title": "Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)",
@@ -674,17 +696,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gl7sgL9pVSE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Claude IA fait maintenant TOUT à votre place..."
-    },
-    {
-        "id": "FXIK6ExdwYY",
-        "videoId": "FXIK6ExdwYY",
-        "title": "Quelqu'un vient enfin d'open sourcer une machine de trading complète",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=FXIK6ExdwYY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin d'open sourcer une machine de trading complète..."
     },
     {
         "id": "gFSQgS0te60",
@@ -1754,27 +1765,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mfkp0t85nKQ",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Arrêtez les mauvais diapos | Voici la méthode qui marche..."
-    },
-    {
-        "id": "J4hyyVkt_Bo",
-        "videoId": "J4hyyVkt_Bo",
-        "title": "Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-10",
-        "url": "https://www.youtube.com/watch?v=J4hyyVkt_Bo",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)..."
-    },
-    {
-        "id": "w2JE7HUNJFU",
-        "videoId": "w2JE7HUNJFU",
-        "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-05-10",
-        "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population..."
     }
 ];
