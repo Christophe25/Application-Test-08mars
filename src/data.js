@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-10T09:26:30.211Z
+// Fichier généré automatiquement le 2026-07-11T07:47:24.121Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:26:30 AM 7/10/2026";
+export const lastUpdate = "7:47:24 AM 7/11/2026";
 
 export const sources = [
     {
@@ -157,6 +157,17 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "pNHnjGhCMW4",
+        "videoId": "pNHnjGhCMW4",
+        "title": "Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=pNHnjGhCMW4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes..."
+    },
     {
         "id": "k3SxB099nlo",
         "videoId": "k3SxB099nlo",
@@ -630,17 +641,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fkFQHMCjbJw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DSpark : DeepSeek vient encore d'accélérer (sans nouveau modèle)..."
-    },
-    {
-        "id": "iNI01qteRMk",
-        "videoId": "iNI01qteRMk",
-        "title": "Le system prompt complet de Fable 5 vient de fuiter",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=iNI01qteRMk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le system prompt complet de Fable 5 vient de fuiter..."
     },
     {
         "id": "A1JMuEj-KY4",
@@ -1743,27 +1743,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
-    },
-    {
-        "id": "YCttZsEIuqI",
-        "videoId": "YCttZsEIuqI",
-        "title": "Il a connecté son ADN et sa montre à l'IA (le résultat est génial)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=YCttZsEIuqI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Il a connecté son ADN et sa montre à l'IA (le résultat est génial)..."
-    },
-    {
-        "id": "mfkp0t85nKQ",
-        "videoId": "mfkp0t85nKQ",
-        "title": "Arrêtez les mauvais diapos | Voici la méthode qui marche",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=mfkp0t85nKQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Arrêtez les mauvais diapos | Voici la méthode qui marche..."
     }
 ];
