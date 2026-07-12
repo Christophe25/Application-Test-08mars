@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-11T07:47:24.121Z
+// Fichier généré automatiquement le 2026-07-12T08:09:06.531Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:47:24 AM 7/11/2026";
+export const lastUpdate = "8:09:06 AM 7/12/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "mx5fCEIGW00",
+        "videoId": "mx5fCEIGW00",
+        "title": "GPT-5.6 Sol vient-il vraiment de détrôner Claude Fable 5 ? 🤔",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-11",
+        "url": "https://www.youtube.com/watch?v=mx5fCEIGW00",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : GPT-5.6 Sol vient-il vraiment de détrôner Claude Fable 5 ? 🤔..."
+    },
+    {
+        "id": "h40pzj2qn94",
+        "videoId": "h40pzj2qn94",
+        "title": "Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) 🔥",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-11",
+        "url": "https://www.youtube.com/watch?v=h40pzj2qn94",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) 🔥..."
+    },
     {
         "id": "pNHnjGhCMW4",
         "videoId": "pNHnjGhCMW4",
@@ -386,13 +408,13 @@ export const allVideos = [
     {
         "id": "ReWSbxmIITM",
         "videoId": "ReWSbxmIITM",
-        "title": "Tout Comprendre sur les LLM en 15 Minutes",
+        "title": "Vous ne verrez plus Jamais l'IA de la même façon !",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-07-05",
         "url": "https://www.youtube.com/watch?v=ReWSbxmIITM",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur les LLM en 15 Minutes..."
+        "summary": "Nouveauté de Yassine Sdiri : Vous ne verrez plus Jamais l'IA de la même façon !..."
     },
     {
         "id": "MEgLPh5FAqY",
@@ -678,13 +700,13 @@ export const allVideos = [
     {
         "id": "JKD_mD70ml8",
         "videoId": "JKD_mD70ml8",
-        "title": "Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)",
+        "title": "Comment utiliser Copilot Cowork, l'IA qui automatise vos tâches !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-06-28",
         "url": "https://www.youtube.com/watch?v=JKD_mD70ml8",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)..."
+        "summary": "Nouveauté de Elliott Pierret : Comment utiliser Copilot Cowork, l'IA qui automatise vos tâches !..."
     },
     {
         "id": "gl7sgL9pVSE",
@@ -1151,17 +1173,6 @@ export const allVideos = [
         "summary": "Nouveauté de Lucas Reverdy : Comment Faire un Site Web Cinématique à 5000€ avec Claude et Higgsfield (Guide Complet)..."
     },
     {
-        "id": "Vs3PYSOlCRs",
-        "videoId": "Vs3PYSOlCRs",
-        "title": "MiniMax M3 : Meilleur que Claude et 20x moins cher ? (Open Source) 😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=Vs3PYSOlCRs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : MiniMax M3 : Meilleur que Claude et 20x moins cher ? (Open Source) 😱..."
-    },
-    {
         "id": "-0tsnwvnosw",
         "videoId": "-0tsnwvnosw",
         "title": "Les 5 réglages qui rendent Claude Code 10x meilleur",
@@ -1472,13 +1483,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "J’ai testé ChatGPT dans Excel… plus magique que Claude ?",
+        "title": "ChatGPT est officiellement disponible dans Excel, et c’est magique !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai testé ChatGPT dans Excel… plus magique que Claude ?..."
+        "summary": "Nouveauté de Elliott Pierret : ChatGPT est officiellement disponible dans Excel, et c’est magique !..."
     },
     {
         "id": "mv5Sb75QLgc",
@@ -1732,16 +1743,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PxthwNWLV_E",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
-    },
-    {
-        "id": "dyZjwf1GeYk",
-        "videoId": "dyZjwf1GeYk",
-        "title": "Anthropic vient de simplifier ENORMEMENT la gestion d’agents!",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-12",
-        "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
     }
 ];
