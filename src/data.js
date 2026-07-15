@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-14T07:54:27.190Z
+// Fichier généré automatiquement le 2026-07-15T07:59:23.499Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:54:27 AM 7/14/2026";
+export const lastUpdate = "7:59:23 AM 7/15/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "mFYhqEDYeEQ",
+        "videoId": "mFYhqEDYeEQ",
+        "title": "Claude Science est disponible !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=mFYhqEDYeEQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude Science est disponible !..."
+    },
+    {
+        "id": "1slv_r8DvXc",
+        "videoId": "1slv_r8DvXc",
+        "title": "Les entreprises paient entre 3 000 et 10 000 € pour installer des systèmes IA simples",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=1slv_r8DvXc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Les entreprises paient entre 3 000 et 10 000 € pour installer des systèmes IA simples..."
+    },
     {
         "id": "HNouDXt5jKQ",
         "videoId": "HNouDXt5jKQ",
@@ -665,17 +687,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : La seule chose que l'IA ne peut pas copier..."
     },
     {
-        "id": "376dfrK-D7A",
-        "videoId": "376dfrK-D7A",
-        "title": "Top 3 des certifications IA que chaque étudiant devrait avoir sur son CV.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-01",
-        "url": "https://www.youtube.com/watch?v=376dfrK-D7A",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Top 3 des certifications IA que chaque étudiant devrait avoir sur son CV...."
-    },
-    {
         "id": "x-Pd8VtGkFw",
         "videoId": "x-Pd8VtGkFw",
         "title": "Claude Sonnet 5 : Anthropic casse le prix des agents IA 🔥 (+ Test)",
@@ -696,17 +707,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ffwftm89rQg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens...."
-    },
-    {
-        "id": "RUoIJU9tTeI",
-        "videoId": "RUoIJU9tTeI",
-        "title": "CLAUDE génère maintenant des images et vidéos (je montre TOUT)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=RUoIJU9tTeI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE génère maintenant des images et vidéos (je montre TOUT)..."
     },
     {
         "id": "fkFQHMCjbJw",
@@ -1732,16 +1732,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
-    },
-    {
-        "id": "9nXqUad7x9o",
-        "videoId": "9nXqUad7x9o",
-        "title": "Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=9nXqUad7x9o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !..."
     }
 ];
