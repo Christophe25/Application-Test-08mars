@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-16T08:04:22.623Z
+// Fichier généré automatiquement le 2026-07-17T08:01:32.665Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:04:22 AM 7/16/2026";
+export const lastUpdate = "8:01:32 AM 7/17/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "JnUPQ0lwgpI",
+        "videoId": "JnUPQ0lwgpI",
+        "title": "Voici Copilot Cowork, l'IA qui automatise vos tâches !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=JnUPQ0lwgpI",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Voici Copilot Cowork, l'IA qui automatise vos tâches !..."
+    },
+    {
+        "id": "qUZiF4oPZeg",
+        "videoId": "qUZiF4oPZeg",
+        "title": "NotebookLM : le RAG nouveau GRATUIT (OPENSOURCE) 🧠",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=qUZiF4oPZeg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : NotebookLM : le RAG nouveau GRATUIT (OPENSOURCE) 🧠..."
+    },
     {
         "id": "vEWDIM24VkE",
         "videoId": "vEWDIM24VkE",
@@ -1699,27 +1721,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tWneZs6ttSA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine..."
-    },
-    {
-        "id": "T7vTh4StDZM",
-        "videoId": "T7vTh4StDZM",
-        "title": "Comment devenir quelqu'un d'autre pour créer sa chance",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=T7vTh4StDZM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment devenir quelqu'un d'autre pour créer sa chance..."
-    },
-    {
-        "id": "oS1RvuLPGbA",
-        "videoId": "oS1RvuLPGbA",
-        "title": "Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)..."
     }
 ];
