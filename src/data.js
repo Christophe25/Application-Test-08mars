@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-21T08:19:20.696Z
+// Fichier généré automatiquement le 2026-07-22T08:20:13.928Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:19:20 AM 7/21/2026";
+export const lastUpdate = "8:20:13 AM 7/22/2026";
 
 export const sources = [
     {
@@ -157,6 +157,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "QM_UiJ1zD9Y",
+        "videoId": "QM_UiJ1zD9Y",
+        "title": "Voici le calendrier de 14 jours pour apprendre Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-21",
+        "url": "https://www.youtube.com/watch?v=QM_UiJ1zD9Y",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Voici le calendrier de 14 jours pour apprendre Claude !..."
+    },
+    {
+        "id": "Tg8EjgsFB0g",
+        "videoId": "Tg8EjgsFB0g",
+        "title": "Anthropic lance Claude Corps !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-21",
+        "url": "https://www.youtube.com/watch?v=Tg8EjgsFB0g",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Anthropic lance Claude Corps !..."
+    },
+    {
+        "id": "eEMdqWsYu8g",
+        "videoId": "eEMdqWsYu8g",
+        "title": "La découverte inexplicable dans Claude 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-21",
+        "url": "https://www.youtube.com/watch?v=eEMdqWsYu8g",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La découverte inexplicable dans Claude 😱..."
+    },
+    {
+        "id": "F9YcVlyZahk",
+        "videoId": "F9YcVlyZahk",
+        "title": "Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-07-21",
+        "url": "https://www.youtube.com/watch?v=F9YcVlyZahk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi..."
+    },
     {
         "id": "J5PzYNf8Xic",
         "videoId": "J5PzYNf8Xic",
@@ -488,17 +532,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quasi personne ne donne du contexte à Claude !..."
     },
     {
-        "id": "NnmorHxu-d0",
-        "videoId": "NnmorHxu-d0",
-        "title": "Ce scrapper est 1600x plus rapide que les autres scrappers !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-09",
-        "url": "https://www.youtube.com/watch?v=NnmorHxu-d0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce scrapper est 1600x plus rapide que les autres scrappers !..."
-    },
-    {
         "id": "5dF9rDlMGhE",
         "videoId": "5dF9rDlMGhE",
         "title": "Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire.",
@@ -554,17 +587,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Votre IA OS: Le Secret pour Gérer Votre Business Facilement #shorts...",
         "isShort": true
-    },
-    {
-        "id": "txSugkDoIDg",
-        "videoId": "txSugkDoIDg",
-        "title": "Quelqu'un vient de construire un repo qui donne à tes agents un accès en lecture sur 13 plateformes",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-07",
-        "url": "https://www.youtube.com/watch?v=txSugkDoIDg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire un repo qui donne à tes agents un accès en lecture sur 13 plateformes..."
     },
     {
         "id": "KAhbWFS0qPY",
@@ -960,17 +982,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pIa4jZuSlwI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : L'unique secret pour survivre à l'IA en 2026..."
-    },
-    {
-        "id": "gWfKTfOxhvE",
-        "videoId": "gWfKTfOxhvE",
-        "title": "DeepSeek vient de résoudre le problème à 1 milliard de l’IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=gWfKTfOxhvE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de résoudre le problème à 1 milliard de l’IA..."
     },
     {
         "id": "0tFB_UN7kI8",
@@ -1699,16 +1710,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=y4AAFTlA6ak",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Claude Skills : Tout le monde peut ENFIN automatiser !..."
-    },
-    {
-        "id": "VMUDRIYRoQs",
-        "videoId": "VMUDRIYRoQs",
-        "title": "Actus IA : Google dégaine... ChatGPT et Claude ripostent !",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=VMUDRIYRoQs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Actus IA : Google dégaine... ChatGPT et Claude ripostent !..."
     }
 ];
