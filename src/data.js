@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-22T08:20:13.928Z
+// Fichier généré automatiquement le 2026-07-23T08:22:42.263Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:20:13 AM 7/22/2026";
+export const lastUpdate = "8:22:42 AM 7/23/2026";
 
 export const sources = [
     {
@@ -157,6 +157,83 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "JIFgklJGj2w",
+        "videoId": "JIFgklJGj2w",
+        "title": "Arrêtez de créer des Agents IA, créez des Loops !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=JIFgklJGj2w",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Arrêtez de créer des Agents IA, créez des Loops !..."
+    },
+    {
+        "id": "LGiaRxIsnzk",
+        "videoId": "LGiaRxIsnzk",
+        "title": "Il a fait son site SEUL avec CLAUDE CODE en 2 jours",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-07-22",
+        "url": "https://www.youtube.com/watch?v=LGiaRxIsnzk",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Il a fait son site SEUL avec CLAUDE CODE en 2 jours..."
+    },
+    {
+        "id": "NQJPlvwVFOE",
+        "videoId": "NQJPlvwVFOE",
+        "title": "Comment Créer des Skills Claude comme un PRO (tuto complet)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-07-22",
+        "url": "https://www.youtube.com/watch?v=NQJPlvwVFOE",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Comment Créer des Skills Claude comme un PRO (tuto complet)..."
+    },
+    {
+        "id": "i6uqEhwW6vo",
+        "videoId": "i6uqEhwW6vo",
+        "title": "Tu peux littéralement appeler ton agent IA au téléphone maintenant !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-22",
+        "url": "https://www.youtube.com/watch?v=i6uqEhwW6vo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux littéralement appeler ton agent IA au téléphone maintenant !..."
+    },
+    {
+        "id": "FD0i-wFhnC4",
+        "videoId": "FD0i-wFhnC4",
+        "title": "Arrêtez les prompts. Passez aux Loops (Le futur des agents IA)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-07-22",
+        "url": "https://www.youtube.com/watch?v=FD0i-wFhnC4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Arrêtez les prompts. Passez aux Loops (Le futur des agents IA)..."
+    },
+    {
+        "id": "Hxx2lU2DlBM",
+        "videoId": "Hxx2lU2DlBM",
+        "title": "Claude ment quand on modifie ce truc (actus I.A)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-22",
+        "url": "https://www.youtube.com/watch?v=Hxx2lU2DlBM",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Claude ment quand on modifie ce truc (actus I.A)..."
+    },
+    {
+        "id": "RutkqDcQZL0",
+        "videoId": "RutkqDcQZL0",
+        "title": "Comment utiliser Hermes GRATUITEMENT à VIE (OpenRouter)",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-07-22",
+        "url": "https://www.youtube.com/watch?v=RutkqDcQZL0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE (OpenRouter)..."
+    },
     {
         "id": "QM_UiJ1zD9Y",
         "videoId": "QM_UiJ1zD9Y",
@@ -519,17 +596,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pNHnjGhCMW4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes..."
-    },
-    {
-        "id": "k3SxB099nlo",
-        "videoId": "k3SxB099nlo",
-        "title": "Quasi personne ne donne du contexte à Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-09",
-        "url": "https://www.youtube.com/watch?v=k3SxB099nlo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quasi personne ne donne du contexte à Claude !..."
     },
     {
         "id": "5dF9rDlMGhE",
