@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-23T08:22:42.263Z
+// Fichier généré automatiquement le 2026-07-24T08:18:40.725Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:22:42 AM 7/23/2026";
+export const lastUpdate = "8:18:40 AM 7/24/2026";
 
 export const sources = [
     {
@@ -169,6 +169,39 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Arrêtez de créer des Agents IA, créez des Loops !..."
     },
     {
+        "id": "wU2tLE1P_1w",
+        "videoId": "wU2tLE1P_1w",
+        "title": "Qwen 3.8 Max : Alibaba vient-il de rattraper Claude ? (+ Test)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=wU2tLE1P_1w",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.8 Max : Alibaba vient-il de rattraper Claude ? (+ Test)..."
+    },
+    {
+        "id": "AaOvuXmq18g",
+        "videoId": "AaOvuXmq18g",
+        "title": "Fable 5 vs Kimi K3 : la Chine vient de gagner (COMPARATIF)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=AaOvuXmq18g",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Fable 5 vs Kimi K3 : la Chine vient de gagner (COMPARATIF)..."
+    },
+    {
+        "id": "l1zVp3wOBSg",
+        "videoId": "l1zVp3wOBSg",
+        "title": "Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=l1zVp3wOBSg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks..."
+    },
+    {
         "id": "LGiaRxIsnzk",
         "videoId": "LGiaRxIsnzk",
         "title": "Il a fait son site SEUL avec CLAUDE CODE en 2 jours",
@@ -215,24 +248,24 @@ export const allVideos = [
     {
         "id": "Hxx2lU2DlBM",
         "videoId": "Hxx2lU2DlBM",
-        "title": "Claude ment quand on modifie ce truc (actus I.A)",
+        "title": "Anthropic a trouvé la conscience de Claude",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-07-22",
         "url": "https://www.youtube.com/watch?v=Hxx2lU2DlBM",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Claude ment quand on modifie ce truc (actus I.A)..."
+        "summary": "Nouveauté de Eliott Meunier : Anthropic a trouvé la conscience de Claude..."
     },
     {
         "id": "RutkqDcQZL0",
         "videoId": "RutkqDcQZL0",
-        "title": "Comment utiliser Hermes GRATUITEMENT à VIE (OpenRouter)",
+        "title": "Comment utiliser Hermes GRATUITEMENT à VIE",
         "author": "Hugo Buisson",
         "source": "@Hugo_Buisson",
         "date": "2026-07-22",
         "url": "https://www.youtube.com/watch?v=RutkqDcQZL0",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE (OpenRouter)..."
+        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE..."
     },
     {
         "id": "QM_UiJ1zD9Y",
@@ -1017,17 +1050,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Les 2 seuls VRAIS BUSINESS IA à lancer en 2026..."
     },
     {
-        "id": "2ZGXYsul3Mw",
-        "videoId": "2ZGXYsul3Mw",
-        "title": "Claude + Emergent AI : J’ai Créé Une App Complète Sans Coder 🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=2ZGXYsul3Mw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude + Emergent AI : J’ai Créé Une App Complète Sans Coder 🔥..."
-    },
-    {
         "id": "x28dzEx1x6Q",
         "videoId": "x28dzEx1x6Q",
         "title": "J'ai cloné MON visage ET ma voix avec une IA 🤯 (résultat dingue)",
@@ -1765,16 +1787,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yS7zBSvI0Y8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours..."
-    },
-    {
-        "id": "y4AAFTlA6ak",
-        "videoId": "y4AAFTlA6ak",
-        "title": "Claude Skills : Tout le monde peut ENFIN automatiser !",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-05-24",
-        "url": "https://www.youtube.com/watch?v=y4AAFTlA6ak",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Claude Skills : Tout le monde peut ENFIN automatiser !..."
     }
 ];
