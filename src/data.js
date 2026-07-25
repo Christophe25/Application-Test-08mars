@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-24T08:18:40.725Z
+// Fichier généré automatiquement le 2026-07-25T07:59:33.549Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:18:40 AM 7/24/2026";
+export const lastUpdate = "7:59:33 AM 7/25/2026";
 
 export const sources = [
     {
@@ -157,6 +157,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "8FRjVCt4578",
+        "videoId": "8FRjVCt4578",
+        "title": "Nouveaux modèles I.A moins chers #actus",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=8FRjVCt4578",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Nouveaux modèles I.A moins chers #actus..."
+    },
+    {
+        "id": "ewxuLZH9-D0",
+        "videoId": "ewxuLZH9-D0",
+        "title": "Tu peux faire travailler 3 IA en même temps sur un même projet !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-24",
+        "url": "https://www.youtube.com/watch?v=ewxuLZH9-D0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux faire travailler 3 IA en même temps sur un même projet !..."
+    },
+    {
+        "id": "DwrkfFPyL4s",
+        "videoId": "DwrkfFPyL4s",
+        "title": "Une équipe SEO complète sur Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-24",
+        "url": "https://www.youtube.com/watch?v=DwrkfFPyL4s",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Une équipe SEO complète sur Claude !..."
+    },
+    {
+        "id": "lIT1wDCzYDo",
+        "videoId": "lIT1wDCzYDo",
+        "title": "La méthode la PLUS RAPIDE pour automatiser le Web avec Claude Code",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-24",
+        "url": "https://www.youtube.com/watch?v=lIT1wDCzYDo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La méthode la PLUS RAPIDE pour automatiser le Web avec Claude Code..."
+    },
+    {
+        "id": "z7FXjC5vuCY",
+        "videoId": "z7FXjC5vuCY",
+        "title": "Qwen 3.8 Max détrône Claude ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-24",
+        "url": "https://www.youtube.com/watch?v=z7FXjC5vuCY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.8 Max détrône Claude ?..."
+    },
+    {
+        "id": "ZLw7kIgNcQE",
+        "videoId": "ZLw7kIgNcQE",
+        "title": "100 jours avec Hermes Agent résumé en 16 minutes",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-07-24",
+        "url": "https://www.youtube.com/watch?v=ZLw7kIgNcQE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : 100 jours avec Hermes Agent résumé en 16 minutes..."
+    },
     {
         "id": "JIFgklJGj2w",
         "videoId": "JIFgklJGj2w",
@@ -523,24 +589,13 @@ export const allVideos = [
     {
         "id": "HNouDXt5jKQ",
         "videoId": "HNouDXt5jKQ",
-        "title": "Claude IA fait des slides à ta place (Guide complet)",
+        "title": "Créer des PRÉSENTATIONS avec CLAUDE (de A à Z)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-07-13",
         "url": "https://www.youtube.com/watch?v=HNouDXt5jKQ",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude IA fait des slides à ta place (Guide complet)..."
-    },
-    {
-        "id": "41RqzbMfXSo",
-        "videoId": "41RqzbMfXSo",
-        "title": "Quelqu'un vient de construire un repo qui fait ce que ElevenLabs et Whisprflow font",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=41RqzbMfXSo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire un repo qui fait ce que ElevenLabs et Whisprflow font..."
+        "summary": "Nouveauté de Henri · ExplorIA : Créer des PRÉSENTATIONS avec CLAUDE (de A à Z)..."
     },
     {
         "id": "C9oGaD_L29M",
@@ -618,17 +673,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=h40pzj2qn94",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) 🔥..."
-    },
-    {
-        "id": "pNHnjGhCMW4",
-        "videoId": "pNHnjGhCMW4",
-        "title": "Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-10",
-        "url": "https://www.youtube.com/watch?v=pNHnjGhCMW4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes..."
     },
     {
         "id": "5dF9rDlMGhE",
@@ -951,17 +995,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : DSpark : DeepSeek vient encore d'accélérer (sans nouveau modèle)..."
     },
     {
-        "id": "A1JMuEj-KY4",
-        "videoId": "A1JMuEj-KY4",
-        "title": "Le NOUVEAU langage des IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=A1JMuEj-KY4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Le NOUVEAU langage des IA..."
-    },
-    {
         "id": "ukf9DBoyas8",
         "videoId": "ukf9DBoyas8",
         "title": "L'étape que tout le monde saute avant de choisir son IA",
@@ -1026,17 +1059,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=s3DthPRppsc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : L'agentique IA, le nouveau dropshipping..."
-    },
-    {
-        "id": "VzNbgoRUxdk",
-        "videoId": "VzNbgoRUxdk",
-        "title": "On a trouvé un meilleur langage pour les IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-26",
-        "url": "https://www.youtube.com/watch?v=VzNbgoRUxdk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : On a trouvé un meilleur langage pour les IA..."
     },
     {
         "id": "WyA985f8kqg",
@@ -1776,16 +1798,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9ySW-tzoDpU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Réponses IA : comment passer de ça... à ÇA !..."
-    },
-    {
-        "id": "yS7zBSvI0Y8",
-        "videoId": "yS7zBSvI0Y8",
-        "title": "Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-05-25",
-        "url": "https://www.youtube.com/watch?v=yS7zBSvI0Y8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours..."
     }
 ];
