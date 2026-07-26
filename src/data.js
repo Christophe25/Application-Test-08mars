@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-25T07:59:33.549Z
+// Fichier généré automatiquement le 2026-07-26T08:19:44.580Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:59:33 AM 7/25/2026";
+export const lastUpdate = "8:19:44 AM 7/26/2026";
 
 export const sources = [
     {
@@ -158,6 +158,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "ebF97lL4BvA",
+        "videoId": "ebF97lL4BvA",
+        "title": "Et si on éteignait le J-Space ? #actus",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=ebF97lL4BvA",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Et si on éteignait le J-Space ? #actus..."
+    },
+    {
+        "id": "dqGe3j8o-UM",
+        "videoId": "dqGe3j8o-UM",
+        "title": "Claude Code + Higgsfield créent vos pubs à votre place ! (marque, produits, UGC)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=dqGe3j8o-UM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Code + Higgsfield créent vos pubs à votre place ! (marque, produits, UGC)..."
+    },
+    {
+        "id": "n66uoj5soe0",
+        "videoId": "n66uoj5soe0",
+        "title": "5 Skills Claude indispensable pour les Webdesigners !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=n66uoj5soe0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 Skills Claude indispensable pour les Webdesigners !..."
+    },
+    {
+        "id": "9GZRirfTLsk",
+        "videoId": "9GZRirfTLsk",
+        "title": "24 liens utiles pour Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=9GZRirfTLsk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 24 liens utiles pour Claude !..."
+    },
+    {
         "id": "8FRjVCt4578",
         "videoId": "8FRjVCt4578",
         "title": "Nouveaux modèles I.A moins chers #actus",
@@ -167,6 +211,39 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8FRjVCt4578",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Nouveaux modèles I.A moins chers #actus..."
+    },
+    {
+        "id": "FIpgh1PCM14",
+        "videoId": "FIpgh1PCM14",
+        "title": "Pourquoi Kimi K3 inquiète autant les États-Unis",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=FIpgh1PCM14",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi Kimi K3 inquiète autant les États-Unis..."
+    },
+    {
+        "id": "N3U8rEmJa40",
+        "videoId": "N3U8rEmJa40",
+        "title": "Claude Opus 5 : est-ce la meilleure IA du moment ? (OUI)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=N3U8rEmJa40",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Opus 5 : est-ce la meilleure IA du moment ? (OUI)..."
+    },
+    {
+        "id": "r6jn9iJJCfo",
+        "videoId": "r6jn9iJJCfo",
+        "title": "Opus 5 vient de tuer Fable (Vraiment)",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=r6jn9iJJCfo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : Opus 5 vient de tuer Fable (Vraiment)..."
     },
     {
         "id": "ewxuLZH9-D0",
@@ -576,28 +653,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Claude Science est disponible !..."
     },
     {
-        "id": "1slv_r8DvXc",
-        "videoId": "1slv_r8DvXc",
-        "title": "Les entreprises paient entre 3 000 et 10 000 € pour installer des systèmes IA simples",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-14",
-        "url": "https://www.youtube.com/watch?v=1slv_r8DvXc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Les entreprises paient entre 3 000 et 10 000 € pour installer des systèmes IA simples..."
-    },
-    {
-        "id": "HNouDXt5jKQ",
-        "videoId": "HNouDXt5jKQ",
-        "title": "Créer des PRÉSENTATIONS avec CLAUDE (de A à Z)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=HNouDXt5jKQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Créer des PRÉSENTATIONS avec CLAUDE (de A à Z)..."
-    },
-    {
         "id": "C9oGaD_L29M",
         "videoId": "C9oGaD_L29M",
         "title": "J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)",
@@ -982,17 +1037,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ffwftm89rQg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens...."
-    },
-    {
-        "id": "fkFQHMCjbJw",
-        "videoId": "fkFQHMCjbJw",
-        "title": "DSpark : DeepSeek vient encore d'accélérer (sans nouveau modèle)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=fkFQHMCjbJw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DSpark : DeepSeek vient encore d'accélérer (sans nouveau modèle)..."
     },
     {
         "id": "ukf9DBoyas8",
