@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-26T08:19:44.580Z
+// Fichier généré automatiquement le 2026-07-27T09:41:01.444Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:19:44 AM 7/26/2026";
+export const lastUpdate = "9:41:01 AM 7/27/2026";
 
 export const sources = [
     {
@@ -157,6 +157,61 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "PAQqbPTxNwI",
+        "videoId": "PAQqbPTxNwI",
+        "title": "Comment tromper l’IA ? #actus",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-27",
+        "url": "https://www.youtube.com/watch?v=PAQqbPTxNwI",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Comment tromper l’IA ? #actus..."
+    },
+    {
+        "id": "de8Dp2EWo0g",
+        "videoId": "de8Dp2EWo0g",
+        "title": "J'ai analysé 85 Agences IA, voici ce qui marche en 2026",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=de8Dp2EWo0g",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : J'ai analysé 85 Agences IA, voici ce qui marche en 2026..."
+    },
+    {
+        "id": "yjRg0pCKdDg",
+        "videoId": "yjRg0pCKdDg",
+        "title": "Maîtriser l'IA ne suffit PLUS en 2026 (sauf si tu fais ça)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=yjRg0pCKdDg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Maîtriser l'IA ne suffit PLUS en 2026 (sauf si tu fais ça)..."
+    },
+    {
+        "id": "4Ekyc9YmF8g",
+        "videoId": "4Ekyc9YmF8g",
+        "title": "Tu peux transformer n'importe quel expert en coach personnel avec Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=4Ekyc9YmF8g",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux transformer n'importe quel expert en coach personnel avec Claude !..."
+    },
+    {
+        "id": "-udr0bDZNFg",
+        "videoId": "-udr0bDZNFg",
+        "title": "Voici comment configurer Claude en 5 étapes !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=-udr0bDZNFg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Voici comment configurer Claude en 5 étapes !..."
+    },
     {
         "id": "ebF97lL4BvA",
         "videoId": "ebF97lL4BvA",
@@ -609,28 +664,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : NotebookLM : le RAG nouveau GRATUIT (OPENSOURCE) 🧠..."
     },
     {
-        "id": "vEWDIM24VkE",
-        "videoId": "vEWDIM24VkE",
-        "title": "La Chine vient de sortir une version gratuite de leur modèle le plus puissant",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-15",
-        "url": "https://www.youtube.com/watch?v=vEWDIM24VkE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La Chine vient de sortir une version gratuite de leur modèle le plus puissant..."
-    },
-    {
-        "id": "wtF0pxFYfcY",
-        "videoId": "wtF0pxFYfcY",
-        "title": "Claude peut analyser si ton salaire est dans la norme du marché !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-15",
-        "url": "https://www.youtube.com/watch?v=wtF0pxFYfcY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude peut analyser si ton salaire est dans la norme du marché !..."
-    },
-    {
         "id": "-Fc0B2fVY6U",
         "videoId": "-Fc0B2fVY6U",
         "title": "Bloome : J’ai testé une vraie équipe d’agents IA 🤖🔥",
@@ -640,17 +673,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-Fc0B2fVY6U",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Bloome : J’ai testé une vraie équipe d’agents IA 🤖🔥..."
-    },
-    {
-        "id": "mFYhqEDYeEQ",
-        "videoId": "mFYhqEDYeEQ",
-        "title": "Claude Science est disponible !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-14",
-        "url": "https://www.youtube.com/watch?v=mFYhqEDYeEQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude Science est disponible !..."
     },
     {
         "id": "C9oGaD_L29M",
@@ -1809,38 +1831,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZSoi6C6jOEA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖..."
-    },
-    {
-        "id": "gXm3Go03l_s",
-        "videoId": "gXm3Go03l_s",
-        "title": "J'ai codé une IA qui fait mes miniatures (c'est dingue)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=gXm3Go03l_s",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : J'ai codé une IA qui fait mes miniatures (c'est dingue)..."
-    },
-    {
-        "id": "MjCJIJ4PuSw",
-        "videoId": "MjCJIJ4PuSw",
-        "title": "J'ai étudié les LLM pendant 6 mois (et j'ai enfin compris comment ChatGPT fonctionne)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai étudié les LLM pendant 6 mois (et j'ai enfin compris comment ChatGPT fonctionne)..."
-    },
-    {
-        "id": "9ySW-tzoDpU",
-        "videoId": "9ySW-tzoDpU",
-        "title": "Réponses IA : comment passer de ça... à ÇA !",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=9ySW-tzoDpU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Réponses IA : comment passer de ça... à ÇA !..."
     }
 ];
