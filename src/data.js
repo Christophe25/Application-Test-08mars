@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-27T09:41:01.444Z
+// Fichier généré automatiquement le 2026-07-28T08:25:50.027Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:41:01 AM 7/27/2026";
+export const lastUpdate = "8:25:50 AM 7/28/2026";
 
 export const sources = [
     {
@@ -158,6 +158,39 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "5jRTBksdCQ0",
+        "videoId": "5jRTBksdCQ0",
+        "title": "J'ai accompagné 70 entreprises avec ExplorIA. Si je repartais de zéro demain, voici mon plan !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-27",
+        "url": "https://www.youtube.com/watch?v=5jRTBksdCQ0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai accompagné 70 entreprises avec ExplorIA. Si je repartais de zéro demain, voici mon plan !..."
+    },
+    {
+        "id": "IN_knFr6tQ4",
+        "videoId": "IN_knFr6tQ4",
+        "title": "95% des Business Ne Connaissent PAS Les Bases de l’IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-07-27",
+        "url": "https://www.youtube.com/watch?v=IN_knFr6tQ4",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : 95% des Business Ne Connaissent PAS Les Bases de l’IA..."
+    },
+    {
+        "id": "PdkNHqDHAkE",
+        "videoId": "PdkNHqDHAkE",
+        "title": "Le comportement IA que personne n'avait prédit (actus IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-27",
+        "url": "https://www.youtube.com/watch?v=PdkNHqDHAkE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le comportement IA que personne n'avait prédit (actus IA)..."
+    },
+    {
         "id": "PAQqbPTxNwI",
         "videoId": "PAQqbPTxNwI",
         "title": "Comment tromper l’IA ? #actus",
@@ -167,6 +200,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PAQqbPTxNwI",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Comment tromper l’IA ? #actus..."
+    },
+    {
+        "id": "flQLseCGsHU",
+        "videoId": "flQLseCGsHU",
+        "title": "Ce skill Claude va rendre ton IA humaine 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-07-27",
+        "url": "https://www.youtube.com/watch?v=flQLseCGsHU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Ce skill Claude va rendre ton IA humaine 👀..."
+    },
+    {
+        "id": "pk-_1sanvCw",
+        "videoId": "pk-_1sanvCw",
+        "title": "Claude crée maintenant tes propres outils IA (grâce aux artifacts)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-07-27",
+        "url": "https://www.youtube.com/watch?v=pk-_1sanvCw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Claude crée maintenant tes propres outils IA (grâce aux artifacts)..."
     },
     {
         "id": "de8Dp2EWo0g",
@@ -618,17 +673,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=bikD-n7cBgE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'IA qui ne lit pas vos conversations (et qui performe)..."
-    },
-    {
-        "id": "aRqKtZOT6c8",
-        "videoId": "aRqKtZOT6c8",
-        "title": "30 skills Claude Code qui fonctionnent ensemble pour construire une marque solide.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-17",
-        "url": "https://www.youtube.com/watch?v=aRqKtZOT6c8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 30 skills Claude Code qui fonctionnent ensemble pour construire une marque solide...."
     },
     {
         "id": "SJL830ZQytw",
@@ -1798,38 +1842,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=z5mGCGeMaDY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : on vient de franchir un cap (un GROS !)..."
-    },
-    {
-        "id": "fmv0UlVZ19E",
-        "videoId": "fmv0UlVZ19E",
-        "title": "Si tu utilises Excel, fait ça avec ChatGPT et TOUT va changer !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Si tu utilises Excel, fait ça avec ChatGPT et TOUT va changer !..."
-    },
-    {
-        "id": "mv5Sb75QLgc",
-        "videoId": "mv5Sb75QLgc",
-        "title": "Comment Claude Génère mes Propales à +10k€ en 10 minutes (Guide Complet)",
-        "author": "Lucas Reverdy",
-        "source": "@reverdybusiness",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=mv5Sb75QLgc",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Lucas Reverdy : Comment Claude Génère mes Propales à +10k€ en 10 minutes (Guide Complet)..."
-    },
-    {
-        "id": "ZSoi6C6jOEA",
-        "videoId": "ZSoi6C6jOEA",
-        "title": "Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=ZSoi6C6jOEA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖..."
     }
 ];
