@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-28T08:25:50.027Z
+// Fichier généré automatiquement le 2026-07-29T08:31:42.223Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:25:50 AM 7/28/2026";
+export const lastUpdate = "8:31:42 AM 7/29/2026";
 
 export const sources = [
     {
@@ -157,6 +157,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "iAZaRwS19k8",
+        "videoId": "iAZaRwS19k8",
+        "title": "Tu peux connecter Claude à LinkedIn et lui demander de chercher des jobs pour toi",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-28",
+        "url": "https://www.youtube.com/watch?v=iAZaRwS19k8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à LinkedIn et lui demander de chercher des jobs pour toi..."
+    },
+    {
+        "id": "y9gbe9lnlHs",
+        "videoId": "y9gbe9lnlHs",
+        "title": "L’IA peut-elle réfléchir seule ? #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-28",
+        "url": "https://www.youtube.com/watch?v=y9gbe9lnlHs",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’IA peut-elle réfléchir seule ? #actu..."
+    },
+    {
+        "id": "-QWqZvcmNoY",
+        "videoId": "-QWqZvcmNoY",
+        "title": "Crée tes propres skills claude en t'enregistrant! 🎬",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-07-28",
+        "url": "https://www.youtube.com/watch?v=-QWqZvcmNoY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Crée tes propres skills claude en t'enregistrant! 🎬..."
+    },
     {
         "id": "5jRTBksdCQ0",
         "videoId": "5jRTBksdCQ0",
@@ -589,13 +622,13 @@ export const allVideos = [
     {
         "id": "IziMU2lXstI",
         "videoId": "IziMU2lXstI",
-        "title": "J'ai testé 27 extensions NotebookLM, voici les 5 indispensables",
+        "title": "NotebookLM : enfin une gestion par dossiers et des exports Anki !",
         "author": "Ludovic Nédélec",
         "source": "@LudovicNedelec",
         "date": "2026-07-20",
         "url": "https://www.youtube.com/watch?v=IziMU2lXstI",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : J'ai testé 27 extensions NotebookLM, voici les 5 indispensables..."
+        "summary": "Nouveauté de Ludovic Nédélec : NotebookLM : enfin une gestion par dossiers et des exports Anki !..."
     },
     {
         "id": "3q1slkjnJNE",
@@ -651,17 +684,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lFgDdPY2sjU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Humanise les réponses que te donne Claude et passe tous les détecteurs d’IA..."
-    },
-    {
-        "id": "XLrO1r2eIac",
-        "videoId": "XLrO1r2eIac",
-        "title": "Trois repos IA explosent sur GitHub aujourd'hui",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-18",
-        "url": "https://www.youtube.com/watch?v=XLrO1r2eIac",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Trois repos IA explosent sur GitHub aujourd'hui..."
     },
     {
         "id": "bikD-n7cBgE",
@@ -1831,16 +1853,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tmXpiLrw3zA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
-    },
-    {
-        "id": "z5mGCGeMaDY",
-        "videoId": "z5mGCGeMaDY",
-        "title": "Actus IA : on vient de franchir un cap (un GROS !)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=z5mGCGeMaDY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Actus IA : on vient de franchir un cap (un GROS !)..."
     }
 ];
