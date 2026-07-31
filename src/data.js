@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-30T08:16:44.107Z
+// Fichier généré automatiquement le 2026-07-31T08:42:16.547Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:16:44 AM 7/30/2026";
+export const lastUpdate = "8:42:16 AM 7/31/2026";
 
 export const sources = [
     {
@@ -158,6 +158,39 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "yXKfobGocMA",
+        "videoId": "yXKfobGocMA",
+        "title": "ChatGPT vient de sortir trois nouveaux modèles !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=yXKfobGocMA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT vient de sortir trois nouveaux modèles !..."
+    },
+    {
+        "id": "XSnWOs3-4Zw",
+        "videoId": "XSnWOs3-4Zw",
+        "title": "DeepMind repense la computer vision (GenCeption)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=XSnWOs3-4Zw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : DeepMind repense la computer vision (GenCeption)..."
+    },
+    {
+        "id": "NvE2yPI77KA",
+        "videoId": "NvE2yPI77KA",
+        "title": "Comment vendre de l'ia en 2026 🔥(TUTO COMPLET)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=NvE2yPI77KA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Comment vendre de l'ia en 2026 🔥(TUTO COMPLET)..."
+    },
+    {
         "id": "_-oxY6Q8BBs",
         "videoId": "_-oxY6Q8BBs",
         "title": "L'outil IA n°1 sur Github vient de RÉSOUDRE le problème de recherche sur Claude",
@@ -248,13 +281,13 @@ export const allVideos = [
     {
         "id": "IN_knFr6tQ4",
         "videoId": "IN_knFr6tQ4",
-        "title": "95% des Business Ne Connaissent PAS Les Bases de l’IA",
+        "title": "Comment maîtriser l'IA mieux que 95% des business (5 secrets)",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-07-27",
         "url": "https://www.youtube.com/watch?v=IN_knFr6tQ4",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 95% des Business Ne Connaissent PAS Les Bases de l’IA..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment maîtriser l'IA mieux que 95% des business (5 secrets)..."
     },
     {
         "id": "PdkNHqDHAkE",
@@ -684,17 +717,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3q1slkjnJNE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment je mène un Audit IA chez un client à 5M€ (extraits réels)..."
-    },
-    {
-        "id": "yJgfMhRir0k",
-        "videoId": "yJgfMhRir0k",
-        "title": "10 certifications gratuites Claude et ChatGPT que chaque étudiant devrait avoir sur son CV.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-19",
-        "url": "https://www.youtube.com/watch?v=yJgfMhRir0k",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 10 certifications gratuites Claude et ChatGPT que chaque étudiant devrait avoir sur son CV...."
     },
     {
         "id": "ocFNQTfj49U",
@@ -1820,27 +1842,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AvwQEp6h1nU",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : J'ai découvert 5 façons d'utiliser NotebookLM que personne ne vous montre..."
-    },
-    {
-        "id": "O3WljjqqkfI",
-        "videoId": "O3WljjqqkfI",
-        "title": "L'IA a-t-elle tué tous les business en ligne en 2026 ?",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=O3WljjqqkfI",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : L'IA a-t-elle tué tous les business en ligne en 2026 ?..."
-    },
-    {
-        "id": "fOQCeQx22HI",
-        "videoId": "fOQCeQx22HI",
-        "title": "J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde.",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=fOQCeQx22HI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde...."
     }
 ];
