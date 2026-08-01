@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-31T08:42:16.547Z
+// Fichier généré automatiquement le 2026-08-01T08:12:41.437Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:42:16 AM 7/31/2026";
+export const lastUpdate = "8:12:41 AM 8/1/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "mxIdegyOtsM",
+        "videoId": "mxIdegyOtsM",
+        "title": "Il existe un repo GitHub avec des tonnes de datasets publics gratuits !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-31",
+        "url": "https://www.youtube.com/watch?v=mxIdegyOtsM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Il existe un repo GitHub avec des tonnes de datasets publics gratuits !..."
+    },
+    {
+        "id": "O2hy9dhV12c",
+        "videoId": "O2hy9dhV12c",
+        "title": "Kimi K3 : Le modèle chinois qui rattrape Claude Fable",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-31",
+        "url": "https://www.youtube.com/watch?v=O2hy9dhV12c",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Kimi K3 : Le modèle chinois qui rattrape Claude Fable..."
+    },
     {
         "id": "yXKfobGocMA",
         "videoId": "yXKfobGocMA",
@@ -673,17 +695,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F9YcVlyZahk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi..."
-    },
-    {
-        "id": "J5PzYNf8Xic",
-        "videoId": "J5PzYNf8Xic",
-        "title": "Maintenant tu peux avoir des visuels insanes sur ton site !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-20",
-        "url": "https://www.youtube.com/watch?v=J5PzYNf8Xic",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Maintenant tu peux avoir des visuels insanes sur ton site !..."
     },
     {
         "id": "nMBWomG1koQ",
@@ -1723,17 +1734,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
     },
     {
-        "id": "97-oN2YrXVc",
-        "videoId": "97-oN2YrXVc",
-        "title": "DeepSeek V4 : le modele qui humilie les IA américaines",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=97-oN2YrXVc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : DeepSeek V4 : le modele qui humilie les IA américaines..."
-    },
-    {
         "id": "s_ShtMRFYOs",
         "videoId": "s_ShtMRFYOs",
         "title": "Actus IA : les Agents IA débarquent de PARTOUT !",
@@ -1809,38 +1809,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lrDOv-cEllQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo...."
-    },
-    {
-        "id": "1eOQtGqgeyU",
-        "videoId": "1eOQtGqgeyU",
-        "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment J’apprendrais l’IA en 2026 (si je devais recommencer)..."
-    },
-    {
-        "id": "zQHOgFqCsUE",
-        "videoId": "zQHOgFqCsUE",
-        "title": "J'ai Cloné mon Visage, mon Corps, ma Voix avec CLAUDE, je ne filme plus !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=zQHOgFqCsUE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : J'ai Cloné mon Visage, mon Corps, ma Voix avec CLAUDE, je ne filme plus !..."
-    },
-    {
-        "id": "AvwQEp6h1nU",
-        "videoId": "AvwQEp6h1nU",
-        "title": "J'ai découvert 5 façons d'utiliser NotebookLM que personne ne vous montre",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=AvwQEp6h1nU",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : J'ai découvert 5 façons d'utiliser NotebookLM que personne ne vous montre..."
     }
 ];
