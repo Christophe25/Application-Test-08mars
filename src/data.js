@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-01T08:12:41.437Z
+// Fichier généré automatiquement le 2026-08-02T08:14:06.172Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:12:41 AM 8/1/2026";
+export const lastUpdate = "8:14:06 AM 8/2/2026";
 
 export const sources = [
     {
@@ -157,6 +157,28 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "JYCqijtVaMs",
+        "videoId": "JYCqijtVaMs",
+        "title": "Augmente tes chances d’être embauchés avec Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-01",
+        "url": "https://www.youtube.com/watch?v=JYCqijtVaMs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Augmente tes chances d’être embauchés avec Claude !..."
+    },
+    {
+        "id": "VebN7qEj99I",
+        "videoId": "VebN7qEj99I",
+        "title": "L’IA échappe à OpenAI #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-01",
+        "url": "https://www.youtube.com/watch?v=VebN7qEj99I",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’IA échappe à OpenAI #actu..."
+    },
     {
         "id": "mxIdegyOtsM",
         "videoId": "mxIdegyOtsM",
@@ -662,17 +684,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QM_UiJ1zD9Y",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Voici le calendrier de 14 jours pour apprendre Claude !..."
-    },
-    {
-        "id": "Tg8EjgsFB0g",
-        "videoId": "Tg8EjgsFB0g",
-        "title": "Anthropic lance Claude Corps !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-21",
-        "url": "https://www.youtube.com/watch?v=Tg8EjgsFB0g",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Anthropic lance Claude Corps !..."
     },
     {
         "id": "eEMdqWsYu8g",
@@ -1569,17 +1580,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)..."
     },
     {
-        "id": "5WiuP81OVJo",
-        "videoId": "5WiuP81OVJo",
-        "title": "On compare nos seconds cerveau IA (voici ce qui marche vraiment)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=5WiuP81OVJo",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : On compare nos seconds cerveau IA (voici ce qui marche vraiment)..."
-    },
-    {
         "id": "myVZ3Vb3YkU",
         "videoId": "myVZ3Vb3YkU",
         "title": "HISTORIQUE ! (l’affaire Claude Fable 5)",
@@ -1787,27 +1787,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=z3oXZtuJNok",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)..."
-    },
-    {
-        "id": "GYZMfDdcTVw",
-        "videoId": "GYZMfDdcTVw",
-        "title": "Générer +1000 leads par mois gratuitement (Google Maps + n8n)",
-        "author": "Ousmane Automatise",
-        "source": "@ousmanedf",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=GYZMfDdcTVw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ousmane Automatise : Générer +1000 leads par mois gratuitement (Google Maps + n8n)..."
-    },
-    {
-        "id": "lrDOv-cEllQ",
-        "videoId": "lrDOv-cEllQ",
-        "title": "Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo.",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=lrDOv-cEllQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo...."
     }
 ];
