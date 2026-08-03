@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-02T08:14:06.172Z
+// Fichier généré automatiquement le 2026-08-03T09:34:17.733Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:14:06 AM 8/2/2026";
+export const lastUpdate = "9:34:17 AM 8/3/2026";
 
 export const sources = [
     {
@@ -157,6 +157,73 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "gBY3xIaDquY",
+        "videoId": "gBY3xIaDquY",
+        "title": "J'ai dépensé 50.000€ en moins d'1 an dans des formations (voici ce que j'ai appris)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=gBY3xIaDquY",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : J'ai dépensé 50.000€ en moins d'1 an dans des formations (voici ce que j'ai appris)..."
+    },
+    {
+        "id": "Vv1eXHqOZlI",
+        "videoId": "Vv1eXHqOZlI",
+        "title": "Comment Devenir Freelance IA en 2026 (en partant de zéro)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=Vv1eXHqOZlI",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Freelance IA en 2026 (en partant de zéro)..."
+    },
+    {
+        "id": "LUmGwmu5lIY",
+        "videoId": "LUmGwmu5lIY",
+        "title": "Open AI cherche à faire du bruit #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=LUmGwmu5lIY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Open AI cherche à faire du bruit #actu..."
+    },
+    {
+        "id": "UJIe9dWqlyY",
+        "videoId": "UJIe9dWqlyY",
+        "title": "Pourquoi Kimi K3 inquiète autant les États-Unis ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=UJIe9dWqlyY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi Kimi K3 inquiète autant les États-Unis ?..."
+    },
+    {
+        "id": "PTVuQPeyHaE",
+        "videoId": "PTVuQPeyHaE",
+        "title": "Créez des sites web Apple-like en 10 min avec IA! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=PTVuQPeyHaE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez des sites web Apple-like en 10 min avec IA! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "qCUsWKK_KbU",
+        "videoId": "qCUsWKK_KbU",
+        "title": "3 ans d'IA en 2h : TOUT rattraper du début de CHATGPT à aujourd'hui !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=qCUsWKK_KbU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 3 ans d'IA en 2h : TOUT rattraper du début de CHATGPT à aujourd'hui !..."
+    },
     {
         "id": "JYCqijtVaMs",
         "videoId": "JYCqijtVaMs",
@@ -1182,17 +1249,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : La seule chose que l'IA ne peut pas copier..."
     },
     {
-        "id": "x-Pd8VtGkFw",
-        "videoId": "x-Pd8VtGkFw",
-        "title": "Claude Sonnet 5 : Anthropic casse le prix des agents IA 🔥 (+ Test)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-07-01",
-        "url": "https://www.youtube.com/watch?v=x-Pd8VtGkFw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Sonnet 5 : Anthropic casse le prix des agents IA 🔥 (+ Test)..."
-    },
-    {
         "id": "ffwftm89rQg",
         "videoId": "ffwftm89rQg",
         "title": "Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens.",
@@ -1315,29 +1371,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "Q4_UBUZbU5U",
-        "videoId": "Q4_UBUZbU5U",
-        "title": "J'ai arrêté ChatGPT : voici le système que j'utilise pour gérer mon business",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=Q4_UBUZbU5U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai arrêté ChatGPT : voici le système que j'utilise pour gérer mon business..."
-    },
-    {
-        "id": "xlZLpOU4gsw",
-        "videoId": "xlZLpOU4gsw",
-        "title": "Claude AI : Annulez vos erreurs passées en un clic ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=xlZLpOU4gsw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude AI : Annulez vos erreurs passées en un clic ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "nHXND_R4Jy8",
         "videoId": "nHXND_R4Jy8",
         "title": "Claude IA : le tutoriel facile pour débutant",
@@ -1402,17 +1435,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fQnMVt-rOHw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé une Appli complète en 2h sans coder avec CLAUDE (Tuto MCP) !..."
-    },
-    {
-        "id": "DAFrLYL2Omo",
-        "videoId": "DAFrLYL2Omo",
-        "title": "Comment prospecter avec l'IA ? (Masterclass complète)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-06-20",
-        "url": "https://www.youtube.com/watch?v=DAFrLYL2Omo",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Comment prospecter avec l'IA ? (Masterclass complète)..."
     },
     {
         "id": "p7GA6aXWASI",
@@ -1776,16 +1798,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=1ccrMaPQYhs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯..."
-    },
-    {
-        "id": "z3oXZtuJNok",
-        "videoId": "z3oXZtuJNok",
-        "title": "Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-06-03",
-        "url": "https://www.youtube.com/watch?v=z3oXZtuJNok",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)..."
     }
 ];
