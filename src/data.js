@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-05T08:27:55.431Z
+// Fichier généré automatiquement le 2026-08-06T08:26:38.151Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:27:55 AM 8/5/2026";
+export const lastUpdate = "8:26:38 AM 8/6/2026";
 
 export const sources = [
     {
@@ -158,6 +158,107 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "xAlXes0E34k",
+        "videoId": "xAlXes0E34k",
+        "title": "Claude Design vient de sortir le Motion Design par IA",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=xAlXes0E34k",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Claude Design vient de sortir le Motion Design par IA..."
+    },
+    {
+        "id": "iWoTS-c6Fbg",
+        "videoId": "iWoTS-c6Fbg",
+        "title": "Créer ton Agent IA simplement ! (Sans coder)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=iWoTS-c6Fbg",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Créer ton Agent IA simplement ! (Sans coder)..."
+    },
+    {
+        "id": "jLuWKwf6-O4",
+        "videoId": "jLuWKwf6-O4",
+        "title": "Scaler les LLM avec Loopie #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=jLuWKwf6-O4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Scaler les LLM avec Loopie #actu..."
+    },
+    {
+        "id": "XMwq41AH2X4",
+        "videoId": "XMwq41AH2X4",
+        "title": "DeepSeek vient d’humilier ChatGPT et Claude (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=XMwq41AH2X4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : DeepSeek vient d’humilier ChatGPT et Claude (actu IA)..."
+    },
+    {
+        "id": "im6rjBitL9M",
+        "videoId": "im6rjBitL9M",
+        "title": "Les 7 Hacks pour ne plus JAMAIS Atteindre la Limite de Claude",
+        "author": "Lucas Reverdy",
+        "source": "@reverdybusiness",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=im6rjBitL9M",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Lucas Reverdy : Les 7 Hacks pour ne plus JAMAIS Atteindre la Limite de Claude..."
+    },
+    {
+        "id": "aYHX0hwN8lA",
+        "videoId": "aYHX0hwN8lA",
+        "title": "DeepSeek vient de multiplier ses performances par 7",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=aYHX0hwN8lA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de multiplier ses performances par 7..."
+    },
+    {
+        "id": "SuAmNaDTL5I",
+        "videoId": "SuAmNaDTL5I",
+        "title": "Midjourney: L'IA qui a choqué le monde de l'art ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=SuAmNaDTL5I",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Midjourney: L'IA qui a choqué le monde de l'art ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "hsAK0PfCw30",
+        "videoId": "hsAK0PfCw30",
+        "title": "L'IA : Votre collaborateur qui agit VRAIMENT 24/7 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=hsAK0PfCw30",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : L'IA : Votre collaborateur qui agit VRAIMENT 24/7 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "rQuiE7S7Jzg",
+        "videoId": "rQuiE7S7Jzg",
+        "title": "Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=rQuiE7S7Jzg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !..."
+    },
+    {
         "id": "eWN535AMIzQ",
         "videoId": "eWN535AMIzQ",
         "title": "Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)",
@@ -307,13 +408,13 @@ export const allVideos = [
     {
         "id": "qCUsWKK_KbU",
         "videoId": "qCUsWKK_KbU",
-        "title": "3 ans d'IA en 2h : TOUT rattraper du début de CHATGPT à aujourd'hui !",
+        "title": "Tu ne seras plus jamais perdu en IA après cette vidéo (3 ans d'IA en 2h)",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-08-02",
         "url": "https://www.youtube.com/watch?v=qCUsWKK_KbU",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : 3 ans d'IA en 2h : TOUT rattraper du début de CHATGPT à aujourd'hui !..."
+        "summary": "Nouveauté de Thomas Berton : Tu ne seras plus jamais perdu en IA après cette vidéo (3 ans d'IA en 2h)..."
     },
     {
         "id": "JYCqijtVaMs",
@@ -811,17 +912,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Arrêtez les prompts. Passez aux Loops (Le futur des agents IA)..."
     },
     {
-        "id": "Hxx2lU2DlBM",
-        "videoId": "Hxx2lU2DlBM",
-        "title": "Anthropic a trouvé la conscience de Claude",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-22",
-        "url": "https://www.youtube.com/watch?v=Hxx2lU2DlBM",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Anthropic a trouvé la conscience de Claude..."
-    },
-    {
         "id": "RutkqDcQZL0",
         "videoId": "RutkqDcQZL0",
         "title": "Comment utiliser Hermes GRATUITEMENT à VIE",
@@ -919,17 +1009,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cBH0KT9SG_c",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)..."
-    },
-    {
-        "id": "bikD-n7cBgE",
-        "videoId": "bikD-n7cBgE",
-        "title": "L'IA qui ne lit pas vos conversations (et qui performe)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-18",
-        "url": "https://www.youtube.com/watch?v=bikD-n7cBgE",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'IA qui ne lit pas vos conversations (et qui performe)..."
     },
     {
         "id": "SJL830ZQytw",
@@ -1145,17 +1224,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "Oqa894jQEDc",
-        "videoId": "Oqa894jQEDc",
-        "title": "Deepseek accélère de 78% !",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=Oqa894jQEDc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Deepseek accélère de 78% !..."
-    },
-    {
         "id": "WgXEaSGgZOo",
         "videoId": "WgXEaSGgZOo",
         "title": "Pilotez votre IA depuis votre téléphone : Incroyable synchronisation ! #shorts",
@@ -1234,30 +1302,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uwU8YeA-Dos",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Automatisez vos appels : IA Claude & Google Calendar #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "7eSEL11lL_M",
-        "videoId": "7eSEL11lL_M",
-        "title": "Claude AI: Votre Wiki Personnel Automatique Révolutionnaire! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=7eSEL11lL_M",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude AI: Votre Wiki Personnel Automatique Révolutionnaire! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Dii44f2oigA",
-        "videoId": "Dii44f2oigA",
-        "title": "Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=Dii44f2oigA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts...",
         "isShort": true
     },
     {
