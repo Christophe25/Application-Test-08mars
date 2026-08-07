@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-06T08:26:38.151Z
+// Fichier généré automatiquement le 2026-08-07T07:06:56.437Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:26:38 AM 8/6/2026";
+export const lastUpdate = "7:06:56 AM 8/7/2026";
 
 export const sources = [
     {
@@ -158,6 +158,63 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "pGb25n3V9C4",
+        "videoId": "pGb25n3V9C4",
+        "title": "Google vient de sortir 15 outils IA gratuit !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=pGb25n3V9C4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Google vient de sortir 15 outils IA gratuit !..."
+    },
+    {
+        "id": "Sx7PxWz8p4g",
+        "videoId": "Sx7PxWz8p4g",
+        "title": "Mage-Flow : Générer des images en Open Source #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=Sx7PxWz8p4g",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Mage-Flow : Générer des images en Open Source #actu..."
+    },
+    {
+        "id": "WBJcNbwLSpI",
+        "videoId": "WBJcNbwLSpI",
+        "title": "Deepseek devient 7x plus puissant !",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=WBJcNbwLSpI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Deepseek devient 7x plus puissant !..."
+    },
+    {
+        "id": "v0_sYIH08EY",
+        "videoId": "v0_sYIH08EY",
+        "title": "ChatGPT se trompe ENCORE sur la Coupe du Monde ! Failles choquantes #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=v0_sYIH08EY",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : ChatGPT se trompe ENCORE sur la Coupe du Monde ! Failles choquantes #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "__NX4VE6HTA",
+        "videoId": "__NX4VE6HTA",
+        "title": "IA : Rattrape 3 Ans d'Innovation en Une Vidéo ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=__NX4VE6HTA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA : Rattrape 3 Ans d'Innovation en Une Vidéo ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "xAlXes0E34k",
         "videoId": "xAlXes0E34k",
         "title": "Claude Design vient de sortir le Motion Design par IA",
@@ -261,13 +318,13 @@ export const allVideos = [
     {
         "id": "eWN535AMIzQ",
         "videoId": "eWN535AMIzQ",
-        "title": "Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)",
+        "title": "Créer ton Agent IA en 30 min, sans coder — Formation complète !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-08-04",
         "url": "https://www.youtube.com/watch?v=eWN535AMIzQ",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)..."
+        "summary": "Nouveauté de Elliott Pierret : Créer ton Agent IA en 30 min, sans coder — Formation complète !..."
     },
     {
         "id": "mwT6tsD6KqE",
@@ -363,13 +420,13 @@ export const allVideos = [
     {
         "id": "Vv1eXHqOZlI",
         "videoId": "Vv1eXHqOZlI",
-        "title": "Comment Devenir Freelance IA en 2026 (en partant de zéro)",
+        "title": "Comment Vivre de l'IA en 2026 (sans compétence technique)",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-08-02",
         "url": "https://www.youtube.com/watch?v=Vv1eXHqOZlI",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Freelance IA en 2026 (en partant de zéro)..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment Vivre de l'IA en 2026 (sans compétence technique)..."
     },
     {
         "id": "LUmGwmu5lIY",
@@ -725,17 +782,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 24 liens utiles pour Claude !..."
     },
     {
-        "id": "8FRjVCt4578",
-        "videoId": "8FRjVCt4578",
-        "title": "Nouveaux modèles I.A moins chers #actus",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-25",
-        "url": "https://www.youtube.com/watch?v=8FRjVCt4578",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Nouveaux modèles I.A moins chers #actus..."
-    },
-    {
         "id": "FIpgh1PCM14",
         "videoId": "FIpgh1PCM14",
         "title": "Pourquoi Kimi K3 inquiète autant les États-Unis",
@@ -923,17 +969,6 @@ export const allVideos = [
         "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE..."
     },
     {
-        "id": "QM_UiJ1zD9Y",
-        "videoId": "QM_UiJ1zD9Y",
-        "title": "Voici le calendrier de 14 jours pour apprendre Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-21",
-        "url": "https://www.youtube.com/watch?v=QM_UiJ1zD9Y",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Voici le calendrier de 14 jours pour apprendre Claude !..."
-    },
-    {
         "id": "eEMdqWsYu8g",
         "videoId": "eEMdqWsYu8g",
         "title": "La découverte inexplicable dans Claude 😱",
@@ -969,13 +1004,13 @@ export const allVideos = [
     {
         "id": "IziMU2lXstI",
         "videoId": "IziMU2lXstI",
-        "title": "NotebookLM : enfin une gestion par dossiers et des exports Anki !",
+        "title": "NotebookLM : 5 extensions qui comblent ses plus gros manques",
         "author": "Ludovic Nédélec",
         "source": "@LudovicNedelec",
         "date": "2026-07-20",
         "url": "https://www.youtube.com/watch?v=IziMU2lXstI",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : NotebookLM : enfin une gestion par dossiers et des exports Anki !..."
+        "summary": "Nouveauté de Ludovic Nédélec : NotebookLM : 5 extensions qui comblent ses plus gros manques..."
     },
     {
         "id": "3q1slkjnJNE",
@@ -1189,17 +1224,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "KAhbWFS0qPY",
-        "videoId": "KAhbWFS0qPY",
-        "title": "Loop Transformers : la fin du raisonnement en tokens ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-07-07",
-        "url": "https://www.youtube.com/watch?v=KAhbWFS0qPY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Loop Transformers : la fin du raisonnement en tokens ?..."
-    },
-    {
         "id": "T1juufPrGpw",
         "videoId": "T1juufPrGpw",
         "title": "Automatisez Vos Réunions : Créer Un Skill AI Puissant #shorts",
@@ -1248,17 +1272,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "g25mMKx_e0k",
-        "videoId": "g25mMKx_e0k",
-        "title": "Canva : 30 jours de contenu, une matinée de travail",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=g25mMKx_e0k",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Canva : 30 jours de contenu, une matinée de travail..."
-    },
-    {
         "id": "ReWSbxmIITM",
         "videoId": "ReWSbxmIITM",
         "title": "Comprendre le Fonctionnement des LLM : Guide Complet Débutant",
@@ -1279,30 +1292,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MEgLPh5FAqY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)..."
-    },
-    {
-        "id": "XuV42YRDA2I",
-        "videoId": "XuV42YRDA2I",
-        "title": "IA Cloud: Créez votre CRM sur mesure ! Génération d'app #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-07-05",
-        "url": "https://www.youtube.com/watch?v=XuV42YRDA2I",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Cloud: Créez votre CRM sur mesure ! Génération d'app #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "uwU8YeA-Dos",
-        "videoId": "uwU8YeA-Dos",
-        "title": "Automatisez vos appels : IA Claude & Google Calendar #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-07-05",
-        "url": "https://www.youtube.com/watch?v=uwU8YeA-Dos",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Automatisez vos appels : IA Claude & Google Calendar #shorts...",
-        "isShort": true
     },
     {
         "id": "B3XeYkaZrjY",
@@ -1373,13 +1362,13 @@ export const allVideos = [
     {
         "id": "JKD_mD70ml8",
         "videoId": "JKD_mD70ml8",
-        "title": "Comment utiliser Copilot Cowork, l'IA qui automatise vos tâches !",
+        "title": "J’ai confié mes tâches à Copilot Cowork : le résultat est bluffant !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-06-28",
         "url": "https://www.youtube.com/watch?v=JKD_mD70ml8",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Comment utiliser Copilot Cowork, l'IA qui automatise vos tâches !..."
+        "summary": "Nouveauté de Elliott Pierret : J’ai confié mes tâches à Copilot Cowork : le résultat est bluffant !..."
     },
     {
         "id": "gl7sgL9pVSE",
@@ -1624,17 +1613,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Comment stopper Claude Code quand il dérape ? 🛑..."
     },
     {
-        "id": "IrknXVGNJlw",
-        "videoId": "IrknXVGNJlw",
-        "title": "J'ai retouché mes photos avec Canva et le résultat est dingue",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-06-15",
-        "url": "https://www.youtube.com/watch?v=IrknXVGNJlw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : J'ai retouché mes photos avec Canva et le résultat est dingue..."
-    },
-    {
         "id": "y8GDFdX4sws",
         "videoId": "y8GDFdX4sws",
         "title": "Pourquoi t'es devenu un Expert IA qui fait pas 1€ (et comment corriger ça)",
@@ -1692,13 +1670,13 @@ export const allVideos = [
     {
         "id": "84Ov4bLBH7w",
         "videoId": "84Ov4bLBH7w",
-        "title": "7 Astuces Microsoft Copilot que vous devriez connaître !",
+        "title": "7 Astuces et conseils pour Microsoft Copilot qu'il faut utiliser !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-06-11",
         "url": "https://www.youtube.com/watch?v=84Ov4bLBH7w",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 7 Astuces Microsoft Copilot que vous devriez connaître !..."
+        "summary": "Nouveauté de Elliott Pierret : 7 Astuces et conseils pour Microsoft Copilot qu'il faut utiliser !..."
     },
     {
         "id": "ce-2Bk7TrM4",
@@ -1776,49 +1754,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=p72OAhiNC9I",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : J'ai vécu un voyage incroyable à Chypre grâce à ChatGPT et 3 GPTs cachés !..."
-    },
-    {
-        "id": "YMbeWIkr1NA",
-        "videoId": "YMbeWIkr1NA",
-        "title": "J'ai demandé à Claude de me faire Gagner un MAX d'Argent",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=YMbeWIkr1NA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : J'ai demandé à Claude de me faire Gagner un MAX d'Argent..."
-    },
-    {
-        "id": "pZpH-IknJB8",
-        "videoId": "pZpH-IknJB8",
-        "title": "5 choses secrètes sur Claude qui sont dingues !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=pZpH-IknJB8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 5 choses secrètes sur Claude qui sont dingues !..."
-    },
-    {
-        "id": "Ccb_A56ONWA",
-        "videoId": "Ccb_A56ONWA",
-        "title": "Configurez Claude mieux que 99% des gens (fichier secret à installer)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=Ccb_A56ONWA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Configurez Claude mieux que 99% des gens (fichier secret à installer)..."
-    },
-    {
-        "id": "PAw5aeiEs5Q",
-        "videoId": "PAw5aeiEs5Q",
-        "title": "Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=PAw5aeiEs5Q",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
     }
 ];
