@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-12T07:16:56.355Z
+// Fichier généré automatiquement le 2026-08-13T07:19:07.588Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:16:56 AM 8/12/2026";
+export const lastUpdate = "7:19:07 AM 8/13/2026";
 
 export const sources = [
     {
@@ -157,6 +157,107 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "XgnYGTaPLws",
+        "videoId": "XgnYGTaPLws",
+        "title": "Longcat 2.0 : La fin des GPU NVIDIA ? 🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-13",
+        "url": "https://www.youtube.com/watch?v=XgnYGTaPLws",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Longcat 2.0 : La fin des GPU NVIDIA ? 🇨🇳..."
+    },
+    {
+        "id": "-0IY4UpI2JM",
+        "videoId": "-0IY4UpI2JM",
+        "title": "Claude peut planifier toute ta semaine en 5 minutes !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=-0IY4UpI2JM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut planifier toute ta semaine en 5 minutes !..."
+    },
+    {
+        "id": "ocISgzNw6HY",
+        "videoId": "ocISgzNw6HY",
+        "title": "Claude vient de tuer le looks maxxing !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=ocISgzNw6HY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de tuer le looks maxxing !..."
+    },
+    {
+        "id": "CQGNFHJ8xS8",
+        "videoId": "CQGNFHJ8xS8",
+        "title": "Alibaba fait marche arrière (DeepSeek l'avait prédit)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=CQGNFHJ8xS8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Alibaba fait marche arrière (DeepSeek l'avait prédit)..."
+    },
+    {
+        "id": "7ieeYRie5po",
+        "videoId": "7ieeYRie5po",
+        "title": "La sortie de Seedance 2.5 #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=7ieeYRie5po",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : La sortie de Seedance 2.5 #actu..."
+    },
+    {
+        "id": "nmsk1rYHNYc",
+        "videoId": "nmsk1rYHNYc",
+        "title": "La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=nmsk1rYHNYc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)..."
+    },
+    {
+        "id": "BRmdqp9QIto",
+        "videoId": "BRmdqp9QIto",
+        "title": "Seedance 2.5 : Miracle ou Arnaque ? (crash test)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=BRmdqp9QIto",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Seedance 2.5 : Miracle ou Arnaque ? (crash test)..."
+    },
+    {
+        "id": "CxDNjAIHSJc",
+        "videoId": "CxDNjAIHSJc",
+        "title": "Cloud Code: Prenez le contrôle TOTAL de votre ordinateur ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=CxDNjAIHSJc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Cloud Code: Prenez le contrôle TOTAL de votre ordinateur ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "U-8CR0yIKy0",
+        "videoId": "U-8CR0yIKy0",
+        "title": "IA hors de contrôle: L'IA inscrite à un webinaire de 3900€ ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=U-8CR0yIKy0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA hors de contrôle: L'IA inscrite à un webinaire de 3900€ ! #shorts...",
+        "isShort": true
+    },
     {
         "id": "B0MVC0haCK4",
         "videoId": "B0MVC0haCK4",
@@ -633,18 +734,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "hsAK0PfCw30",
-        "videoId": "hsAK0PfCw30",
-        "title": "L'IA : Votre collaborateur qui agit VRAIMENT 24/7 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-05",
-        "url": "https://www.youtube.com/watch?v=hsAK0PfCw30",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : L'IA : Votre collaborateur qui agit VRAIMENT 24/7 #shorts...",
-        "isShort": true
-    },
-    {
         "id": "rQuiE7S7Jzg",
         "videoId": "rQuiE7S7Jzg",
         "title": "Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !",
@@ -676,18 +765,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mwT6tsD6KqE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Google automatise l’ordinateur quantique #actu..."
-    },
-    {
-        "id": "YY4EzKZvUR4",
-        "videoId": "YY4EzKZvUR4",
-        "title": "GPT-2 à ChatGPT : La Révolution du Texte Généré ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-04",
-        "url": "https://www.youtube.com/watch?v=YY4EzKZvUR4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : GPT-2 à ChatGPT : La Révolution du Texte Généré ! #shorts...",
-        "isShort": true
     },
     {
         "id": "fsw03ZXHJik",
@@ -877,17 +954,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Apple rachète une startup IA #actu..."
     },
     {
-        "id": "Y4lP5H7N9K4",
-        "videoId": "Y4lP5H7N9K4",
-        "title": "L’incident IA qui change tout pour la cybersécurité (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-29",
-        "url": "https://www.youtube.com/watch?v=Y4lP5H7N9K4",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L’incident IA qui change tout pour la cybersécurité (actu IA)..."
-    },
-    {
         "id": "iAZaRwS19k8",
         "videoId": "iAZaRwS19k8",
         "title": "Tu peux connecter Claude à LinkedIn et lui demander de chercher des jobs pour toi",
@@ -897,17 +963,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iAZaRwS19k8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à LinkedIn et lui demander de chercher des jobs pour toi..."
-    },
-    {
-        "id": "y9gbe9lnlHs",
-        "videoId": "y9gbe9lnlHs",
-        "title": "L’IA peut-elle réfléchir seule ? #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-28",
-        "url": "https://www.youtube.com/watch?v=y9gbe9lnlHs",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L’IA peut-elle réfléchir seule ? #actu..."
     },
     {
         "id": "-QWqZvcmNoY",
@@ -974,28 +1029,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=de8Dp2EWo0g",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : J'ai analysé 85 Agences IA, voici ce qui marche en 2026..."
-    },
-    {
-        "id": "yjRg0pCKdDg",
-        "videoId": "yjRg0pCKdDg",
-        "title": "La SEULE compétence IA qui rapporte en 2026 (pas les prompts)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-26",
-        "url": "https://www.youtube.com/watch?v=yjRg0pCKdDg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La SEULE compétence IA qui rapporte en 2026 (pas les prompts)..."
-    },
-    {
-        "id": "4Ekyc9YmF8g",
-        "videoId": "4Ekyc9YmF8g",
-        "title": "Tu peux transformer n'importe quel expert en coach personnel avec Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-26",
-        "url": "https://www.youtube.com/watch?v=4Ekyc9YmF8g",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu peux transformer n'importe quel expert en coach personnel avec Claude !..."
     },
     {
         "id": "dqGe3j8o-UM",
@@ -1273,17 +1306,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : NotebookLM : le RAG nouveau GRATUIT (OPENSOURCE) 🧠..."
     },
     {
-        "id": "-Fc0B2fVY6U",
-        "videoId": "-Fc0B2fVY6U",
-        "title": "Bloome : J’ai testé une vraie équipe d’agents IA 🤖🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-07-15",
-        "url": "https://www.youtube.com/watch?v=-Fc0B2fVY6U",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Bloome : J’ai testé une vraie équipe d’agents IA 🤖🔥..."
-    },
-    {
         "id": "C9oGaD_L29M",
         "videoId": "C9oGaD_L29M",
         "title": "J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)",
@@ -1293,17 +1315,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=C9oGaD_L29M",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)..."
-    },
-    {
-        "id": "2bawcyV1PFg",
-        "videoId": "2bawcyV1PFg",
-        "title": "GPT 5.6 détrône vraiment Fable 5 ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=2bawcyV1PFg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT 5.6 détrône vraiment Fable 5 ?..."
     },
     {
         "id": "Sj3Z1-LO-I8",
@@ -1680,17 +1691,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Toujours une session par tâche, tu me remercieras ! 🙌🏻..."
     },
     {
-        "id": "0MiN0Dh-zaU",
-        "videoId": "0MiN0Dh-zaU",
-        "title": "Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-06-16",
-        "url": "https://www.youtube.com/watch?v=0MiN0Dh-zaU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯..."
-    },
-    {
         "id": "umMOuu58b2o",
         "videoId": "umMOuu58b2o",
         "title": "La SuperApp de ChatGPT vient de fuiter !",
@@ -1744,16 +1744,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aDmGw3zpcJw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)..."
-    },
-    {
-        "id": "myVZ3Vb3YkU",
-        "videoId": "myVZ3Vb3YkU",
-        "title": "HISTORIQUE ! (l’affaire Claude Fable 5)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=myVZ3Vb3YkU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : HISTORIQUE ! (l’affaire Claude Fable 5)..."
     }
 ];
