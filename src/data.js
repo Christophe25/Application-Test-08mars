@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-13T07:19:07.588Z
+// Fichier généré automatiquement le 2026-08-14T07:17:01.268Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:19:07 AM 8/13/2026";
+export const lastUpdate = "7:17:01 AM 8/14/2026";
 
 export const sources = [
     {
@@ -158,6 +158,28 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "5em87yYtJUM",
+        "videoId": "5em87yYtJUM",
+        "title": "Voici comment configurer Claude en une journée !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-13",
+        "url": "https://www.youtube.com/watch?v=5em87yYtJUM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Voici comment configurer Claude en une journée !..."
+    },
+    {
+        "id": "gK1mBVZUlVQ",
+        "videoId": "gK1mBVZUlVQ",
+        "title": "Claude + DataForSEO : Le SEO Ne Sera Plus Jamais Pareil",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-13",
+        "url": "https://www.youtube.com/watch?v=gK1mBVZUlVQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude + DataForSEO : Le SEO Ne Sera Plus Jamais Pareil..."
+    },
+    {
         "id": "XgnYGTaPLws",
         "videoId": "XgnYGTaPLws",
         "title": "Longcat 2.0 : La fin des GPU NVIDIA ? 🇨🇳",
@@ -167,6 +189,29 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XgnYGTaPLws",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Longcat 2.0 : La fin des GPU NVIDIA ? 🇨🇳..."
+    },
+    {
+        "id": "P-nOn0R2hdI",
+        "videoId": "P-nOn0R2hdI",
+        "title": "Je te fais gagner 72 h de Seedance 2.5",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-08-13",
+        "url": "https://www.youtube.com/watch?v=P-nOn0R2hdI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Je te fais gagner 72 h de Seedance 2.5..."
+    },
+    {
+        "id": "kHcqcR0lQz0",
+        "videoId": "kHcqcR0lQz0",
+        "title": "Sora : La Révolution Vidéo IA Qui Va Tout Changer ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-13",
+        "url": "https://www.youtube.com/watch?v=kHcqcR0lQz0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Sora : La Révolution Vidéo IA Qui Va Tout Changer ! #shorts...",
+        "isShort": true
     },
     {
         "id": "-0IY4UpI2JM",
@@ -722,18 +767,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de multiplier ses performances par 7..."
     },
     {
-        "id": "SuAmNaDTL5I",
-        "videoId": "SuAmNaDTL5I",
-        "title": "Midjourney: L'IA qui a choqué le monde de l'art ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-05",
-        "url": "https://www.youtube.com/watch?v=SuAmNaDTL5I",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Midjourney: L'IA qui a choqué le monde de l'art ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "rQuiE7S7Jzg",
         "videoId": "rQuiE7S7Jzg",
         "title": "Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !",
@@ -974,17 +1007,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-QWqZvcmNoY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Crée tes propres skills claude en t'enregistrant! 🎬..."
-    },
-    {
-        "id": "5jRTBksdCQ0",
-        "videoId": "5jRTBksdCQ0",
-        "title": "J'ai accompagné 70 entreprises avec ExplorIA. Si je repartais de zéro demain, voici mon plan !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-27",
-        "url": "https://www.youtube.com/watch?v=5jRTBksdCQ0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai accompagné 70 entreprises avec ExplorIA. Si je repartais de zéro demain, voici mon plan !..."
     },
     {
         "id": "IN_knFr6tQ4",
@@ -1271,17 +1293,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cBH0KT9SG_c",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)..."
-    },
-    {
-        "id": "SJL830ZQytw",
-        "videoId": "SJL830ZQytw",
-        "title": "NVIDIA bouleverse l’architecture des LLM : 2,4× plus rapides",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-07-17",
-        "url": "https://www.youtube.com/watch?v=SJL830ZQytw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : NVIDIA bouleverse l’architecture des LLM : 2,4× plus rapides..."
     },
     {
         "id": "JnUPQ0lwgpI",
@@ -1603,17 +1614,6 @@ export const allVideos = [
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé une Appli complète en 2h sans coder avec CLAUDE (Tuto MCP) !..."
     },
     {
-        "id": "p7GA6aXWASI",
-        "videoId": "p7GA6aXWASI",
-        "title": "J'ai automatisé ma chaîne YouTube avec UN prompt Claude 👁️",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-06-20",
-        "url": "https://www.youtube.com/watch?v=p7GA6aXWASI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai automatisé ma chaîne YouTube avec UN prompt Claude 👁️..."
-    },
-    {
         "id": "Msi5PaWHIe8",
         "videoId": "Msi5PaWHIe8",
         "title": "Actus IA : Anthropic et OpenAI SOUS PRESSION !",
@@ -1711,38 +1711,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gjUFxRVxss0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Comment stopper Claude Code quand il dérape ? 🛑..."
-    },
-    {
-        "id": "y8GDFdX4sws",
-        "videoId": "y8GDFdX4sws",
-        "title": "Pourquoi t'es devenu un Expert IA qui fait pas 1€ (et comment corriger ça)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=y8GDFdX4sws",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Pourquoi t'es devenu un Expert IA qui fait pas 1€ (et comment corriger ça)..."
-    },
-    {
-        "id": "ADJj3VMFWmM",
-        "videoId": "ADJj3VMFWmM",
-        "title": "Tout le monde peut ENFIN créer son Agent IA ! (Hermes Agent)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=ADJj3VMFWmM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Tout le monde peut ENFIN créer son Agent IA ! (Hermes Agent)..."
-    },
-    {
-        "id": "aDmGw3zpcJw",
-        "videoId": "aDmGw3zpcJw",
-        "title": "Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=aDmGw3zpcJw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)..."
     }
 ];
