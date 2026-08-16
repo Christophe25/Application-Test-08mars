@@ -233,15 +233,13 @@ async function main() {
         console.log(`⏱️ Analyse durée batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(filteredVideos.length / BATCH_SIZE)}...`);
 
         await Promise.all(batch.map(async (video) => {
-            // Détection via scraping de durée
+            // Détection via scraping de durée (courtes = ≤ 5 minutes, soit 300s)
             const durationSec = await fetchDuration(video.videoId);
-            if (durationSec !== null && durationSec < 270) {
-                video.category = "Vidéos Promotionnelles";
+            if (durationSec !== null && durationSec <= 300) {
                 video.isShort = true;
                 video.duration = Math.round(durationSec);
             // Fallback : détection via hashtag #shorts dans le titre
             } else if (/\#shorts?\b/i.test(video.title)) {
-                video.category = "Vidéos Promotionnelles";
                 video.isShort = true;
             }
         }));

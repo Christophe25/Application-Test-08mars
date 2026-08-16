@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react'
 import Header from './components/Header'
+import NavigationTabs from './components/NavigationTabs'
 import ThemeFilter from './components/ThemeFilter'
 import SourceFilter from './components/SourceFilter'
 import SourceMonitor from './components/SourceMonitor'
@@ -8,10 +9,10 @@ import { allVideos, sources, themes, lastUpdate } from './data'
 import './index.css'
 
 function App() {
+    const [activeSection, setActiveSection] = useState('tutorials'); // 'tutorials' vs 'shorts'
     const [activeTheme, setActiveTheme] = useState('Tous');
     const [isRefreshing, setIsRefreshing] = useState(false);
     const [showAll, setShowAll] = useState(false);
-    const [showPromoGallery, setShowPromoGallery] = useState(false);
     const [lastSyncTime, setLastSyncTime] = useState(lastUpdate);
 
     const handleRefresh = () => {
@@ -74,129 +75,95 @@ function App() {
             .sort((a, b) => new Date(b.date) - new Date(a.date));
     }, [twoMonthsAgo, selectedSources]);
 
-    // Les 5 plus récentes pour la page d'accueil (exclut promo ET archives)
-    const latestVideos = useMemo(() =>
-        sortedVideos
-            .filter(v => v.category !== 'Vidéos Promotionnelles' && !archivedVideos.includes(v.id))
-            .slice(0, 5),
-        [sortedVideos, archivedVideos]);
+    // Séparer les vidéos de la section courante
+    const currentSectionVideos = useMemo(() => {
+        return sortedVideos.filter(v => activeSection === 'shorts' ? v.isShort : !v.isShort);
+    }, [sortedVideos, activeSection]);
 
-    // Toutes les vidéos promotionnelles (exclut les archives)
-    const allPromoVideos = useMemo(() =>
-        sortedVideos
-            .filter(v => v.category === 'Vidéos Promotionnelles' && !archivedVideos.includes(v.id)),
-        [sortedVideos, archivedVideos]);
+    // Les 5 plus récentes pour la page d'accueil de la section courante (exclut les archives)
+    const latestVideos = useMemo(() =>
+        currentSectionVideos
+            .filter(v => !archivedVideos.includes(v.id))
+            .slice(0, 5),
+        [currentSectionVideos, archivedVideos]);
 
     // Thèmes dynamiques incluant les archives
-    const appThemes = useMemo(() => [...themes.filter(t => t !== 'Vidéos Promotionnelles'), '📥 Archives'], []);
+    const appThemes = useMemo(() => [...themes, '📥 Archives'], []);
 
-    // Vidéos filtrées par thème
+    // Vidéos filtrées par thème dans la section courante
     const filteredByTheme = useMemo(() => {
-        if (activeTheme === '📥 Archives') return sortedVideos.filter(v => archivedVideos.includes(v.id));
-        if (activeTheme === 'Tous') return sortedVideos.filter(v => v.category !== 'Vidéos Promotionnelles' && !archivedVideos.includes(v.id));
-        return sortedVideos.filter(v => v.category === activeTheme && !archivedVideos.includes(v.id));
-    }, [activeTheme, sortedVideos, archivedVideos]);
+        if (activeTheme === '📥 Archives') return currentSectionVideos.filter(v => archivedVideos.includes(v.id));
+        if (activeTheme === 'Tous') return currentSectionVideos.filter(v => !archivedVideos.includes(v.id));
+        return currentSectionVideos.filter(v => v.category === activeTheme && !archivedVideos.includes(v.id));
+    }, [activeTheme, currentSectionVideos, archivedVideos]);
 
-    // Comptage par thème pour les badges
+    // Comptage par thème pour les badges de la section courante
     const themeCount = useMemo(() => {
         const counts = {};
         appThemes.forEach(t => {
-            if (t === '📥 Archives') counts[t] = sortedVideos.filter(v => archivedVideos.includes(v.id)).length;
-            else if (t === 'Tous') counts[t] = sortedVideos.filter(v => v.category !== 'Vidéos Promotionnelles' && !archivedVideos.includes(v.id)).length;
-            else counts[t] = sortedVideos.filter(v => v.category === t && !archivedVideos.includes(v.id)).length;
+            if (t === '📥 Archives') counts[t] = currentSectionVideos.filter(v => archivedVideos.includes(v.id)).length;
+            else if (t === 'Tous') counts[t] = currentSectionVideos.filter(v => !archivedVideos.includes(v.id)).length;
+            else counts[t] = currentSectionVideos.filter(v => v.category === t && !archivedVideos.includes(v.id)).length;
         });
         return counts;
-    }, [sortedVideos, appThemes, archivedVideos]);
+    }, [currentSectionVideos, appThemes, archivedVideos]);
+
+    // Comptage global par section pour les onglets principaux (respecte les filtres de sources)
+    const sectionCounts = useMemo(() => {
+        return {
+            tutorials: sortedVideos.filter(v => !v.isShort).length,
+            shorts: sortedVideos.filter(v => v.isShort).length
+        };
+    }, [sortedVideos]);
 
     const isSourceFiltered = selectedSources.length > 0;
+
+    const handleSectionChange = (section) => {
+        setActiveSection(section);
+        setActiveTheme('Tous'); // Réinitialiser le thème lors du changement d'onglet
+    };
 
     return (
         <div className="app">
             <Header />
 
-            {!showPromoGallery && (
-                <SourceMonitor sources={sources} isRefreshing={isRefreshing} />
-            )}
+            <NavigationTabs
+                activeSection={activeSection}
+                onSectionChange={handleSectionChange}
+                counts={sectionCounts}
+            />
 
-            {/* Filtre sources — visible sur toutes les vues sauf promo gallery */}
-            {!showPromoGallery && (
-                <SourceFilter
-                    sources={sources}
-                    selectedSources={selectedSources}
-                    onApply={handleSourceApply}
-                />
-            )}
+            <SourceMonitor sources={sources} isRefreshing={isRefreshing} />
+
+            {/* Filtre sources — visible sur toutes les vues */}
+            <SourceFilter
+                sources={sources}
+                selectedSources={selectedSources}
+                onApply={handleSourceApply}
+            />
 
             {/* Barre d'actualisation simulée */}
-            {!showPromoGallery && (
-                <div className="refresh-bar container">
-                    <span className="sync-info">Dernière synchronisation : {lastSyncTime}</span>
-                    <button
-                        className={`refresh-button ${isRefreshing ? 'spinning' : ''}`}
-                        onClick={handleRefresh}
-                        disabled={isRefreshing}
-                    >
-                        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2.5">
-                            <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67" />
-                        </svg>
-                        {isRefreshing ? 'Scan en cours...' : 'Actualiser les sources'}
-                    </button>
-                </div>
-            )}
+            <div className="refresh-bar container">
+                <span className="sync-info">Dernière synchronisation : {lastSyncTime}</span>
+                <button
+                    className={`refresh-button ${isRefreshing ? 'spinning' : ''}`}
+                    onClick={handleRefresh}
+                    disabled={isRefreshing}
+                >
+                    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2.5">
+                        <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67" />
+                    </svg>
+                    {isRefreshing ? 'Scan en cours...' : 'Actualiser les sources'}
+                </button>
+            </div>
 
-            {/* Vue Galerie Promo Dédiée */}
-            {showPromoGallery ? (
+            {!showAll ? (
                 <>
                     <div className="section-header container">
                         <div>
-                            <h2 className="section-title">⚡ Formats Courts (Promo)</h2>
-                            <p className="section-subtitle">Aperçu intégral de vos vidéos de moins de 4min30 ({allPromoVideos.length} vidéos)</p>
-                        </div>
-                        <button className="back-button" onClick={() => setShowPromoGallery(false)} style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', background: 'var(--surface)', border: '1px solid var(--border)', padding: '0.5rem 1rem', borderRadius: '2rem', color: 'var(--text-primary)', cursor: 'pointer', fontWeight: '500' }}>
-                            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2.5">
-                                <path d="M19 12H5M12 19l-7-7 7-7" />
-                            </svg>
-                            {"Retour à l'accueil"}
-                        </button>
-                    </div>
-
-                    <main className="main container editorial-flow">
-                        {allPromoVideos.length > 0 ? (
-                            allPromoVideos.map((video) => (
-                                <VibrantCard
-                                    key={video.id}
-                                    video={video}
-                                    isArchived={archivedVideos.includes(video.id)}
-                                    onArchive={() => toggleArchive(video.id)}
-                                />
-                            ))
-                        ) : (
-                            <div className="no-results">
-                                <p>Aucune vidéo courte trouvée pour le moment.</p>
-                            </div>
-                        )}
-                    </main>
-                </>
-            ) : !showAll ? (
-                <>
-                    {allPromoVideos.length > 0 && (
-                        <div className="section-header container" style={{ borderBottom: '1px solid var(--border)', paddingBottom: '2rem', marginBottom: '2rem' }}>
-                            <div>
-                                <h2 className="section-title">⚡ Formats Courts (Promo)</h2>
-                                <p className="section-subtitle">Vidéos de moins de 4min30{isSourceFiltered ? ` · ${selectedSources.length} source${selectedSources.length > 1 ? 's' : ''}` : ''}</p>
-                            </div>
-                            <button className="explore-button" onClick={() => setShowPromoGallery(true)}>
-                                Explorer la galerie
-                                <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2.5">
-                                    <path d="M5 12h14M12 5l7 7-7 7" />
-                                </svg>
-                            </button>
-                        </div>
-                    )}
-
-                    <div className="section-header container">
-                        <div>
-                            <h2 className="section-title">🔥 Les 5 Dernières Vidéos</h2>
+                            <h2 className="section-title">
+                                {activeSection === 'shorts' ? '⚡ Les 5 Plus Récentes Vidéos Courtes' : '🔥 Les 5 Plus Récents Tutoriels'}
+                            </h2>
                             <p className="section-subtitle">
                                 {isSourceFiltered
                                     ? `${selectedSources.length} source${selectedSources.length > 1 ? 's' : ''} sélectionnée${selectedSources.length > 1 ? 's' : ''} sur ${sources.length}`
@@ -230,8 +197,12 @@ function App() {
                 <>
                     <div className="section-header container">
                         <div>
-                            <h2 className="section-title">📚 Toutes les Vidéos</h2>
-                            <p className="section-subtitle">{filteredByTheme.length} vidéo{filteredByTheme.length > 1 ? 's' : ''} {activeTheme !== 'Tous' ? `dans "${activeTheme}"` : 'au total'}</p>
+                            <h2 className="section-title">
+                                {activeSection === 'shorts' ? '⚡ Toutes les Vidéos Courtes' : '📚 Tous les Tutoriels Complets'}
+                            </h2>
+                            <p className="section-subtitle">
+                                {filteredByTheme.length} vidéo{filteredByTheme.length > 1 ? 's' : ''} {activeTheme !== 'Tous' ? `dans "${activeTheme}"` : 'au total'}
+                            </p>
                         </div>
                         <button className="explore-button back" onClick={() => { setShowAll(false); setActiveTheme('Tous'); }}>
                             <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2.5">
