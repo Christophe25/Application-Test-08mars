@@ -1,6 +1,8 @@
 import React, { useState, useMemo } from 'react'
 import Header from './components/Header'
+import EditorialPreamble from './components/EditorialPreamble'
 import NavigationTabs from './components/NavigationTabs'
+import TrendingTools from './components/TrendingTools'
 import ThemeFilter from './components/ThemeFilter'
 import SourceFilter from './components/SourceFilter'
 import SourceMonitor from './components/SourceMonitor'
@@ -127,11 +129,15 @@ function App() {
         <div className="app">
             <Header />
 
+            <EditorialPreamble />
+
             <NavigationTabs
                 activeSection={activeSection}
                 onSectionChange={handleSectionChange}
                 counts={sectionCounts}
             />
+
+            <TrendingTools videos={sortedVideos} />
 
             <SourceMonitor sources={sources} isRefreshing={isRefreshing} />
 
