@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 
 const TrendingTools = ({ videos }) => {
     const [isCollapsed, setIsCollapsed] = useState(false); // Open by default for maximum professional visibility
@@ -35,13 +35,15 @@ const TrendingTools = ({ videos }) => {
         }
     ];
 
-    // Compute counts dynamically
-    const toolsData = toolsConfig.map(tool => {
-        const count = videos.filter(v => 
-            tool.keywords.some(regex => regex.test(v.title) || (v.summary && regex.test(v.summary)))
-        ).length;
-        return { ...tool, count };
-    });
+    // Compute counts dynamically (Memoized to prevent unnecessary regex evaluations on every render)
+    const toolsData = useMemo(() => {
+        return toolsConfig.map(tool => {
+            const count = videos.filter(v => 
+                tool.keywords.some(regex => regex.test(v.title) || (v.summary && regex.test(v.summary)))
+            ).length;
+            return { ...tool, count };
+        });
+    }, [videos]);
 
     return (
         <div className="trending-tools container" style={{ marginBottom: '2.5rem', marginTop: '1rem' }}>

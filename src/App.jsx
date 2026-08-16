@@ -39,7 +39,11 @@ function App() {
 
     const handleSourceApply = (handles) => {
         setSelectedSources(handles);
-        localStorage.setItem('veilleia_sources', JSON.stringify(handles));
+        try {
+            localStorage.setItem('veilleia_sources', JSON.stringify(handles));
+        } catch (e) {
+            console.warn("Impossible d'écrire dans localStorage:", e);
+        }
     };
 
     // Archives state (persisted in localStorage)
@@ -57,7 +61,11 @@ function App() {
             const newArchives = prev.includes(videoId)
                 ? prev.filter(id => id !== videoId)
                 : [...prev, videoId];
-            localStorage.setItem('veilleia_archives', JSON.stringify(newArchives));
+            try {
+                localStorage.setItem('veilleia_archives', JSON.stringify(newArchives));
+            } catch (e) {
+                console.warn("Impossible d'écrire dans localStorage:", e);
+            }
             return newArchives;
         });
     };
@@ -66,6 +74,7 @@ function App() {
     const twoMonthsAgo = useMemo(() => {
         const d = new Date();
         d.setMonth(d.getMonth() - 2);
+        d.setHours(0, 0, 0, 0); // Garantie d'une comparaison pure de dates
         return d;
     }, []);
 
