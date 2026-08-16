@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-14T07:17:01.268Z
+// Fichier généré automatiquement le 2026-08-16T06:31:25.486Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:17:01 AM 8/14/2026";
+export const lastUpdate = "6:31:25 AM 8/16/2026";
 
 export const sources = [
     {
@@ -157,6 +157,95 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "qamzMkCO8Sg",
+        "videoId": "qamzMkCO8Sg",
+        "title": "20 choses à dire à Claude d'ajouter à ton site avant de le lancer !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-15",
+        "url": "https://www.youtube.com/watch?v=qamzMkCO8Sg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 20 choses à dire à Claude d'ajouter à ton site avant de le lancer !..."
+    },
+    {
+        "id": "dDMxmwIGYoQ",
+        "videoId": "dDMxmwIGYoQ",
+        "title": "Le World Mental Modeling",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-15",
+        "url": "https://www.youtube.com/watch?v=dDMxmwIGYoQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le World Mental Modeling..."
+    },
+    {
+        "id": "FkiAl-IOLyo",
+        "videoId": "FkiAl-IOLyo",
+        "title": "Quelqu'un vient de transformer le langage design d'Apple en un skill Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-14",
+        "url": "https://www.youtube.com/watch?v=FkiAl-IOLyo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de transformer le langage design d'Apple en un skill Claude !..."
+    },
+    {
+        "id": "EGL2DQ1MJds",
+        "videoId": "EGL2DQ1MJds",
+        "title": "La nouvelle fonctionnalité incroyable de Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-08-14",
+        "url": "https://www.youtube.com/watch?v=EGL2DQ1MJds",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : La nouvelle fonctionnalité incroyable de Claude !..."
+    },
+    {
+        "id": "Q2Aeg6AErAM",
+        "videoId": "Q2Aeg6AErAM",
+        "title": "Alibaba s’ouvre enfin !",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-14",
+        "url": "https://www.youtube.com/watch?v=Q2Aeg6AErAM",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Alibaba s’ouvre enfin !..."
+    },
+    {
+        "id": "wyI8RKwI8po",
+        "videoId": "wyI8RKwI8po",
+        "title": "Récupère tous les leads d'Internet en langage naturel",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-08-14",
+        "url": "https://www.youtube.com/watch?v=wyI8RKwI8po",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Récupère tous les leads d'Internet en langage naturel..."
+    },
+    {
+        "id": "eRaek8u2CS8",
+        "videoId": "eRaek8u2CS8",
+        "title": "Commente Vocal pour avoir le prompt !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-14",
+        "url": "https://www.youtube.com/watch?v=eRaek8u2CS8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Commente Vocal pour avoir le prompt !..."
+    },
+    {
+        "id": "odK-rqGSYR8",
+        "videoId": "odK-rqGSYR8",
+        "title": "Demandez à l'IA de poser des questions avant TOUT ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-14",
+        "url": "https://www.youtube.com/watch?v=odK-rqGSYR8",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Demandez à l'IA de poser des questions avant TOUT ! #shorts...",
+        "isShort": true
+    },
     {
         "id": "5em87yYtJUM",
         "videoId": "5em87yYtJUM",
@@ -677,30 +766,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Deepseek devient 7x plus puissant !..."
     },
     {
-        "id": "v0_sYIH08EY",
-        "videoId": "v0_sYIH08EY",
-        "title": "ChatGPT se trompe ENCORE sur la Coupe du Monde ! Failles choquantes #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-06",
-        "url": "https://www.youtube.com/watch?v=v0_sYIH08EY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : ChatGPT se trompe ENCORE sur la Coupe du Monde ! Failles choquantes #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "__NX4VE6HTA",
-        "videoId": "__NX4VE6HTA",
-        "title": "IA : Rattrape 3 Ans d'Innovation en Une Vidéo ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-06",
-        "url": "https://www.youtube.com/watch?v=__NX4VE6HTA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA : Rattrape 3 Ans d'Innovation en Une Vidéo ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "xAlXes0E34k",
         "videoId": "xAlXes0E34k",
         "title": "Claude Design vient de sortir le Motion Design par IA",
@@ -780,13 +845,13 @@ export const allVideos = [
     {
         "id": "eWN535AMIzQ",
         "videoId": "eWN535AMIzQ",
-        "title": "Créer ton Agent IA en 30 min, sans coder — Formation complète !",
+        "title": "Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-08-04",
         "url": "https://www.youtube.com/watch?v=eWN535AMIzQ",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Créer ton Agent IA en 30 min, sans coder — Formation complète !..."
+        "summary": "Nouveauté de Elliott Pierret : Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)..."
     },
     {
         "id": "mwT6tsD6KqE",
@@ -932,17 +997,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : ChatGPT vient de sortir trois nouveaux modèles !..."
     },
     {
-        "id": "XSnWOs3-4Zw",
-        "videoId": "XSnWOs3-4Zw",
-        "title": "DeepMind repense la computer vision (GenCeption)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-30",
-        "url": "https://www.youtube.com/watch?v=XSnWOs3-4Zw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : DeepMind repense la computer vision (GenCeption)..."
-    },
-    {
         "id": "NvE2yPI77KA",
         "videoId": "NvE2yPI77KA",
         "title": "Comment vendre de l'ia en 2026 🔥(TUTO COMPLET)",
@@ -963,39 +1017,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_-oxY6Q8BBs",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : L'outil IA n°1 sur Github vient de RÉSOUDRE le problème de recherche sur Claude..."
-    },
-    {
-        "id": "Mi-qTrUmRFA",
-        "videoId": "Mi-qTrUmRFA",
-        "title": "Les 4 meilleurs MCP pour Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-29",
-        "url": "https://www.youtube.com/watch?v=Mi-qTrUmRFA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Les 4 meilleurs MCP pour Claude !..."
-    },
-    {
-        "id": "Oee405ZdIEo",
-        "videoId": "Oee405ZdIEo",
-        "title": "Apple rachète une startup IA #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-29",
-        "url": "https://www.youtube.com/watch?v=Oee405ZdIEo",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Apple rachète une startup IA #actu..."
-    },
-    {
-        "id": "iAZaRwS19k8",
-        "videoId": "iAZaRwS19k8",
-        "title": "Tu peux connecter Claude à LinkedIn et lui demander de chercher des jobs pour toi",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-28",
-        "url": "https://www.youtube.com/watch?v=iAZaRwS19k8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à LinkedIn et lui demander de chercher des jobs pour toi..."
     },
     {
         "id": "-QWqZvcmNoY",
@@ -1526,17 +1547,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Les 2 seuls VRAIS BUSINESS IA à lancer en 2026..."
     },
     {
-        "id": "x28dzEx1x6Q",
-        "videoId": "x28dzEx1x6Q",
-        "title": "J'ai cloné MON visage ET ma voix avec une IA 🤯 (résultat dingue)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=x28dzEx1x6Q",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai cloné MON visage ET ma voix avec une IA 🤯 (résultat dingue)..."
-    },
-    {
         "id": "pIa4jZuSlwI",
         "videoId": "pIa4jZuSlwI",
         "title": "L'unique secret pour survivre à l'IA en 2026",
@@ -1678,38 +1688,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=f3G0LIrQUIk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Automatise tes tâches répétitivs avec la commande /loop! 🔄..."
-    },
-    {
-        "id": "Gl6ROiWRgGA",
-        "videoId": "Gl6ROiWRgGA",
-        "title": "Toujours une session par tâche, tu me remercieras ! 🙌🏻",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-06-16",
-        "url": "https://www.youtube.com/watch?v=Gl6ROiWRgGA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Toujours une session par tâche, tu me remercieras ! 🙌🏻..."
-    },
-    {
-        "id": "umMOuu58b2o",
-        "videoId": "umMOuu58b2o",
-        "title": "La SuperApp de ChatGPT vient de fuiter !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-06-15",
-        "url": "https://www.youtube.com/watch?v=umMOuu58b2o",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : La SuperApp de ChatGPT vient de fuiter !..."
-    },
-    {
-        "id": "gjUFxRVxss0",
-        "videoId": "gjUFxRVxss0",
-        "title": "Comment stopper Claude Code quand il dérape ? 🛑",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-06-15",
-        "url": "https://www.youtube.com/watch?v=gjUFxRVxss0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Comment stopper Claude Code quand il dérape ? 🛑..."
     }
 ];
