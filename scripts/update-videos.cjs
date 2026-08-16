@@ -21,7 +21,9 @@ const SOURCES = [
     { handle: '@LudovicSalenne', name: 'Ludo Salenne', id: 'UCnnYqSNKKygemgmxC9PyLTw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Ludo+Salenne&background=0ea5e9&color=fff' },
     { handle: '@AurelienAutomatisation', name: 'Aurélien Fagioli', id: 'UCdL89Z0gQUDc1HT1882AGLw', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Aurelien+Fagioli&background=0ea5e9&color=fff' },
     { handle: '@BaptIA', name: 'Baptiste Simard - IA', id: 'UCzabGLybo9x307MkDtqTyFQ', theme: 'Agents & Automatisation', avatar: 'https://ui-avatars.com/api/?name=Baptiste+Simard&background=0ea5e9&color=fff' },
-    { handle: '@LudovicNedelec', name: 'Ludovic Nédélec', id: 'UCMJ00y5KeFDKzYh9D6Lc41A', theme: 'Productivité & Second Cerveau', avatar: 'https://ui-avatars.com/api/?name=Ludovic+Nedelec&background=0ea5e9&color=fff' }
+    { handle: '@LudovicNedelec', name: 'Ludovic Nédélec', id: 'UCMJ00y5KeFDKzYh9D6Lc41A', theme: 'Productivité & Second Cerveau', avatar: 'https://ui-avatars.com/api/?name=Ludovic+Nedelec&background=0ea5e9&color=fff' },
+    { handle: '@JonasEkanbo', name: 'Jonas Ekanbo', id: 'UCF2fb5WylqKbw0SgOlJKXMA', theme: 'Business & Monétisation IA', avatar: 'https://ui-avatars.com/api/?name=Jonas+Ekanbo&background=0ea5e9&color=fff' },
+    { handle: '@RenaudDekode', name: 'Renaud Dékode', id: 'UCOWu-2h4IpoEjhsRlTuesFg', theme: 'Actualités Tech', avatar: 'https://ui-avatars.com/api/?name=Renaud+Dekode&background=0ea5e9&color=fff' }
 ];
 
 

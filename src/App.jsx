@@ -12,6 +12,17 @@ function App() {
     const [isRefreshing, setIsRefreshing] = useState(false);
     const [showAll, setShowAll] = useState(false);
     const [showPromoGallery, setShowPromoGallery] = useState(false);
+    const [lastSyncTime, setLastSyncTime] = useState(lastUpdate);
+
+    const handleRefresh = () => {
+        if (isRefreshing) return;
+        setIsRefreshing(true);
+        setTimeout(() => {
+            setIsRefreshing(false);
+            const now = new Date();
+            setLastSyncTime(`${now.toLocaleTimeString()} ${now.toLocaleDateString()}`);
+        }, 2000);
+    };
 
     // Sélection multiple de sources (vide = toutes), persistée en localStorage
     const [selectedSources, setSelectedSources] = useState(() => {
@@ -104,7 +115,7 @@ function App() {
             <Header />
 
             {!showPromoGallery && (
-                <SourceMonitor sources={sources} />
+                <SourceMonitor sources={sources} isRefreshing={isRefreshing} />
             )}
 
             {/* Filtre sources — visible sur toutes les vues sauf promo gallery */}
@@ -114,6 +125,23 @@ function App() {
                     selectedSources={selectedSources}
                     onApply={handleSourceApply}
                 />
+            )}
+
+            {/* Barre d'actualisation simulée */}
+            {!showPromoGallery && (
+                <div className="refresh-bar container">
+                    <span className="sync-info">Dernière synchronisation : {lastSyncTime}</span>
+                    <button
+                        className={`refresh-button ${isRefreshing ? 'spinning' : ''}`}
+                        onClick={handleRefresh}
+                        disabled={isRefreshing}
+                    >
+                        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2.5">
+                            <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67" />
+                        </svg>
+                        {isRefreshing ? 'Scan en cours...' : 'Actualiser les sources'}
+                    </button>
+                </div>
             )}
 
             {/* Vue Galerie Promo Dédiée */}
@@ -128,7 +156,7 @@ function App() {
                             <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2.5">
                                 <path d="M19 12H5M12 19l-7-7 7-7" />
                             </svg>
-                            Retour à l'accueil
+                            {"Retour à l'accueil"}
                         </button>
                     </div>
 
@@ -209,7 +237,7 @@ function App() {
                             <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2.5">
                                 <path d="M19 12H5M12 19l-7-7 7-7" />
                             </svg>
-                            Retour à l'accueil
+                            {"Retour à l'accueil"}
                         </button>
                     </div>
 

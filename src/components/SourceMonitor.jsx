@@ -1,15 +1,34 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
-const SourceMonitor = ({ sources }) => {
+const SourceMonitor = ({ sources, isRefreshing }) => {
     const [isExpanded, setIsExpanded] = useState(false);
+    const [activeScanIdx, setActiveScanIdx] = useState(-1);
 
     const themeCount = [...new Set(sources.map(s => s.theme))].length;
+
+    // Expand the monitor automatically during refresh, and run the sequential scan
+    useEffect(() => {
+        if (isRefreshing) {
+            setIsExpanded(true);
+            let idx = 0;
+            const interval = setInterval(() => {
+                setActiveScanIdx(idx);
+                idx = (idx + 1) % sources.length;
+            }, 90); // 90ms per source to scan through all 22 sources in ~2s
+            return () => {
+                clearInterval(interval);
+                setActiveScanIdx(-1);
+            };
+        }
+    }, [isRefreshing, sources.length]);
 
     return (
         <div className="source-monitor container">
             <button
                 className="source-monitor-header"
                 onClick={() => setIsExpanded(!isExpanded)}
+                disabled={isRefreshing}
+                style={{ cursor: isRefreshing ? 'wait' : 'pointer' }}
             >
                 <div className="source-monitor-info">
                     <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2">
@@ -19,10 +38,25 @@ const SourceMonitor = ({ sources }) => {
                     <span className="source-count">{sources.length} sources surveillées</span>
                     <span className="source-themes">{themeCount} thèmes</span>
                 </div>
-                <span className="source-monitor-status">
-                    <span className="status-dot-green"></span>
-                    Actif
-                </span>
+                {isRefreshing ? (
+                    <span className="source-monitor-status scanning" style={{ color: '#f59e0b' }}>
+                        <span className="status-dot-orange" style={{
+                            width: '8px',
+                            height: '8px',
+                            background: '#f59e0b',
+                            borderRadius: '50%',
+                            display: 'inline-block',
+                            marginRight: '6px',
+                            animation: 'pulse-orange 1s infinite'
+                        }}></span>
+                        Scan en cours...
+                    </span>
+                ) : (
+                    <span className="source-monitor-status">
+                        <span className="status-dot-green"></span>
+                        Actif
+                    </span>
+                )}
                 <svg
                     className={`chevron ${isExpanded ? 'expanded' : ''}`}
                     viewBox="0 0 24 24" width="16" height="16" fill="none"
@@ -33,23 +67,35 @@ const SourceMonitor = ({ sources }) => {
             </button>
 
             {isExpanded && (
-                <div className="source-monitor-list">
-                    {sources.map((source) => (
-                        <a
-                            key={source.handle}
-                            href={`https://www.youtube.com/${source.handle}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="source-item"
-                        >
-                            <img src={source.avatar} alt={source.name} className="source-avatar" />
-                            <div className="source-details">
-                                <span className="source-name">{source.name}</span>
-                                <span className="source-handle">{source.handle}</span>
-                            </div>
-                            <span className="source-theme-badge">{source.theme}</span>
-                        </a>
-                    ))}
+                <div className="source-monitor-list" style={{ position: 'relative' }}>
+                    {sources.map((source, i) => {
+                        const isScanningThis = i === activeScanIdx;
+                        return (
+                            <a
+                                key={source.handle}
+                                href={`https://www.youtube.com/${source.handle}`}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className={`source-item ${isScanningThis ? 'scanning-active' : ''}`}
+                                style={{
+                                    transition: 'all 0.1s ease-in-out',
+                                    backgroundColor: isScanningThis ? 'rgba(99, 102, 241, 0.15)' : '',
+                                    borderColor: isScanningThis ? 'var(--accent-color)' : 'transparent',
+                                    borderWidth: '1px',
+                                    borderStyle: 'solid',
+                                    transform: isScanningThis ? 'scale(1.03)' : 'scale(1)',
+                                    zIndex: isScanningThis ? 2 : 1
+                                }}
+                            >
+                                <img src={source.avatar} alt={source.name} className="source-avatar" />
+                                <div className="source-details">
+                                    <span className="source-name">{source.name}</span>
+                                    <span className="source-handle">{source.handle}</span>
+                                </div>
+                                <span className="source-theme-badge">{source.theme}</span>
+                            </a>
+                        );
+                    })}
                 </div>
             )}
         </div>
