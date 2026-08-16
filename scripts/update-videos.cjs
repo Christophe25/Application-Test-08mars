@@ -199,6 +199,34 @@ const parseFeed = (xml, source) => {
 };
 
 
+const loadExistingDurationsCache = () => {
+    const cache = new Map();
+    try {
+        if (fs.existsSync('src/data.js')) {
+            const content = fs.readFileSync('src/data.js', 'utf-8');
+            const marker = 'export const allVideos =';
+            const index = content.indexOf(marker);
+            if (index !== -1) {
+                const jsonPart = content.substring(index + marker.length).trim().replace(/;$/, '');
+                const videos = JSON.parse(jsonPart);
+                for (const v of videos) {
+                    if (v.videoId && v.duration !== undefined) {
+                        cache.set(v.videoId, {
+                            duration: v.duration,
+                            isShort: v.isShort || false
+                        });
+                    }
+                }
+                console.log(`💾 Cache de durées chargé : ${cache.size} vidéos récupérées depuis src/data.js.`);
+            }
+        }
+    } catch (e) {
+        console.warn(`⚠️ Impossible de charger le cache des durées : ${e.message}`);
+    }
+    return cache;
+};
+
+
 async function main() {
     console.log("🚀 Démarrage de l'actualisation des vidéos (Optimisé)...");
     let allFetchedVideos = [];
@@ -225,27 +253,47 @@ async function main() {
 
     console.log(`📊 Filtrage effectué. Traitement des durées pour ${filteredVideos.length} vidéos...`);
 
-    // 3. Detect Durations (Scraping)
-    // Small batches to stay safe
-    const BATCH_SIZE = 8;
-    for (let i = 0; i < filteredVideos.length; i += BATCH_SIZE) {
-        const batch = filteredVideos.slice(i, i + BATCH_SIZE);
-        console.log(`⏱️ Analyse durée batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(filteredVideos.length / BATCH_SIZE)}...`);
+    // 3. Detect Durations (Scraping avec cache et temporisation de sécurité)
+    const durationCache = loadExistingDurationsCache();
+    let scrapedCount = 0;
 
-        await Promise.all(batch.map(async (video) => {
-            // Détection via scraping de durée (courtes = ≤ 5 minutes, soit 300s)
+    for (let i = 0; i < filteredVideos.length; i++) {
+        const video = filteredVideos[i];
+
+        if (durationCache.has(video.videoId)) {
+            const cached = durationCache.get(video.videoId);
+            video.duration = cached.duration;
+            video.isShort = cached.isShort;
+            continue;
+        }
+
+        // Si absent du cache, on requête YouTube de manière espacée (1.2s de pause)
+        scrapedCount++;
+        console.log(`⏱️ [${i + 1}/${filteredVideos.length}] Scraping de la durée pour ${video.videoId} (${video.title.substring(0, 40)}...)...`);
+        
+        try {
             const durationSec = await fetchDuration(video.videoId);
-            if (durationSec !== null && durationSec <= 300) {
-                video.isShort = true;
+            if (durationSec !== null) {
                 video.duration = Math.round(durationSec);
-            // Fallback : détection via hashtag #shorts dans le titre
+                video.isShort = durationSec <= 300;
+                console.log(`   └─> Durée récupérée : ${Math.floor(durationSec / 60)}m ${Math.round(durationSec % 60)}s [${video.isShort ? 'COURTE' : 'LONGUE'}]`);
             } else if (/\#shorts?\b/i.test(video.title)) {
                 video.isShort = true;
+                console.log(`   └─> Détecté SHORT via titre`);
+            } else {
+                video.isShort = false;
+                console.log(`   └─> Impossible de lire la durée (Fallback: LONGUE)`);
             }
-        }));
+        } catch (err) {
+            video.isShort = false;
+            console.error(`   └─> Erreur : ${err.message}`);
+        }
 
-        await new Promise(r => setTimeout(r, 200));
+        // Délai de 1.2s entre chaque requête pour éviter d'être banni par YouTube
+        await new Promise(r => setTimeout(r, 1200));
     }
+
+    console.log(`📈 Analyse des durées terminée. Nouvelles requêtes effectuées : ${scrapedCount}.`);
 
     if (allFetchedVideos.length === 0) {
         console.error("❌ Erreur : Aucune vidéo n'a pu être récupérée. Annulation de la mise à jour pour éviter d'écraser les données.");
