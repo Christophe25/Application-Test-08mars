@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-27T17:19:22.602Z
+// Fichier généré automatiquement le 2026-08-28T18:11:39.558Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "5:19:22 PM 8/27/2026";
+export const lastUpdate = "6:11:39 PM 8/28/2026";
 
 export const sources = [
     {
@@ -172,6 +172,78 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "fDq1XbGJaHM",
+        "videoId": "fDq1XbGJaHM",
+        "title": "DeepSeek Harness + Ollama = Un Agent IA (LOCAL) 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-08-28",
+        "url": "https://www.youtube.com/watch?v=fDq1XbGJaHM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : DeepSeek Harness + Ollama = Un Agent IA (LOCAL) 🤯...",
+        "isShort": false
+    },
+    {
+        "id": "H_BVqej1C90",
+        "videoId": "H_BVqej1C90",
+        "title": "Nvidia veut contrôler l’IA ouverte",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-28",
+        "url": "https://www.youtube.com/watch?v=H_BVqej1C90",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Nvidia veut contrôler l’IA ouverte...",
+        "isShort": false
+    },
+    {
+        "id": "BV9zCWm5Tq0",
+        "videoId": "BV9zCWm5Tq0",
+        "title": "On pleure Hugging Face pendant que les USA et la Chine nous donnent des leçons + Nouveautés Claude",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-28",
+        "url": "https://www.youtube.com/watch?v=BV9zCWm5Tq0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : On pleure Hugging Face pendant que les USA et la Chine nous donnent des leçons + Nouveautés Claude...",
+        "isShort": false
+    },
+    {
+        "id": "sp3BsVe1DV0",
+        "videoId": "sp3BsVe1DV0",
+        "title": "On pleure Hugging Face et les USA et la Chine nous donnent des leçons",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-28",
+        "url": "https://www.youtube.com/watch?v=sp3BsVe1DV0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : On pleure Hugging Face et les USA et la Chine nous donnent des leçons...",
+        "isShort": false
+    },
+    {
+        "id": "P286_hwk5Ls",
+        "videoId": "P286_hwk5Ls",
+        "title": "Hugging Face : 13 milliards ratés",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-28",
+        "url": "https://www.youtube.com/watch?v=P286_hwk5Ls",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Hugging Face : 13 milliards ratés...",
+        "isShort": false
+    },
+    {
+        "id": "F2cI_H6_1yw",
+        "videoId": "F2cI_H6_1yw",
+        "title": "3 commandes ChatGPT pour des visuels produit professionnels",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-27",
+        "url": "https://www.youtube.com/watch?v=F2cI_H6_1yw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 3 commandes ChatGPT pour des visuels produit professionnels...",
+        "isShort": false
+    },
+    {
         "id": "ib4Bc_kbzR0",
         "videoId": "ib4Bc_kbzR0",
         "title": "CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en un seul prompt",
@@ -205,18 +277,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pS81YzrmEzA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Ils quittent Google !...",
-        "isShort": false
-    },
-    {
-        "id": "QoCzPsyKZUI",
-        "videoId": "QoCzPsyKZUI",
-        "title": "DeepSeek Harness et les agents IA",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=QoCzPsyKZUI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : DeepSeek Harness et les agents IA...",
         "isShort": false
     },
     {
@@ -810,13 +870,13 @@ export const allVideos = [
     {
         "id": "Kmlebm-Otp8",
         "videoId": "Kmlebm-Otp8",
-        "title": "Cette TECHNIQUE + CLAUDE CODE = un site à 12'300€ (en 20 min)",
+        "title": "Claude Code + Shopify : Le combo pour créer des sites à 5 chiffres",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-08-20",
         "url": "https://www.youtube.com/watch?v=Kmlebm-Otp8",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Cette TECHNIQUE + CLAUDE CODE = un site à 12'300€ (en 20 min)...",
+        "summary": "Nouveauté de Thomas Berton : Claude Code + Shopify : Le combo pour créer des sites à 5 chiffres...",
         "isShort": false
     },
     {
@@ -1000,18 +1060,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "ZNEPOzbxmEY",
-        "videoId": "ZNEPOzbxmEY",
-        "title": "Qu'est-ce qui se passe quand tu demandes à ChatGPT ce qu'il sait secrètement sur toi ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-16",
-        "url": "https://www.youtube.com/watch?v=ZNEPOzbxmEY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Qu'est-ce qui se passe quand tu demandes à ChatGPT ce qu'il sait secrètement sur toi ?...",
-        "isShort": false
-    },
-    {
         "id": "6GuY15wy6DY",
         "videoId": "6GuY15wy6DY",
         "title": "Le problème de Claude Code",
@@ -1169,6 +1217,18 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "7ieeYRie5po",
+        "videoId": "7ieeYRie5po",
+        "title": "La sortie de Seedance 2.5 #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=7ieeYRie5po",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : La sortie de Seedance 2.5 #actu...",
+        "isShort": false
+    },
+    {
         "id": "nmsk1rYHNYc",
         "videoId": "nmsk1rYHNYc",
         "title": "La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)",
@@ -1275,18 +1335,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=H9tBaUmQLCc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Gemma 4 change la vision des IA...",
-        "isShort": false
-    },
-    {
-        "id": "lQX95S48FX0",
-        "videoId": "lQX95S48FX0",
-        "title": "Tes posts partent tout seuls",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-10",
-        "url": "https://www.youtube.com/watch?v=lQX95S48FX0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Tes posts partent tout seuls...",
         "isShort": false
     },
     {
@@ -1707,18 +1755,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "hJziz2RGFbc",
-        "videoId": "hJziz2RGFbc",
-        "title": "IA = média ? L’Allemagne tranche",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-20",
-        "url": "https://www.youtube.com/watch?v=hJziz2RGFbc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA = média ? L’Allemagne tranche...",
-        "isShort": false
-    },
-    {
         "id": "3q1slkjnJNE",
         "videoId": "3q1slkjnJNE",
         "title": "Comment je mène un Audit IA chez un client à 5M€ (extraits réels)",
@@ -1752,42 +1788,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cBH0KT9SG_c",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)...",
-        "isShort": false
-    },
-    {
-        "id": "p9hfvCiffB4",
-        "videoId": "p9hfvCiffB4",
-        "title": "GPT-Red attaque les IA d’OpenAI",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-18",
-        "url": "https://www.youtube.com/watch?v=p9hfvCiffB4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-Red attaque les IA d’OpenAI...",
-        "isShort": false
-    },
-    {
-        "id": "cxo-wcAiEcU",
-        "videoId": "cxo-wcAiEcU",
-        "title": "OpenAI lance son premier gadget",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-18",
-        "url": "https://www.youtube.com/watch?v=cxo-wcAiEcU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI lance son premier gadget...",
-        "isShort": false
-    },
-    {
-        "id": "Uw9qdnKekR0",
-        "videoId": "Uw9qdnKekR0",
-        "title": "Kimi K3 : l’IA ouverte qui choque",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-17",
-        "url": "https://www.youtube.com/watch?v=Uw9qdnKekR0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kimi K3 : l’IA ouverte qui choque...",
         "isShort": false
     },
     {
@@ -1961,55 +1961,6 @@ export const allVideos = [
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : L'étape que tout le monde saute avant de choisir son IA...",
         "duration": 998,
-        "isShort": false
-    },
-    {
-        "id": "ZCdYOnKdPp8",
-        "videoId": "ZCdYOnKdPp8",
-        "title": "Vendre une infrastructure IA 3000€ sans être un vendeur (Matrice POVI)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=ZCdYOnKdPp8",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Vendre une infrastructure IA 3000€ sans être un vendeur (Matrice POVI)...",
-        "isShort": false
-    },
-    {
-        "id": "JKD_mD70ml8",
-        "videoId": "JKD_mD70ml8",
-        "title": "J’ai confié mes tâches à Copilot Cowork : le résultat est bluffant !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=JKD_mD70ml8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai confié mes tâches à Copilot Cowork : le résultat est bluffant !...",
-        "duration": 1219,
-        "isShort": false
-    },
-    {
-        "id": "gl7sgL9pVSE",
-        "videoId": "gl7sgL9pVSE",
-        "title": "Claude IA fait maintenant TOUT à votre place",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=gl7sgL9pVSE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Claude IA fait maintenant TOUT à votre place...",
-        "isShort": false
-    },
-    {
-        "id": "DgqKAlZuM_A",
-        "videoId": "DgqKAlZuM_A",
-        "title": "Fable 5 de RETOUR : Pourquoi l'IA était interdite aux USA?- Mythos, GPT 5.6: La fin des restrictions",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=DgqKAlZuM_A",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Jonas Ekanbo : Fable 5 de RETOUR : Pourquoi l'IA était interdite aux USA?- Mythos, GPT 5.6: La fin des restrictions...",
         "isShort": false
     }
 ];
