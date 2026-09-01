@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-31T12:34:29.760Z
+// Fichier généré automatiquement le 2026-09-01T11:03:16.209Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:34:29 PM 8/31/2026";
+export const lastUpdate = "11:03:16 AM 9/1/2026";
 
 export const sources = [
     {
@@ -172,6 +172,54 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "Jmil2UxcrlY",
+        "videoId": "Jmil2UxcrlY",
+        "title": "Utiliser Google Gemini mieux que 99% des gens !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-01",
+        "url": "https://www.youtube.com/watch?v=Jmil2UxcrlY",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Utiliser Google Gemini mieux que 99% des gens !...",
+        "isShort": false
+    },
+    {
+        "id": "q2C_bC5Ee6M",
+        "videoId": "q2C_bC5Ee6M",
+        "title": "OpenAI débranche Cursor",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-01",
+        "url": "https://www.youtube.com/watch?v=q2C_bC5Ee6M",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI débranche Cursor...",
+        "isShort": false
+    },
+    {
+        "id": "kSVNu76yxpc",
+        "videoId": "kSVNu76yxpc",
+        "title": "4 choses que je construirais dans Claude en un weekend",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=kSVNu76yxpc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 4 choses que je construirais dans Claude en un weekend...",
+        "isShort": false
+    },
+    {
+        "id": "pHRVMrxIxMQ",
+        "videoId": "pHRVMrxIxMQ",
+        "title": "Ma nouvelle vie à Hong Kong : je vous raconte tout",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=pHRVMrxIxMQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Ma nouvelle vie à Hong Kong : je vous raconte tout...",
+        "isShort": false
+    },
+    {
         "id": "0FlfKKNbK9E",
         "videoId": "0FlfKKNbK9E",
         "title": "Ce modèle gratuit vient de rattraper les géants de l’IA",
@@ -184,6 +232,42 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "mAuxe-BLLbo",
+        "videoId": "mAuxe-BLLbo",
+        "title": "Quel modele IA tourne sur ta machine ?",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=mAuxe-BLLbo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Quel modele IA tourne sur ta machine ?...",
+        "isShort": false
+    },
+    {
+        "id": "dv4IV4KdgNI",
+        "videoId": "dv4IV4KdgNI",
+        "title": "Comment utiliser Canva IA 2.0 comme un pro",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=dv4IV4KdgNI",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Canva IA 2.0 comme un pro...",
+        "isShort": false
+    },
+    {
+        "id": "uPCcmrAckwg",
+        "videoId": "uPCcmrAckwg",
+        "title": "Starlink : le plan pour l’abattre",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=uPCcmrAckwg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Starlink : le plan pour l’abattre...",
+        "isShort": false
+    },
+    {
         "id": "xlYkSLoiIAk",
         "videoId": "xlYkSLoiIAk",
         "title": "Russie et Chine veulent détruire Starlink, c'est la guerre partout + La troisième voie de l'IA !",
@@ -193,6 +277,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xlYkSLoiIAk",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Russie et Chine veulent détruire Starlink, c'est la guerre partout + La troisième voie de l'IA !...",
+        "isShort": false
+    },
+    {
+        "id": "7ydBmHCptys",
+        "videoId": "7ydBmHCptys",
+        "title": "La Russie et la Chine veulent détruire Starlink, c'est la guerre partout",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=7ydBmHCptys",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La Russie et la Chine veulent détruire Starlink, c'est la guerre partout...",
         "isShort": false
     },
     {
@@ -628,42 +724,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "cxkwP0zKzzY",
-        "videoId": "cxkwP0zKzzY",
-        "title": "L'IA crée des virus, mange les ressources, va dans l'espace... et la France perd !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=cxkwP0zKzzY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA crée des virus, mange les ressources, va dans l'espace... et la France perd !...",
-        "isShort": false
-    },
-    {
-        "id": "NMuHL77BHxo",
-        "videoId": "NMuHL77BHxo",
-        "title": "L'IA crée des virus, mange les ressources, va dans l'espace... et la France perd + l'IA vue  d'Asie",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=NMuHL77BHxo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA crée des virus, mange les ressources, va dans l'espace... et la France perd + l'IA vue  d'Asie...",
-        "isShort": false
-    },
-    {
-        "id": "W5zSCabZyyc",
-        "videoId": "W5zSCabZyyc",
-        "title": "Fisc : vos données ont fuité",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=W5zSCabZyyc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fisc : vos données ont fuité...",
-        "isShort": false
-    },
-    {
         "id": "jj0FIAOKNhs",
         "videoId": "jj0FIAOKNhs",
         "title": "Je note les profils de personnes qui veulent vendre de l'IA !",
@@ -976,18 +1036,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "QzK6E8C0TT8",
-        "videoId": "QzK6E8C0TT8",
-        "title": "8 outils pour construire un business avec Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-20",
-        "url": "https://www.youtube.com/watch?v=QzK6E8C0TT8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 8 outils pour construire un business avec Claude !...",
-        "isShort": false
-    },
-    {
         "id": "uF3C3zQxZ-o",
         "videoId": "uF3C3zQxZ-o",
         "title": "C’est décidé, j'arrête Claude Code pour Codex !",
@@ -1241,18 +1289,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "Q2Aeg6AErAM",
-        "videoId": "Q2Aeg6AErAM",
-        "title": "Alibaba s’ouvre enfin !",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-14",
-        "url": "https://www.youtube.com/watch?v=Q2Aeg6AErAM",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Alibaba s’ouvre enfin !...",
-        "isShort": false
-    },
-    {
         "id": "wyI8RKwI8po",
         "videoId": "wyI8RKwI8po",
         "title": "Récupère tous les leads d'Internet en langage naturel",
@@ -1346,18 +1382,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=nmsk1rYHNYc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)...",
-        "isShort": false
-    },
-    {
-        "id": "BRmdqp9QIto",
-        "videoId": "BRmdqp9QIto",
-        "title": "Seedance 2.5 : Miracle ou Arnaque ? (crash test)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-12",
-        "url": "https://www.youtube.com/watch?v=BRmdqp9QIto",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Seedance 2.5 : Miracle ou Arnaque ? (crash test)...",
         "isShort": false
     },
     {
