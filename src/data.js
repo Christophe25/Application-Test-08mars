@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-01T11:03:16.209Z
+// Fichier généré automatiquement le 2026-09-02T10:32:22.397Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:03:16 AM 9/1/2026";
+export const lastUpdate = "10:32:22 AM 9/2/2026";
 
 export const sources = [
     {
@@ -172,6 +172,30 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "aaOkBpiamjE",
+        "videoId": "aaOkBpiamjE",
+        "title": "Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée ! + Le médecin et l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=aaOkBpiamjE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée ! + Le médecin et l'IA...",
+        "isShort": false
+    },
+    {
+        "id": "mG4C2RLMFZU",
+        "videoId": "mG4C2RLMFZU",
+        "title": "Piratage : Anthropic face aux majors",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=mG4C2RLMFZU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Piratage : Anthropic face aux majors...",
+        "isShort": false
+    },
+    {
         "id": "Jmil2UxcrlY",
         "videoId": "Jmil2UxcrlY",
         "title": "Utiliser Google Gemini mieux que 99% des gens !",
@@ -181,6 +205,42 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Jmil2UxcrlY",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utiliser Google Gemini mieux que 99% des gens !...",
+        "isShort": false
+    },
+    {
+        "id": "QwuhJjpM9CE",
+        "videoId": "QwuhJjpM9CE",
+        "title": "Qwen vient-il de dévoiler le futur des LLM ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-01",
+        "url": "https://www.youtube.com/watch?v=QwuhJjpM9CE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen vient-il de dévoiler le futur des LLM ?...",
+        "isShort": false
+    },
+    {
+        "id": "smOC-8aEe00",
+        "videoId": "smOC-8aEe00",
+        "title": "Un CRM open source a revendre aux entreprises",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-01",
+        "url": "https://www.youtube.com/watch?v=smOC-8aEe00",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Un CRM open source a revendre aux entreprises...",
+        "isShort": false
+    },
+    {
+        "id": "Gbk-v_fNRDk",
+        "videoId": "Gbk-v_fNRDk",
+        "title": "Bill Gates sonne l'alarme sur l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-01",
+        "url": "https://www.youtube.com/watch?v=Gbk-v_fNRDk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Bill Gates sonne l'alarme sur l'IA...",
         "isShort": false
     },
     {
@@ -616,30 +676,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "klcn1BVk8Ks",
-        "videoId": "klcn1BVk8Ks",
-        "title": "Le vrai mur de l'IA : le courant",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=klcn1BVk8Ks",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le vrai mur de l'IA : le courant...",
-        "isShort": false
-    },
-    {
-        "id": "N5ngQjaPDZE",
-        "videoId": "N5ngQjaPDZE",
-        "title": "La puce OpenAI qui inquiète Nvidia",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=N5ngQjaPDZE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La puce OpenAI qui inquiète Nvidia...",
-        "isShort": false
-    },
-    {
         "id": "6sJmTbU8RFM",
         "videoId": "6sJmTbU8RFM",
         "title": "Un framework de développement argentique complet pour Claude !",
@@ -709,18 +745,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-FqnIlznw_8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Transforme n'importe quel livre en skill Claude Code.  Tu donnes le PDF a Claude Code, il en extrait...",
-        "isShort": false
-    },
-    {
-        "id": "Hk0GIKVCw44",
-        "videoId": "Hk0GIKVCw44",
-        "title": "16 virus IA : le vrai danger",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=Hk0GIKVCw44",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : 16 virus IA : le vrai danger...",
         "isShort": false
     },
     {
@@ -1349,18 +1373,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "P-nOn0R2hdI",
-        "videoId": "P-nOn0R2hdI",
-        "title": "Je te fais gagner 72 h de Seedance 2.5",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-13",
-        "url": "https://www.youtube.com/watch?v=P-nOn0R2hdI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Je te fais gagner 72 h de Seedance 2.5...",
-        "isShort": false
-    },
-    {
         "id": "kHcqcR0lQz0",
         "videoId": "kHcqcR0lQz0",
         "title": "Sora : La Révolution Vidéo IA Qui Va Tout Changer ! #shorts",
@@ -1371,18 +1383,6 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Sora : La Révolution Vidéo IA Qui Va Tout Changer ! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "nmsk1rYHNYc",
-        "videoId": "nmsk1rYHNYc",
-        "title": "La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-12",
-        "url": "https://www.youtube.com/watch?v=nmsk1rYHNYc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)...",
-        "isShort": false
     },
     {
         "id": "CxDNjAIHSJc",
