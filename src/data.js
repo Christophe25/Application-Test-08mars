@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-02T10:32:22.397Z
+// Fichier généré automatiquement le 2026-09-03T10:38:23.168Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:32:22 AM 9/2/2026";
+export const lastUpdate = "10:38:23 AM 9/3/2026";
 
 export const sources = [
     {
@@ -172,6 +172,97 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "uqwsoIk6NhM",
+        "videoId": "uqwsoIk6NhM",
+        "title": "OpenClaw : l’IA devient collègue",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=uqwsoIk6NhM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenClaw : l’IA devient collègue...",
+        "duration": 131,
+        "isShort": true
+    },
+    {
+        "id": "9N13WjnNHfA",
+        "videoId": "9N13WjnNHfA",
+        "title": "10 choses à tester si tu paies Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=9N13WjnNHfA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 10 choses à tester si tu paies Claude !...",
+        "duration": 82,
+        "isShort": true
+    },
+    {
+        "id": "3LfqOETwkd0",
+        "videoId": "3LfqOETwkd0",
+        "title": "Le monopole de Nvidia est en train de tomber (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=3LfqOETwkd0",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le monopole de Nvidia est en train de tomber (actu IA)...",
+        "duration": 1582,
+        "isShort": false
+    },
+    {
+        "id": "OIdKHTpDeVY",
+        "videoId": "OIdKHTpDeVY",
+        "title": "Claude Fable 5.1 le test ULTIME",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=OIdKHTpDeVY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Fable 5.1 le test ULTIME...",
+        "duration": 691,
+        "isShort": false
+    },
+    {
+        "id": "AOoLcEFDGDA",
+        "videoId": "AOoLcEFDGDA",
+        "title": "Apprendre 97% de CLAUDE en 27 minutes (Guide Débutant ULTIME)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=AOoLcEFDGDA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Apprendre 97% de CLAUDE en 27 minutes (Guide Débutant ULTIME)...",
+        "duration": 1634,
+        "isShort": false
+    },
+    {
+        "id": "3OE5jqFfQng",
+        "videoId": "3OE5jqFfQng",
+        "title": "Claude Fable : l’IA qui bosse seule",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=3OE5jqFfQng",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Fable : l’IA qui bosse seule...",
+        "duration": 162,
+        "isShort": true
+    },
+    {
+        "id": "HFBUqkAiJyM",
+        "videoId": "HFBUqkAiJyM",
+        "title": "Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=HFBUqkAiJyM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée !...",
+        "duration": 2660,
+        "isShort": false
+    },
+    {
         "id": "aaOkBpiamjE",
         "videoId": "aaOkBpiamjE",
         "title": "Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée ! + Le médecin et l'IA",
@@ -181,6 +272,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aaOkBpiamjE",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée ! + Le médecin et l'IA...",
+        "duration": 10409,
         "isShort": false
     },
     {
@@ -193,7 +285,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mG4C2RLMFZU",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Piratage : Anthropic face aux majors...",
-        "isShort": false
+        "duration": 168,
+        "isShort": true
     },
     {
         "id": "Jmil2UxcrlY",
@@ -205,7 +298,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Jmil2UxcrlY",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utiliser Google Gemini mieux que 99% des gens !...",
-        "isShort": false
+        "duration": 46,
+        "isShort": true
     },
     {
         "id": "QwuhJjpM9CE",
@@ -217,7 +311,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QwuhJjpM9CE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen vient-il de dévoiler le futur des LLM ?...",
-        "isShort": false
+        "duration": 123,
+        "isShort": true
     },
     {
         "id": "smOC-8aEe00",
@@ -229,7 +324,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=smOC-8aEe00",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Un CRM open source a revendre aux entreprises...",
-        "isShort": false
+        "duration": 33,
+        "isShort": true
     },
     {
         "id": "Gbk-v_fNRDk",
@@ -241,7 +337,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Gbk-v_fNRDk",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Bill Gates sonne l'alarme sur l'IA...",
-        "isShort": false
+        "duration": 158,
+        "isShort": true
     },
     {
         "id": "q2C_bC5Ee6M",
@@ -253,7 +350,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=q2C_bC5Ee6M",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : OpenAI débranche Cursor...",
-        "isShort": false
+        "duration": 134,
+        "isShort": true
     },
     {
         "id": "kSVNu76yxpc",
@@ -265,7 +363,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kSVNu76yxpc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 4 choses que je construirais dans Claude en un weekend...",
-        "isShort": false
+        "duration": 37,
+        "isShort": true
     },
     {
         "id": "pHRVMrxIxMQ",
@@ -277,6 +376,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pHRVMrxIxMQ",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Ma nouvelle vie à Hong Kong : je vous raconte tout...",
+        "duration": 1455,
         "isShort": false
     },
     {
@@ -289,6 +389,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0FlfKKNbK9E",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Ce modèle gratuit vient de rattraper les géants de l’IA...",
+        "duration": 541,
         "isShort": false
     },
     {
@@ -301,7 +402,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mAuxe-BLLbo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Quel modele IA tourne sur ta machine ?...",
-        "isShort": false
+        "duration": 37,
+        "isShort": true
     },
     {
         "id": "dv4IV4KdgNI",
@@ -313,6 +415,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dv4IV4KdgNI",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Canva IA 2.0 comme un pro...",
+        "duration": 6615,
         "isShort": false
     },
     {
@@ -325,7 +428,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uPCcmrAckwg",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Starlink : le plan pour l’abattre...",
-        "isShort": false
+        "duration": 127,
+        "isShort": true
     },
     {
         "id": "xlYkSLoiIAk",
@@ -337,6 +441,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xlYkSLoiIAk",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Russie et Chine veulent détruire Starlink, c'est la guerre partout + La troisième voie de l'IA !...",
+        "duration": 12404,
         "isShort": false
     },
     {
@@ -349,6 +454,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7ydBmHCptys",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : La Russie et la Chine veulent détruire Starlink, c'est la guerre partout...",
+        "duration": 3081,
         "isShort": false
     },
     {
@@ -361,7 +467,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=nWhW2VsSGDU",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Kyiv sort ses robots, l'ONU alerte...",
-        "isShort": false
+        "duration": 168,
+        "isShort": true
     },
     {
         "id": "OsPRnH_vOTg",
@@ -373,6 +480,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OsPRnH_vOTg",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : J'ai analysé 177k€ de services IA vendus : voici ce que les PME achètent vraiment en 2026...",
+        "duration": 1521,
         "isShort": false
     },
     {
@@ -385,7 +493,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DggNOKLuniE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 4 sites pour le Vibecoding !...",
-        "isShort": false
+        "duration": 41,
+        "isShort": true
     },
     {
         "id": "C1esYFoZXBE",
@@ -397,6 +506,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)...",
+        "duration": 1950,
         "isShort": false
     },
     {
@@ -409,6 +519,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QCffQAhaPSE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment l'IA est devenue plus chère que ceux qu'elle remplace...",
+        "duration": 1095,
         "isShort": false
     },
     {
@@ -421,7 +532,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3hRLAJ8xTsw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Stripe rachète OpenRouter #actu...",
-        "isShort": false
+        "duration": 56,
+        "isShort": true
     },
     {
         "id": "W2LfhDOjrL4",
@@ -433,7 +545,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=W2LfhDOjrL4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Code world model : Et si on s’était trompé sur les World️️ models...",
-        "isShort": false
+        "duration": 111,
+        "isShort": true
     },
     {
         "id": "D7ehyxv3UeQ",
@@ -445,7 +558,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=D7ehyxv3UeQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Chaque PDF que tu uploades dans Claude te coûte deux fois plus de tokens !...",
-        "isShort": false
+        "duration": 50,
+        "isShort": true
     },
     {
         "id": "GcETuqiVIiY",
@@ -457,7 +571,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GcETuqiVIiY",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le watermark de Claude sur les textes IA...",
-        "isShort": false
+        "duration": 77,
+        "isShort": true
     },
     {
         "id": "XNWC3_W5T4k",
@@ -469,6 +584,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XNWC3_W5T4k",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Et si on s’était trompé sur les world models ? (Code word model)...",
+        "duration": 483,
         "isShort": false
     },
     {
@@ -481,7 +597,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Bpkeimq3AXg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Ta voix en texte, gratuitement...",
-        "isShort": false
+        "duration": 72,
+        "isShort": true
     },
     {
         "id": "OHlcxAhSY_E",
@@ -493,6 +610,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OHlcxAhSY_E",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Regarde cette vidéo si tu diriges un business...",
+        "duration": 321,
         "isShort": false
     },
     {
@@ -505,7 +623,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=bRBIaj7JrWQ",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : L'IA chinoise tourne sans Nvidia...",
-        "isShort": false
+        "duration": 145,
+        "isShort": true
     },
     {
         "id": "GWzJzy2xeYI",
@@ -517,6 +636,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GWzJzy2xeYI",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Claude a changé, faut se mettre à jour...",
+        "duration": 2923,
         "isShort": false
     },
     {
@@ -529,7 +649,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pgz6FdH5qVw",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Meta : 17 Mds pour ados accros...",
-        "isShort": false
+        "duration": 166,
+        "isShort": true
     },
     {
         "id": "fDq1XbGJaHM",
@@ -541,6 +662,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fDq1XbGJaHM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : DeepSeek Harness + Ollama = Un Agent IA (LOCAL) 🤯...",
+        "duration": 394,
         "isShort": false
     },
     {
@@ -553,43 +675,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=H_BVqej1C90",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Nvidia veut contrôler l’IA ouverte...",
-        "isShort": false
-    },
-    {
-        "id": "BV9zCWm5Tq0",
-        "videoId": "BV9zCWm5Tq0",
-        "title": "On pleure Hugging Face pendant que les USA et la Chine nous donnent des leçons + Nouveautés Claude",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-28",
-        "url": "https://www.youtube.com/watch?v=BV9zCWm5Tq0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : On pleure Hugging Face pendant que les USA et la Chine nous donnent des leçons + Nouveautés Claude...",
-        "isShort": false
-    },
-    {
-        "id": "sp3BsVe1DV0",
-        "videoId": "sp3BsVe1DV0",
-        "title": "On pleure Hugging Face et les USA et la Chine nous donnent des leçons",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-28",
-        "url": "https://www.youtube.com/watch?v=sp3BsVe1DV0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : On pleure Hugging Face et les USA et la Chine nous donnent des leçons...",
-        "isShort": false
-    },
-    {
-        "id": "P286_hwk5Ls",
-        "videoId": "P286_hwk5Ls",
-        "title": "Hugging Face : 13 milliards ratés",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-28",
-        "url": "https://www.youtube.com/watch?v=P286_hwk5Ls",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Hugging Face : 13 milliards ratés...",
-        "isShort": false
+        "duration": 119,
+        "isShort": true
     },
     {
         "id": "F2cI_H6_1yw",
@@ -601,7 +688,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F2cI_H6_1yw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 3 commandes ChatGPT pour des visuels produit professionnels...",
-        "isShort": false
+        "duration": 21,
+        "isShort": true
     },
     {
         "id": "ib4Bc_kbzR0",
@@ -613,6 +701,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ib4Bc_kbzR0",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en 10 min...",
+        "duration": 681,
         "isShort": false
     },
     {
@@ -625,7 +714,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QxhOKugAa78",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 6 choses pour lesquelles tu paies encore et que Claude fait gratuitement !...",
-        "isShort": false
+        "duration": 10,
+        "isShort": true
     },
     {
         "id": "pS81YzrmEzA",
@@ -637,7 +727,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pS81YzrmEzA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Ils quittent Google !...",
-        "isShort": false
+        "duration": 80,
+        "isShort": true
     },
     {
         "id": "9JapGVVBR6o",
@@ -649,6 +740,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9JapGVVBR6o",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le watermarking de Claude expliqué simplement (actu IA)...",
+        "duration": 1519,
         "isShort": false
     },
     {
@@ -661,7 +753,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=S__8c_pqYpE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Le vol de raisonnement des IA...",
-        "isShort": false
+        "duration": 130,
+        "isShort": true
     },
     {
         "id": "ooD-9cn4AbY",
@@ -673,6 +766,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ooD-9cn4AbY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Créez Votre Site Web Shopify en 5 Minutes ! Stratégie Géniale #shorts...",
+        "duration": 90,
         "isShort": true
     },
     {
@@ -685,7 +779,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6sJmTbU8RFM",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Un framework de développement argentique complet pour Claude !...",
-        "isShort": false
+        "duration": 59,
+        "isShort": true
     },
     {
         "id": "kQON-pgK95Q",
@@ -697,7 +792,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kQON-pgK95Q",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : La souveraineté IA selon Mistral #actu...",
-        "isShort": false
+        "duration": 83,
+        "isShort": true
     },
     {
         "id": "K3HuspM1HmM",
@@ -709,6 +805,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=K3HuspM1HmM",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La Faille Qui Permet de Voler le Raisonnement des IA...",
+        "duration": 799,
         "isShort": false
     },
     {
@@ -721,7 +818,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MEmgn1bE3EM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : L'auto-DM Instagram que les influenceurs revendent...",
-        "isShort": false
+        "duration": 58,
+        "isShort": true
     },
     {
         "id": "e4F-TUpZXzk",
@@ -733,6 +831,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=e4F-TUpZXzk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Créer Site Shopify Sans Code: IA Claude Code Révélé! #shorts...",
+        "duration": 153,
         "isShort": true
     },
     {
@@ -745,7 +844,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-FqnIlznw_8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Transforme n'importe quel livre en skill Claude Code.  Tu donnes le PDF a Claude Code, il en extrait...",
-        "isShort": false
+        "duration": 43,
+        "isShort": true
     },
     {
         "id": "jj0FIAOKNhs",
@@ -757,7 +857,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=jj0FIAOKNhs",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Je note les profils de personnes qui veulent vendre de l'IA !...",
-        "isShort": false
+        "duration": 50,
+        "isShort": true
     },
     {
         "id": "dk4eorkkni8",
@@ -769,7 +870,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dk4eorkkni8",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les réglages indispensables dans Claude !...",
-        "isShort": false
+        "duration": 77,
+        "isShort": true
     },
     {
         "id": "SNeiWlJqEIo",
@@ -781,7 +883,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=SNeiWlJqEIo",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Grok Bot c’est quoi ? #actu...",
-        "isShort": false
+        "duration": 69,
+        "isShort": true
     },
     {
         "id": "tm_QZ7iIGeg",
@@ -793,6 +896,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tm_QZ7iIGeg",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Lucas Reverdy : Comment Automatiser ses Montages Vidéo avec Claude (Guide Complet)...",
+        "duration": 853,
         "isShort": false
     },
     {
@@ -805,7 +909,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fK8D3Bx96Iw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Codex et Claude Code gratuits, sans abonnement...",
-        "isShort": false
+        "duration": 40,
+        "isShort": true
     },
     {
         "id": "P8drExEL4Bk",
@@ -817,6 +922,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=P8drExEL4Bk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Claude IA: Crée des Images et Vidéos Magiques FACILEMENT! #shorts...",
+        "duration": 40,
         "isShort": true
     },
     {
@@ -829,6 +935,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GWf9yeqxwjk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !...",
+        "duration": 3889,
         "isShort": false
     },
     {
@@ -841,7 +948,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=y2KpFbVVSQU",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le modèle open-source de Meta #actu...",
-        "isShort": false
+        "duration": 73,
+        "isShort": true
     },
     {
         "id": "k0myRsQCsp0",
@@ -853,7 +961,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=k0myRsQCsp0",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La fin des gros GPU ? (Diffusionblocks)...",
-        "isShort": false
+        "duration": 124,
+        "isShort": true
     },
     {
         "id": "iTyl6yfb6Jo",
@@ -865,7 +974,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iTyl6yfb6Jo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : CapCut Pro gratuit et open source...",
-        "isShort": false
+        "duration": 35,
+        "isShort": true
     },
     {
         "id": "jzXGxXdjkTQ",
@@ -877,6 +987,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=jzXGxXdjkTQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Produit Dynamique : Création Vidéo Style Balenciaga Facile #shorts...",
+        "duration": 69,
         "isShort": true
     },
     {
@@ -889,6 +1000,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=N8e0LLHfTJY",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : La différence entre un Consultant IA à 0€ et un à 15k€/mois...",
+        "duration": 1577,
         "isShort": false
     },
     {
@@ -901,7 +1013,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8q8cWIY-FPI",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Ce que personne ne te dit sur la sécurité de ton app !...",
-        "isShort": false
+        "duration": 37,
+        "isShort": true
     },
     {
         "id": "zfuvmmNuL7g",
@@ -913,7 +1026,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=zfuvmmNuL7g",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Voici les 2 outils que j’utilise pour créer tout mes workflows IA...",
-        "isShort": false
+        "duration": 87,
+        "isShort": true
     },
     {
         "id": "REqJ7H7i2jQ",
@@ -925,6 +1039,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=REqJ7H7i2jQ",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES à Absolument Connaître en 2027...",
+        "duration": 1297,
         "isShort": false
     },
     {
@@ -937,7 +1052,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UsLU-dkEg5M",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : DeepSeek Harness : la bombe est lâchée...",
-        "isShort": false
+        "duration": 52,
+        "isShort": true
     },
     {
         "id": "j5Cnwp2uOEw",
@@ -949,6 +1065,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=j5Cnwp2uOEw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L’IA aurait dû tuer l’Eglise...",
+        "duration": 1303,
         "isShort": false
     },
     {
@@ -961,6 +1078,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=l6WWP7arLEQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Cette Découverte Pourrait Diviser la VRAM par 6 (DiffusionBlocks)...",
+        "duration": 518,
         "isShort": false
     },
     {
@@ -973,6 +1091,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lhodwaO1aGc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : DeepSeek Harness = Claude Code GRATUIT  🐳 (open source)...",
+        "duration": 775,
         "isShort": false
     },
     {
@@ -985,7 +1104,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=A9eNMubDEm4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 5 prompts parfaits pour éviter que ton app se fasse hacker !...",
-        "isShort": false
+        "duration": 49,
+        "isShort": true
     },
     {
         "id": "2Lq75AyVjdE",
@@ -997,7 +1117,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2Lq75AyVjdE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Transforme une video en site web anime...",
-        "isShort": false
+        "duration": 52,
+        "isShort": true
     },
     {
         "id": "vy8keMoC_5c",
@@ -1009,7 +1130,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vy8keMoC_5c",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 5 signes que tu sais vraiment utiliser l'IA !...",
-        "isShort": false
+        "duration": 42,
+        "isShort": true
     },
     {
         "id": "2aHVkfXcpJA",
@@ -1021,7 +1143,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2aHVkfXcpJA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Le seul dépôt Claude que tu as besoin !...",
-        "isShort": false
+        "duration": 35,
+        "isShort": true
     },
     {
         "id": "Od6j6r21FdE",
@@ -1033,7 +1156,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Od6j6r21FdE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : 3 astuces pour des visuels IA de pro...",
-        "isShort": false
+        "duration": 84,
+        "isShort": true
     },
     {
         "id": "o_k063WsJhE",
@@ -1045,19 +1169,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=o_k063WsJhE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 5 plugins pour créer des sites web incroyables avec Claude !...",
-        "isShort": false
-    },
-    {
-        "id": "0IjPwfgGB0M",
-        "videoId": "0IjPwfgGB0M",
-        "title": "ChatGPT WORK peut TOUT faire à ta place (7 scénarios)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-20",
-        "url": "https://www.youtube.com/watch?v=0IjPwfgGB0M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT WORK peut TOUT faire à ta place (7 scénarios)...",
-        "isShort": false
+        "duration": 70,
+        "isShort": true
     },
     {
         "id": "uF3C3zQxZ-o",
@@ -1069,7 +1182,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uF3C3zQxZ-o",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : C’est décidé, j'arrête Claude Code pour Codex !...",
-        "isShort": false
+        "duration": 81,
+        "isShort": true
     },
     {
         "id": "lNpseFbzM5Y",
@@ -1081,7 +1195,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lNpseFbzM5Y",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Deepseek Harness : La fin de Claude code ? 🤯...",
-        "isShort": false
+        "duration": 138,
+        "isShort": true
     },
     {
         "id": "_EAfv6hGLcs",
@@ -1093,6 +1208,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_EAfv6hGLcs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai Automatisé 100% de mes Posts avec ce Script [GitHub]...",
+        "duration": 1146,
         "isShort": false
     },
     {
@@ -1105,6 +1221,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Kmlebm-Otp8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Claude Code + Shopify : Le combo pour créer des sites à 5 chiffres...",
+        "duration": 2188,
         "isShort": false
     },
     {
@@ -1117,6 +1234,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Y-C_71H-mAg",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois......",
+        "duration": 1418,
         "isShort": false
     },
     {
@@ -1129,6 +1247,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VCntIHygMlg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : DeepSeek lâche une bombe : DeepSeek Harness (actu IA)...",
+        "duration": 1247,
         "isShort": false
     },
     {
@@ -1141,6 +1260,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OExbLboNEaw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek Harness : La Fin de Claude Code ? (Installation + Test)...",
+        "duration": 709,
         "isShort": false
     },
     {
@@ -1153,7 +1273,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GwVB8H69_jE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Un mec a open sourcé toutes les données de Wall Street...",
-        "isShort": false
+        "duration": 39,
+        "isShort": true
     },
     {
         "id": "E_vNH-XoXbQ",
@@ -1165,7 +1286,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=E_vNH-XoXbQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les hacks ultimes pour économiser vos tokens dans Claude !...",
-        "isShort": false
+        "duration": 104,
+        "isShort": true
     },
     {
         "id": "89J8aJpzBLc",
@@ -1177,7 +1299,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=89J8aJpzBLc",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Prédire les cyclones avec l’IA #actu...",
-        "isShort": false
+        "duration": 37,
+        "isShort": true
     },
     {
         "id": "7PEBbSp9kws",
@@ -1189,6 +1312,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7PEBbSp9kws",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Muse Glimmer : le retour inattendu de Meta dans l’open source...",
+        "duration": 416,
         "isShort": false
     },
     {
@@ -1201,7 +1325,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4AjMSaNAI1w",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Claude fait une découverte folle après 650 échecs...",
-        "isShort": false
+        "duration": 132,
+        "isShort": true
     },
     {
         "id": "riqjZ7H23Ys",
@@ -1213,7 +1338,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=riqjZ7H23Ys",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le robot qui fait ta valise #xiaomi...",
-        "isShort": false
+        "duration": 60,
+        "isShort": true
     },
     {
         "id": "aQ5Sa4OoOjA",
@@ -1225,6 +1351,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aQ5Sa4OoOjA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : 650 échecs plus tard, Claude fait une découverte...",
+        "duration": 350,
         "isShort": false
     },
     {
@@ -1237,7 +1364,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=a-bxMZnM-n0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Transforme n'importe quel livre en skill Claude Code...",
-        "isShort": false
+        "duration": 35,
+        "isShort": true
     },
     {
         "id": "tb-7zB5pwng",
@@ -1249,6 +1377,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tb-7zB5pwng",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Vous utilisez 10 % de Claude (voici les 90 % cachés)...",
+        "duration": 1301,
         "isShort": false
     },
     {
@@ -1261,6 +1390,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QbcPDv-s2-E",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment Bâtir un Business en SOLO avec l’IA (grâce à Claude Code)...",
+        "duration": 1345,
         "isShort": false
     },
     {
@@ -1273,7 +1403,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6GuY15wy6DY",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le problème de Claude Code...",
-        "isShort": false
+        "duration": 73,
+        "isShort": true
     },
     {
         "id": "4rFx2B6UgiA",
@@ -1285,19 +1416,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4rFx2B6UgiA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Ce repo open source découpe tes vidéos en shorts tout seul...",
-        "isShort": false
-    },
-    {
-        "id": "dDMxmwIGYoQ",
-        "videoId": "dDMxmwIGYoQ",
-        "title": "Le World Mental Modeling",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-15",
-        "url": "https://www.youtube.com/watch?v=dDMxmwIGYoQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le World Mental Modeling...",
-        "isShort": false
+        "duration": 30,
+        "isShort": true
     },
     {
         "id": "EGL2DQ1MJds",
@@ -1313,18 +1433,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "wyI8RKwI8po",
-        "videoId": "wyI8RKwI8po",
-        "title": "Récupère tous les leads d'Internet en langage naturel",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-14",
-        "url": "https://www.youtube.com/watch?v=wyI8RKwI8po",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Récupère tous les leads d'Internet en langage naturel...",
-        "isShort": false
-    },
-    {
         "id": "eRaek8u2CS8",
         "videoId": "eRaek8u2CS8",
         "title": "Commente Vocal pour avoir le prompt !",
@@ -1334,7 +1442,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eRaek8u2CS8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Commente Vocal pour avoir le prompt !...",
-        "isShort": false
+        "duration": 33,
+        "isShort": true
     },
     {
         "id": "odK-rqGSYR8",
@@ -1346,6 +1455,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=odK-rqGSYR8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Demandez à l'IA de poser des questions avant TOUT ! #shorts...",
+        "duration": 56,
         "isShort": true
     },
     {
@@ -1358,6 +1468,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gK1mBVZUlVQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Claude + DataForSEO : Le SEO Ne Sera Plus Jamais Pareil...",
+        "duration": 594,
         "isShort": false
     },
     {
@@ -1370,7 +1481,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XgnYGTaPLws",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Longcat 2.0 : La fin des GPU NVIDIA ? 🇨🇳...",
-        "isShort": false
+        "duration": 112,
+        "isShort": true
     },
     {
         "id": "kHcqcR0lQz0",
@@ -1382,6 +1494,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kHcqcR0lQz0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Sora : La Révolution Vidéo IA Qui Va Tout Changer ! #shorts...",
+        "duration": 26,
         "isShort": true
     },
     {
@@ -1394,6 +1507,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=CxDNjAIHSJc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Cloud Code: Prenez le contrôle TOTAL de votre ordinateur ! #shorts...",
+        "duration": 39,
         "isShort": true
     },
     {
@@ -1406,6 +1520,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=U-8CR0yIKy0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : IA hors de contrôle: L'IA inscrite à un webinaire de 3900€ ! #shorts...",
+        "duration": 34,
         "isShort": true
     },
     {
@@ -1431,6 +1546,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=LWvjJkLtDhQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : AIOS: L'IA sécurisée, votre environnement isolé et protégé! #shorts...",
+        "duration": 61,
         "isShort": true
     },
     {
@@ -1443,18 +1559,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fVtO2xdsvXU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Claude Code : Outils payants ? C'est terminé, c'est gratuit ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "u_t27awaU5U",
-        "videoId": "u_t27awaU5U",
-        "title": "L'IA qui pense pour vous: Routines et Actions Autonomes ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-10",
-        "url": "https://www.youtube.com/watch?v=u_t27awaU5U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : L'IA qui pense pour vous: Routines et Actions Autonomes ! #shorts...",
+        "duration": 29,
         "isShort": true
     },
     {
@@ -1480,6 +1585,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WFWNKIohrEc",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Dans les coulisses de mon Agence IA...",
+        "duration": 1167,
         "isShort": false
     },
     {
@@ -1492,6 +1598,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4km3oLGe-iQ",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que le nouveau ChatGPT peut faire...",
+        "duration": 1347,
         "isShort": false
     },
     {
@@ -1504,6 +1611,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-TVOe0WqSro",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Jonas Ekanbo : Comment créer un site web avec ChatGPT et Hostinger Horizon...",
+        "duration": 1497,
         "isShort": false
     },
     {
@@ -1516,6 +1624,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xAlXes0E34k",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Claude Design vient de sortir le Motion Design par IA...",
+        "duration": 1400,
         "isShort": false
     },
     {
@@ -1554,6 +1663,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=rQuiE7S7Jzg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !...",
+        "duration": 653,
         "isShort": false
     },
     {
@@ -1592,6 +1702,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gBY3xIaDquY",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : J'ai dépensé 50.000€ en moins d'1 an dans des formations (voici ce que j'ai appris)...",
+        "duration": 1552,
         "isShort": false
     },
     {
@@ -1604,6 +1715,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Vv1eXHqOZlI",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment Vivre de l'IA en 2026 (sans compétence technique)...",
+        "duration": 2352,
         "isShort": false
     },
     {
@@ -1616,6 +1728,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_-oxY6Q8BBs",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : L'outil IA n°1 sur Github vient de RÉSOUDRE le problème de recherche sur Claude...",
+        "duration": 1079,
         "isShort": false
     },
     {
@@ -1628,7 +1741,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-QWqZvcmNoY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Crée tes propres skills claude en t'enregistrant! 🎬...",
-        "isShort": false
+        "duration": 136,
+        "isShort": true
     },
     {
         "id": "IN_knFr6tQ4",
@@ -1640,6 +1754,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IN_knFr6tQ4",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment maîtriser l'IA mieux que 95% des business (5 secrets)...",
+        "duration": 1022,
         "isShort": false
     },
     {
@@ -1652,7 +1767,8 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=flQLseCGsHU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Ce skill Claude va rendre ton IA humaine 👀...",
-        "isShort": false
+        "duration": 57,
+        "isShort": true
     },
     {
         "id": "pk-_1sanvCw",
@@ -1677,6 +1793,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=de8Dp2EWo0g",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : J'ai analysé 85 Agences IA, voici ce qui marche en 2026...",
+        "duration": 1322,
         "isShort": false
     },
     {
@@ -1689,6 +1806,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dqGe3j8o-UM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Claude Code + Higgsfield créent vos pubs à votre place ! (marque, produits, UGC)...",
+        "duration": 1577,
         "isShort": false
     },
     {
@@ -1701,6 +1819,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=r6jn9iJJCfo",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Opus 5 vient de tuer Fable (Vraiment)...",
+        "duration": 573,
         "isShort": false
     },
     {
@@ -1713,6 +1832,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZLw7kIgNcQE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : 100 jours avec Hermes Agent résumé en 16 minutes...",
+        "duration": 967,
         "isShort": false
     },
     {
@@ -1738,6 +1858,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=l1zVp3wOBSg",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks...",
+        "duration": 481,
         "isShort": false
     },
     {
@@ -1750,6 +1871,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=LGiaRxIsnzk",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Il a fait son site SEUL avec CLAUDE CODE en 2 jours...",
+        "duration": 3203,
         "isShort": false
     },
     {
@@ -1762,6 +1884,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=NQJPlvwVFOE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment Créer des Skills Claude comme un PRO (tuto complet)...",
+        "duration": 1659,
         "isShort": false
     },
     {
@@ -1787,6 +1910,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RutkqDcQZL0",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE...",
+        "duration": 620,
         "isShort": false
     },
     {
@@ -1799,6 +1923,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F9YcVlyZahk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi...",
+        "duration": 502,
         "isShort": false
     },
     {
@@ -1824,6 +1949,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3q1slkjnJNE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment je mène un Audit IA chez un client à 5M€ (extraits réels)...",
+        "duration": 1539,
         "isShort": false
     },
     {
@@ -1836,6 +1962,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ocFNQTfj49U",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Deepseek a résolu le plus gros problème de l’IA...",
+        "duration": 1010,
         "isShort": false
     },
     {
@@ -1848,6 +1975,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cBH0KT9SG_c",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)...",
+        "duration": 1141,
         "isShort": false
     },
     {
@@ -1912,6 +2040,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oU2slLP15VA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : La nouvelle méthode pour utiliser Claude IA sans prompt...",
+        "duration": 805,
         "isShort": false
     },
     {
@@ -1924,6 +2053,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5dF9rDlMGhE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire....",
+        "duration": 2021,
         "isShort": false
     },
     {
@@ -1936,6 +2066,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ReWSbxmIITM",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comprendre le Fonctionnement des LLM : Guide Complet Débutant...",
+        "duration": 949,
         "isShort": false
     },
     {
@@ -1948,30 +2079,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MEgLPh5FAqY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)...",
-        "isShort": false
-    },
-    {
-        "id": "B3XeYkaZrjY",
-        "videoId": "B3XeYkaZrjY",
-        "title": "J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=B3XeYkaZrjY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !...",
-        "isShort": false
-    },
-    {
-        "id": "IbSrpvhkCTQ",
-        "videoId": "IbSrpvhkCTQ",
-        "title": "Anthropic x Samsung: La fin de l'hégémonie Nvidia? - Puces IA personnalisées: La nouvelle stratégie",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=IbSrpvhkCTQ",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Jonas Ekanbo : Anthropic x Samsung: La fin de l'hégémonie Nvidia? - Puces IA personnalisées: La nouvelle stratégie...",
+        "duration": 1207,
         "isShort": false
     }
 ];
