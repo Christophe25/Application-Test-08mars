@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-03T10:38:23.168Z
+// Fichier généré automatiquement le 2026-09-04T10:26:17.233Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:38:23 AM 9/3/2026";
+export const lastUpdate = "10:26:17 AM 9/4/2026";
 
 export const sources = [
     {
@@ -171,6 +171,78 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "iZjSPvxlW1s",
+        "videoId": "iZjSPvxlW1s",
+        "title": "GPT-6 Astra est sorti : les 3 points à retenir",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-04",
+        "url": "https://www.youtube.com/watch?v=iZjSPvxlW1s",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : GPT-6 Astra est sorti : les 3 points à retenir...",
+        "isShort": false
+    },
+    {
+        "id": "FeehuM92_ZE",
+        "videoId": "FeehuM92_ZE",
+        "title": "GPT-6 Astra : pas encore l'AGI mais déjà flippant ! + Tuto OpenClaw 2.0",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-04",
+        "url": "https://www.youtube.com/watch?v=FeehuM92_ZE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6 Astra : pas encore l'AGI mais déjà flippant ! + Tuto OpenClaw 2.0...",
+        "isShort": false
+    },
+    {
+        "id": "sJ0ygw1R9Jc",
+        "videoId": "sJ0ygw1R9Jc",
+        "title": "L’UE fait de ChatGPT un moteur",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-04",
+        "url": "https://www.youtube.com/watch?v=sJ0ygw1R9Jc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L’UE fait de ChatGPT un moteur...",
+        "isShort": false
+    },
+    {
+        "id": "D2RkSUhRrZg",
+        "videoId": "D2RkSUhRrZg",
+        "title": "La nouvelle Skill incroyable dans ChatGPT !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=D2RkSUhRrZg",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : La nouvelle Skill incroyable dans ChatGPT !...",
+        "isShort": false
+    },
+    {
+        "id": "Z5jpm8xOgB4",
+        "videoId": "Z5jpm8xOgB4",
+        "title": "ChatGPT devient une régie pub",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=Z5jpm8xOgB4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT devient une régie pub...",
+        "isShort": false
+    },
+    {
+        "id": "ofwfKKum2TU",
+        "videoId": "ofwfKKum2TU",
+        "title": "Ce médecin utilise un robot et sa propre IA pour ses patients",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=ofwfKKum2TU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Ce médecin utilise un robot et sa propre IA pour ses patients...",
+        "isShort": false
+    },
     {
         "id": "uqwsoIk6NhM",
         "videoId": "uqwsoIk6NhM",
@@ -614,45 +686,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "bRBIaj7JrWQ",
-        "videoId": "bRBIaj7JrWQ",
-        "title": "L'IA chinoise tourne sans Nvidia",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-29",
-        "url": "https://www.youtube.com/watch?v=bRBIaj7JrWQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA chinoise tourne sans Nvidia...",
-        "duration": 145,
-        "isShort": true
-    },
-    {
-        "id": "GWzJzy2xeYI",
-        "videoId": "GWzJzy2xeYI",
-        "title": "Claude a changé, faut se mettre à jour",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-29",
-        "url": "https://www.youtube.com/watch?v=GWzJzy2xeYI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude a changé, faut se mettre à jour...",
-        "duration": 2923,
-        "isShort": false
-    },
-    {
-        "id": "pgz6FdH5qVw",
-        "videoId": "pgz6FdH5qVw",
-        "title": "Meta : 17 Mds pour ados accros",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-29",
-        "url": "https://www.youtube.com/watch?v=pgz6FdH5qVw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta : 17 Mds pour ados accros...",
-        "duration": 166,
-        "isShort": true
-    },
-    {
         "id": "fDq1XbGJaHM",
         "videoId": "fDq1XbGJaHM",
         "title": "DeepSeek Harness + Ollama = Un Agent IA (LOCAL) 🤯",
@@ -664,19 +697,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : DeepSeek Harness + Ollama = Un Agent IA (LOCAL) 🤯...",
         "duration": 394,
         "isShort": false
-    },
-    {
-        "id": "H_BVqej1C90",
-        "videoId": "H_BVqej1C90",
-        "title": "Nvidia veut contrôler l’IA ouverte",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-28",
-        "url": "https://www.youtube.com/watch?v=H_BVqej1C90",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Nvidia veut contrôler l’IA ouverte...",
-        "duration": 119,
-        "isShort": true
     },
     {
         "id": "F2cI_H6_1yw",
@@ -1404,19 +1424,6 @@ export const allVideos = [
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le problème de Claude Code...",
         "duration": 73,
-        "isShort": true
-    },
-    {
-        "id": "4rFx2B6UgiA",
-        "videoId": "4rFx2B6UgiA",
-        "title": "Ce repo open source découpe tes vidéos en shorts tout seul",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-16",
-        "url": "https://www.youtube.com/watch?v=4rFx2B6UgiA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ce repo open source découpe tes vidéos en shorts tout seul...",
-        "duration": 30,
         "isShort": true
     },
     {
