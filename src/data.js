@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-04T10:26:17.233Z
+// Fichier généré automatiquement le 2026-09-05T09:52:11.850Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:26:17 AM 9/4/2026";
+export const lastUpdate = "9:52:11 AM 9/5/2026";
 
 export const sources = [
     {
@@ -172,6 +172,18 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "3WtlnjzVnaY",
+        "videoId": "3WtlnjzVnaY",
+        "title": "Tu peux maintenant créer des visuels editables directement depuis ChatGPT !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-04",
+        "url": "https://www.youtube.com/watch?v=3WtlnjzVnaY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux maintenant créer des visuels editables directement depuis ChatGPT !...",
+        "isShort": false
+    },
+    {
         "id": "iZjSPvxlW1s",
         "videoId": "iZjSPvxlW1s",
         "title": "GPT-6 Astra est sorti : les 3 points à retenir",
@@ -181,6 +193,30 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iZjSPvxlW1s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : GPT-6 Astra est sorti : les 3 points à retenir...",
+        "isShort": false
+    },
+    {
+        "id": "PEWHYroIZA0",
+        "videoId": "PEWHYroIZA0",
+        "title": "GPT‑6 Astra : le retour en force de ChatGPT ?",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-09-04",
+        "url": "https://www.youtube.com/watch?v=PEWHYroIZA0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : GPT‑6 Astra : le retour en force de ChatGPT ?...",
+        "isShort": false
+    },
+    {
+        "id": "5S_XnNihW6A",
+        "videoId": "5S_XnNihW6A",
+        "title": "GPT-6 Astra : pas encore l'AGI mais déjà flippant !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-04",
+        "url": "https://www.youtube.com/watch?v=5S_XnNihW6A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6 Astra : pas encore l'AGI mais déjà flippant !...",
         "isShort": false
     },
     {
@@ -452,19 +488,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "0FlfKKNbK9E",
-        "videoId": "0FlfKKNbK9E",
-        "title": "Ce modèle gratuit vient de rattraper les géants de l’IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=0FlfKKNbK9E",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Ce modèle gratuit vient de rattraper les géants de l’IA...",
-        "duration": 541,
-        "isShort": false
-    },
-    {
         "id": "mAuxe-BLLbo",
         "videoId": "mAuxe-BLLbo",
         "title": "Quel modele IA tourne sur ta machine ?",
@@ -528,19 +551,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : La Russie et la Chine veulent détruire Starlink, c'est la guerre partout...",
         "duration": 3081,
         "isShort": false
-    },
-    {
-        "id": "nWhW2VsSGDU",
-        "videoId": "nWhW2VsSGDU",
-        "title": "Kyiv sort ses robots, l'ONU alerte",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=nWhW2VsSGDU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kyiv sort ses robots, l'ONU alerte...",
-        "duration": 168,
-        "isShort": true
     },
     {
         "id": "OsPRnH_vOTg",
@@ -1177,19 +1187,6 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : 3 astuces pour des visuels IA de pro...",
         "duration": 84,
-        "isShort": true
-    },
-    {
-        "id": "o_k063WsJhE",
-        "videoId": "o_k063WsJhE",
-        "title": "5 plugins pour créer des sites web incroyables avec Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-20",
-        "url": "https://www.youtube.com/watch?v=o_k063WsJhE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 plugins pour créer des sites web incroyables avec Claude !...",
-        "duration": 70,
         "isShort": true
     },
     {
@@ -2053,40 +2050,14 @@ export const allVideos = [
     {
         "id": "5dF9rDlMGhE",
         "videoId": "5dF9rDlMGhE",
-        "title": "Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire.",
+        "title": "ChatGPT Work : voici tout ce qu’il peut faire.",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-07-09",
         "url": "https://www.youtube.com/watch?v=5dF9rDlMGhE",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire....",
+        "summary": "Nouveauté de Ludo Salenne : ChatGPT Work : voici tout ce qu’il peut faire....",
         "duration": 2021,
-        "isShort": false
-    },
-    {
-        "id": "ReWSbxmIITM",
-        "videoId": "ReWSbxmIITM",
-        "title": "Comprendre le Fonctionnement des LLM : Guide Complet Débutant",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-07-05",
-        "url": "https://www.youtube.com/watch?v=ReWSbxmIITM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comprendre le Fonctionnement des LLM : Guide Complet Débutant...",
-        "duration": 949,
-        "isShort": false
-    },
-    {
-        "id": "MEgLPh5FAqY",
-        "videoId": "MEgLPh5FAqY",
-        "title": "Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-07-05",
-        "url": "https://www.youtube.com/watch?v=MEgLPh5FAqY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)...",
-        "duration": 1207,
         "isShort": false
     }
 ];
