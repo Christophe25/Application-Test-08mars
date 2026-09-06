@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-05T09:52:11.850Z
+// Fichier généré automatiquement le 2026-09-06T10:09:38.615Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:52:11 AM 9/5/2026";
+export const lastUpdate = "10:09:38 AM 9/6/2026";
 
 export const sources = [
     {
@@ -171,6 +171,54 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "2eoAjaCgBdw",
+        "videoId": "2eoAjaCgBdw",
+        "title": "Sortie de GLM 5.3 Flash",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=2eoAjaCgBdw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Sortie de GLM 5.3 Flash...",
+        "isShort": false
+    },
+    {
+        "id": "oCKSPkA2iS0",
+        "videoId": "oCKSPkA2iS0",
+        "title": "OpenClaw 2.0 : crée ton équipe d'agents IA en 10 minutes",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=oCKSPkA2iS0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenClaw 2.0 : crée ton équipe d'agents IA en 10 minutes...",
+        "isShort": false
+    },
+    {
+        "id": "q5gfyRlaaJw",
+        "videoId": "q5gfyRlaaJw",
+        "title": "NVIDIA bat des records #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-05",
+        "url": "https://www.youtube.com/watch?v=q5gfyRlaaJw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : NVIDIA bat des records #actu...",
+        "isShort": false
+    },
+    {
+        "id": "ZS3PfuWTLXM",
+        "videoId": "ZS3PfuWTLXM",
+        "title": "Google prédit la météo sans délai",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-05",
+        "url": "https://www.youtube.com/watch?v=ZS3PfuWTLXM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google prédit la météo sans délai...",
+        "isShort": false
+    },
     {
         "id": "3WtlnjzVnaY",
         "videoId": "3WtlnjzVnaY",
@@ -525,32 +573,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Starlink : le plan pour l’abattre...",
         "duration": 127,
         "isShort": true
-    },
-    {
-        "id": "xlYkSLoiIAk",
-        "videoId": "xlYkSLoiIAk",
-        "title": "Russie et Chine veulent détruire Starlink, c'est la guerre partout + La troisième voie de l'IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=xlYkSLoiIAk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Russie et Chine veulent détruire Starlink, c'est la guerre partout + La troisième voie de l'IA !...",
-        "duration": 12404,
-        "isShort": false
-    },
-    {
-        "id": "7ydBmHCptys",
-        "videoId": "7ydBmHCptys",
-        "title": "La Russie et la Chine veulent détruire Starlink, c'est la guerre partout",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=7ydBmHCptys",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La Russie et la Chine veulent détruire Starlink, c'est la guerre partout...",
-        "duration": 3081,
-        "isShort": false
     },
     {
         "id": "OsPRnH_vOTg",
@@ -1346,19 +1368,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "riqjZ7H23Ys",
-        "videoId": "riqjZ7H23Ys",
-        "title": "Le robot qui fait ta valise #xiaomi",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=riqjZ7H23Ys",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le robot qui fait ta valise #xiaomi...",
-        "duration": 60,
-        "isShort": true
-    },
-    {
         "id": "aQ5Sa4OoOjA",
         "videoId": "aQ5Sa4OoOjA",
         "title": "650 échecs plus tard, Claude fait une découverte",
@@ -1409,19 +1418,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Comment Bâtir un Business en SOLO avec l’IA (grâce à Claude Code)...",
         "duration": 1345,
         "isShort": false
-    },
-    {
-        "id": "6GuY15wy6DY",
-        "videoId": "6GuY15wy6DY",
-        "title": "Le problème de Claude Code",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-16",
-        "url": "https://www.youtube.com/watch?v=6GuY15wy6DY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le problème de Claude Code...",
-        "duration": 73,
-        "isShort": true
     },
     {
         "id": "EGL2DQ1MJds",
