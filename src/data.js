@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-12T09:59:03.972Z
+// Fichier généré automatiquement le 2026-09-13T11:00:23.611Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:59:03 AM 9/12/2026";
+export const lastUpdate = "11:00:23 AM 9/13/2026";
 
 export const sources = [
     {
@@ -172,6 +172,42 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "4lFheOCWgqo",
+        "videoId": "4lFheOCWgqo",
+        "title": "Les limites de Fable 5.1 #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-13",
+        "url": "https://www.youtube.com/watch?v=4lFheOCWgqo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Les limites de Fable 5.1 #actu...",
+        "isShort": false
+    },
+    {
+        "id": "wpPfIj4jbX4",
+        "videoId": "wpPfIj4jbX4",
+        "title": "Tu savais que si tu vas sur ChatGPT, que tu mets une photo de toi et que tu écris...",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=wpPfIj4jbX4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que si tu vas sur ChatGPT, que tu mets une photo de toi et que tu écris......",
+        "isShort": false
+    },
+    {
+        "id": "V4uwmA90AOU",
+        "videoId": "V4uwmA90AOU",
+        "title": "L’incroyable histoire du génie derrière DeepSeek",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=V4uwmA90AOU",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’incroyable histoire du génie derrière DeepSeek...",
+        "isShort": false
+    },
+    {
         "id": "EXrCueHwnqo",
         "videoId": "EXrCueHwnqo",
         "title": "GPT-6 VS FABLE : les benchmarks",
@@ -181,6 +217,30 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EXrCueHwnqo",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : GPT-6 VS FABLE : les benchmarks...",
+        "isShort": false
+    },
+    {
+        "id": "KNTbEG00bPk",
+        "videoId": "KNTbEG00bPk",
+        "title": "Pourquoi GPT-6 Astra pourrait tout changer",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=KNTbEG00bPk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi GPT-6 Astra pourrait tout changer...",
+        "isShort": false
+    },
+    {
+        "id": "nFG3NwCr-A4",
+        "videoId": "nFG3NwCr-A4",
+        "title": "DeepSeek Flash écrase le Pro",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=nFG3NwCr-A4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : DeepSeek Flash écrase le Pro...",
         "isShort": false
     },
     {
@@ -229,18 +289,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eCx5lTP_OoM",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Lucas Reverdy : Comment Construire Votre Équipe Marketing IA avec Claude Code (Guide Complet)...",
-        "isShort": false
-    },
-    {
-        "id": "A793fOC-vYc",
-        "videoId": "A793fOC-vYc",
-        "title": "Pourquoi GPT-6 Astra pourrait tout changer",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=A793fOC-vYc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Pourquoi GPT-6 Astra pourrait tout changer...",
         "isShort": false
     },
     {
@@ -541,18 +589,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vu55_LhT8k8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : 9 fonctions de Microsoft Copilot que vous n'utilisez pas encore...",
-        "isShort": false
-    },
-    {
-        "id": "Lh35KsbxDKo",
-        "videoId": "Lh35KsbxDKo",
-        "title": "Le wiki secret des agents OpenAI",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=Lh35KsbxDKo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le wiki secret des agents OpenAI...",
         "isShort": false
     },
     {
@@ -1027,19 +1063,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "9JapGVVBR6o",
-        "videoId": "9JapGVVBR6o",
-        "title": "Le watermarking de Claude expliqué simplement (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=9JapGVVBR6o",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le watermarking de Claude expliqué simplement (actu IA)...",
-        "duration": 1519,
-        "isShort": false
-    },
-    {
         "id": "S__8c_pqYpE",
         "videoId": "S__8c_pqYpE",
         "title": "Le vol de raisonnement des IA",
@@ -1076,19 +1099,6 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Un framework de développement argentique complet pour Claude !...",
         "duration": 59,
-        "isShort": true
-    },
-    {
-        "id": "kQON-pgK95Q",
-        "videoId": "kQON-pgK95Q",
-        "title": "La souveraineté IA selon Mistral #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=kQON-pgK95Q",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La souveraineté IA selon Mistral #actu...",
-        "duration": 83,
         "isShort": true
     },
     {
@@ -1284,19 +1294,6 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Ce que personne ne te dit sur la sécurité de ton app !...",
         "duration": 37,
-        "isShort": true
-    },
-    {
-        "id": "zfuvmmNuL7g",
-        "videoId": "zfuvmmNuL7g",
-        "title": "Voici les 2 outils que j’utilise pour créer tout mes workflows IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=zfuvmmNuL7g",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Voici les 2 outils que j’utilise pour créer tout mes workflows IA...",
-        "duration": 87,
         "isShort": true
     },
     {
@@ -1545,19 +1542,6 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : Demandez à l'IA de poser des questions avant TOUT ! #shorts...",
         "duration": 56,
         "isShort": true
-    },
-    {
-        "id": "gK1mBVZUlVQ",
-        "videoId": "gK1mBVZUlVQ",
-        "title": "Claude + DataForSEO : Le SEO Ne Sera Plus Jamais Pareil",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-13",
-        "url": "https://www.youtube.com/watch?v=gK1mBVZUlVQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude + DataForSEO : Le SEO Ne Sera Plus Jamais Pareil...",
-        "duration": 594,
-        "isShort": false
     },
     {
         "id": "kHcqcR0lQz0",
@@ -2052,18 +2036,5 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Voici Copilot Cowork, l'IA qui automatise vos tâches !...",
         "duration": 36,
         "isShort": true
-    },
-    {
-        "id": "Sj3Z1-LO-I8",
-        "videoId": "Sj3Z1-LO-I8",
-        "title": "Mon système pour publier régulièrement avec 1 jour par semaine",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=Sj3Z1-LO-I8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Mon système pour publier régulièrement avec 1 jour par semaine...",
-        "duration": 646,
-        "isShort": false
     }
 ];
