@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-20T10:32:18.960Z
+// Fichier généré automatiquement le 2026-09-21T11:51:21.005Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:32:18 AM 9/20/2026";
+export const lastUpdate = "11:51:21 AM 9/21/2026";
 
 export const sources = [
     {
@@ -172,6 +172,54 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "JSetuIjSs-4",
+        "videoId": "JSetuIjSs-4",
+        "title": "IA : 9 milliards de mutations ADN",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=JSetuIjSs-4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : 9 milliards de mutations ADN...",
+        "isShort": false
+    },
+    {
+        "id": "mQAvtZtyAcs",
+        "videoId": "mQAvtZtyAcs",
+        "title": "Quelqu'un vient de créer un skill pour Claude qui s'appelle “I-Have-ADHD\" !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=mQAvtZtyAcs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un skill pour Claude qui s'appelle “I-Have-ADHD\" !...",
+        "isShort": false
+    },
+    {
+        "id": "Jt4DxTa-Qss",
+        "videoId": "Jt4DxTa-Qss",
+        "title": "Un projet de 158 agents complet pour Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=Jt4DxTa-Qss",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Un projet de 158 agents complet pour Claude...",
+        "isShort": false
+    },
+    {
+        "id": "IanuaQIt-p8",
+        "videoId": "IanuaQIt-p8",
+        "title": "Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=IanuaQIt-p8",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur...",
+        "isShort": false
+    },
+    {
         "id": "UrjR860emSY",
         "videoId": "UrjR860emSY",
         "title": "Dario Amodei veut ralentir l’IA #actu",
@@ -181,6 +229,54 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UrjR860emSY",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Dario Amodei veut ralentir l’IA #actu...",
+        "isShort": false
+    },
+    {
+        "id": "O4f9k_hOP0c",
+        "videoId": "O4f9k_hOP0c",
+        "title": "La Vidéo pour Tout Comprendre sur les “System One Models” (JEV)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=O4f9k_hOP0c",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La Vidéo pour Tout Comprendre sur les “System One Models” (JEV)...",
+        "isShort": false
+    },
+    {
+        "id": "Kkk4KgTJJOs",
+        "videoId": "Kkk4KgTJJOs",
+        "title": "La création d'artefacts avec Claude !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=Kkk4KgTJJOs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : La création d'artefacts avec Claude !...",
+        "isShort": false
+    },
+    {
+        "id": "r2gkmTFP5K8",
+        "videoId": "r2gkmTFP5K8",
+        "title": "Le créateur de ChatGPT vient de sortir une IA qui ne parle pas (ça change tout)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=r2gkmTFP5K8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Le créateur de ChatGPT vient de sortir une IA qui ne parle pas (ça change tout)...",
+        "isShort": false
+    },
+    {
+        "id": "gxwEzXh8GFE",
+        "videoId": "gxwEzXh8GFE",
+        "title": "OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=gxwEzXh8GFE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA....",
         "isShort": false
     },
     {
@@ -664,18 +760,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "nE6-j0IbdLc",
-        "videoId": "nE6-j0IbdLc",
-        "title": "Claude volé pour coder un missile",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=nE6-j0IbdLc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude volé pour coder un missile...",
-        "isShort": false
-    },
-    {
         "id": "pbN3uZgeCYQ",
         "videoId": "pbN3uZgeCYQ",
         "title": "Top 5 des meilleurs Skills Claude !",
@@ -745,18 +829,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sxDDQqbGcts",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Follow pour en apprendre plus sur l’IA...",
-        "isShort": false
-    },
-    {
-        "id": "zSyQXoEKPrw",
-        "videoId": "zSyQXoEKPrw",
-        "title": "OpenAI refuse la Bourse : danger ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=zSyQXoEKPrw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI refuse la Bourse : danger ?...",
         "isShort": false
     },
     {
@@ -961,18 +1033,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=q0tI__cmHc8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Un vrai iPhone virtuel sous iOS 27 sur ton Mac, gratuit et open source...",
-        "isShort": false
-    },
-    {
-        "id": "xYv7U8pZMcc",
-        "videoId": "xYv7U8pZMcc",
-        "title": "CLAUDE CODE m'a fait gagner 10h/semaine (je montre tout)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=xYv7U8pZMcc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE m'a fait gagner 10h/semaine (je montre tout)...",
         "isShort": false
     },
     {
@@ -1218,19 +1278,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "AOoLcEFDGDA",
-        "videoId": "AOoLcEFDGDA",
-        "title": "Apprendre 97% de CLAUDE en 27 minutes (Guide Débutant ULTIME)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=AOoLcEFDGDA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Apprendre 97% de CLAUDE en 27 minutes (Guide Débutant ULTIME)...",
-        "duration": 1634,
-        "isShort": false
-    },
-    {
         "id": "Jmil2UxcrlY",
         "videoId": "Jmil2UxcrlY",
         "title": "Utiliser Google Gemini mieux que 99% des gens !",
@@ -1322,19 +1369,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "DggNOKLuniE",
-        "videoId": "DggNOKLuniE",
-        "title": "4 sites pour le Vibecoding !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-30",
-        "url": "https://www.youtube.com/watch?v=DggNOKLuniE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 4 sites pour le Vibecoding !...",
-        "duration": 41,
-        "isShort": true
-    },
-    {
         "id": "C1esYFoZXBE",
         "videoId": "C1esYFoZXBE",
         "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
@@ -1371,19 +1405,6 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Code world model : Et si on s’était trompé sur les World️️ models...",
         "duration": 111,
-        "isShort": true
-    },
-    {
-        "id": "D7ehyxv3UeQ",
-        "videoId": "D7ehyxv3UeQ",
-        "title": "Chaque PDF que tu uploades dans Claude te coûte deux fois plus de tokens !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-29",
-        "url": "https://www.youtube.com/watch?v=D7ehyxv3UeQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Chaque PDF que tu uploades dans Claude te coûte deux fois plus de tokens !...",
-        "duration": 50,
         "isShort": true
     },
     {
@@ -1592,19 +1613,6 @@ export const allVideos = [
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : C’est décidé, j'arrête Claude Code pour Codex !...",
         "duration": 81,
-        "isShort": true
-    },
-    {
-        "id": "lNpseFbzM5Y",
-        "videoId": "lNpseFbzM5Y",
-        "title": "Deepseek Harness : La fin de Claude code ? 🤯",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-20",
-        "url": "https://www.youtube.com/watch?v=lNpseFbzM5Y",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Deepseek Harness : La fin de Claude code ? 🤯...",
-        "duration": 138,
         "isShort": true
     },
     {
@@ -1995,19 +2003,6 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE...",
         "duration": 620,
-        "isShort": false
-    },
-    {
-        "id": "F9YcVlyZahk",
-        "videoId": "F9YcVlyZahk",
-        "title": "Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-07-21",
-        "url": "https://www.youtube.com/watch?v=F9YcVlyZahk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi...",
-        "duration": 502,
         "isShort": false
     }
 ];
