@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-21T11:51:21.005Z
+// Fichier généré automatiquement le 2026-09-22T10:53:14.870Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:51:21 AM 9/21/2026";
+export const lastUpdate = "10:53:14 AM 9/22/2026";
 
 export const sources = [
     {
@@ -172,6 +172,114 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "Wv4Y7I80I-U",
+        "videoId": "Wv4Y7I80I-U",
+        "title": "Claude aux commandes du labo bio",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=Wv4Y7I80I-U",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude aux commandes du labo bio...",
+        "isShort": false
+    },
+    {
+        "id": "vNg4k-CkOlc",
+        "videoId": "vNg4k-CkOlc",
+        "title": "Ces réglages rendent Claude beaucoup plus puissant !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=vNg4k-CkOlc",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Ces réglages rendent Claude beaucoup plus puissant !...",
+        "isShort": false
+    },
+    {
+        "id": "tCHQnoSj5hM",
+        "videoId": "tCHQnoSj5hM",
+        "title": "Vibecoding : J'ai codé et déployé un projet SEO de A à Z avec l'IA",
+        "author": "Cédric Girard",
+        "source": "@cedric_effi10",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=tCHQnoSj5hM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Cédric Girard : Vibecoding : J'ai codé et déployé un projet SEO de A à Z avec l'IA...",
+        "isShort": false
+    },
+    {
+        "id": "gn7yp9KwmP8",
+        "videoId": "gn7yp9KwmP8",
+        "title": "Jev : Le modèle 200x fois plus rapide qu’un LLM",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=gn7yp9KwmP8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Jev : Le modèle 200x fois plus rapide qu’un LLM...",
+        "isShort": false
+    },
+    {
+        "id": "0ZnlSoSiudA",
+        "videoId": "0ZnlSoSiudA",
+        "title": "Pilote ton téléphone Android avec l'IA : Artemis (repo Google open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=0ZnlSoSiudA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Pilote ton téléphone Android avec l'IA : Artemis (repo Google open source)...",
+        "isShort": false
+    },
+    {
+        "id": "BeRjFzU0DMk",
+        "videoId": "BeRjFzU0DMk",
+        "title": "La création d'artefacts avec Claude en deux étapes !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=BeRjFzU0DMk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : La création d'artefacts avec Claude en deux étapes !...",
+        "isShort": false
+    },
+    {
+        "id": "rwZX08ViydU",
+        "videoId": "rwZX08ViydU",
+        "title": "Jev, l’IA qui tranche sans écrire",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=rwZX08ViydU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Jev, l’IA qui tranche sans écrire...",
+        "isShort": false
+    },
+    {
+        "id": "9ZEve9aFhT8",
+        "videoId": "9ZEve9aFhT8",
+        "title": "OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=9ZEve9aFhT8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret....",
+        "isShort": false
+    },
+    {
+        "id": "gxwEzXh8GFE",
+        "videoId": "gxwEzXh8GFE",
+        "title": "OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=gxwEzXh8GFE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA....",
+        "isShort": false
+    },
+    {
         "id": "JSetuIjSs-4",
         "videoId": "JSetuIjSs-4",
         "title": "IA : 9 milliards de mutations ADN",
@@ -234,13 +342,13 @@ export const allVideos = [
     {
         "id": "O4f9k_hOP0c",
         "videoId": "O4f9k_hOP0c",
-        "title": "La Vidéo pour Tout Comprendre sur les “System One Models” (JEV)",
+        "title": "Jev : Mérite-t-il Vraiment Toute Cette Hype ? (System One Models)",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-09-20",
         "url": "https://www.youtube.com/watch?v=O4f9k_hOP0c",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La Vidéo pour Tout Comprendre sur les “System One Models” (JEV)...",
+        "summary": "Nouveauté de Nerdy Kings : Jev : Mérite-t-il Vraiment Toute Cette Hype ? (System One Models)...",
         "isShort": false
     },
     {
@@ -265,18 +373,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=r2gkmTFP5K8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Le créateur de ChatGPT vient de sortir une IA qui ne parle pas (ça change tout)...",
-        "isShort": false
-    },
-    {
-        "id": "gxwEzXh8GFE",
-        "videoId": "gxwEzXh8GFE",
-        "title": "OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=gxwEzXh8GFE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA....",
         "isShort": false
     },
     {
@@ -724,42 +820,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "H3ixNpiPlck",
-        "videoId": "H3ixNpiPlck",
-        "title": "Koa : l’IA CRM qui menace ChatGPT",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=H3ixNpiPlck",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Koa : l’IA CRM qui menace ChatGPT...",
-        "isShort": false
-    },
-    {
-        "id": "1SbIf99XEjs",
-        "videoId": "1SbIf99XEjs",
-        "title": "L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=1SbIf99XEjs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur...",
-        "isShort": false
-    },
-    {
-        "id": "154nYL1drHM",
-        "videoId": "154nYL1drHM",
-        "title": "L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=154nYL1drHM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !...",
-        "isShort": false
-    },
-    {
         "id": "pbN3uZgeCYQ",
         "videoId": "pbN3uZgeCYQ",
         "title": "Top 5 des meilleurs Skills Claude !",
@@ -889,18 +949,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WQ-ulY99Cko",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Voicebox sur GitHub...",
-        "isShort": false
-    },
-    {
-        "id": "xJPuTeJG6FM",
-        "videoId": "xJPuTeJG6FM",
-        "title": "Ce skill rend Claude Code gratuit ?",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=xJPuTeJG6FM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Ce skill rend Claude Code gratuit ?...",
         "isShort": false
     },
     {
@@ -1551,19 +1599,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "iTyl6yfb6Jo",
-        "videoId": "iTyl6yfb6Jo",
-        "title": "CapCut Pro gratuit et open source",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=iTyl6yfb6Jo",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : CapCut Pro gratuit et open source...",
-        "duration": 35,
-        "isShort": true
-    },
-    {
         "id": "N8e0LLHfTJY",
         "videoId": "N8e0LLHfTJY",
         "title": "La différence entre un Consultant IA à 0€ et un à 15k€/mois",
@@ -1587,19 +1622,6 @@ export const allVideos = [
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES à Absolument Connaître en 2027...",
         "duration": 1297,
-        "isShort": false
-    },
-    {
-        "id": "l6WWP7arLEQ",
-        "videoId": "l6WWP7arLEQ",
-        "title": "Cette Découverte Pourrait Diviser la VRAM par 6 (DiffusionBlocks)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=l6WWP7arLEQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Cette Découverte Pourrait Diviser la VRAM par 6 (DiffusionBlocks)...",
-        "duration": 518,
         "isShort": false
     },
     {
@@ -1757,19 +1779,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Claude Design vient de sortir le Motion Design par IA...",
         "duration": 1400,
         "isShort": false
-    },
-    {
-        "id": "iWoTS-c6Fbg",
-        "videoId": "iWoTS-c6Fbg",
-        "title": "Créer ton Agent IA simplement ! (Sans coder)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-08-05",
-        "url": "https://www.youtube.com/watch?v=iWoTS-c6Fbg",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Créer ton Agent IA simplement ! (Sans coder)...",
-        "duration": 42,
-        "isShort": true
     },
     {
         "id": "im6rjBitL9M",
@@ -1964,45 +1973,6 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks...",
         "duration": 481,
-        "isShort": false
-    },
-    {
-        "id": "LGiaRxIsnzk",
-        "videoId": "LGiaRxIsnzk",
-        "title": "Il a fait son site SEUL avec CLAUDE CODE en 2 jours",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-07-22",
-        "url": "https://www.youtube.com/watch?v=LGiaRxIsnzk",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Il a fait son site SEUL avec CLAUDE CODE en 2 jours...",
-        "duration": 3203,
-        "isShort": false
-    },
-    {
-        "id": "NQJPlvwVFOE",
-        "videoId": "NQJPlvwVFOE",
-        "title": "Comment Créer des Skills Claude comme un PRO (tuto complet)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-07-22",
-        "url": "https://www.youtube.com/watch?v=NQJPlvwVFOE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment Créer des Skills Claude comme un PRO (tuto complet)...",
-        "duration": 1659,
-        "isShort": false
-    },
-    {
-        "id": "RutkqDcQZL0",
-        "videoId": "RutkqDcQZL0",
-        "title": "Comment utiliser Hermes GRATUITEMENT à VIE",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-07-22",
-        "url": "https://www.youtube.com/watch?v=RutkqDcQZL0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE...",
-        "duration": 620,
         "isShort": false
     }
 ];
