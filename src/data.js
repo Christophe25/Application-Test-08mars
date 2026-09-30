@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-29T12:03:40.816Z
+// Fichier généré automatiquement le 2026-09-30T11:52:26.734Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:03:40 PM 9/29/2026";
+export const lastUpdate = "11:52:26 AM 9/30/2026";
 
 export const sources = [
     {
@@ -172,6 +172,90 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "SDZmSdcVLQw",
+        "videoId": "SDZmSdcVLQw",
+        "title": "Sortie de Bonsai 2 #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=SDZmSdcVLQw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Sortie de Bonsai 2 #actu...",
+        "isShort": false
+    },
+    {
+        "id": "sXHeHexu3rk",
+        "videoId": "sXHeHexu3rk",
+        "title": "Un Mac Mini peut-il VRAIMENT remplacer un abonnement IA à 200 $ ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=sXHeHexu3rk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Un Mac Mini peut-il VRAIMENT remplacer un abonnement IA à 200 $ ?...",
+        "isShort": false
+    },
+    {
+        "id": "YoJ0mZ0H3YE",
+        "videoId": "YoJ0mZ0H3YE",
+        "title": "GPT-6.1 Sol, Dots, Pro 500 : le DevDay d'OpenAI en 1 minute",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=YoJ0mZ0H3YE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : GPT-6.1 Sol, Dots, Pro 500 : le DevDay d'OpenAI en 1 minute...",
+        "isShort": false
+    },
+    {
+        "id": "a5bRY1vi1Y8",
+        "videoId": "a5bRY1vi1Y8",
+        "title": "GPT 6.1 Sol  : Le TEST ultime ! (Open AI DevDay)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=a5bRY1vi1Y8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : GPT 6.1 Sol  : Le TEST ultime ! (Open AI DevDay)...",
+        "isShort": false
+    },
+    {
+        "id": "XpStbq2wN00",
+        "videoId": "XpStbq2wN00",
+        "title": "Fidji Simo choisit l’école IA 2 h",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=XpStbq2wN00",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Fidji Simo choisit l’école IA 2 h...",
+        "isShort": false
+    },
+    {
+        "id": "Ow40zdTKj7A",
+        "videoId": "Ow40zdTKj7A",
+        "title": "4 étapes exactes pour devenir consultant IA en 2026.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=Ow40zdTKj7A",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 4 étapes exactes pour devenir consultant IA en 2026....",
+        "isShort": false
+    },
+    {
+        "id": "phFXHDuFNfQ",
+        "videoId": "phFXHDuFNfQ",
+        "title": "Claude Cowork fusionne #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=phFXHDuFNfQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Claude Cowork fusionne #actu...",
+        "isShort": false
+    },
+    {
         "id": "yxIrGt1u1jw",
         "videoId": "yxIrGt1u1jw",
         "title": "Que vaut JEV ? #actu",
@@ -181,6 +265,78 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yxIrGt1u1jw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Que vaut JEV ? #actu...",
+        "isShort": false
+    },
+    {
+        "id": "qodttLA1WXs",
+        "videoId": "qodttLA1WXs",
+        "title": "Claude Sonnet 5.5 est sorti: quand l’utiliser ?",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=qodttLA1WXs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Sonnet 5.5 est sorti: quand l’utiliser ?...",
+        "isShort": false
+    },
+    {
+        "id": "X6L8KEIFK7s",
+        "videoId": "X6L8KEIFK7s",
+        "title": "Claude Sonnet 5.5 : MEILLEUR rapport qualité/prix ?!",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=X6L8KEIFK7s",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Sonnet 5.5 : MEILLEUR rapport qualité/prix ?!...",
+        "isShort": false
+    },
+    {
+        "id": "VI0FCySkw9A",
+        "videoId": "VI0FCySkw9A",
+        "title": "Voici comment j'ai rendu Hermes 10X plus puissant (vraiment)",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=VI0FCySkw9A",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : Voici comment j'ai rendu Hermes 10X plus puissant (vraiment)...",
+        "isShort": false
+    },
+    {
+        "id": "WwwxUT-fbZs",
+        "videoId": "WwwxUT-fbZs",
+        "title": "Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=WwwxUT-fbZs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !...",
+        "isShort": false
+    },
+    {
+        "id": "15fnyyC3_jg",
+        "videoId": "15fnyyC3_jg",
+        "title": "Rafale : l’IA vole, mais fait quoi ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=15fnyyC3_jg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Rafale : l’IA vole, mais fait quoi ?...",
+        "isShort": false
+    },
+    {
+        "id": "wQsh-3IZuKo",
+        "videoId": "wQsh-3IZuKo",
+        "title": "Débat IA de la présidentielle : Pourquoi ils sont tous aux fraises ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=wQsh-3IZuKo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Débat IA de la présidentielle : Pourquoi ils sont tous aux fraises ?...",
         "isShort": false
     },
     {
@@ -568,30 +724,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "OCzXOdB6VYo",
-        "videoId": "OCzXOdB6VYo",
-        "title": "L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=OCzXOdB6VYo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev...",
-        "isShort": false
-    },
-    {
-        "id": "_KIUfHSeAJA",
-        "videoId": "_KIUfHSeAJA",
-        "title": "Amazon vire l’agent IA de Meta",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=_KIUfHSeAJA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Amazon vire l’agent IA de Meta...",
-        "isShort": false
-    },
-    {
         "id": "N7uCVjA2Cu8",
         "videoId": "N7uCVjA2Cu8",
         "title": "Tu consommes la moitié de ton forfait Claude en milieu de semaine ? 😮‍💨",
@@ -661,30 +793,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BOszX4MAJRo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Cette IA JEV est incroyable.....",
-        "isShort": false
-    },
-    {
-        "id": "noyCi_eW0To",
-        "videoId": "noyCi_eW0To",
-        "title": "Xiaomi libère son agent IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=noyCi_eW0To",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Xiaomi libère son agent IA...",
-        "isShort": false
-    },
-    {
-        "id": "RrcSSb3uLRY",
-        "videoId": "RrcSSb3uLRY",
-        "title": "GPT-6 : l’IA à moitié prix ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=RrcSSb3uLRY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-6 : l’IA à moitié prix ?...",
         "isShort": false
     },
     {
@@ -1348,18 +1456,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "wpPfIj4jbX4",
-        "videoId": "wpPfIj4jbX4",
-        "title": "Tu savais que si tu vas sur ChatGPT, que tu mets une photo de toi et que tu écris...",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-12",
-        "url": "https://www.youtube.com/watch?v=wpPfIj4jbX4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que si tu vas sur ChatGPT, que tu mets une photo de toi et que tu écris......",
-        "isShort": false
-    },
-    {
         "id": "V4uwmA90AOU",
         "videoId": "V4uwmA90AOU",
         "title": "L’incroyable histoire du génie derrière DeepSeek",
@@ -1408,18 +1504,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "T8uiXaQ_Bfc",
-        "videoId": "T8uiXaQ_Bfc",
-        "title": "Le modèle Google qui prédit l’avenir #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=T8uiXaQ_Bfc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le modèle Google qui prédit l’avenir #actu...",
-        "isShort": false
-    },
-    {
         "id": "eCx5lTP_OoM",
         "videoId": "eCx5lTP_OoM",
         "title": "Comment Construire Votre Équipe Marketing IA avec Claude Code (Guide Complet)",
@@ -1429,18 +1513,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eCx5lTP_OoM",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Lucas Reverdy : Comment Construire Votre Équipe Marketing IA avec Claude Code (Guide Complet)...",
-        "isShort": false
-    },
-    {
-        "id": "q0tI__cmHc8",
-        "videoId": "q0tI__cmHc8",
-        "title": "Un vrai iPhone virtuel sous iOS 27 sur ton Mac, gratuit et open source",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=q0tI__cmHc8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Un vrai iPhone virtuel sous iOS 27 sur ton Mac, gratuit et open source...",
         "isShort": false
     },
     {
@@ -1456,18 +1528,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "aSN-OigmR3A",
-        "videoId": "aSN-OigmR3A",
-        "title": "DeepSeek V4.1 Flash : Le DERNIER modèle CHINOIS (OPEN SOURCE)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=aSN-OigmR3A",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : DeepSeek V4.1 Flash : Le DERNIER modèle CHINOIS (OPEN SOURCE)...",
-        "isShort": false
-    },
-    {
         "id": "DRo9cnjG388",
         "videoId": "DRo9cnjG388",
         "title": "Microsoft Copilot est devenu incroyable !",
@@ -1477,30 +1537,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DRo9cnjG388",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est devenu incroyable !...",
-        "isShort": false
-    },
-    {
-        "id": "Ul0aKZFsG3g",
-        "videoId": "Ul0aKZFsG3g",
-        "title": "Le vrai test : GPT-6 Astra VS Fable 5.1 (actu)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=Ul0aKZFsG3g",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le vrai test : GPT-6 Astra VS Fable 5.1 (actu)...",
-        "isShort": false
-    },
-    {
-        "id": "Wh7x150291w",
-        "videoId": "Wh7x150291w",
-        "title": "GPT 6 vs Fable 5.1 : Le comparatif ULTIME pour faire ton choix",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=Wh7x150291w",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : GPT 6 vs Fable 5.1 : Le comparatif ULTIME pour faire ton choix...",
         "isShort": false
     },
     {
@@ -1640,19 +1676,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Comment l'IA est devenue plus chère que ceux qu'elle remplace...",
         "duration": 1095,
         "isShort": false
-    },
-    {
-        "id": "W2LfhDOjrL4",
-        "videoId": "W2LfhDOjrL4",
-        "title": "Code world model : Et si on s’était trompé sur les World️️ models",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-30",
-        "url": "https://www.youtube.com/watch?v=W2LfhDOjrL4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Code world model : Et si on s’était trompé sur les World️️ models...",
-        "duration": 111,
-        "isShort": true
     },
     {
         "id": "dk4eorkkni8",
