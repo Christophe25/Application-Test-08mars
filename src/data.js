@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-02T11:50:21.829Z
+// Fichier généré automatiquement le 2026-10-03T11:03:45.017Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:50:21 AM 10/2/2026";
+export const lastUpdate = "11:03:45 AM 10/3/2026";
 
 export const sources = [
     {
@@ -172,6 +172,18 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "wM4K4VTWzZA",
+        "videoId": "wM4K4VTWzZA",
+        "title": "Argon : Google défie OpenAI",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=wM4K4VTWzZA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Argon : Google défie OpenAI...",
+        "isShort": false
+    },
+    {
         "id": "9EaDQCMaVFc",
         "videoId": "9EaDQCMaVFc",
         "title": "Transforme ton projet en une courte vidéo avec Claude Code !",
@@ -184,13 +196,61 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "grGL2GPwPXI",
-        "videoId": "grGL2GPwPXI",
+        "id": "orJgU0_x-Ks",
+        "videoId": "orJgU0_x-Ks",
+        "title": "Le secret derrière les meilleures IA : le Harness !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-02",
+        "url": "https://www.youtube.com/watch?v=orJgU0_x-Ks",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le secret derrière les meilleures IA : le Harness !...",
+        "isShort": false
+    },
+    {
+        "id": "YtvYpgG8pg8",
+        "videoId": "YtvYpgG8pg8",
+        "title": "Comment gagner des millions avec une IA qu’on n’a même pas créée ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-02",
+        "url": "https://www.youtube.com/watch?v=YtvYpgG8pg8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Comment gagner des millions avec une IA qu’on n’a même pas créée ?...",
+        "isShort": false
+    },
+    {
+        "id": "B7G7btLTs1g",
+        "videoId": "B7G7btLTs1g",
+        "title": "Envoie tes newsletters gratuitement : l'alternative open source à Brevo et Mailjet",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-02",
+        "url": "https://www.youtube.com/watch?v=B7G7btLTs1g",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Envoie tes newsletters gratuitement : l'alternative open source à Brevo et Mailjet...",
+        "isShort": false
+    },
+    {
+        "id": "DJiE_SHl07M",
+        "videoId": "DJiE_SHl07M",
+        "title": "9 réglages à changer absolument sur Opus 5.5 (Guide complet)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-02",
+        "url": "https://www.youtube.com/watch?v=DJiE_SHl07M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : 9 réglages à changer absolument sur Opus 5.5 (Guide complet)...",
+        "isShort": false
+    },
+    {
+        "id": "5gVIXklX4Ng",
+        "videoId": "5gVIXklX4Ng",
         "title": "Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=grGL2GPwPXI",
+        "url": "https://www.youtube.com/watch?v=5gVIXklX4Ng",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !...",
         "isShort": false
@@ -342,13 +402,13 @@ export const allVideos = [
     {
         "id": "zCB33XrHxqE",
         "videoId": "zCB33XrHxqE",
-        "title": "L'IA va changer avec ce papier scientifique (actu IA)",
+        "title": "Le papier qui va révolutionner l'IA (actu IA)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-09-30",
         "url": "https://www.youtube.com/watch?v=zCB33XrHxqE",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'IA va changer avec ce papier scientifique (actu IA)...",
+        "summary": "Nouveauté de Eliott Meunier : Le papier qui va révolutionner l'IA (actu IA)...",
         "isShort": false
     },
     {
@@ -685,30 +745,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Yb1k6641A2o",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Copilot devient un bureau à péage...",
-        "isShort": false
-    },
-    {
-        "id": "D8p0gamD6CM",
-        "videoId": "D8p0gamD6CM",
-        "title": "MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=D8p0gamD6CM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour...",
-        "isShort": false
-    },
-    {
-        "id": "9_i6qmiTEPg",
-        "videoId": "9_i6qmiTEPg",
-        "title": "MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour + Débat IA de la présidentielle !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=9_i6qmiTEPg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour + Débat IA de la présidentielle !...",
         "isShort": false
     },
     {
@@ -1396,18 +1432,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "kCHqUTx9oXg",
-        "videoId": "kCHqUTx9oXg",
-        "title": "Tes factures en photo, lues par une IA en local : l'outil open source",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=kCHqUTx9oXg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Tes factures en photo, lues par une IA en local : l'outil open source...",
-        "isShort": false
-    },
-    {
         "id": "_6mwJv_1rMQ",
         "videoId": "_6mwJv_1rMQ",
         "title": "J’ai donné 1h à GPT 6 Astra pour créer un LIVRE ENTIER",
@@ -1682,32 +1706,6 @@ export const allVideos = [
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : La nouvelle Skill incroyable dans ChatGPT !...",
         "isShort": false
-    },
-    {
-        "id": "Jmil2UxcrlY",
-        "videoId": "Jmil2UxcrlY",
-        "title": "Utiliser Google Gemini mieux que 99% des gens !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=Jmil2UxcrlY",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Utiliser Google Gemini mieux que 99% des gens !...",
-        "duration": 46,
-        "isShort": true
-    },
-    {
-        "id": "QwuhJjpM9CE",
-        "videoId": "QwuhJjpM9CE",
-        "title": "Qwen vient-il de dévoiler le futur des LLM ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=QwuhJjpM9CE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen vient-il de dévoiler le futur des LLM ?...",
-        "duration": 123,
-        "isShort": true
     },
     {
         "id": "dv4IV4KdgNI",
