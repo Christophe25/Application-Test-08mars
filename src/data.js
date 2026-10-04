@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-03T11:03:45.017Z
+// Fichier généré automatiquement le 2026-10-04T11:45:59.196Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:03:45 AM 10/3/2026";
+export const lastUpdate = "11:45:59 AM 10/4/2026";
 
 export const sources = [
     {
@@ -172,6 +172,90 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "N60afLrpuwM",
+        "videoId": "N60afLrpuwM",
+        "title": "Claude réalise une découverte biologique #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=N60afLrpuwM",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Claude réalise une découverte biologique #actu...",
+        "isShort": false
+    },
+    {
+        "id": "IN6UpK4_xwM",
+        "videoId": "IN6UpK4_xwM",
+        "title": "OPUS 5 5 est trop fort en MOTION DESIGN (je te montre comment)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=IN6UpK4_xwM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : OPUS 5 5 est trop fort en MOTION DESIGN (je te montre comment)...",
+        "isShort": false
+    },
+    {
+        "id": "5Z6OLjTg1uo",
+        "videoId": "5Z6OLjTg1uo",
+        "title": "J'ai testé Claude Opus 5.5 pour le montage vidéo (C'est INCROYABLE)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=5Z6OLjTg1uo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Opus 5.5 pour le montage vidéo (C'est INCROYABLE)...",
+        "isShort": false
+    },
+    {
+        "id": "T9ETDqp7XQk",
+        "videoId": "T9ETDqp7XQk",
+        "title": "Pourquoi Claude Code utilise encore Ctrl+F ? (avec Amélie Chatelain)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=T9ETDqp7XQk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Pourquoi Claude Code utilise encore Ctrl+F ? (avec Amélie Chatelain)...",
+        "isShort": false
+    },
+    {
+        "id": "KJpHM5qgcOU",
+        "videoId": "KJpHM5qgcOU",
+        "title": "Pourquoi les IA gratuites rapportent",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=KJpHM5qgcOU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi les IA gratuites rapportent...",
+        "isShort": false
+    },
+    {
+        "id": "hUwkupSwDPg",
+        "videoId": "hUwkupSwDPg",
+        "title": "Ton personnage garde le même visage sur toutes tes images IA",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=hUwkupSwDPg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ton personnage garde le même visage sur toutes tes images IA...",
+        "isShort": false
+    },
+    {
+        "id": "bUZCHCH7XJ4",
+        "videoId": "bUZCHCH7XJ4",
+        "title": "Mistral joue gros face aux US",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=bUZCHCH7XJ4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral joue gros face aux US...",
+        "isShort": false
+    },
+    {
         "id": "wM4K4VTWzZA",
         "videoId": "wM4K4VTWzZA",
         "title": "Argon : Google défie OpenAI",
@@ -229,18 +313,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=B7G7btLTs1g",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Envoie tes newsletters gratuitement : l'alternative open source à Brevo et Mailjet...",
-        "isShort": false
-    },
-    {
-        "id": "DJiE_SHl07M",
-        "videoId": "DJiE_SHl07M",
-        "title": "9 réglages à changer absolument sur Opus 5.5 (Guide complet)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=DJiE_SHl07M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : 9 réglages à changer absolument sur Opus 5.5 (Guide complet)...",
         "isShort": false
     },
     {
@@ -733,18 +805,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ku6x7imReY4",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Devenez maître dans l'art d'écrire vos Skills Claude...",
-        "isShort": false
-    },
-    {
-        "id": "Yb1k6641A2o",
-        "videoId": "Yb1k6641A2o",
-        "title": "Copilot devient un bureau à péage",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=Yb1k6641A2o",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Copilot devient un bureau à péage...",
         "isShort": false
     },
     {
@@ -1312,18 +1372,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "1bULOFGT5aE",
-        "videoId": "1bULOFGT5aE",
-        "title": "Envoie n'importe quel fichier sans cloud : FileSync (open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=1bULOFGT5aE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Envoie n'importe quel fichier sans cloud : FileSync (open source)...",
-        "isShort": false
-    },
-    {
         "id": "cLGur9wU8IQ",
         "videoId": "cLGur9wU8IQ",
         "title": "Pour recevoir le meta prompt commente « META »",
@@ -1528,18 +1576,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "v7kOEDRt3UM",
-        "videoId": "v7kOEDRt3UM",
-        "title": "Que vaut GPT-6 Astra ? #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=v7kOEDRt3UM",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Que vaut GPT-6 Astra ? #actu...",
-        "isShort": false
-    },
-    {
         "id": "9_7piNRO-0Y",
         "videoId": "9_7piNRO-0Y",
         "title": "OpenAI vient peut-être de marquer l’histoire (Navier-Stokes)",
@@ -1573,18 +1609,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=scSK7mRTZHw",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Jonas Ekanbo : Créer une Application en 5 min: GPT-6 Astra vs Bolt vs Emergent - Comparatif IA Révolutionnaire...",
-        "isShort": false
-    },
-    {
-        "id": "4lFheOCWgqo",
-        "videoId": "4lFheOCWgqo",
-        "title": "Les limites de Fable 5.1 #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-13",
-        "url": "https://www.youtube.com/watch?v=4lFheOCWgqo",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Les limites de Fable 5.1 #actu...",
         "isShort": false
     },
     {
@@ -1926,19 +1950,6 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !...",
         "duration": 653,
-        "isShort": false
-    },
-    {
-        "id": "fsw03ZXHJik",
-        "videoId": "fsw03ZXHJik",
-        "title": "Mistral sera bientôt partout (apprenez-le maintenant)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-08-04",
-        "url": "https://www.youtube.com/watch?v=fsw03ZXHJik",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Mistral sera bientôt partout (apprenez-le maintenant)...",
-        "duration": 1787,
         "isShort": false
     }
 ];
