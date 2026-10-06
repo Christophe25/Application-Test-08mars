@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-05T13:29:02.954Z
+// Fichier généré automatiquement le 2026-10-06T12:42:38.015Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "1:29:02 PM 10/5/2026";
+export const lastUpdate = "12:42:38 PM 10/6/2026";
 
 export const sources = [
     {
@@ -172,6 +172,42 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "KHizR8oUbDk",
+        "videoId": "KHizR8oUbDk",
+        "title": "Amazon bloque l’accès à Muse (Meta) #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=KHizR8oUbDk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Amazon bloque l’accès à Muse (Meta) #actu...",
+        "isShort": false
+    },
+    {
+        "id": "jjx_pA-Zsoc",
+        "videoId": "jjx_pA-Zsoc",
+        "title": "Les USA veulent des drones jetables",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=jjx_pA-Zsoc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les USA veulent des drones jetables...",
+        "isShort": false
+    },
+    {
+        "id": "8KJuLL7CHFk",
+        "videoId": "8KJuLL7CHFk",
+        "title": "Microsoft Copilot est incroyable !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=8KJuLL7CHFk",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est incroyable !...",
+        "isShort": false
+    },
+    {
         "id": "96tbi_dVafQ",
         "videoId": "96tbi_dVafQ",
         "title": "Xiaomi lance son modèle IA #actu",
@@ -181,6 +217,90 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=96tbi_dVafQ",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Xiaomi lance son modèle IA #actu...",
+        "isShort": false
+    },
+    {
+        "id": "OxJKNZcVcrs",
+        "videoId": "OxJKNZcVcrs",
+        "title": "OPUS 5.5 remplace un monteur vidéo ?",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=OxJKNZcVcrs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : OPUS 5.5 remplace un monteur vidéo ?...",
+        "isShort": false
+    },
+    {
+        "id": "Kjvp4yFPiao",
+        "videoId": "Kjvp4yFPiao",
+        "title": "Le Million de Tokens de Google Cache Quelque Chose",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=Kjvp4yFPiao",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Le Million de Tokens de Google Cache Quelque Chose...",
+        "isShort": false
+    },
+    {
+        "id": "j4DTcJB0Gj0",
+        "videoId": "j4DTcJB0Gj0",
+        "title": "Retirer les pubs de tes applis Android",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=j4DTcJB0Gj0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Retirer les pubs de tes applis Android...",
+        "isShort": false
+    },
+    {
+        "id": "XKr-unbTwcw",
+        "videoId": "XKr-unbTwcw",
+        "title": "J'ai fait un site Claude Design qui ne fait pas IA",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=XKr-unbTwcw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : J'ai fait un site Claude Design qui ne fait pas IA...",
+        "isShort": false
+    },
+    {
+        "id": "7OA4DTV55wA",
+        "videoId": "7OA4DTV55wA",
+        "title": "9 outils IA création de contenu : mon stack complet 2026",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=7OA4DTV55wA",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : 9 outils IA création de contenu : mon stack complet 2026...",
+        "isShort": false
+    },
+    {
+        "id": "fC6JxfSXRJE",
+        "videoId": "fC6JxfSXRJE",
+        "title": "Maduro capturé sur avis de Grok ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=fC6JxfSXRJE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Maduro capturé sur avis de Grok ?...",
+        "isShort": false
+    },
+    {
+        "id": "7kQElAfDa7U",
+        "videoId": "7kQElAfDa7U",
+        "title": "Grok guide Trump et c'est pas le pire : les États-Unis deviennent fous avec l'IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=7kQElAfDa7U",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Grok guide Trump et c'est pas le pire : les États-Unis deviennent fous avec l'IA !...",
         "isShort": false
     },
     {
@@ -306,13 +426,13 @@ export const allVideos = [
     {
         "id": "T9ETDqp7XQk",
         "videoId": "T9ETDqp7XQk",
-        "title": "Pourquoi Claude Code utilise encore Ctrl+F ? (avec Amélie Chatelain)",
+        "title": "Comment une IA comprend vraiment ce qu'on lui dit ? (avec Amélie Chatelain)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-10-03",
         "url": "https://www.youtube.com/watch?v=T9ETDqp7XQk",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Pourquoi Claude Code utilise encore Ctrl+F ? (avec Amélie Chatelain)...",
+        "summary": "Nouveauté de Eliott Meunier : Comment une IA comprend vraiment ce qu'on lui dit ? (avec Amélie Chatelain)...",
         "isShort": false
     },
     {
@@ -688,30 +808,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "A2znp0KwPU4",
-        "videoId": "A2znp0KwPU4",
-        "title": "Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffe !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=A2znp0KwPU4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffe !...",
-        "isShort": false
-    },
-    {
-        "id": "XpStbq2wN00",
-        "videoId": "XpStbq2wN00",
-        "title": "Fidji Simo choisit l’école IA 2 h",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=XpStbq2wN00",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fidji Simo choisit l’école IA 2 h...",
-        "isShort": false
-    },
-    {
         "id": "Ow40zdTKj7A",
         "videoId": "Ow40zdTKj7A",
         "title": "4 étapes exactes pour devenir consultant IA en 2026.",
@@ -781,18 +877,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VI0FCySkw9A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Voici comment j'ai rendu Hermes 10X plus puissant (vraiment)...",
-        "isShort": false
-    },
-    {
-        "id": "15fnyyC3_jg",
-        "videoId": "15fnyyC3_jg",
-        "title": "Rafale : l’IA vole, mais fait quoi ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=15fnyyC3_jg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Rafale : l’IA vole, mais fait quoi ?...",
         "isShort": false
     },
     {
@@ -1038,13 +1122,13 @@ export const allVideos = [
     {
         "id": "Pw5HCUbE5oE",
         "videoId": "Pw5HCUbE5oE",
-        "title": "J'ai lancé le même défi impossible à GPT 6 et Fable 5.1",
+        "title": "J'ai donné 1h à ChatGPT et Claude pour créer un E-commerce",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-09-25",
         "url": "https://www.youtube.com/watch?v=Pw5HCUbE5oE",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J'ai lancé le même défi impossible à GPT 6 et Fable 5.1...",
+        "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à ChatGPT et Claude pour créer un E-commerce...",
         "isShort": false
     },
     {
@@ -1225,18 +1309,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=g8PDuAGV_zU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude Code sans connaître ces 10 commandes !...",
-        "isShort": false
-    },
-    {
-        "id": "igKTuXkF8ZQ",
-        "videoId": "igKTuXkF8ZQ",
-        "title": "Installe n'importe quelle app sur ton iPhone, hors App Store (open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-22",
-        "url": "https://www.youtube.com/watch?v=igKTuXkF8ZQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Installe n'importe quelle app sur ton iPhone, hors App Store (open source)...",
         "isShort": false
     },
     {
@@ -1492,18 +1564,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "8_1le9h2aVc",
-        "videoId": "8_1le9h2aVc",
-        "title": "Sortie de DeepSeek V4.1 Flash #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=8_1le9h2aVc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Sortie de DeepSeek V4.1 Flash #actu...",
-        "isShort": false
-    },
-    {
         "id": "sSuS5pLOU7U",
         "videoId": "sSuS5pLOU7U",
         "title": "La nouvelle architecture de DeepSeek est juste brillante",
@@ -1636,18 +1696,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "KNTbEG00bPk",
-        "videoId": "KNTbEG00bPk",
-        "title": "Pourquoi GPT-6 Astra pourrait tout changer",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-12",
-        "url": "https://www.youtube.com/watch?v=KNTbEG00bPk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Pourquoi GPT-6 Astra pourrait tout changer...",
-        "isShort": false
-    },
-    {
         "id": "NRQU-_6ors0",
         "videoId": "NRQU-_6ors0",
         "title": "ChatGPT 6 Astra est terrifiant",
@@ -1741,18 +1789,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PEWHYroIZA0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : GPT‑6 Astra : le retour en force de ChatGPT ?...",
-        "isShort": false
-    },
-    {
-        "id": "D2RkSUhRrZg",
-        "videoId": "D2RkSUhRrZg",
-        "title": "La nouvelle Skill incroyable dans ChatGPT !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=D2RkSUhRrZg",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : La nouvelle Skill incroyable dans ChatGPT !...",
         "isShort": false
     },
     {
