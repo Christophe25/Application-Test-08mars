@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-06T12:42:38.015Z
+// Fichier généré automatiquement le 2026-10-07T12:35:43.874Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:42:38 PM 10/6/2026";
+export const lastUpdate = "12:35:43 PM 10/7/2026";
 
 export const sources = [
     {
@@ -172,6 +172,78 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "k87_vbTdX40",
+        "videoId": "k87_vbTdX40",
+        "title": "5 repos GitHub qui ont explosé cette semaine !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=k87_vbTdX40",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 repos GitHub qui ont explosé cette semaine !...",
+        "isShort": false
+    },
+    {
+        "id": "XNselqVB1Xk",
+        "videoId": "XNselqVB1Xk",
+        "title": "38 façons différente de trouver une bonne idée de startup à lancer avec de l’IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=XNselqVB1Xk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 38 façons différente de trouver une bonne idée de startup à lancer avec de l’IA...",
+        "isShort": false
+    },
+    {
+        "id": "HR97H1yqgVc",
+        "videoId": "HR97H1yqgVc",
+        "title": "L’ère des agents autonomes a commencé (dots OpenAI)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=HR97H1yqgVc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’ère des agents autonomes a commencé (dots OpenAI)...",
+        "isShort": false
+    },
+    {
+        "id": "BqpXAwy2yPY",
+        "videoId": "BqpXAwy2yPY",
+        "title": "DeepSeek et Xiaomi changent la façon dont les IA réfléchissent",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=BqpXAwy2yPY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek et Xiaomi changent la façon dont les IA réfléchissent...",
+        "isShort": false
+    },
+    {
+        "id": "dtdhi2u_vGg",
+        "videoId": "dtdhi2u_vGg",
+        "title": "Meta Muse a les clés de vos comptes",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=dtdhi2u_vGg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta Muse a les clés de vos comptes...",
+        "isShort": false
+    },
+    {
+        "id": "dio8PInqANw",
+        "videoId": "dio8PInqANw",
+        "title": "La nouvelle direction du marché de l’IA #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=dio8PInqANw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : La nouvelle direction du marché de l’IA #actu...",
+        "isShort": false
+    },
+    {
         "id": "KHizR8oUbDk",
         "videoId": "KHizR8oUbDk",
         "title": "Amazon bloque l’accès à Muse (Meta) #actu",
@@ -181,6 +253,54 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=KHizR8oUbDk",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Amazon bloque l’accès à Muse (Meta) #actu...",
+        "isShort": false
+    },
+    {
+        "id": "mfdtW0gh5og",
+        "videoId": "mfdtW0gh5og",
+        "title": "Gemini 4 Argon : Le million trompeur",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=mfdtW0gh5og",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Gemini 4 Argon : Le million trompeur...",
+        "isShort": false
+    },
+    {
+        "id": "sP3TnhIN33o",
+        "videoId": "sP3TnhIN33o",
+        "title": "Ton site surveillé 24h/24 : l'outil open source qui t'alerte sur Telegram",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=sP3TnhIN33o",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ton site surveillé 24h/24 : l'outil open source qui t'alerte sur Telegram...",
+        "isShort": false
+    },
+    {
+        "id": "jUY9K05JJBM",
+        "videoId": "jUY9K05JJBM",
+        "title": "Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=jUY9K05JJBM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA...",
+        "isShort": false
+    },
+    {
+        "id": "DQbe0PzedDI",
+        "videoId": "DQbe0PzedDI",
+        "title": "OpenAI : des agents hors contrôle",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=DQbe0PzedDI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI : des agents hors contrôle...",
         "isShort": false
     },
     {
@@ -270,13 +390,13 @@ export const allVideos = [
     {
         "id": "7OA4DTV55wA",
         "videoId": "7OA4DTV55wA",
-        "title": "9 outils IA création de contenu : mon stack complet 2026",
+        "title": "9 outils IA création de contenu : Tous mes outils pour 2026",
         "author": "Ludovic Nédélec",
         "source": "@LudovicNedelec",
         "date": "2026-10-05",
         "url": "https://www.youtube.com/watch?v=7OA4DTV55wA",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : 9 outils IA création de contenu : mon stack complet 2026...",
+        "summary": "Nouveauté de Ludovic Nédélec : 9 outils IA création de contenu : Tous mes outils pour 2026...",
         "isShort": false
     },
     {
@@ -628,30 +748,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "rIuDIVc9kNk",
-        "videoId": "rIuDIVc9kNk",
-        "title": "Sonnet 5.5 : Opus pour moins cher",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=rIuDIVc9kNk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Sonnet 5.5 : Opus pour moins cher...",
-        "isShort": false
-    },
-    {
-        "id": "WwwxUT-fbZs",
-        "videoId": "WwwxUT-fbZs",
-        "title": "Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=WwwxUT-fbZs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !...",
-        "isShort": false
-    },
-    {
         "id": "lLTLG0h6y54",
         "videoId": "lLTLG0h6y54",
         "title": "JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)",
@@ -793,18 +889,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8Nr1MckK9g8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Jev + Claude : le combo le plus puissant du moment...",
-        "isShort": false
-    },
-    {
-        "id": "Zf8OAa-qMvo",
-        "videoId": "Zf8OAa-qMvo",
-        "title": "OpenAI envoie ses agents au bureau",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=Zf8OAa-qMvo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI envoie ses agents au bureau...",
         "isShort": false
     },
     {
@@ -1240,18 +1324,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "sUr3mP1Kkn8",
-        "videoId": "sUr3mP1Kkn8",
-        "title": "Un vrai terminal de trading open source, sans abonnement (OpenTerminal)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=sUr3mP1Kkn8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Un vrai terminal de trading open source, sans abonnement (OpenTerminal)...",
-        "isShort": false
-    },
-    {
         "id": "XBiAKUYar0g",
         "videoId": "XBiAKUYar0g",
         "title": "les skills Claude expliquées en 60 secondes !",
@@ -1480,18 +1552,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "s35EaYwMv5M",
-        "videoId": "s35EaYwMv5M",
-        "title": "OpenAI accusé de vol #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=s35EaYwMv5M",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : OpenAI accusé de vol #actu...",
-        "isShort": false
-    },
-    {
         "id": "MuokPyJiRkM",
         "videoId": "MuokPyJiRkM",
         "title": "La nouvelle architecture de Deepseek est brillante 🇨🇳",
@@ -1525,42 +1585,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tsCg8lIEMjM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : donner de la mémoire à Claude en deux étapes !...",
-        "isShort": false
-    },
-    {
-        "id": "4tHhowWy-V4",
-        "videoId": "4tHhowWy-V4",
-        "title": "Ce repo GitHub transforme n'importe quel screen record en vidéo montée",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=4tHhowWy-V4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce repo GitHub transforme n'importe quel screen record en vidéo montée...",
-        "isShort": false
-    },
-    {
-        "id": "N8SCaHouGrg",
-        "videoId": "N8SCaHouGrg",
-        "title": "Génère des revenus avec Claude grâce a ces 3 compétences !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=N8SCaHouGrg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Génère des revenus avec Claude grâce a ces 3 compétences !...",
-        "isShort": false
-    },
-    {
-        "id": "NR5Wo-8BPxc",
-        "videoId": "NR5Wo-8BPxc",
-        "title": "Mistral lève 3 milliards d’euros #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=NR5Wo-8BPxc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Mistral lève 3 milliards d’euros #actu...",
         "isShort": false
     },
     {
@@ -1636,18 +1660,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "zPyRUZl3yp4",
-        "videoId": "zPyRUZl3yp4",
-        "title": "Open ai vient peut-être de marquer l’histoire (Navier-Stokes)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=zPyRUZl3yp4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Open ai vient peut-être de marquer l’histoire (Navier-Stokes)...",
-        "isShort": false
-    },
-    {
         "id": "bAr4mlidBB4",
         "videoId": "bAr4mlidBB4",
         "title": "Cette fonctionnalité de Claude va tout changer !",
@@ -1657,18 +1669,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=bAr4mlidBB4",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Cette fonctionnalité de Claude va tout changer !...",
-        "isShort": false
-    },
-    {
-        "id": "9_7piNRO-0Y",
-        "videoId": "9_7piNRO-0Y",
-        "title": "OpenAI vient peut-être de marquer l’histoire (Navier-Stokes)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=9_7piNRO-0Y",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : OpenAI vient peut-être de marquer l’histoire (Navier-Stokes)...",
         "isShort": false
     },
     {
