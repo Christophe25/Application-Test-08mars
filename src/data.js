@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-09T12:32:33.756Z
+// Fichier généré automatiquement le 2026-10-10T11:51:51.763Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:32:33 PM 10/9/2026";
+export const lastUpdate = "11:51:51 AM 10/10/2026";
 
 export const sources = [
     {
@@ -172,6 +172,30 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "RTOKPqvV5jw",
+        "videoId": "RTOKPqvV5jw",
+        "title": "OpenAI lâche 722 preuves, tollé",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-10",
+        "url": "https://www.youtube.com/watch?v=RTOKPqvV5jw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI lâche 722 preuves, tollé...",
+        "isShort": false
+    },
+    {
+        "id": "G54UugYiucw",
+        "videoId": "G54UugYiucw",
+        "title": "Les consultants IA qui vivent de leur activité ne cesse d'augmenter !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=G54UugYiucw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Les consultants IA qui vivent de leur activité ne cesse d'augmenter !...",
+        "isShort": false
+    },
+    {
         "id": "DHwPct6TrPA",
         "videoId": "DHwPct6TrPA",
         "title": "6 documents à avoir avant de Vibecoder une application !",
@@ -181,6 +205,66 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DHwPct6TrPA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 6 documents à avoir avant de Vibecoder une application !...",
+        "isShort": false
+    },
+    {
+        "id": "v-WDlosJpGs",
+        "videoId": "v-WDlosJpGs",
+        "title": "Deepseek et Xiaomi débloquent les IA locales",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=v-WDlosJpGs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Deepseek et Xiaomi débloquent les IA locales...",
+        "isShort": false
+    },
+    {
+        "id": "YpK_S3PAg-M",
+        "videoId": "YpK_S3PAg-M",
+        "title": "Génère tes images en local et gratuitement avec cette IA open source",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=YpK_S3PAg-M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Génère tes images en local et gratuitement avec cette IA open source...",
+        "isShort": false
+    },
+    {
+        "id": "8RWPsSsfh-s",
+        "videoId": "8RWPsSsfh-s",
+        "title": "GPT-6 : des réponses à manipuler",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=8RWPsSsfh-s",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6 : des réponses à manipuler...",
+        "isShort": false
+    },
+    {
+        "id": "ydHZHh4-bUw",
+        "videoId": "ydHZHh4-bUw",
+        "title": "C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=ydHZHh4-bUw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin...",
+        "isShort": false
+    },
+    {
+        "id": "cHy8yI7k-i8",
+        "videoId": "cHy8yI7k-i8",
+        "title": "C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=cHy8yI7k-i8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !...",
         "isShort": false
     },
     {
@@ -210,25 +294,13 @@ export const allVideos = [
     {
         "id": "AOqprnXy5FM",
         "videoId": "AOqprnXy5FM",
-        "title": "J'ai demandé à ChatGPT de vous arnaquer (et il l'a fait)",
+        "title": "J’ai monté une ARNAQUE de A à Z avec ChatGPT (ça fait peur)",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-10-08",
         "url": "https://www.youtube.com/watch?v=AOqprnXy5FM",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J'ai demandé à ChatGPT de vous arnaquer (et il l'a fait)...",
-        "isShort": false
-    },
-    {
-        "id": "cHy8yI7k-i8",
-        "videoId": "cHy8yI7k-i8",
-        "title": "C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-08",
-        "url": "https://www.youtube.com/watch?v=cHy8yI7k-i8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !...",
+        "summary": "Nouveauté de Ludo Salenne : J’ai monté une ARNAQUE de A à Z avec ChatGPT (ça fait peur)...",
         "isShort": false
     },
     {
@@ -601,42 +673,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fC6JxfSXRJE",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Maduro capturé sur avis de Grok ?...",
-        "isShort": false
-    },
-    {
-        "id": "7kQElAfDa7U",
-        "videoId": "7kQElAfDa7U",
-        "title": "Grok guide Trump et c'est pas le pire : les États-Unis deviennent fous avec l'IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-05",
-        "url": "https://www.youtube.com/watch?v=7kQElAfDa7U",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Grok guide Trump et c'est pas le pire : les États-Unis deviennent fous avec l'IA !...",
-        "isShort": false
-    },
-    {
-        "id": "yYR0gwnMT3c",
-        "videoId": "yYR0gwnMT3c",
-        "title": "Grok guide Trump et ce n'est pas le pire, les États-Unis deviennent fous avec l'IA ! + La Zone Grise",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-05",
-        "url": "https://www.youtube.com/watch?v=yYR0gwnMT3c",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Grok guide Trump et ce n'est pas le pire, les États-Unis deviennent fous avec l'IA ! + La Zone Grise...",
-        "isShort": false
-    },
-    {
-        "id": "N8ELraWIl9o",
-        "videoId": "N8ELraWIl9o",
-        "title": "IA sans loi : Trump laisse faire",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-05",
-        "url": "https://www.youtube.com/watch?v=N8ELraWIl9o",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA sans loi : Trump laisse faire...",
         "isShort": false
     },
     {
@@ -1252,18 +1288,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "9tvdun3HBZE",
-        "videoId": "9tvdun3HBZE",
-        "title": "L'API WhatsApp open source : 0 € par message, sur ton serveur",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-26",
-        "url": "https://www.youtube.com/watch?v=9tvdun3HBZE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : L'API WhatsApp open source : 0 € par message, sur ton serveur...",
-        "isShort": false
-    },
-    {
         "id": "E_A5G_elEss",
         "videoId": "E_A5G_elEss",
         "title": "JEV cette nouvelle IA dont tout le monde parle !",
@@ -1456,18 +1480,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "g8PDuAGV_zU",
-        "videoId": "g8PDuAGV_zU",
-        "title": "Tu utilises Claude Code sans connaître ces 10 commandes !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-22",
-        "url": "https://www.youtube.com/watch?v=g8PDuAGV_zU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude Code sans connaître ces 10 commandes !...",
-        "isShort": false
-    },
-    {
         "id": "ETq5N-5q1qU",
         "videoId": "ETq5N-5q1qU",
         "title": "Maîtriser Claude Design est un game changer en 2026 !",
@@ -1645,18 +1657,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tsCg8lIEMjM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : donner de la mémoire à Claude en deux étapes !...",
-        "isShort": false
-    },
-    {
-        "id": "sSuS5pLOU7U",
-        "videoId": "sSuS5pLOU7U",
-        "title": "La nouvelle architecture de DeepSeek est juste brillante",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=sSuS5pLOU7U",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La nouvelle architecture de DeepSeek est juste brillante...",
         "isShort": false
     },
     {
@@ -1967,19 +1967,6 @@ export const allVideos = [
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment Bâtir un Business en SOLO avec l’IA (grâce à Claude Code)...",
         "duration": 1345,
-        "isShort": false
-    },
-    {
-        "id": "EQt4H1aDWBw",
-        "videoId": "EQt4H1aDWBw",
-        "title": "Des employés IA gratuits pour tous (merci le cofondateur de Twitter)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-08-10",
-        "url": "https://www.youtube.com/watch?v=EQt4H1aDWBw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Des employés IA gratuits pour tous (merci le cofondateur de Twitter)...",
-        "duration": 1123,
         "isShort": false
     }
 ];
