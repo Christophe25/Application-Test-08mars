@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-11T12:03:42.994Z
+// Fichier généré automatiquement le 2026-10-12T14:19:00.376Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:03:42 PM 10/11/2026";
+export const lastUpdate = "2:19:00 PM 10/12/2026";
 
 export const sources = [
     {
@@ -172,6 +172,78 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "RnEX62cV2Lk",
+        "videoId": "RnEX62cV2Lk",
+        "title": "Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=RnEX62cV2Lk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet...",
+        "isShort": false
+    },
+    {
+        "id": "u1XcftAPyzM",
+        "videoId": "u1XcftAPyzM",
+        "title": "Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet + Notre avenir IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=u1XcftAPyzM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet + Notre avenir IA...",
+        "isShort": false
+    },
+    {
+        "id": "lvBiK2Wrxbw",
+        "videoId": "lvBiK2Wrxbw",
+        "title": "Cruel avec Claude ? Compte fermé",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=lvBiK2Wrxbw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Cruel avec Claude ? Compte fermé...",
+        "isShort": false
+    },
+    {
+        "id": "jaTuUYDfOvw",
+        "videoId": "jaTuUYDfOvw",
+        "title": "J'ai accédé aux chiffres de l'IA en France : c'est une catastrophe (et une opportunité)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=jaTuUYDfOvw",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : J'ai accédé aux chiffres de l'IA en France : c'est une catastrophe (et une opportunité)...",
+        "isShort": false
+    },
+    {
+        "id": "tvYFPGaIO9k",
+        "videoId": "tvYFPGaIO9k",
+        "title": "Comment créer des animations INCROYABLES avec l’IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=tvYFPGaIO9k",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Comment créer des animations INCROYABLES avec l’IA...",
+        "isShort": false
+    },
+    {
+        "id": "bYoX3Avvutg",
+        "videoId": "bYoX3Avvutg",
+        "title": "Écrire un roman avec l’IA #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=bYoX3Avvutg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Écrire un roman avec l’IA #actu...",
+        "isShort": false
+    },
+    {
         "id": "oQurHKU05OY",
         "videoId": "oQurHKU05OY",
         "title": "La mort des applications #actu",
@@ -205,6 +277,42 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fe3JdscTHQg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Les mods de Claude Code sont sortis 👀...",
+        "isShort": false
+    },
+    {
+        "id": "dfKeI5kDF7E",
+        "videoId": "dfKeI5kDF7E",
+        "title": "L'After Effects open source, gratuit et piloté par ton IA",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=dfKeI5kDF7E",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : L'After Effects open source, gratuit et piloté par ton IA...",
+        "isShort": false
+    },
+    {
+        "id": "V-vbQ-AJr44",
+        "videoId": "V-vbQ-AJr44",
+        "title": "Le plus gros mensonge sur l'Intelligence Artificielle.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=V-vbQ-AJr44",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Le plus gros mensonge sur l'Intelligence Artificielle....",
+        "isShort": false
+    },
+    {
+        "id": "S8sQeFy9VbQ",
+        "videoId": "S8sQeFy9VbQ",
+        "title": "La zone grise de l'IA : ce que presque personne n'exploite",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=S8sQeFy9VbQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La zone grise de l'IA : ce que presque personne n'exploite...",
         "isShort": false
     },
     {
@@ -544,42 +652,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "lzLrcIfT04s",
-        "videoId": "lzLrcIfT04s",
-        "title": "Mistral : l’IA qu’on ne coupe pas",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=lzLrcIfT04s",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral : l’IA qu’on ne coupe pas...",
-        "isShort": false
-    },
-    {
-        "id": "4FfQwPprW9o",
-        "videoId": "4FfQwPprW9o",
-        "title": "Le Chonk : Mistral lance son gros chaton",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=4FfQwPprW9o",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le Chonk : Mistral lance son gros chaton...",
-        "isShort": false
-    },
-    {
-        "id": "dtdhi2u_vGg",
-        "videoId": "dtdhi2u_vGg",
-        "title": "Meta Muse a les clés de vos comptes",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=dtdhi2u_vGg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta Muse a les clés de vos comptes...",
-        "isShort": false
-    },
-    {
         "id": "dio8PInqANw",
         "videoId": "dio8PInqANw",
         "title": "La nouvelle direction du marché de l’IA #actu",
@@ -625,18 +697,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sP3TnhIN33o",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Ton site surveillé 24h/24 : l'outil open source qui t'alerte sur Telegram...",
-        "isShort": false
-    },
-    {
-        "id": "DQbe0PzedDI",
-        "videoId": "DQbe0PzedDI",
-        "title": "OpenAI : des agents hors contrôle",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-06",
-        "url": "https://www.youtube.com/watch?v=DQbe0PzedDI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI : des agents hors contrôle...",
         "isShort": false
     },
     {
@@ -1204,18 +1264,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "54y1SjJMG6M",
-        "videoId": "54y1SjJMG6M",
-        "title": "Analyse ton site web gratuitement : le Google Analytics open source (Plausible)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=54y1SjJMG6M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Analyse ton site web gratuitement : le Google Analytics open source (Plausible)...",
-        "isShort": false
-    },
-    {
         "id": "Q9HGTqrG2B0",
         "videoId": "Q9HGTqrG2B0",
         "title": "JEV wow incroyable !!!",
@@ -1453,18 +1501,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xJM8WkvxqMk",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le classement ultime des IA !...",
-        "isShort": false
-    },
-    {
-        "id": "mPKvGKuh9UQ",
-        "videoId": "mPKvGKuh9UQ",
-        "title": "JEV : l’IA qui secoue internet (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=mPKvGKuh9UQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : JEV : l’IA qui secoue internet (actu IA)...",
         "isShort": false
     },
     {
