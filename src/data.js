@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-13T13:29:11.515Z
+// Fichier généré automatiquement le 2026-10-14T11:07:00.612Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "1:29:11 PM 10/13/2026";
+export const lastUpdate = "11:07:00 AM 10/14/2026";
 
 export const sources = [
     {
@@ -172,6 +172,42 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "Fzg-cdQlgEg",
+        "videoId": "Fzg-cdQlgEg",
+        "title": "Les 15 erreurs à ne pas faire sur Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=Fzg-cdQlgEg",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Les 15 erreurs à ne pas faire sur Claude !...",
+        "isShort": false
+    },
+    {
+        "id": "7rAXoMXYs20",
+        "videoId": "7rAXoMXYs20",
+        "title": "SpaceX : le pari Nvidia inquiète",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=7rAXoMXYs20",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : SpaceX : le pari Nvidia inquiète...",
+        "isShort": false
+    },
+    {
+        "id": "MdciJiM-Jvs",
+        "videoId": "MdciJiM-Jvs",
+        "title": "Commence à construire des systèmes IA !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=MdciJiM-Jvs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Commence à construire des systèmes IA !...",
+        "isShort": false
+    },
+    {
         "id": "QGJUqEDTw6o",
         "videoId": "QGJUqEDTw6o",
         "title": "La Skill ChatGPT qui va tout changer !",
@@ -181,6 +217,66 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QGJUqEDTw6o",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : La Skill ChatGPT qui va tout changer !...",
+        "isShort": false
+    },
+    {
+        "id": "iO0aFdk2-Ns",
+        "videoId": "iO0aFdk2-Ns",
+        "title": "Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=iO0aFdk2-Ns",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)...",
+        "isShort": false
+    },
+    {
+        "id": "L3JZ5gYERN0",
+        "videoId": "L3JZ5gYERN0",
+        "title": "Clone n'importe quelle app SaaS avec Claude Code #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=L3JZ5gYERN0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Clone n'importe quelle app SaaS avec Claude Code #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "xWDn2hoqn6A",
+        "videoId": "xWDn2hoqn6A",
+        "title": "Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA ! + Interview de l'IGN.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=xWDn2hoqn6A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA ! + Interview de l'IGN....",
+        "isShort": false
+    },
+    {
+        "id": "LN1SFB7_wPE",
+        "videoId": "LN1SFB7_wPE",
+        "title": "OpenAI prépare l’après-crise IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=LN1SFB7_wPE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI prépare l’après-crise IA...",
+        "isShort": false
+    },
+    {
+        "id": "jyD8w1u8UqI",
+        "videoId": "jyD8w1u8UqI",
+        "title": "Comment préparer son avenir dans un Monde IA ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=jyD8w1u8UqI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Comment préparer son avenir dans un Monde IA ?...",
         "isShort": false
     },
     {
@@ -532,30 +628,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "cHy8yI7k-i8",
-        "videoId": "cHy8yI7k-i8",
-        "title": "C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-09",
-        "url": "https://www.youtube.com/watch?v=cHy8yI7k-i8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !...",
-        "isShort": false
-    },
-    {
-        "id": "QNwhAURmKFM",
-        "videoId": "QNwhAURmKFM",
-        "title": "L’IA vise, les drones tombent",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-09",
-        "url": "https://www.youtube.com/watch?v=QNwhAURmKFM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L’IA vise, les drones tombent...",
-        "isShort": false
-    },
-    {
         "id": "2oDq2sXHm2M",
         "videoId": "2oDq2sXHm2M",
         "title": "Ton site internet en motion design, fait par l'IA (gratuit)",
@@ -577,30 +649,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AOqprnXy5FM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J’ai monté une ARNAQUE de A à Z avec ChatGPT (ça fait peur)...",
-        "isShort": false
-    },
-    {
-        "id": "oRH-dTeAtag",
-        "videoId": "oRH-dTeAtag",
-        "title": "Son journal IA finit chez la police",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-08",
-        "url": "https://www.youtube.com/watch?v=oRH-dTeAtag",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Son journal IA finit chez la police...",
-        "isShort": false
-    },
-    {
-        "id": "5yofugfgbtA",
-        "videoId": "5yofugfgbtA",
-        "title": "L'IA qui lit vos émotions, la fausse bonne idée ? Débat avec une philosophe de l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-08",
-        "url": "https://www.youtube.com/watch?v=5yofugfgbtA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA qui lit vos émotions, la fausse bonne idée ? Débat avec une philosophe de l'IA...",
         "isShort": false
     },
     {
@@ -1180,18 +1228,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "a5bRY1vi1Y8",
-        "videoId": "a5bRY1vi1Y8",
-        "title": "GPT 6.1 Sol  : Le TEST ultime ! (Open AI DevDay)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=a5bRY1vi1Y8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : GPT 6.1 Sol  : Le TEST ultime ! (Open AI DevDay)...",
-        "isShort": false
-    },
-    {
         "id": "78rB0-oNvX0",
         "videoId": "78rB0-oNvX0",
         "title": "J'ai fusionné Higgsfield API et Hermes (c'est fou)",
@@ -1369,18 +1405,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=LecvtTyud08",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Construire une équipe Marketing tout seul avec Claude...",
-        "isShort": false
-    },
-    {
-        "id": "fKnQWcrjE-0",
-        "videoId": "fKnQWcrjE-0",
-        "title": "4 Plugins Claude pour le Vibe Coding",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=fKnQWcrjE-0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 4 Plugins Claude pour le Vibe Coding...",
         "isShort": false
     },
     {
@@ -1732,18 +1756,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "tsCg8lIEMjM",
-        "videoId": "tsCg8lIEMjM",
-        "title": "donner de la mémoire à Claude en deux étapes !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=tsCg8lIEMjM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : donner de la mémoire à Claude en deux étapes !...",
-        "isShort": false
-    },
-    {
         "id": "i8cCJ0-ZG3Q",
         "videoId": "i8cCJ0-ZG3Q",
         "title": "Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)",
@@ -1801,18 +1813,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AaLTIk_Nc4k",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Arrêtez de payer ChatGPT: cette IA locale est gratuite & illimité...",
-        "isShort": false
-    },
-    {
-        "id": "bAr4mlidBB4",
-        "videoId": "bAr4mlidBB4",
-        "title": "Cette fonctionnalité de Claude va tout changer !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=bAr4mlidBB4",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Cette fonctionnalité de Claude va tout changer !...",
         "isShort": false
     },
     {
