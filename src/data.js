@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-15T10:49:55.982Z
+// Fichier généré automatiquement le 2026-10-16T10:37:29.571Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:49:55 AM 10/15/2026";
+export const lastUpdate = "10:37:29 AM 10/16/2026";
 
 export const sources = [
     {
@@ -172,6 +172,66 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "nHltw9WtwAQ",
+        "videoId": "nHltw9WtwAQ",
+        "title": "Utiliser ChatGPT comme les PRO en 30 minutes !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=nHltw9WtwAQ",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Utiliser ChatGPT comme les PRO en 30 minutes !...",
+        "isShort": false
+    },
+    {
+        "id": "DRYk_6Qrp_k",
+        "videoId": "DRYk_6Qrp_k",
+        "title": "Cette vidéo a été MONTÉE à 100 % par Claude Opus 5.5 (je vous montre comment)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=DRYk_6Qrp_k",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Cette vidéo a été MONTÉE à 100 % par Claude Opus 5.5 (je vous montre comment)...",
+        "isShort": false
+    },
+    {
+        "id": "EeLVOcPYk-0",
+        "videoId": "EeLVOcPYk-0",
+        "title": "Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale + Formez Claude",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=EeLVOcPYk-0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale + Formez Claude...",
+        "isShort": false
+    },
+    {
+        "id": "zNGLjCOzBfg",
+        "videoId": "zNGLjCOzBfg",
+        "title": "Yandex brûle, ses bots chutent",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=zNGLjCOzBfg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Yandex brûle, ses bots chutent...",
+        "isShort": false
+    },
+    {
+        "id": "rNkJNerYg8Q",
+        "videoId": "rNkJNerYg8Q",
+        "title": "Claude vient de sortir une fonctionnalité appelée les Mods !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=rNkJNerYg8Q",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de sortir une fonctionnalité appelée les Mods !...",
+        "isShort": false
+    },
+    {
         "id": "ASo17ZldOro",
         "videoId": "ASo17ZldOro",
         "title": "Tu peux désormais cloner n’importe quelle appli avec Claude !",
@@ -184,6 +244,102 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "In9i8b5jygE",
+        "videoId": "In9i8b5jygE",
+        "title": "Utilisez mieux ChatGPT que 99% des gens ! (de débutant à PRO)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=In9i8b5jygE",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Utilisez mieux ChatGPT que 99% des gens ! (de débutant à PRO)...",
+        "isShort": false
+    },
+    {
+        "id": "VMcSrKbDj-A",
+        "videoId": "VMcSrKbDj-A",
+        "title": "OpenAI vient de franchir une limite inquiétante",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=VMcSrKbDj-A",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : OpenAI vient de franchir une limite inquiétante...",
+        "isShort": false
+    },
+    {
+        "id": "QPkjjpRltDM",
+        "videoId": "QPkjjpRltDM",
+        "title": "J'ai installé une IA qui décide TOUT pour moi, (GRATUIT)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=QPkjjpRltDM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai installé une IA qui décide TOUT pour moi, (GRATUIT)...",
+        "isShort": false
+    },
+    {
+        "id": "ZNE0OQCtjWc",
+        "videoId": "ZNE0OQCtjWc",
+        "title": "Je vais t'apprendre à créer ton propre Jarvis #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=ZNE0OQCtjWc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Je vais t'apprendre à créer ton propre Jarvis #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "BNQtLVnaIpc",
+        "videoId": "BNQtLVnaIpc",
+        "title": "Construis l'assistant d'Iron Man : le hackathon Jarvis #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=BNQtLVnaIpc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Construis l'assistant d'Iron Man : le hackathon Jarvis #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "zXjnhIFZDd8",
+        "videoId": "zXjnhIFZDd8",
+        "title": "Construis ton propre Jarvis, même sans être développeur #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=zXjnhIFZDd8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Construis ton propre Jarvis, même sans être développeur #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "R2YU9FgpQAE",
+        "videoId": "R2YU9FgpQAE",
+        "title": "4 plugins Claude Code à installer absolument #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=R2YU9FgpQAE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 4 plugins Claude Code à installer absolument #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "6vHmzYyi7L8",
+        "videoId": "6vHmzYyi7L8",
+        "title": "J'organise un hackathon pour construire ton propre Jarvis #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=6vHmzYyi7L8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : J'organise un hackathon pour construire ton propre Jarvis #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "ykAUNww86So",
         "videoId": "ykAUNww86So",
         "title": "J'ai cloné une application payante avec Claude Code (Fin du SAAS ?)",
@@ -193,6 +349,30 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ykAUNww86So",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : J'ai cloné une application payante avec Claude Code (Fin du SAAS ?)...",
+        "isShort": false
+    },
+    {
+        "id": "eJQyFuikaBs",
+        "videoId": "eJQyFuikaBs",
+        "title": "Epic force ses devs à coder par IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=eJQyFuikaBs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Epic force ses devs à coder par IA...",
+        "isShort": false
+    },
+    {
+        "id": "AjWzwAmC69A",
+        "videoId": "AjWzwAmC69A",
+        "title": "Un monde sans Google est-il possible ? Le patron de l'IGN répond",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=AjWzwAmC69A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Un monde sans Google est-il possible ? Le patron de l'IGN répond...",
         "isShort": false
     },
     {
@@ -229,18 +409,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Fzg-cdQlgEg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les 15 erreurs à ne pas faire sur Claude !...",
-        "isShort": false
-    },
-    {
-        "id": "ZAdil8_JiuI",
-        "videoId": "ZAdil8_JiuI",
-        "title": "OpenAI vient de franchir une limite inquiétante",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-14",
-        "url": "https://www.youtube.com/watch?v=ZAdil8_JiuI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : OpenAI vient de franchir une limite inquiétante...",
         "isShort": false
     },
     {
@@ -532,18 +700,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "lvBiK2Wrxbw",
-        "videoId": "lvBiK2Wrxbw",
-        "title": "Cruel avec Claude ? Compte fermé",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=lvBiK2Wrxbw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Cruel avec Claude ? Compte fermé...",
-        "isShort": false
-    },
-    {
         "id": "jaTuUYDfOvw",
         "videoId": "jaTuUYDfOvw",
         "title": "J'ai accédé aux chiffres de l'IA en France : c'est une catastrophe (et une opportunité)",
@@ -640,18 +796,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "S8sQeFy9VbQ",
-        "videoId": "S8sQeFy9VbQ",
-        "title": "La zone grise de l'IA : ce que presque personne n'exploite",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-11",
-        "url": "https://www.youtube.com/watch?v=S8sQeFy9VbQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La zone grise de l'IA : ce que presque personne n'exploite...",
-        "isShort": false
-    },
-    {
         "id": "CepHP9liJgs",
         "videoId": "CepHP9liJgs",
         "title": "25 jeux à lancer dans ton navigateur : Call of Duty, GTA 5, Les Simpsons",
@@ -661,30 +805,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=CepHP9liJgs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : 25 jeux à lancer dans ton navigateur : Call of Duty, GTA 5, Les Simpsons...",
-        "isShort": false
-    },
-    {
-        "id": "TEnQzeOyqk8",
-        "videoId": "TEnQzeOyqk8",
-        "title": "Haiku 5.5 : l’IA 10x moins chère",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-10",
-        "url": "https://www.youtube.com/watch?v=TEnQzeOyqk8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Haiku 5.5 : l’IA 10x moins chère...",
-        "isShort": false
-    },
-    {
-        "id": "sM9EJndxOdw",
-        "videoId": "sM9EJndxOdw",
-        "title": "Opus 5.5 a transformé mon entreprise en jeu vidéo",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-10",
-        "url": "https://www.youtube.com/watch?v=sM9EJndxOdw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Opus 5.5 a transformé mon entreprise en jeu vidéo...",
         "isShort": false
     },
     {
@@ -1228,18 +1348,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "vOzhHVG811k",
-        "videoId": "vOzhHVG811k",
-        "title": "Retire le fond de n'importe quelle vidéo, gratuitement",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=vOzhHVG811k",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Retire le fond de n'importe quelle vidéo, gratuitement...",
-        "isShort": false
-    },
-    {
         "id": "lLTLG0h6y54",
         "videoId": "lLTLG0h6y54",
         "title": "JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)",
@@ -1357,18 +1465,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8Nr1MckK9g8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Jev + Claude : le combo le plus puissant du moment...",
-        "isShort": false
-    },
-    {
-        "id": "Ow40zdTKj7A",
-        "videoId": "Ow40zdTKj7A",
-        "title": "4 étapes exactes pour devenir consultant IA en 2026.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=Ow40zdTKj7A",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 4 étapes exactes pour devenir consultant IA en 2026....",
         "isShort": false
     },
     {
@@ -1660,18 +1756,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "EwoOU3w1tQk",
-        "videoId": "EwoOU3w1tQk",
-        "title": "les skills Claude enfin expliquées en 60 secondes !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=EwoOU3w1tQk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : les skills Claude enfin expliquées en 60 secondes !...",
-        "isShort": false
-    },
-    {
         "id": "7DWrD_W0erg",
         "videoId": "7DWrD_W0erg",
         "title": "Claude + WhatsApp = Agent IA en 10 minutes (sans coder)",
@@ -1681,30 +1765,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7DWrD_W0erg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude + WhatsApp = Agent IA en 10 minutes (sans coder)...",
-        "isShort": false
-    },
-    {
-        "id": "ETq5N-5q1qU",
-        "videoId": "ETq5N-5q1qU",
-        "title": "Maîtriser Claude Design est un game changer en 2026 !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-22",
-        "url": "https://www.youtube.com/watch?v=ETq5N-5q1qU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Maîtriser Claude Design est un game changer en 2026 !...",
-        "isShort": false
-    },
-    {
-        "id": "40aF_bKallA",
-        "videoId": "40aF_bKallA",
-        "title": "Maîtriser Claude Design est un game changer !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-22",
-        "url": "https://www.youtube.com/watch?v=40aF_bKallA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Maîtriser Claude Design est un game changer !...",
         "isShort": false
     },
     {
@@ -1744,18 +1804,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "BeRjFzU0DMk",
-        "videoId": "BeRjFzU0DMk",
-        "title": "La création d'artefacts avec Claude en deux étapes !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=BeRjFzU0DMk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : La création d'artefacts avec Claude en deux étapes !...",
-        "isShort": false
-    },
-    {
         "id": "IanuaQIt-p8",
         "videoId": "IanuaQIt-p8",
         "title": "Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur",
@@ -1768,42 +1816,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "O4f9k_hOP0c",
-        "videoId": "O4f9k_hOP0c",
-        "title": "Jev : Mérite-t-il Vraiment Toute Cette Hype ? (System One Models)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=O4f9k_hOP0c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Jev : Mérite-t-il Vraiment Toute Cette Hype ? (System One Models)...",
-        "isShort": false
-    },
-    {
-        "id": "Kkk4KgTJJOs",
-        "videoId": "Kkk4KgTJJOs",
-        "title": "La création d'artefacts avec Claude !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=Kkk4KgTJJOs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : La création d'artefacts avec Claude !...",
-        "isShort": false
-    },
-    {
-        "id": "r2gkmTFP5K8",
-        "videoId": "r2gkmTFP5K8",
-        "title": "Le créateur de ChatGPT vient de sortir une IA qui ne parle pas (ça change tout)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=r2gkmTFP5K8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Le créateur de ChatGPT vient de sortir une IA qui ne parle pas (ça change tout)...",
-        "isShort": false
-    },
-    {
         "id": "F9J_XikrqRs",
         "videoId": "F9J_XikrqRs",
         "title": "Je livre toutes mes astuces de Pro pour Microsoft Copilot !",
@@ -1813,18 +1825,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F9J_XikrqRs",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Je livre toutes mes astuces de Pro pour Microsoft Copilot !...",
-        "isShort": false
-    },
-    {
-        "id": "i8cCJ0-ZG3Q",
-        "videoId": "i8cCJ0-ZG3Q",
-        "title": "Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=i8cCJ0-ZG3Q",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)...",
         "isShort": false
     },
     {
@@ -1849,18 +1849,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0EPr0CNCzHo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai automatisé mon montage vidéo avec GPT-6 Astra (Guide Complet Débutant) !...",
-        "isShort": false
-    },
-    {
-        "id": "T2lnLI8g96g",
-        "videoId": "T2lnLI8g96g",
-        "title": "Les secrets pour maîtriser GPT-6 Astra !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=T2lnLI8g96g",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Les secrets pour maîtriser GPT-6 Astra !...",
         "isShort": false
     },
     {
@@ -2086,19 +2074,6 @@ export const allVideos = [
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Vous utilisez 10 % de Claude (voici les 90 % cachés)...",
         "duration": 1301,
-        "isShort": false
-    },
-    {
-        "id": "QbcPDv-s2-E",
-        "videoId": "QbcPDv-s2-E",
-        "title": "Comment Bâtir un Business en SOLO avec l’IA (grâce à Claude Code)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-08-16",
-        "url": "https://www.youtube.com/watch?v=QbcPDv-s2-E",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment Bâtir un Business en SOLO avec l’IA (grâce à Claude Code)...",
-        "duration": 1345,
         "isShort": false
     }
 ];
