@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-16T10:37:29.571Z
+// Fichier généré automatiquement le 2026-10-17T10:07:12.895Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:37:29 AM 10/16/2026";
+export const lastUpdate = "10:07:12 AM 10/17/2026";
 
 export const sources = [
     {
@@ -172,6 +172,42 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "7tS6TixLpS4",
+        "videoId": "7tS6TixLpS4",
+        "title": "11 repos GitHub indispensables à brancher sur Claude Code",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=7tS6TixLpS4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : 11 repos GitHub indispensables à brancher sur Claude Code...",
+        "isShort": false
+    },
+    {
+        "id": "BSs-c5p4R8I",
+        "videoId": "BSs-c5p4R8I",
+        "title": "Pourquoi Nvidia parie sur Doctolib",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=BSs-c5p4R8I",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Pourquoi Nvidia parie sur Doctolib...",
+        "isShort": false
+    },
+    {
+        "id": "ri7OQKw0JHA",
+        "videoId": "ri7OQKw0JHA",
+        "title": "Claude garde tout l'historique de tes conversations !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=ri7OQKw0JHA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude garde tout l'historique de tes conversations !...",
+        "isShort": false
+    },
+    {
         "id": "nHltw9WtwAQ",
         "videoId": "nHltw9WtwAQ",
         "title": "Utiliser ChatGPT comme les PRO en 30 minutes !",
@@ -184,6 +220,54 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "_OYcg-XNhYU",
+        "videoId": "_OYcg-XNhYU",
+        "title": "Des motion designs sans aucune coupure, faits par ton IA (outil open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=_OYcg-XNhYU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Des motion designs sans aucune coupure, faits par ton IA (outil open source)...",
+        "isShort": false
+    },
+    {
+        "id": "lKnfdIrokHM",
+        "videoId": "lKnfdIrokHM",
+        "title": "Gradium AI sponsorise le hackathon Jarvis : ce que ça change pour toi #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=lKnfdIrokHM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Gradium AI sponsorise le hackathon Jarvis : ce que ça change pour toi #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "ghFG81thNT4",
+        "videoId": "ghFG81thNT4",
+        "title": "J'ai trouvé un sponsor pour le hackathon Jarvis : Gradium AI #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=ghFG81thNT4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : J'ai trouvé un sponsor pour le hackathon Jarvis : Gradium AI #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "sl15FH6VGXI",
+        "videoId": "sl15FH6VGXI",
+        "title": "Ce repo GitHub transforme ton navigateur en satellite espion #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=sl15FH6VGXI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Ce repo GitHub transforme ton navigateur en satellite espion #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "DRYk_6Qrp_k",
         "videoId": "DRYk_6Qrp_k",
         "title": "Cette vidéo a été MONTÉE à 100 % par Claude Opus 5.5 (je vous montre comment)",
@@ -193,6 +277,42 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DRYk_6Qrp_k",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Cette vidéo a été MONTÉE à 100 % par Claude Opus 5.5 (je vous montre comment)...",
+        "isShort": false
+    },
+    {
+        "id": "SFdVEInQh5w",
+        "videoId": "SFdVEInQh5w",
+        "title": "J'aurais jamais pensé devenir réalisateur (Merci l'IA)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=SFdVEInQh5w",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'aurais jamais pensé devenir réalisateur (Merci l'IA)...",
+        "isShort": false
+    },
+    {
+        "id": "LUBcP0rqz5k",
+        "videoId": "LUBcP0rqz5k",
+        "title": "Starlink a-t-il désarmé Kiev ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=LUBcP0rqz5k",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Starlink a-t-il désarmé Kiev ?...",
+        "isShort": false
+    },
+    {
+        "id": "CLT3PHTzGQU",
+        "videoId": "CLT3PHTzGQU",
+        "title": "Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-16",
+        "url": "https://www.youtube.com/watch?v=CLT3PHTzGQU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale...",
         "isShort": false
     },
     {
@@ -661,42 +781,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=louRH8iFt5g",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Microsoft Copilot comme un pro (tuto complet 2026)...",
-        "isShort": false
-    },
-    {
-        "id": "C9nNZ01n41c",
-        "videoId": "C9nNZ01n41c",
-        "title": "Adobe cloné par un dev avec Claude",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=C9nNZ01n41c",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Adobe cloné par un dev avec Claude...",
-        "isShort": false
-    },
-    {
-        "id": "RnEX62cV2Lk",
-        "videoId": "RnEX62cV2Lk",
-        "title": "Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=RnEX62cV2Lk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet...",
-        "isShort": false
-    },
-    {
-        "id": "u1XcftAPyzM",
-        "videoId": "u1XcftAPyzM",
-        "title": "Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet + Notre avenir IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=u1XcftAPyzM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet + Notre avenir IA...",
         "isShort": false
     },
     {
@@ -1300,18 +1384,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "B7G7btLTs1g",
-        "videoId": "B7G7btLTs1g",
-        "title": "Envoie tes newsletters gratuitement : l'alternative open source à Brevo et Mailjet",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=B7G7btLTs1g",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Envoie tes newsletters gratuitement : l'alternative open source à Brevo et Mailjet...",
-        "isShort": false
-    },
-    {
         "id": "jfoI8-3e3oA",
         "videoId": "jfoI8-3e3oA",
         "title": "5 repos Github pour gagner des mois de construction d’agents IA !",
@@ -1357,18 +1429,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lLTLG0h6y54",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)...",
-        "isShort": false
-    },
-    {
-        "id": "QinAUp88SrY",
-        "videoId": "QinAUp88SrY",
-        "title": "5 Plugins pour obtenir de meilleurs designs avec Claude Code !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=QinAUp88SrY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 Plugins pour obtenir de meilleurs designs avec Claude Code !...",
         "isShort": false
     },
     {
@@ -1708,30 +1768,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "U_5ACUpxNqY",
-        "videoId": "U_5ACUpxNqY",
-        "title": "Cette nouvelle IA change tout !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=U_5ACUpxNqY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Cette nouvelle IA change tout !...",
-        "isShort": false
-    },
-    {
-        "id": "BOszX4MAJRo",
-        "videoId": "BOszX4MAJRo",
-        "title": "Cette IA JEV est incroyable..",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=BOszX4MAJRo",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Cette IA JEV est incroyable.....",
-        "isShort": false
-    },
-    {
         "id": "xJM8WkvxqMk",
         "videoId": "xJM8WkvxqMk",
         "title": "Le classement ultime des IA !",
@@ -1741,18 +1777,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xJM8WkvxqMk",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le classement ultime des IA !...",
-        "isShort": false
-    },
-    {
-        "id": "XBiAKUYar0g",
-        "videoId": "XBiAKUYar0g",
-        "title": "les skills Claude expliquées en 60 secondes !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=XBiAKUYar0g",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : les skills Claude expliquées en 60 secondes !...",
         "isShort": false
     },
     {
@@ -2061,19 +2085,6 @@ export const allVideos = [
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois......",
         "duration": 1418,
-        "isShort": false
-    },
-    {
-        "id": "tb-7zB5pwng",
-        "videoId": "tb-7zB5pwng",
-        "title": "Vous utilisez 10 % de Claude (voici les 90 % cachés)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=tb-7zB5pwng",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Vous utilisez 10 % de Claude (voici les 90 % cachés)...",
-        "duration": 1301,
         "isShort": false
     }
 ];
