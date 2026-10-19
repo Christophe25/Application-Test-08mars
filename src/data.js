@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-18T10:20:24.197Z
+// Fichier généré automatiquement le 2026-10-19T12:00:04.734Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:20:24 AM 10/18/2026";
+export const lastUpdate = "12:00:04 PM 10/19/2026";
 
 export const sources = [
     {
@@ -171,6 +171,102 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "AXLqBy1k8h0",
+        "videoId": "AXLqBy1k8h0",
+        "title": "Gemini fabrique l’école des robots",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=AXLqBy1k8h0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini fabrique l’école des robots...",
+        "isShort": false
+    },
+    {
+        "id": "5CqDnR-r7Xs",
+        "videoId": "5CqDnR-r7Xs",
+        "title": "LA SEULE COMPÉTENCE QUE L'IA NE REMPLACERA PAS.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=5CqDnR-r7Xs",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : LA SEULE COMPÉTENCE QUE L'IA NE REMPLACERA PAS....",
+        "isShort": false
+    },
+    {
+        "id": "lvadUitdsA4",
+        "videoId": "lvadUitdsA4",
+        "title": "Et si l’IA gagnait la course contre l’humanité ?",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=lvadUitdsA4",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Et si l’IA gagnait la course contre l’humanité ?...",
+        "isShort": false
+    },
+    {
+        "id": "sFdfkWjP_hE",
+        "videoId": "sFdfkWjP_hE",
+        "title": "Ce Mini-PC fait tourner mes agents IA 24h/24 (Geekom A5 2027)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=sFdfkWjP_hE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Ce Mini-PC fait tourner mes agents IA 24h/24 (Geekom A5 2027)...",
+        "isShort": false
+    },
+    {
+        "id": "893iGUCeSJo",
+        "videoId": "893iGUCeSJo",
+        "title": "Ce skill open source recrée n'importe quelle app à partir d'un lien",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=893iGUCeSJo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ce skill open source recrée n'importe quelle app à partir d'un lien...",
+        "isShort": false
+    },
+    {
+        "id": "tMZvyOYDGWU",
+        "videoId": "tMZvyOYDGWU",
+        "title": "Copie n'importe quel site web au pixel près en 5 minutes #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=tMZvyOYDGWU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Copie n'importe quel site web au pixel près en 5 minutes #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "BXPl3wenvnE",
+        "videoId": "BXPl3wenvnE",
+        "title": "Ce nouveau Repo de 200k étoiles sur GitHub est complément fou : REA X Claude Code",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=BXPl3wenvnE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Ce nouveau Repo de 200k étoiles sur GitHub est complément fou : REA X Claude Code...",
+        "isShort": false
+    },
+    {
+        "id": "5Zle3FAdsPQ",
+        "videoId": "5Zle3FAdsPQ",
+        "title": "Les IA forcent tout, la guerre approche et la bulle arrive + c'est le moment de faire ton app",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=5Zle3FAdsPQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les IA forcent tout, la guerre approche et la bulle arrive + c'est le moment de faire ton app...",
+        "isShort": false
+    },
     {
         "id": "HBUPJOyMiJA",
         "videoId": "HBUPJOyMiJA",
@@ -402,13 +498,13 @@ export const allVideos = [
     {
         "id": "SFdVEInQh5w",
         "videoId": "SFdVEInQh5w",
-        "title": "J'aurais jamais pensé devenir réalisateur (Merci l'IA)",
+        "title": "Pub, film, teaser, cours : tout ce que Claude peut monter pour vous (sans studio)",
         "author": "Ludovic Nédélec",
         "source": "@LudovicNedelec",
         "date": "2026-10-16",
         "url": "https://www.youtube.com/watch?v=SFdVEInQh5w",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : J'aurais jamais pensé devenir réalisateur (Merci l'IA)...",
+        "summary": "Nouveauté de Ludovic Nédélec : Pub, film, teaser, cours : tout ce que Claude peut monter pour vous (sans studio)...",
         "isShort": false
     },
     {
@@ -676,18 +772,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "fZsn7D-AT9k",
-        "videoId": "fZsn7D-AT9k",
-        "title": "Teste ton projet de startup AVANT de le lancer avec Claude #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-14",
-        "url": "https://www.youtube.com/watch?v=fZsn7D-AT9k",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Teste ton projet de startup AVANT de le lancer avec Claude #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "MyxCcLqCmuY",
         "videoId": "MyxCcLqCmuY",
         "title": "Gemini 4 : le plan de Google pour dominer l'IA.",
@@ -748,18 +832,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "7rAXoMXYs20",
-        "videoId": "7rAXoMXYs20",
-        "title": "SpaceX : le pari Nvidia inquiète",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-14",
-        "url": "https://www.youtube.com/watch?v=7rAXoMXYs20",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : SpaceX : le pari Nvidia inquiète...",
-        "isShort": false
-    },
-    {
         "id": "MdciJiM-Jvs",
         "videoId": "MdciJiM-Jvs",
         "title": "Commence à construire des systèmes IA !",
@@ -793,18 +865,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iO0aFdk2-Ns",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)...",
-        "isShort": false
-    },
-    {
-        "id": "LN1SFB7_wPE",
-        "videoId": "LN1SFB7_wPE",
-        "title": "OpenAI prépare l’après-crise IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=LN1SFB7_wPE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI prépare l’après-crise IA...",
         "isShort": false
     },
     {
@@ -1384,18 +1444,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "J1RjIycE62c",
-        "videoId": "J1RjIycE62c",
-        "title": "Fais remonter ton app dans les recherches de l'App Store (gratuit)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-04",
-        "url": "https://www.youtube.com/watch?v=J1RjIycE62c",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Fais remonter ton app dans les recherches de l'App Store (gratuit)...",
-        "isShort": false
-    },
-    {
         "id": "T9ETDqp7XQk",
         "videoId": "T9ETDqp7XQk",
         "title": "Comment une IA comprend vraiment ce qu'on lui dit ? (avec Amélie Chatelain)",
@@ -1744,18 +1792,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "ZoEemjtsVvw",
-        "videoId": "ZoEemjtsVvw",
-        "title": "NVIDIA vient de changer la façon d’entraîner les IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=ZoEemjtsVvw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : NVIDIA vient de changer la façon d’entraîner les IA...",
-        "isShort": false
-    },
-    {
         "id": "Pw5HCUbE5oE",
         "videoId": "Pw5HCUbE5oE",
         "title": "J'ai donné 1h à ChatGPT et Claude pour créer un E-commerce",
@@ -2072,19 +2108,6 @@ export const allVideos = [
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES à Absolument Connaître en 2027...",
         "duration": 1297,
-        "isShort": false
-    },
-    {
-        "id": "Y-C_71H-mAg",
-        "videoId": "Y-C_71H-mAg",
-        "title": "Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois...",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-08-19",
-        "url": "https://www.youtube.com/watch?v=Y-C_71H-mAg",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois......",
-        "duration": 1418,
         "isShort": false
     }
 ];
