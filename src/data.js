@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-21T11:07:29.116Z
+// Fichier généré automatiquement le 2026-10-22T11:06:17.312Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:07:29 AM 10/21/2026";
+export const lastUpdate = "11:06:17 AM 10/22/2026";
 
 export const sources = [
     {
@@ -172,6 +172,102 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "SkNyQrTx36M",
+        "videoId": "SkNyQrTx36M",
+        "title": "NCM : la VRAIE fin des LLM ? (31x plus rapide)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-22",
+        "url": "https://www.youtube.com/watch?v=SkNyQrTx36M",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : NCM : la VRAIE fin des LLM ? (31x plus rapide)...",
+        "isShort": false
+    },
+    {
+        "id": "_k-Ec6_g-TE",
+        "videoId": "_k-Ec6_g-TE",
+        "title": "Médias et IA, les coulisses de France Télévision, en Live",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-22",
+        "url": "https://www.youtube.com/watch?v=_k-Ec6_g-TE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Médias et IA, les coulisses de France Télévision, en Live...",
+        "isShort": false
+    },
+    {
+        "id": "Z0mHah1jRTI",
+        "videoId": "Z0mHah1jRTI",
+        "title": "L’IA qui résout ou pirate",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-22",
+        "url": "https://www.youtube.com/watch?v=Z0mHah1jRTI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L’IA qui résout ou pirate...",
+        "isShort": false
+    },
+    {
+        "id": "7j1am3c75Y0",
+        "videoId": "7j1am3c75Y0",
+        "title": "Anthropic vient d’annoncer la FIN du salariat.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=7j1am3c75Y0",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Anthropic vient d’annoncer la FIN du salariat....",
+        "isShort": false
+    },
+    {
+        "id": "8wbcFlF82kY",
+        "videoId": "8wbcFlF82kY",
+        "title": "Monter des vidéos avec Claude et faire de l’animation, c’est maintenant possible 😮‍💨",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=8wbcFlF82kY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Monter des vidéos avec Claude et faire de l’animation, c’est maintenant possible 😮‍💨...",
+        "isShort": false
+    },
+    {
+        "id": "m13J9J-epiA",
+        "videoId": "m13J9J-epiA",
+        "title": "Le secret pour booster votre stratégie marketing avec l'IA !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=m13J9J-epiA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le secret pour booster votre stratégie marketing avec l'IA !...",
+        "isShort": false
+    },
+    {
+        "id": "AkIuxNdInvc",
+        "videoId": "AkIuxNdInvc",
+        "title": "L'IA progresse dans sa façon d'écrire (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=AkIuxNdInvc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L'IA progresse dans sa façon d'écrire (actu IA)...",
+        "isShort": false
+    },
+    {
+        "id": "kfAZy9aYvZ4",
+        "videoId": "kfAZy9aYvZ4",
+        "title": "31× plus rapide : NCM peut-il remplacer les LLM actuels ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=kfAZy9aYvZ4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : 31× plus rapide : NCM peut-il remplacer les LLM actuels ?...",
+        "isShort": false
+    },
+    {
         "id": "McO-M_OVY_w",
         "videoId": "McO-M_OVY_w",
         "title": "MiniMax M3.1 Flash : l'IA gratuite jusqu'à jeudi 14 h",
@@ -196,6 +292,18 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "fhj7wALyiKo",
+        "videoId": "fhj7wALyiKo",
+        "title": "3 outils pour créer une vidéo 100% IA",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=fhj7wALyiKo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : 3 outils pour créer une vidéo 100% IA...",
+        "isShort": false
+    },
+    {
         "id": "AdFqsdxUdTk",
         "videoId": "AdFqsdxUdTk",
         "title": "Comment monter des vidéos virales avec Claude + Higgsfield Katana ?",
@@ -217,18 +325,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IbQ7zyTkBpo",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : ChatGPT clique et parle pour vous...",
-        "isShort": false
-    },
-    {
-        "id": "_k-Ec6_g-TE",
-        "videoId": "_k-Ec6_g-TE",
-        "title": "Médias et IA, les coulisses de France Télévision, en Live",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-21",
-        "url": "https://www.youtube.com/watch?v=_k-Ec6_g-TE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Médias et IA, les coulisses de France Télévision, en Live...",
         "isShort": false
     },
     {
@@ -904,18 +1000,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "AjWzwAmC69A",
-        "videoId": "AjWzwAmC69A",
-        "title": "Un monde sans Google est-il possible ? Le patron de l'IGN répond",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-15",
-        "url": "https://www.youtube.com/watch?v=AjWzwAmC69A",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Un monde sans Google est-il possible ? Le patron de l'IGN répond...",
-        "isShort": false
-    },
-    {
         "id": "_Up4YpZe5H8",
         "videoId": "_Up4YpZe5H8",
         "title": "J’ai testé l’outil IA viral qui clone n’importe quel logiciel (reverse engineering)",
@@ -1288,18 +1372,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "k87_vbTdX40",
-        "videoId": "k87_vbTdX40",
-        "title": "5 repos GitHub qui ont explosé cette semaine !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=k87_vbTdX40",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 repos GitHub qui ont explosé cette semaine !...",
-        "isShort": false
-    },
-    {
         "id": "qcu0auBQB7A",
         "videoId": "qcu0auBQB7A",
         "title": "Créer un site web magnifique avec l'IA !",
@@ -1660,18 +1732,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "sXHeHexu3rk",
-        "videoId": "sXHeHexu3rk",
-        "title": "Un Mac Mini peut-il VRAIMENT remplacer un abonnement IA à 200 $ ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=sXHeHexu3rk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Un Mac Mini peut-il VRAIMENT remplacer un abonnement IA à 200 $ ?...",
-        "isShort": false
-    },
-    {
         "id": "78rB0-oNvX0",
         "videoId": "78rB0-oNvX0",
         "title": "J'ai fusionné Higgsfield API et Hermes (c'est fou)",
@@ -1765,30 +1825,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=f3swLruIG6o",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : J'arrête Claude pour passer à 100% sur Codex !...",
-        "isShort": false
-    },
-    {
-        "id": "gCfn599t2KQ",
-        "videoId": "gCfn599t2KQ",
-        "title": "Des clones de JEV ? #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=gCfn599t2KQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Des clones de JEV ? #actu...",
-        "isShort": false
-    },
-    {
-        "id": "NxnvJEa7w1U",
-        "videoId": "NxnvJEa7w1U",
-        "title": "GPT-6 vs Claude : Pourquoi les prix s’effondrent",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=NxnvJEa7w1U",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT-6 vs Claude : Pourquoi les prix s’effondrent...",
         "isShort": false
     },
     {
@@ -1897,18 +1933,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7DWrD_W0erg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude + WhatsApp = Agent IA en 10 minutes (sans coder)...",
-        "isShort": false
-    },
-    {
-        "id": "vNg4k-CkOlc",
-        "videoId": "vNg4k-CkOlc",
-        "title": "Ces réglages rendent Claude beaucoup plus puissant !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=vNg4k-CkOlc",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Ces réglages rendent Claude beaucoup plus puissant !...",
         "isShort": false
     },
     {
