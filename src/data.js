@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-22T11:06:17.312Z
+// Fichier généré automatiquement le 2026-10-23T10:59:35.029Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:06:17 AM 10/22/2026";
+export const lastUpdate = "10:59:35 AM 10/23/2026";
 
 export const sources = [
     {
@@ -172,6 +172,42 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "j7trK8Mk44U",
+        "videoId": "j7trK8Mk44U",
+        "title": "L’IA a une nouvelle façon d’écrire #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=j7trK8Mk44U",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’IA a une nouvelle façon d’écrire #actu...",
+        "isShort": false
+    },
+    {
+        "id": "m-mOjLMMakI",
+        "videoId": "m-mOjLMMakI",
+        "title": "Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine folle !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=m-mOjLMMakI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine folle !...",
+        "isShort": false
+    },
+    {
+        "id": "0oUZQJrlBQM",
+        "videoId": "0oUZQJrlBQM",
+        "title": "IA : la bulle qui inquiète la Fed",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=0oUZQJrlBQM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : la bulle qui inquiète la Fed...",
+        "isShort": false
+    },
+    {
         "id": "SkNyQrTx36M",
         "videoId": "SkNyQrTx36M",
         "title": "NCM : la VRAIE fin des LLM ? (31x plus rapide)",
@@ -181,6 +217,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=SkNyQrTx36M",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : NCM : la VRAIE fin des LLM ? (31x plus rapide)...",
+        "isShort": false
+    },
+    {
+        "id": "ZpJ9cojgUxs",
+        "videoId": "ZpJ9cojgUxs",
+        "title": "Ton IA devient graphiste : des logos pro avec Claude Code",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-22",
+        "url": "https://www.youtube.com/watch?v=ZpJ9cojgUxs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ton IA devient graphiste : des logos pro avec Claude Code...",
         "isShort": false
     },
     {
@@ -534,13 +582,13 @@ export const allVideos = [
     {
         "id": "lvadUitdsA4",
         "videoId": "lvadUitdsA4",
-        "title": "Ils savent quelque chose que vous ignorez",
+        "title": "Personne ne se rend compte de ce que les dirigeants IA préparent",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-10-18",
         "url": "https://www.youtube.com/watch?v=lvadUitdsA4",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Ils savent quelque chose que vous ignorez...",
+        "summary": "Nouveauté de Yassine Sdiri : Personne ne se rend compte de ce que les dirigeants IA préparent...",
         "isShort": false
     },
     {
@@ -856,30 +904,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "EeLVOcPYk-0",
-        "videoId": "EeLVOcPYk-0",
-        "title": "Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale + Formez Claude",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=EeLVOcPYk-0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale + Formez Claude...",
-        "isShort": false
-    },
-    {
-        "id": "zNGLjCOzBfg",
-        "videoId": "zNGLjCOzBfg",
-        "title": "Yandex brûle, ses bots chutent",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=zNGLjCOzBfg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Yandex brûle, ses bots chutent...",
-        "isShort": false
-    },
-    {
         "id": "rNkJNerYg8Q",
         "videoId": "rNkJNerYg8Q",
         "title": "Claude vient de sortir une fonctionnalité appelée les Mods !",
@@ -985,18 +1009,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ykAUNww86So",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : J'ai cloné une application payante avec Claude Code (Fin du SAAS ?)...",
-        "isShort": false
-    },
-    {
-        "id": "eJQyFuikaBs",
-        "videoId": "eJQyFuikaBs",
-        "title": "Epic force ses devs à coder par IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-15",
-        "url": "https://www.youtube.com/watch?v=eJQyFuikaBs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Epic force ses devs à coder par IA...",
         "isShort": false
     },
     {
@@ -1321,18 +1333,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YpK_S3PAg-M",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Génère tes images en local et gratuitement avec cette IA open source...",
-        "isShort": false
-    },
-    {
-        "id": "2oDq2sXHm2M",
-        "videoId": "2oDq2sXHm2M",
-        "title": "Ton site internet en motion design, fait par l'IA (gratuit)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-08",
-        "url": "https://www.youtube.com/watch?v=2oDq2sXHm2M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ton site internet en motion design, fait par l'IA (gratuit)...",
         "isShort": false
     },
     {
@@ -1780,18 +1780,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "yxIrGt1u1jw",
-        "videoId": "yxIrGt1u1jw",
-        "title": "Que vaut JEV ? #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=yxIrGt1u1jw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Que vaut JEV ? #actu...",
-        "isShort": false
-    },
-    {
         "id": "qodttLA1WXs",
         "videoId": "qodttLA1WXs",
         "title": "Claude Sonnet 5.5 est sorti: quand l’utiliser ?",
@@ -2154,32 +2142,6 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !...",
         "duration": 3889,
-        "isShort": false
-    },
-    {
-        "id": "N8e0LLHfTJY",
-        "videoId": "N8e0LLHfTJY",
-        "title": "La différence entre un Consultant IA à 0€ et un à 15k€/mois",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=N8e0LLHfTJY",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : La différence entre un Consultant IA à 0€ et un à 15k€/mois...",
-        "duration": 1577,
-        "isShort": false
-    },
-    {
-        "id": "REqJ7H7i2jQ",
-        "videoId": "REqJ7H7i2jQ",
-        "title": "12 IA de Google GRATUITES à Absolument Connaître en 2027",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=REqJ7H7i2jQ",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES à Absolument Connaître en 2027...",
-        "duration": 1297,
         "isShort": false
     }
 ];
