@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-25T10:39:41.419Z
+// Fichier généré automatiquement le 2026-10-26T12:12:58.203Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:39:41 AM 10/25/2026";
+export const lastUpdate = "12:12:58 PM 10/26/2026";
 
 export const sources = [
     {
@@ -171,6 +171,102 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "yuk_v37Z8_4",
+        "videoId": "yuk_v37Z8_4",
+        "title": "Règle ta vie en 4 prompts avec Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=yuk_v37Z8_4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Règle ta vie en 4 prompts avec Claude !...",
+        "isShort": false
+    },
+    {
+        "id": "vmxPb-I0rxE",
+        "videoId": "vmxPb-I0rxE",
+        "title": "Les data centers annulés aux US #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=vmxPb-I0rxE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Les data centers annulés aux US #actu...",
+        "isShort": false
+    },
+    {
+        "id": "aeGbG6L3hsg",
+        "videoId": "aeGbG6L3hsg",
+        "title": "DeepSeek pas cher, banni à Washington",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=aeGbG6L3hsg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : DeepSeek pas cher, banni à Washington...",
+        "isShort": false
+    },
+    {
+        "id": "qBCWE6EWTTk",
+        "videoId": "qBCWE6EWTTk",
+        "title": "DOMPTER son CERVEAU pour n'avoir PEUR de RIEN.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-25",
+        "url": "https://www.youtube.com/watch?v=qBCWE6EWTTk",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : DOMPTER son CERVEAU pour n'avoir PEUR de RIEN....",
+        "isShort": false
+    },
+    {
+        "id": "tE6rfxpN6b8",
+        "videoId": "tE6rfxpN6b8",
+        "title": "Apprends les bases de l’IA grâce à ce site !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-25",
+        "url": "https://www.youtube.com/watch?v=tE6rfxpN6b8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Apprends les bases de l’IA grâce à ce site !...",
+        "isShort": false
+    },
+    {
+        "id": "sVul67gL1fk",
+        "videoId": "sVul67gL1fk",
+        "title": "Tout le monde parle des agents IA, personne ne comprend à quoi ils servent",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-10-25",
+        "url": "https://www.youtube.com/watch?v=sVul67gL1fk",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Tout le monde parle des agents IA, personne ne comprend à quoi ils servent...",
+        "isShort": false
+    },
+    {
+        "id": "Zmjtv_RL1r8",
+        "videoId": "Zmjtv_RL1r8",
+        "title": "Transforme n'importe quel site en API pour ton IA (open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-25",
+        "url": "https://www.youtube.com/watch?v=Zmjtv_RL1r8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Transforme n'importe quel site en API pour ton IA (open source)...",
+        "isShort": false
+    },
+    {
+        "id": "c-ggN7Z5-vw",
+        "videoId": "c-ggN7Z5-vw",
+        "title": "Hermes Agent : Le Guide le plus Complet pour Débutants (No Code) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-10-25",
+        "url": "https://www.youtube.com/watch?v=c-ggN7Z5-vw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Hermes Agent : Le Guide le plus Complet pour Débutants (No Code) !...",
+        "isShort": false
+    },
     {
         "id": "mdr4n4cccGQ",
         "videoId": "mdr4n4cccGQ",
@@ -880,18 +976,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "SvHb66dn5iE",
-        "videoId": "SvHb66dn5iE",
-        "title": "Character.AI coulé par ses serveurs",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=SvHb66dn5iE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Character.AI coulé par ses serveurs...",
-        "isShort": false
-    },
-    {
         "id": "ri7OQKw0JHA",
         "videoId": "ri7OQKw0JHA",
         "title": "Claude garde tout l'historique de tes conversations !",
@@ -1228,18 +1312,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "X29Mbxx6Sfs",
-        "videoId": "X29Mbxx6Sfs",
-        "title": "Mise à jour de Claude pour les projets !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=X29Mbxx6Sfs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Mise à jour de Claude pour les projets !...",
-        "isShort": false
-    },
-    {
         "id": "gtUP8N2yUi4",
         "videoId": "gtUP8N2yUi4",
         "title": "Un modèle vidéo IA gratuit qui tourne sur ton PC (MiniMax H3)",
@@ -1336,18 +1408,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "dfKeI5kDF7E",
-        "videoId": "dfKeI5kDF7E",
-        "title": "L'After Effects open source, gratuit et piloté par ton IA",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-11",
-        "url": "https://www.youtube.com/watch?v=dfKeI5kDF7E",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : L'After Effects open source, gratuit et piloté par ton IA...",
-        "isShort": false
-    },
-    {
         "id": "V-vbQ-AJr44",
         "videoId": "V-vbQ-AJr44",
         "title": "Le plus gros mensonge sur l'Intelligence Artificielle.",
@@ -1357,18 +1417,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=V-vbQ-AJr44",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Le plus gros mensonge sur l'Intelligence Artificielle....",
-        "isShort": false
-    },
-    {
-        "id": "G54UugYiucw",
-        "videoId": "G54UugYiucw",
-        "title": "Les consultants IA qui vivent de leur activité ne cesse d'augmenter !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-09",
-        "url": "https://www.youtube.com/watch?v=G54UugYiucw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Les consultants IA qui vivent de leur activité ne cesse d'augmenter !...",
         "isShort": false
     },
     {
@@ -1753,18 +1801,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iiD6J_52JaI",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Odyssey-3 apprend à conduire #actu...",
-        "isShort": false
-    },
-    {
-        "id": "SDZmSdcVLQw",
-        "videoId": "SDZmSdcVLQw",
-        "title": "Sortie de Bonsai 2 #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=SDZmSdcVLQw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Sortie de Bonsai 2 #actu...",
         "isShort": false
     },
     {
