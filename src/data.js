@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-27T11:34:41.299Z
+// Fichier généré automatiquement le 2026-10-28T12:04:40.169Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:34:41 AM 10/27/2026";
+export const lastUpdate = "12:04:40 PM 10/28/2026";
 
 export const sources = [
     {
@@ -171,6 +171,78 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "I2X_TLmEspA",
+        "videoId": "I2X_TLmEspA",
+        "title": "Ce skill Claude a retrouvé où une photo a été prise, à 2 mètres près.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=I2X_TLmEspA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce skill Claude a retrouvé où une photo a été prise, à 2 mètres près....",
+        "isShort": false
+    },
+    {
+        "id": "aSlFdE3N-jQ",
+        "videoId": "aSlFdE3N-jQ",
+        "title": "Les Repos IA sur GitHub avec 100,000 étoiles !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=aSlFdE3N-jQ",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Les Repos IA sur GitHub avec 100,000 étoiles !...",
+        "isShort": false
+    },
+    {
+        "id": "kRQkRgRN1-c",
+        "videoId": "kRQkRgRN1-c",
+        "title": "Voici comment construire un cerveau de marque dans Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=kRQkRgRN1-c",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Voici comment construire un cerveau de marque dans Claude !...",
+        "isShort": false
+    },
+    {
+        "id": "66Kmt2upTbs",
+        "videoId": "66Kmt2upTbs",
+        "title": "5 632 exercices animés pour ton appli de muscu (open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=66Kmt2upTbs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : 5 632 exercices animés pour ton appli de muscu (open source)...",
+        "isShort": false
+    },
+    {
+        "id": "Qan2PHXTXSw",
+        "videoId": "Qan2PHXTXSw",
+        "title": "1000 APIs gratuites dans un seul repository GitHub",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=Qan2PHXTXSw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : 1000 APIs gratuites dans un seul repository GitHub...",
+        "isShort": false
+    },
+    {
+        "id": "H7VIJv6eofY",
+        "videoId": "H7VIJv6eofY",
+        "title": "GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=H7VIJv6eofY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !...",
+        "isShort": false
+    },
     {
         "id": "uITkobzLcW8",
         "videoId": "uITkobzLcW8",
@@ -868,18 +940,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "AXLqBy1k8h0",
-        "videoId": "AXLqBy1k8h0",
-        "title": "Gemini fabrique l’école des robots",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-19",
-        "url": "https://www.youtube.com/watch?v=AXLqBy1k8h0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gemini fabrique l’école des robots...",
-        "isShort": false
-    },
-    {
         "id": "5CqDnR-r7Xs",
         "videoId": "5CqDnR-r7Xs",
         "title": "LA SEULE COMPÉTENCE QUE L'IA NE REMPLACERA PAS.",
@@ -1168,18 +1228,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "ASo17ZldOro",
-        "videoId": "ASo17ZldOro",
-        "title": "Tu peux désormais cloner n’importe quelle appli avec Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-15",
-        "url": "https://www.youtube.com/watch?v=ASo17ZldOro",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu peux désormais cloner n’importe quelle appli avec Claude !...",
-        "isShort": false
-    },
-    {
         "id": "In9i8b5jygE",
         "videoId": "In9i8b5jygE",
         "title": "Utilisez mieux ChatGPT que 99% des gens ! (de débutant à PRO)",
@@ -1336,18 +1384,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "MdciJiM-Jvs",
-        "videoId": "MdciJiM-Jvs",
-        "title": "Commence à construire des systèmes IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=MdciJiM-Jvs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Commence à construire des systèmes IA !...",
-        "isShort": false
-    },
-    {
         "id": "QGJUqEDTw6o",
         "videoId": "QGJUqEDTw6o",
         "title": "La Skill ChatGPT qui va tout changer !",
@@ -1357,18 +1393,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QGJUqEDTw6o",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : La Skill ChatGPT qui va tout changer !...",
-        "isShort": false
-    },
-    {
-        "id": "iO0aFdk2-Ns",
-        "videoId": "iO0aFdk2-Ns",
-        "title": "Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=iO0aFdk2-Ns",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)...",
         "isShort": false
     },
     {
@@ -1993,18 +2017,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sV7QXLJXeX0",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : J’ai testé le workflow IA le plus puissant du moment... et c'est fou !...",
-        "isShort": false
-    },
-    {
-        "id": "xJM8WkvxqMk",
-        "videoId": "xJM8WkvxqMk",
-        "title": "Le classement ultime des IA !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=xJM8WkvxqMk",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le classement ultime des IA !...",
         "isShort": false
     },
     {
