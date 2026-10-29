@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-28T12:04:40.169Z
+// Fichier généré automatiquement le 2026-10-29T12:14:57.749Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:04:40 PM 10/28/2026";
+export const lastUpdate = "12:14:57 PM 10/29/2026";
 
 export const sources = [
     {
@@ -172,6 +172,30 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "eFv-z4G2J4k",
+        "videoId": "eFv-z4G2J4k",
+        "title": "Kimi défie Claude pour 3 fois moins",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=eFv-z4G2J4k",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kimi défie Claude pour 3 fois moins...",
+        "isShort": false
+    },
+    {
+        "id": "vcphkoQa_Tg",
+        "videoId": "vcphkoQa_Tg",
+        "title": "Ce que j’apprendrais à la place du Prompt Engineering en 2027.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=vcphkoQa_Tg",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Ce que j’apprendrais à la place du Prompt Engineering en 2027....",
+        "isShort": false
+    },
+    {
         "id": "I2X_TLmEspA",
         "videoId": "I2X_TLmEspA",
         "title": "Ce skill Claude a retrouvé où une photo a été prise, à 2 mètres près.",
@@ -193,6 +217,90 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aSlFdE3N-jQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les Repos IA sur GitHub avec 100,000 étoiles !...",
+        "isShort": false
+    },
+    {
+        "id": "nqFhLLELd4o",
+        "videoId": "nqFhLLELd4o",
+        "title": "DeepSeek choque encore toute l'industrie de l'IA (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=nqFhLLELd4o",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : DeepSeek choque encore toute l'industrie de l'IA (actu IA)...",
+        "isShort": false
+    },
+    {
+        "id": "1dBnLp3HRms",
+        "videoId": "1dBnLp3HRms",
+        "title": "Votre IA locale peut vous pirater (sans que vous le sachiez)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=1dBnLp3HRms",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Votre IA locale peut vous pirater (sans que vous le sachiez)...",
+        "isShort": false
+    },
+    {
+        "id": "sLW6qemTHsg",
+        "videoId": "sLW6qemTHsg",
+        "title": "Crée ton jeu vidéo dans Unreal Engine en parlant à Claude",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=sLW6qemTHsg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Crée ton jeu vidéo dans Unreal Engine en parlant à Claude...",
+        "isShort": false
+    },
+    {
+        "id": "M-iDxo8jVFA",
+        "videoId": "M-iDxo8jVFA",
+        "title": "Comment gagner de l'argent avec l'IA ? La meilleure méthode !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=M-iDxo8jVFA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Comment gagner de l'argent avec l'IA ? La meilleure méthode !...",
+        "isShort": false
+    },
+    {
+        "id": "a9MooXt-ZKQ",
+        "videoId": "a9MooXt-ZKQ",
+        "title": "GPT-6.1 Terra rend l’IA rentable",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=a9MooXt-ZKQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6.1 Terra rend l’IA rentable...",
+        "isShort": false
+    },
+    {
+        "id": "Sev0aXgC2d8",
+        "videoId": "Sev0aXgC2d8",
+        "title": "GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=Sev0aXgC2d8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe !...",
+        "isShort": false
+    },
+    {
+        "id": "H7VIJv6eofY",
+        "videoId": "H7VIJv6eofY",
+        "title": "GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=H7VIJv6eofY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !...",
         "isShort": false
     },
     {
@@ -229,18 +337,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Qan2PHXTXSw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : 1000 APIs gratuites dans un seul repository GitHub...",
-        "isShort": false
-    },
-    {
-        "id": "H7VIJv6eofY",
-        "videoId": "H7VIJv6eofY",
-        "title": "GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=H7VIJv6eofY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !...",
         "isShort": false
     },
     {
@@ -796,18 +892,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "8Dy-lMg7lbs",
-        "videoId": "8Dy-lMg7lbs",
-        "title": "Tesla : le salto impossible",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-20",
-        "url": "https://www.youtube.com/watch?v=8Dy-lMg7lbs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Tesla : le salto impossible...",
-        "isShort": false
-    },
-    {
         "id": "rbV689ZZWp8",
         "videoId": "rbV689ZZWp8",
         "title": "Tu sais utiliser Claude ? Voici ce que tu dois vendre.",
@@ -913,30 +997,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=CQqwNfvvqWc",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Claude code devient facile quand tu comprend ça...",
-        "isShort": false
-    },
-    {
-        "id": "UwSn_1iC2tk",
-        "videoId": "UwSn_1iC2tk",
-        "title": "Les IA forcent tout, la guerre approche et la bulle arrive",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-19",
-        "url": "https://www.youtube.com/watch?v=UwSn_1iC2tk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les IA forcent tout, la guerre approche et la bulle arrive...",
-        "isShort": false
-    },
-    {
-        "id": "5Zle3FAdsPQ",
-        "videoId": "5Zle3FAdsPQ",
-        "title": "Les IA forcent tout, la guerre approche et la bulle arrive + c'est le moment de faire ton app",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-19",
-        "url": "https://www.youtube.com/watch?v=5Zle3FAdsPQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les IA forcent tout, la guerre approche et la bulle arrive + c'est le moment de faire ton app...",
         "isShort": false
     },
     {
@@ -1333,18 +1393,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Fzg-cdQlgEg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les 15 erreurs à ne pas faire sur Claude !...",
-        "isShort": false
-    },
-    {
-        "id": "hOyhEoJsVeY",
-        "videoId": "hOyhEoJsVeY",
-        "title": "MCP Unity : crée ton jeu vidéo en parlant à ton IA",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-14",
-        "url": "https://www.youtube.com/watch?v=hOyhEoJsVeY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : MCP Unity : crée ton jeu vidéo en parlant à ton IA...",
         "isShort": false
     },
     {
@@ -1816,18 +1864,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "jzpSgUNvD0w",
-        "videoId": "jzpSgUNvD0w",
-        "title": "Un Mac Mini peut-il VRAIMENT remplacer une IA à 200 $ ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=jzpSgUNvD0w",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Un Mac Mini peut-il VRAIMENT remplacer une IA à 200 $ ?...",
-        "isShort": false
-    },
-    {
         "id": "lLTLG0h6y54",
         "videoId": "lLTLG0h6y54",
         "title": "JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)",
@@ -1849,18 +1885,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=x7ZVkvNfxk4",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Devenez un expert avec ces 7 outils IA surpuissants !...",
-        "isShort": false
-    },
-    {
-        "id": "zCB33XrHxqE",
-        "videoId": "zCB33XrHxqE",
-        "title": "Le papier qui va révolutionner l'IA (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=zCB33XrHxqE",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le papier qui va révolutionner l'IA (actu IA)...",
         "isShort": false
     },
     {
