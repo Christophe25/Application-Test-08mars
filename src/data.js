@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-29T12:14:57.749Z
+// Fichier généré automatiquement le 2026-10-30T12:05:38.589Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:14:57 PM 10/29/2026";
+export const lastUpdate = "12:05:38 PM 10/30/2026";
 
 export const sources = [
     {
@@ -171,6 +171,138 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "kyh2OvW7fQ4",
+        "videoId": "kyh2OvW7fQ4",
+        "title": "Votre IA locale est-elle vraiment sécurisée ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=kyh2OvW7fQ4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Votre IA locale est-elle vraiment sécurisée ?...",
+        "isShort": false
+    },
+    {
+        "id": "lkrY0kojheM",
+        "videoId": "lkrY0kojheM",
+        "title": "Gemini 4, Genie 4, Mistral 4, et la bulle de l'IA éclate en Chine. Comme par hasard... + Kiro v4 !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=lkrY0kojheM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini 4, Genie 4, Mistral 4, et la bulle de l'IA éclate en Chine. Comme par hasard... + Kiro v4 !...",
+        "isShort": false
+    },
+    {
+        "id": "5H_uDMi9zTs",
+        "videoId": "5H_uDMi9zTs",
+        "title": "IA : Wall Street nourrit la bulle",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=5H_uDMi9zTs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : Wall Street nourrit la bulle...",
+        "isShort": false
+    },
+    {
+        "id": "CR3nG9I3bZg",
+        "videoId": "CR3nG9I3bZg",
+        "title": "Une compétence IA qui permet de détecter les failles dans ton app vibe-codée !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=CR3nG9I3bZg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Une compétence IA qui permet de détecter les failles dans ton app vibe-codée !...",
+        "isShort": false
+    },
+    {
+        "id": "pOVPZR7fcr4",
+        "videoId": "pOVPZR7fcr4",
+        "title": "Créer un agent IA dans Microsoft Copilot ! (Le guide complet)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=pOVPZR7fcr4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Créer un agent IA dans Microsoft Copilot ! (Le guide complet)...",
+        "isShort": false
+    },
+    {
+        "id": "eKa2yYhcZH0",
+        "videoId": "eKa2yYhcZH0",
+        "title": "DeepSeek vient de faire un bond MONSTRUEUX en 5 semaines",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=eKa2yYhcZH0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de faire un bond MONSTRUEUX en 5 semaines...",
+        "isShort": false
+    },
+    {
+        "id": "qQx8i26yow4",
+        "videoId": "qQx8i26yow4",
+        "title": "Les mods de Claude Code : 4 plugins gratuits à installer",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=qQx8i26yow4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Les mods de Claude Code : 4 plugins gratuits à installer...",
+        "isShort": false
+    },
+    {
+        "id": "vgAtVUb2_6U",
+        "videoId": "vgAtVUb2_6U",
+        "title": "Voice Studio c’est gratuit et ça concurrence ElevenLabs",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=vgAtVUb2_6U",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Voice Studio c’est gratuit et ça concurrence ElevenLabs...",
+        "isShort": false
+    },
+    {
+        "id": "ybD-stQoHNw",
+        "videoId": "ybD-stQoHNw",
+        "title": "Kling 4.0 écrase toutes les autres IA vidéo ?",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=ybD-stQoHNw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Kling 4.0 écrase toutes les autres IA vidéo ?...",
+        "isShort": false
+    },
+    {
+        "id": "-CRTqOfkjK8",
+        "videoId": "-CRTqOfkjK8",
+        "title": "Qwen tente d’appeler Pékin",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=-CRTqOfkjK8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Qwen tente d’appeler Pékin...",
+        "isShort": false
+    },
+    {
+        "id": "NqGrNTZtRQg",
+        "videoId": "NqGrNTZtRQg",
+        "title": "Musique et IA : que restera-t-il aux artistes ? Avec Céline Magnano",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-29",
+        "url": "https://www.youtube.com/watch?v=NqGrNTZtRQg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Musique et IA : que restera-t-il aux artistes ? Avec Céline Magnano...",
+        "isShort": false
+    },
     {
         "id": "eFv-z4G2J4k",
         "videoId": "eFv-z4G2J4k",
@@ -676,18 +808,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "0oUZQJrlBQM",
-        "videoId": "0oUZQJrlBQM",
-        "title": "IA : la bulle qui inquiète la Fed",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=0oUZQJrlBQM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : la bulle qui inquiète la Fed...",
-        "isShort": false
-    },
-    {
         "id": "SkNyQrTx36M",
         "videoId": "SkNyQrTx36M",
         "title": "NCM : la VRAIE fin des LLM ? (31x plus rapide)",
@@ -709,30 +829,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZpJ9cojgUxs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Ton IA devient graphiste : des logos pro avec Claude Code...",
-        "isShort": false
-    },
-    {
-        "id": "_k-Ec6_g-TE",
-        "videoId": "_k-Ec6_g-TE",
-        "title": "Médias et IA, les coulisses de France Télévision, en Live",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-22",
-        "url": "https://www.youtube.com/watch?v=_k-Ec6_g-TE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Médias et IA, les coulisses de France Télévision, en Live...",
-        "isShort": false
-    },
-    {
-        "id": "Z0mHah1jRTI",
-        "videoId": "Z0mHah1jRTI",
-        "title": "L’IA qui résout ou pirate",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-22",
-        "url": "https://www.youtube.com/watch?v=Z0mHah1jRTI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L’IA qui résout ou pirate...",
         "isShort": false
     },
     {
@@ -841,18 +937,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AdFqsdxUdTk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Comment monter des vidéos virales avec Claude + Higgsfield Katana ?...",
-        "isShort": false
-    },
-    {
-        "id": "IbQ7zyTkBpo",
-        "videoId": "IbQ7zyTkBpo",
-        "title": "ChatGPT clique et parle pour vous",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-21",
-        "url": "https://www.youtube.com/watch?v=IbQ7zyTkBpo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT clique et parle pour vous...",
         "isShort": false
     },
     {
@@ -1276,18 +1360,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "rNkJNerYg8Q",
-        "videoId": "rNkJNerYg8Q",
-        "title": "Claude vient de sortir une fonctionnalité appelée les Mods !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-15",
-        "url": "https://www.youtube.com/watch?v=rNkJNerYg8Q",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de sortir une fonctionnalité appelée les Mods !...",
-        "isShort": false
-    },
-    {
         "id": "In9i8b5jygE",
         "videoId": "In9i8b5jygE",
         "title": "Utilisez mieux ChatGPT que 99% des gens ! (de débutant à PRO)",
@@ -1309,18 +1381,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VMcSrKbDj-A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : OpenAI vient de franchir une limite inquiétante...",
-        "isShort": false
-    },
-    {
-        "id": "QPkjjpRltDM",
-        "videoId": "QPkjjpRltDM",
-        "title": "J'ai installé une IA qui décide TOUT pour moi, (GRATUIT)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-15",
-        "url": "https://www.youtube.com/watch?v=QPkjjpRltDM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai installé une IA qui décide TOUT pour moi, (GRATUIT)...",
         "isShort": false
     },
     {
@@ -1816,18 +1876,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "KJpHM5qgcOU",
-        "videoId": "KJpHM5qgcOU",
-        "title": "Pourquoi les IA gratuites rapportent",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-03",
-        "url": "https://www.youtube.com/watch?v=KJpHM5qgcOU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Pourquoi les IA gratuites rapportent...",
-        "isShort": false
-    },
-    {
         "id": "orJgU0_x-Ks",
         "videoId": "orJgU0_x-Ks",
         "title": "Le secret derrière les meilleures IA : le Harness !",
@@ -1837,18 +1885,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=orJgU0_x-Ks",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le secret derrière les meilleures IA : le Harness !...",
-        "isShort": false
-    },
-    {
-        "id": "YtvYpgG8pg8",
-        "videoId": "YtvYpgG8pg8",
-        "title": "Comment gagner des millions avec une IA qu’on n’a même pas créée ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=YtvYpgG8pg8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Comment gagner des millions avec une IA qu’on n’a même pas créée ?...",
         "isShort": false
     },
     {
@@ -2032,18 +2068,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "sV7QXLJXeX0",
-        "videoId": "sV7QXLJXeX0",
-        "title": "J’ai testé le workflow IA le plus puissant du moment... et c'est fou !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=sV7QXLJXeX0",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai testé le workflow IA le plus puissant du moment... et c'est fou !...",
-        "isShort": false
-    },
-    {
         "id": "7DWrD_W0erg",
         "videoId": "7DWrD_W0erg",
         "title": "Claude + WhatsApp = Agent IA en 10 minutes (sans coder)",
@@ -2222,32 +2246,6 @@ export const allVideos = [
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Canva IA 2.0 comme un pro...",
         "duration": 6615,
-        "isShort": false
-    },
-    {
-        "id": "OsPRnH_vOTg",
-        "videoId": "OsPRnH_vOTg",
-        "title": "J'ai analysé 177k€ de services IA vendus : voici ce que les PME achètent vraiment en 2026",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-08-30",
-        "url": "https://www.youtube.com/watch?v=OsPRnH_vOTg",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : J'ai analysé 177k€ de services IA vendus : voici ce que les PME achètent vraiment en 2026...",
-        "duration": 1521,
-        "isShort": false
-    },
-    {
-        "id": "QCffQAhaPSE",
-        "videoId": "QCffQAhaPSE",
-        "title": "Comment l'IA est devenue plus chère que ceux qu'elle remplace",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-08-30",
-        "url": "https://www.youtube.com/watch?v=QCffQAhaPSE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment l'IA est devenue plus chère que ceux qu'elle remplace...",
-        "duration": 1095,
         "isShort": false
     }
 ];
