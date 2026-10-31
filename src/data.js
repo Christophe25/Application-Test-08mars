@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-30T12:05:38.589Z
+// Fichier généré automatiquement le 2026-10-31T11:41:10.386Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:05:38 PM 10/30/2026";
+export const lastUpdate = "11:41:10 AM 10/31/2026";
 
 export const sources = [
     {
@@ -172,6 +172,78 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "KTnTFTBlMjM",
+        "videoId": "KTnTFTBlMjM",
+        "title": "Google crée un monde IA en direct",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=KTnTFTBlMjM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google crée un monde IA en direct...",
+        "isShort": false
+    },
+    {
+        "id": "slEYbeNtQI0",
+        "videoId": "slEYbeNtQI0",
+        "title": "7 types d’agents dans Claude que tu dois connaître !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=slEYbeNtQI0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 7 types d’agents dans Claude que tu dois connaître !...",
+        "isShort": false
+    },
+    {
+        "id": "qdQyMuu2MO4",
+        "videoId": "qdQyMuu2MO4",
+        "title": "Maîtrise Claude en 3 vidéos et moins de 2h",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=qdQyMuu2MO4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Maîtrise Claude en 3 vidéos et moins de 2h...",
+        "isShort": false
+    },
+    {
+        "id": "r8kWla-p6RY",
+        "videoId": "r8kWla-p6RY",
+        "title": "Créer ton 1er Agent IA dans Microsoft Copilot !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=r8kWla-p6RY",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Créer ton 1er Agent IA dans Microsoft Copilot !...",
+        "isShort": false
+    },
+    {
+        "id": "84EeZtREMWg",
+        "videoId": "84EeZtREMWg",
+        "title": "À quel point DeepSeek est optimisé ? #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=84EeZtREMWg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : À quel point DeepSeek est optimisé ? #actu...",
+        "isShort": false
+    },
+    {
+        "id": "JFYFPIK_veY",
+        "videoId": "JFYFPIK_veY",
+        "title": "YouMind : Le Nouveau Concurrent de NotebookLM ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=JFYFPIK_veY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : YouMind : Le Nouveau Concurrent de NotebookLM ?...",
+        "isShort": false
+    },
+    {
         "id": "kyh2OvW7fQ4",
         "videoId": "kyh2OvW7fQ4",
         "title": "Votre IA locale est-elle vraiment sécurisée ?",
@@ -181,6 +253,42 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kyh2OvW7fQ4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Votre IA locale est-elle vraiment sécurisée ?...",
+        "isShort": false
+    },
+    {
+        "id": "2Sz9182HN_E",
+        "videoId": "2Sz9182HN_E",
+        "title": "J'ai testé Kling 4.0 pour monétiser un TikTok 100 % IA (RESULTATS)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=2Sz9182HN_E",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai testé Kling 4.0 pour monétiser un TikTok 100 % IA (RESULTATS)...",
+        "isShort": false
+    },
+    {
+        "id": "knnkBuxIgls",
+        "videoId": "knnkBuxIgls",
+        "title": "Gemini Carbon : l'IA qui attaque",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=knnkBuxIgls",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini Carbon : l'IA qui attaque...",
+        "isShort": false
+    },
+    {
+        "id": "GeiZucwIoxc",
+        "videoId": "GeiZucwIoxc",
+        "title": "Gemini 4, Genie 4, Mistral 4, et la bulle de l'IA éclate en Chine. Comme par hasard...",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-30",
+        "url": "https://www.youtube.com/watch?v=GeiZucwIoxc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini 4, Genie 4, Mistral 4, et la bulle de l'IA éclate en Chine. Comme par hasard......",
         "isShort": false
     },
     {
@@ -772,42 +880,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "lYALXzy9rSg",
-        "videoId": "lYALXzy9rSg",
-        "title": "Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=lYALXzy9rSg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ?...",
-        "isShort": false
-    },
-    {
-        "id": "m-mOjLMMakI",
-        "videoId": "m-mOjLMMakI",
-        "title": "[2/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=m-mOjLMMakI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : [2/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf...",
-        "isShort": false
-    },
-    {
-        "id": "PmARVw8BxK0",
-        "videoId": "PmARVw8BxK0",
-        "title": "[1/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=PmARVw8BxK0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : [1/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf...",
-        "isShort": false
-    },
-    {
         "id": "SkNyQrTx36M",
         "videoId": "SkNyQrTx36M",
         "title": "NCM : la VRAIE fin des LLM ? (31x plus rapide)",
@@ -1156,18 +1228,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "HBUPJOyMiJA",
-        "videoId": "HBUPJOyMiJA",
-        "title": "Utilise Claude en illimité sans gaspiller tes tokens",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=HBUPJOyMiJA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Utilise Claude en illimité sans gaspiller tes tokens...",
-        "isShort": false
-    },
-    {
         "id": "lFliTkzzYLI",
         "videoId": "lFliTkzzYLI",
         "title": "Reverse Engineering + IA : Comment ça fonctionne VRAIMENT ?",
@@ -1264,18 +1324,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "ri7OQKw0JHA",
-        "videoId": "ri7OQKw0JHA",
-        "title": "Claude garde tout l'historique de tes conversations !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=ri7OQKw0JHA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude garde tout l'historique de tes conversations !...",
-        "isShort": false
-    },
-    {
         "id": "nHltw9WtwAQ",
         "videoId": "nHltw9WtwAQ",
         "title": "Utiliser ChatGPT comme les PRO en 30 minutes !",
@@ -1285,18 +1333,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=nHltw9WtwAQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utiliser ChatGPT comme les PRO en 30 minutes !...",
-        "isShort": false
-    },
-    {
-        "id": "_OYcg-XNhYU",
-        "videoId": "_OYcg-XNhYU",
-        "title": "Des motion designs sans aucune coupure, faits par ton IA (outil open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=_OYcg-XNhYU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Des motion designs sans aucune coupure, faits par ton IA (outil open source)...",
         "isShort": false
     },
     {
@@ -1756,18 +1792,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "Kjvp4yFPiao",
-        "videoId": "Kjvp4yFPiao",
-        "title": "Le Million de Tokens de Google Cache Quelque Chose",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-05",
-        "url": "https://www.youtube.com/watch?v=Kjvp4yFPiao",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Le Million de Tokens de Google Cache Quelque Chose...",
-        "isShort": false
-    },
-    {
         "id": "XKr-unbTwcw",
         "videoId": "XKr-unbTwcw",
         "title": "J'ai fait un site Claude Design qui ne fait pas IA",
@@ -1861,18 +1885,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5Z6OLjTg1uo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Opus 5.5 pour le montage vidéo (C'est INCROYABLE)...",
-        "isShort": false
-    },
-    {
-        "id": "T9ETDqp7XQk",
-        "videoId": "T9ETDqp7XQk",
-        "title": "Comment une IA comprend vraiment ce qu'on lui dit ? (avec Amélie Chatelain)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-03",
-        "url": "https://www.youtube.com/watch?v=T9ETDqp7XQk",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Comment une IA comprend vraiment ce qu'on lui dit ? (avec Amélie Chatelain)...",
         "isShort": false
     },
     {
@@ -2041,18 +2053,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EDgcEcWTYCg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé JEV : la hype est-elle méritée ?...",
-        "isShort": false
-    },
-    {
-        "id": "i4EuaujaanY",
-        "videoId": "i4EuaujaanY",
-        "title": "Ce workflow IA va révolutionner vos contenus !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=i4EuaujaanY",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Ce workflow IA va révolutionner vos contenus !...",
         "isShort": false
     },
     {
@@ -2233,19 +2233,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PEWHYroIZA0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : GPT‑6 Astra : le retour en force de ChatGPT ?...",
-        "isShort": false
-    },
-    {
-        "id": "dv4IV4KdgNI",
-        "videoId": "dv4IV4KdgNI",
-        "title": "Comment utiliser Canva IA 2.0 comme un pro",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=dv4IV4KdgNI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Canva IA 2.0 comme un pro...",
-        "duration": 6615,
         "isShort": false
     }
 ];
