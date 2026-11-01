@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-31T11:41:10.386Z
+// Fichier généré automatiquement le 2026-11-01T12:38:32.731Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:41:10 AM 10/31/2026";
+export const lastUpdate = "12:38:32 PM 11/1/2026";
 
 export const sources = [
     {
@@ -171,6 +171,90 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "yOyz3DBo5qs",
+        "videoId": "yOyz3DBo5qs",
+        "title": "Glisse ton livre dans Claude et tape /actionplan !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=yOyz3DBo5qs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Glisse ton livre dans Claude et tape /actionplan !...",
+        "isShort": false
+    },
+    {
+        "id": "gYG4J6Do0UU",
+        "videoId": "gYG4J6Do0UU",
+        "title": "La fin des tokens ? Une nouvelle architecture pourrait changer l'IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=gYG4J6Do0UU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La fin des tokens ? Une nouvelle architecture pourrait changer l'IA...",
+        "isShort": false
+    },
+    {
+        "id": "EDJtJnWWiNg",
+        "videoId": "EDJtJnWWiNg",
+        "title": "Marre des frais Stripe ? Une page de paiement UPI sans frais de passerelle",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=EDJtJnWWiNg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Marre des frais Stripe ? Une page de paiement UPI sans frais de passerelle...",
+        "isShort": false
+    },
+    {
+        "id": "JgWrV55wFjU",
+        "videoId": "JgWrV55wFjU",
+        "title": "Claude 2.0 : Tout comprendre sur le nouveau Claude IA",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=JgWrV55wFjU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Claude 2.0 : Tout comprendre sur le nouveau Claude IA...",
+        "isShort": false
+    },
+    {
+        "id": "F6w-btSpfd8",
+        "videoId": "F6w-btSpfd8",
+        "title": "8 outils IA que presque personne n'utilise (et c'est une erreur)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=F6w-btSpfd8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : 8 outils IA que presque personne n'utilise (et c'est une erreur)...",
+        "isShort": false
+    },
+    {
+        "id": "f_6XBqpFL3E",
+        "videoId": "f_6XBqpFL3E",
+        "title": "Mistral Large 4 dopé et ouvert",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=f_6XBqpFL3E",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral Large 4 dopé et ouvert...",
+        "isShort": false
+    },
+    {
+        "id": "68tfSHwHSkk",
+        "videoId": "68tfSHwHSkk",
+        "title": "Kiro v4, toutes les IA dans un outil gratuit !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-31",
+        "url": "https://www.youtube.com/watch?v=68tfSHwHSkk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kiro v4, toutes les IA dans un outil gratuit !...",
+        "isShort": false
+    },
     {
         "id": "KTnTFTBlMjM",
         "videoId": "KTnTFTBlMjM",
@@ -808,18 +892,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "_I9WLmXbpPw",
-        "videoId": "_I9WLmXbpPw",
-        "title": "PHP piraté sans mot de passe",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-24",
-        "url": "https://www.youtube.com/watch?v=_I9WLmXbpPw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : PHP piraté sans mot de passe...",
-        "isShort": false
-    },
-    {
         "id": "-z3e2SqCwn0",
         "videoId": "-z3e2SqCwn0",
         "title": "Si tu as un abonnement Claude, tu ne devrais pas utiliser Claude...",
@@ -865,18 +937,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EsKLX4pITWs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : REA + Claude Code : la méthode pour recréer N'IMPORTE quoi (TUTO)...",
-        "isShort": false
-    },
-    {
-        "id": "L-CANpawzzo",
-        "videoId": "L-CANpawzzo",
-        "title": "Claude Duet peut payer pour vous",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=L-CANpawzzo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Duet peut payer pour vous...",
         "isShort": false
     },
     {
@@ -1060,18 +1120,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "MQLKhspDP8k",
-        "videoId": "MQLKhspDP8k",
-        "title": "Claude peut maintenant regarder une vidéo YouTube en entier !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-19",
-        "url": "https://www.youtube.com/watch?v=MQLKhspDP8k",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant regarder une vidéo YouTube en entier !...",
-        "isShort": false
-    },
-    {
         "id": "5H4bWc-CrZw",
         "videoId": "5H4bWc-CrZw",
         "title": "Le secret des experts IA : 7 outils incontournables !",
@@ -1237,18 +1285,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lFliTkzzYLI",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Reverse Engineering + IA : Comment ça fonctionne VRAIMENT ?...",
-        "isShort": false
-    },
-    {
-        "id": "Tz4puyTAwRA",
-        "videoId": "Tz4puyTAwRA",
-        "title": "Partage ton écran avec 20 amis, gratuitement (outil open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=Tz4puyTAwRA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Partage ton écran avec 20 amis, gratuitement (outil open source)...",
         "isShort": false
     },
     {
@@ -1741,18 +1777,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=KHizR8oUbDk",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Amazon bloque l’accès à Muse (Meta) #actu...",
-        "isShort": false
-    },
-    {
-        "id": "mfdtW0gh5og",
-        "videoId": "mfdtW0gh5og",
-        "title": "Gemini 4 Argon : Le million trompeur",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-06",
-        "url": "https://www.youtube.com/watch?v=mfdtW0gh5og",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Gemini 4 Argon : Le million trompeur...",
         "isShort": false
     },
     {
