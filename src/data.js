@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-02T14:40:31.122Z
+// Fichier généré automatiquement le 2026-11-03T13:35:09.071Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "2:40:31 PM 11/2/2026";
+export const lastUpdate = "1:35:09 PM 11/3/2026";
 
 export const sources = [
     {
@@ -172,6 +172,54 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "F7dJf3U6NyY",
+        "videoId": "F7dJf3U6NyY",
+        "title": "Une IA médicale open source chinoise #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-03",
+        "url": "https://www.youtube.com/watch?v=F7dJf3U6NyY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Une IA médicale open source chinoise #actu...",
+        "isShort": false
+    },
+    {
+        "id": "cAkprVclJ5w",
+        "videoId": "cAkprVclJ5w",
+        "title": "Claude Code + Apify : le combo ultime pour générer des leads (Tuto Débutant)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-03",
+        "url": "https://www.youtube.com/watch?v=cAkprVclJ5w",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Claude Code + Apify : le combo ultime pour générer des leads (Tuto Débutant)...",
+        "isShort": false
+    },
+    {
+        "id": "ErbkMLEVeDU",
+        "videoId": "ErbkMLEVeDU",
+        "title": "Neuralink : voir sans les yeux",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-03",
+        "url": "https://www.youtube.com/watch?v=ErbkMLEVeDU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Neuralink : voir sans les yeux...",
+        "isShort": false
+    },
+    {
+        "id": "Rxrd_6JQNlM",
+        "videoId": "Rxrd_6JQNlM",
+        "title": "La France taxe pendant que l'IA fait des merveilles + L'IA nous rend crétins ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-03",
+        "url": "https://www.youtube.com/watch?v=Rxrd_6JQNlM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La France taxe pendant que l'IA fait des merveilles + L'IA nous rend crétins ?...",
+        "isShort": false
+    },
+    {
         "id": "jFIn6IMpg-Q",
         "videoId": "jFIn6IMpg-Q",
         "title": "Si t’arrêtes pas d’atteindre ta limite Claude, essaie de faire ça",
@@ -196,6 +244,18 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "KPmcL49NDgw",
+        "videoId": "KPmcL49NDgw",
+        "title": "Mon problème avec l’IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-11-02",
+        "url": "https://www.youtube.com/watch?v=KPmcL49NDgw",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Mon problème avec l’IA...",
+        "isShort": false
+    },
+    {
         "id": "hSg2iXtHU18",
         "videoId": "hSg2iXtHU18",
         "title": "Une IA qui lit l’ADN #actu",
@@ -205,6 +265,78 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=hSg2iXtHU18",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Une IA qui lit l’ADN #actu...",
+        "isShort": false
+    },
+    {
+        "id": "fzKprPAJFp8",
+        "videoId": "fzKprPAJFp8",
+        "title": "Ce skill Claude porte tes jeux PS2 sur PC avec 11 agents",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-02",
+        "url": "https://www.youtube.com/watch?v=fzKprPAJFp8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ce skill Claude porte tes jeux PS2 sur PC avec 11 agents...",
+        "isShort": false
+    },
+    {
+        "id": "v8sLL2-fP_Q",
+        "videoId": "v8sLL2-fP_Q",
+        "title": "Les huit outils IA que j’utilise le plus souvent. Ils sont tous branchés à Claude Code",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-02",
+        "url": "https://www.youtube.com/watch?v=v8sLL2-fP_Q",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Les huit outils IA que j’utilise le plus souvent. Ils sont tous branchés à Claude Code...",
+        "isShort": false
+    },
+    {
+        "id": "RKViguOIe-I",
+        "videoId": "RKViguOIe-I",
+        "title": "La nouvelle IA chinoise Kimi K3.1 Pro qui rivalise avec ChatGPT et Claude (Actus IA)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-02",
+        "url": "https://www.youtube.com/watch?v=RKViguOIe-I",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : La nouvelle IA chinoise Kimi K3.1 Pro qui rivalise avec ChatGPT et Claude (Actus IA)...",
+        "isShort": false
+    },
+    {
+        "id": "RWPl7MUbn38",
+        "videoId": "RWPl7MUbn38",
+        "title": "Vous utilisez NotebookLM à 20 % (cette extension débloque le reste)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-11-02",
+        "url": "https://www.youtube.com/watch?v=RWPl7MUbn38",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Vous utilisez NotebookLM à 20 % (cette extension débloque le reste)...",
+        "isShort": false
+    },
+    {
+        "id": "avLSrbhDTEY",
+        "videoId": "avLSrbhDTEY",
+        "title": "Taxe au giga : qui paiera vraiment ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-02",
+        "url": "https://www.youtube.com/watch?v=avLSrbhDTEY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Taxe au giga : qui paiera vraiment ?...",
+        "isShort": false
+    },
+    {
+        "id": "QF7jgnecgwY",
+        "videoId": "QF7jgnecgwY",
+        "title": "La France taxe pendant que l'IA fait des merveilles",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-02",
+        "url": "https://www.youtube.com/watch?v=QF7jgnecgwY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La France taxe pendant que l'IA fait des merveilles...",
         "isShort": false
     },
     {
@@ -289,18 +421,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XiH1VFcO8RY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Fais tester ton idée par Hormozi, Thiel et Jobs avec Claude avec ce repo GitHub gratuit...",
-        "isShort": false
-    },
-    {
-        "id": "Rxrd_6JQNlM",
-        "videoId": "Rxrd_6JQNlM",
-        "title": "La France taxe pendant que l'IA fait des merveilles + L'IA nous rend crétins ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-01",
-        "url": "https://www.youtube.com/watch?v=Rxrd_6JQNlM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La France taxe pendant que l'IA fait des merveilles + L'IA nous rend crétins ?...",
         "isShort": false
     },
     {
@@ -721,42 +841,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=M-iDxo8jVFA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Comment gagner de l'argent avec l'IA ? La meilleure méthode !...",
-        "isShort": false
-    },
-    {
-        "id": "a9MooXt-ZKQ",
-        "videoId": "a9MooXt-ZKQ",
-        "title": "GPT-6.1 Terra rend l’IA rentable",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=a9MooXt-ZKQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-6.1 Terra rend l’IA rentable...",
-        "isShort": false
-    },
-    {
-        "id": "Sev0aXgC2d8",
-        "videoId": "Sev0aXgC2d8",
-        "title": "GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=Sev0aXgC2d8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe !...",
-        "isShort": false
-    },
-    {
-        "id": "H7VIJv6eofY",
-        "videoId": "H7VIJv6eofY",
-        "title": "GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=H7VIJv6eofY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe ! + Musique et IA !...",
         "isShort": false
     },
     {
@@ -1228,18 +1312,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "EjxJ8LoU_CU",
-        "videoId": "EjxJ8LoU_CU",
-        "title": "Ton IA dans Slack, Teams et Discord (outil open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-19",
-        "url": "https://www.youtube.com/watch?v=EjxJ8LoU_CU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ton IA dans Slack, Teams et Discord (outil open source)...",
-        "isShort": false
-    },
-    {
         "id": "ACi4bfnt9w0",
         "videoId": "ACi4bfnt9w0",
         "title": "Gradium AI sponsorise le hackathon Jarvis : 100 000 crédits offerts #Shorts",
@@ -1552,18 +1624,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "zXjnhIFZDd8",
-        "videoId": "zXjnhIFZDd8",
-        "title": "Construis ton propre Jarvis, même sans être développeur #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-15",
-        "url": "https://www.youtube.com/watch?v=zXjnhIFZDd8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Construis ton propre Jarvis, même sans être développeur #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "ykAUNww86So",
         "videoId": "ykAUNww86So",
         "title": "J'ai cloné une application payante avec Claude Code (Fin du SAAS ?)",
@@ -1864,18 +1924,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "XKr-unbTwcw",
-        "videoId": "XKr-unbTwcw",
-        "title": "J'ai fait un site Claude Design qui ne fait pas IA",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-10-05",
-        "url": "https://www.youtube.com/watch?v=XKr-unbTwcw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : J'ai fait un site Claude Design qui ne fait pas IA...",
-        "isShort": false
-    },
-    {
         "id": "7OA4DTV55wA",
         "videoId": "7OA4DTV55wA",
         "title": "9 outils IA création de contenu : Tous mes outils pour 2026",
@@ -1909,18 +1957,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=g68Rxhg-W1s",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 38 millions de vues en quelques jours : la nouvelle IA qui affole toute l'industrie...",
-        "isShort": false
-    },
-    {
-        "id": "3w_4SL6ulH0",
-        "videoId": "3w_4SL6ulH0",
-        "title": "Nouvelle version d’Open Code #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-04",
-        "url": "https://www.youtube.com/watch?v=3w_4SL6ulH0",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Nouvelle version d’Open Code #actu...",
         "isShort": false
     },
     {
@@ -2017,18 +2053,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=V-nr59xEubk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : ❌ C'est n'importe quoi......",
-        "isShort": false
-    },
-    {
-        "id": "8Nr1MckK9g8",
-        "videoId": "8Nr1MckK9g8",
-        "title": "Jev + Claude : le combo le plus puissant du moment",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=8Nr1MckK9g8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Jev + Claude : le combo le plus puissant du moment...",
         "isShort": false
     },
     {
