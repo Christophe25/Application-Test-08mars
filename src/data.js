@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-05T13:58:55.645Z
+// Fichier généré automatiquement le 2026-11-06T13:44:28.608Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "1:58:55 PM 11/5/2026";
+export const lastUpdate = "1:44:28 PM 11/6/2026";
 
 export const sources = [
     {
@@ -172,6 +172,66 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "JO36fDfbuXU",
+        "videoId": "JO36fDfbuXU",
+        "title": "Est-ce la fin des monteurs vidéo ? Open Montage + Claude Code #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=JO36fDfbuXU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Est-ce la fin des monteurs vidéo ? Open Montage + Claude Code #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "ANTnVgR_ji4",
+        "videoId": "ANTnVgR_ji4",
+        "title": "Vendue 37 271 fois… cette rose n'existe pas ! #arnaque #ia #intelligenceartificielle",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=ANTnVgR_ji4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Vendue 37 271 fois… cette rose n'existe pas ! #arnaque #ia #intelligenceartificielle...",
+        "isShort": false
+    },
+    {
+        "id": "7QiXEWwR3nc",
+        "videoId": "7QiXEWwR3nc",
+        "title": "Karpathy recrée YouTube sans coder",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=7QiXEWwR3nc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Karpathy recrée YouTube sans coder...",
+        "isShort": false
+    },
+    {
+        "id": "qnLZRHcphLA",
+        "videoId": "qnLZRHcphLA",
+        "title": "18 façons BIZARRE d'utiliser Claude en 2027.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=qnLZRHcphLA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : 18 façons BIZARRE d'utiliser Claude en 2027....",
+        "isShort": false
+    },
+    {
+        "id": "sPKCacjBQls",
+        "videoId": "sPKCacjBQls",
+        "title": "Classement des meilleures IA !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=sPKCacjBQls",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Classement des meilleures IA !...",
+        "isShort": false
+    },
+    {
         "id": "asDrEoFEAfE",
         "videoId": "asDrEoFEAfE",
         "title": "Claude peut maintenant te construire des dashboards entièrement animé !",
@@ -196,6 +256,30 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "WL7LH1o7Og4",
+        "videoId": "WL7LH1o7Og4",
+        "title": "Tes jeux PC sur ton iPhone, sans jailbreak (gratuit et open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=WL7LH1o7Og4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Tes jeux PC sur ton iPhone, sans jailbreak (gratuit et open source)...",
+        "isShort": false
+    },
+    {
+        "id": "bcGuy__NFdU",
+        "videoId": "bcGuy__NFdU",
+        "title": "J'ai demandé à Claude Code de trouver des clients sur Google Maps #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=bcGuy__NFdU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : J'ai demandé à Claude Code de trouver des clients sur Google Maps #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "FzMivV8Lp0M",
         "videoId": "FzMivV8Lp0M",
         "title": "Le signal d'achat : trouver des clients sans payer de pub #Shorts",
@@ -208,6 +292,18 @@ export const allVideos = [
         "isShort": true
     },
     {
+        "id": "CDGyYQDbM3E",
+        "videoId": "CDGyYQDbM3E",
+        "title": "ChatGPT fait maintenant des GIF (nouveau Images 2.6) #chatgpt #intelligenceartificielle #outilsia",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=CDGyYQDbM3E",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : ChatGPT fait maintenant des GIF (nouveau Images 2.6) #chatgpt #intelligenceartificielle #outilsia...",
+        "isShort": false
+    },
+    {
         "id": "lXLq6iqq7sc",
         "videoId": "lXLq6iqq7sc",
         "title": "Fermez l'ordi, Claude continue de bosser ! #Claude #ClaudeIA #ClaudeCode",
@@ -217,6 +313,42 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lXLq6iqq7sc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Fermez l'ordi, Claude continue de bosser ! #Claude #ClaudeIA #ClaudeCode...",
+        "isShort": false
+    },
+    {
+        "id": "EJAJHePzNPQ",
+        "videoId": "EJAJHePzNPQ",
+        "title": "Vidéo de lancement pour applications grâce a ce repo GitHub",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=EJAJHePzNPQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Vidéo de lancement pour applications grâce a ce repo GitHub...",
+        "isShort": false
+    },
+    {
+        "id": "nNUaGo3GkOQ",
+        "videoId": "nNUaGo3GkOQ",
+        "title": "Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=nNUaGo3GkOQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6...",
+        "isShort": false
+    },
+    {
+        "id": "dNnem2Oj_Vg",
+        "videoId": "dNnem2Oj_Vg",
+        "title": "Meta fabrique un robot en 3 mois",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=dNnem2Oj_Vg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta fabrique un robot en 3 mois...",
         "isShort": false
     },
     {
@@ -546,13 +678,13 @@ export const allVideos = [
     {
         "id": "KPmcL49NDgw",
         "videoId": "KPmcL49NDgw",
-        "title": "Mon problème avec l’IA",
+        "title": "Mon problème avec l’Intelligence Artificielle",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-11-02",
         "url": "https://www.youtube.com/watch?v=KPmcL49NDgw",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Mon problème avec l’IA...",
+        "summary": "Nouveauté de Yassine Sdiri : Mon problème avec l’Intelligence Artificielle...",
         "isShort": false
     },
     {
@@ -796,30 +928,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "68tfSHwHSkk",
-        "videoId": "68tfSHwHSkk",
-        "title": "Kiro v4, toutes les IA dans un outil gratuit !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=68tfSHwHSkk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kiro v4, toutes les IA dans un outil gratuit !...",
-        "isShort": false
-    },
-    {
-        "id": "KTnTFTBlMjM",
-        "videoId": "KTnTFTBlMjM",
-        "title": "Google crée un monde IA en direct",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=KTnTFTBlMjM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google crée un monde IA en direct...",
-        "isShort": false
-    },
-    {
         "id": "slEYbeNtQI0",
         "videoId": "slEYbeNtQI0",
         "title": "7 types d’agents dans Claude que tu dois connaître !",
@@ -901,18 +1009,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2Sz9182HN_E",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai testé Kling 4.0 pour monétiser un TikTok 100 % IA (RESULTATS)...",
-        "isShort": false
-    },
-    {
-        "id": "knnkBuxIgls",
-        "videoId": "knnkBuxIgls",
-        "title": "Gemini Carbon : l'IA qui attaque",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-30",
-        "url": "https://www.youtube.com/watch?v=knnkBuxIgls",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gemini Carbon : l'IA qui attaque...",
         "isShort": false
     },
     {
@@ -1312,18 +1408,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "-z3e2SqCwn0",
-        "videoId": "-z3e2SqCwn0",
-        "title": "Si tu as un abonnement Claude, tu ne devrais pas utiliser Claude...",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=-z3e2SqCwn0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si tu as un abonnement Claude, tu ne devrais pas utiliser Claude......",
-        "isShort": false
-    },
-    {
         "id": "j7trK8Mk44U",
         "videoId": "j7trK8Mk44U",
         "title": "L’IA a une nouvelle façon d’écrire #actu",
@@ -1420,18 +1504,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "McO-M_OVY_w",
-        "videoId": "McO-M_OVY_w",
-        "title": "MiniMax M3.1 Flash : l'IA gratuite jusqu'à jeudi 14 h",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-21",
-        "url": "https://www.youtube.com/watch?v=McO-M_OVY_w",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : MiniMax M3.1 Flash : l'IA gratuite jusqu'à jeudi 14 h...",
-        "isShort": false
-    },
-    {
         "id": "fhj7wALyiKo",
         "videoId": "fhj7wALyiKo",
         "title": "3 outils pour créer une vidéo 100% IA",
@@ -1514,18 +1586,6 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Un vrai Jarvis, pas un gadget : le hackathon #Shorts...",
         "isShort": true
-    },
-    {
-        "id": "RYuTPPiRZgc",
-        "videoId": "RYuTPPiRZgc",
-        "title": "Top 10 Outils GitHub pour Claude Code et Codex",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-10-19",
-        "url": "https://www.youtube.com/watch?v=RYuTPPiRZgc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Top 10 Outils GitHub pour Claude Code et Codex...",
-        "isShort": false
     },
     {
         "id": "CQqwNfvvqWc",
@@ -1681,30 +1741,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lKnfdIrokHM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Gradium AI sponsorise le hackathon Jarvis : ce que ça change pour toi #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "ghFG81thNT4",
-        "videoId": "ghFG81thNT4",
-        "title": "J'ai trouvé un sponsor pour le hackathon Jarvis : Gradium AI #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=ghFG81thNT4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai trouvé un sponsor pour le hackathon Jarvis : Gradium AI #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "sl15FH6VGXI",
-        "videoId": "sl15FH6VGXI",
-        "title": "Ce repo GitHub transforme ton navigateur en satellite espion #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=sl15FH6VGXI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Ce repo GitHub transforme ton navigateur en satellite espion #Shorts...",
         "isShort": true
     },
     {
@@ -2317,18 +2353,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vu55_LhT8k8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Vous avez déjà Microsoft Copilot au travail : 9 fonctions à exploiter enfin...",
-        "isShort": false
-    },
-    {
-        "id": "4TCF36rCo8k",
-        "videoId": "4TCF36rCo8k",
-        "title": "Le scientifique Français qui va détruire l’IA Américaine",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=4TCF36rCo8k",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Le scientifique Français qui va détruire l’IA Américaine...",
         "isShort": false
     }
 ];
