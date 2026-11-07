@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-06T13:44:28.608Z
+// Fichier généré automatiquement le 2026-11-07T12:24:49.719Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "1:44:28 PM 11/6/2026";
+export const lastUpdate = "12:24:49 PM 11/7/2026";
 
 export const sources = [
     {
@@ -172,6 +172,78 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "qfEVT50D-zM",
+        "videoId": "qfEVT50D-zM",
+        "title": "Derrière les chiffres d’Anthropic",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=qfEVT50D-zM",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Derrière les chiffres d’Anthropic...",
+        "isShort": false
+    },
+    {
+        "id": "s3IUrOqM280",
+        "videoId": "s3IUrOqM280",
+        "title": "Ne donne surtout pas cet Outil Incroyable à Claude Code ou Codex !!",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=s3IUrOqM280",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Ne donne surtout pas cet Outil Incroyable à Claude Code ou Codex !!...",
+        "isShort": false
+    },
+    {
+        "id": "vuLx6N5YXWs",
+        "videoId": "vuLx6N5YXWs",
+        "title": "La preuve IA qui secoue la physique",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=vuLx6N5YXWs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La preuve IA qui secoue la physique...",
+        "isShort": false
+    },
+    {
+        "id": "-VuGyFmkTZc",
+        "videoId": "-VuGyFmkTZc",
+        "title": "Les gens piratent leur télé avec Claude Code !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=-VuGyFmkTZc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Les gens piratent leur télé avec Claude Code !...",
+        "isShort": false
+    },
+    {
+        "id": "kPwzJ8T2Dbo",
+        "videoId": "kPwzJ8T2Dbo",
+        "title": "Claude Code + GitHub : le setup que personne n’utilise (GRATUIT)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=kPwzJ8T2Dbo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Code + GitHub : le setup que personne n’utilise (GRATUIT)...",
+        "isShort": false
+    },
+    {
+        "id": "DigyVgY2dfU",
+        "videoId": "DigyVgY2dfU",
+        "title": "VibeVoice : l'IA vocale que Microsoft a retirée #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=DigyVgY2dfU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : VibeVoice : l'IA vocale que Microsoft a retirée #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "JO36fDfbuXU",
         "videoId": "JO36fDfbuXU",
         "title": "Est-ce la fin des monteurs vidéo ? Open Montage + Claude Code #Shorts",
@@ -193,6 +265,54 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ANTnVgR_ji4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Vendue 37 271 fois… cette rose n'existe pas ! #arnaque #ia #intelligenceartificielle...",
+        "isShort": false
+    },
+    {
+        "id": "vZurdf2DaJY",
+        "videoId": "vZurdf2DaJY",
+        "title": "￼Tu as plus 800 applications open source sur ce repo GitHub !!!",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=vZurdf2DaJY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : ￼Tu as plus 800 applications open source sur ce repo GitHub !!!...",
+        "isShort": false
+    },
+    {
+        "id": "p-6o-02FECA",
+        "videoId": "p-6o-02FECA",
+        "title": "ChatGPT crée vos GIF en 1 phrase",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=p-6o-02FECA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT crée vos GIF en 1 phrase...",
+        "isShort": false
+    },
+    {
+        "id": "DgOviaeRC_g",
+        "videoId": "DgOviaeRC_g",
+        "title": "Images 2.6, Musk perd le Texas, IA en physique, et robot géant",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=DgOviaeRC_g",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Images 2.6, Musk perd le Texas, IA en physique, et robot géant...",
+        "isShort": false
+    },
+    {
+        "id": "nNUaGo3GkOQ",
+        "videoId": "nNUaGo3GkOQ",
+        "title": "Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-06",
+        "url": "https://www.youtube.com/watch?v=nNUaGo3GkOQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6...",
         "isShort": false
     },
     {
@@ -325,18 +445,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EJAJHePzNPQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Vidéo de lancement pour applications grâce a ce repo GitHub...",
-        "isShort": false
-    },
-    {
-        "id": "nNUaGo3GkOQ",
-        "videoId": "nNUaGo3GkOQ",
-        "title": "Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=nNUaGo3GkOQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6...",
         "isShort": false
     },
     {
@@ -760,30 +868,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "QF7jgnecgwY",
-        "videoId": "QF7jgnecgwY",
-        "title": "La France taxe pendant que l'IA fait des merveilles",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=QF7jgnecgwY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La France taxe pendant que l'IA fait des merveilles...",
-        "isShort": false
-    },
-    {
-        "id": "m0tkcE8u4xM",
-        "videoId": "m0tkcE8u4xM",
-        "title": "IA chinoise : la bulle, pas le boom",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=m0tkcE8u4xM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA chinoise : la bulle, pas le boom...",
-        "isShort": false
-    },
-    {
         "id": "rjHf_t5qkt4",
         "videoId": "rjHf_t5qkt4",
         "title": "Livrer un outil IA à 5 000 € à une PME avec Claude Code (De A à Z)",
@@ -913,18 +997,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F6w-btSpfd8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : 8 outils IA que presque personne n'utilise (et c'est une erreur)...",
-        "isShort": false
-    },
-    {
-        "id": "f_6XBqpFL3E",
-        "videoId": "f_6XBqpFL3E",
-        "title": "Mistral Large 4 dopé et ouvert",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=f_6XBqpFL3E",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral Large 4 dopé et ouvert...",
         "isShort": false
     },
     {
@@ -1324,18 +1396,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "tE6rfxpN6b8",
-        "videoId": "tE6rfxpN6b8",
-        "title": "Apprends les bases de l’IA grâce à ce site !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-25",
-        "url": "https://www.youtube.com/watch?v=tE6rfxpN6b8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Apprends les bases de l’IA grâce à ce site !...",
-        "isShort": false
-    },
-    {
         "id": "sVul67gL1fk",
         "videoId": "sVul67gL1fk",
         "title": "Tout le monde parle des agents IA, personne ne comprend à quoi ils servent",
@@ -1396,18 +1456,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "cQY1f_6_nsc",
-        "videoId": "cQY1f_6_nsc",
-        "title": "Copie n’importe quel montage ou vidéo montée grâce à Higgsfield + Claude",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-10-24",
-        "url": "https://www.youtube.com/watch?v=cQY1f_6_nsc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Copie n’importe quel montage ou vidéo montée grâce à Higgsfield + Claude...",
-        "isShort": false
-    },
-    {
         "id": "j7trK8Mk44U",
         "videoId": "j7trK8Mk44U",
         "title": "L’IA a une nouvelle façon d’écrire #actu",
@@ -1441,18 +1489,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=SkNyQrTx36M",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : NCM : la VRAIE fin des LLM ? (31x plus rapide)...",
-        "isShort": false
-    },
-    {
-        "id": "ZpJ9cojgUxs",
-        "videoId": "ZpJ9cojgUxs",
-        "title": "Ton IA devient graphiste : des logos pro avec Claude Code",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-22",
-        "url": "https://www.youtube.com/watch?v=ZpJ9cojgUxs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ton IA devient graphiste : des logos pro avec Claude Code...",
         "isShort": false
     },
     {
@@ -1513,18 +1549,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fhj7wALyiKo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : 3 outils pour créer une vidéo 100% IA...",
-        "isShort": false
-    },
-    {
-        "id": "AdFqsdxUdTk",
-        "videoId": "AdFqsdxUdTk",
-        "title": "Comment monter des vidéos virales avec Claude + Higgsfield Katana ?",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-10-21",
-        "url": "https://www.youtube.com/watch?v=AdFqsdxUdTk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Comment monter des vidéos virales avec Claude + Higgsfield Katana ?...",
         "isShort": false
     },
     {
@@ -1730,18 +1754,6 @@ export const allVideos = [
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utiliser ChatGPT comme les PRO en 30 minutes !...",
         "isShort": false
-    },
-    {
-        "id": "lKnfdIrokHM",
-        "videoId": "lKnfdIrokHM",
-        "title": "Gradium AI sponsorise le hackathon Jarvis : ce que ça change pour toi #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=lKnfdIrokHM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Gradium AI sponsorise le hackathon Jarvis : ce que ça change pour toi #Shorts...",
-        "isShort": true
     },
     {
         "id": "SFdVEInQh5w",
@@ -1981,18 +1993,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=HR97H1yqgVc",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : La plus grosse mise à jour de ChatGPT : ce qu'il faut savoir...",
-        "isShort": false
-    },
-    {
-        "id": "dio8PInqANw",
-        "videoId": "dio8PInqANw",
-        "title": "La nouvelle direction du marché de l’IA #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-06",
-        "url": "https://www.youtube.com/watch?v=dio8PInqANw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La nouvelle direction du marché de l’IA #actu...",
         "isShort": false
     },
     {
@@ -2341,18 +2341,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sLHJPgxBVUQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à ChatGPT pour lancer un Business de 0...",
-        "isShort": false
-    },
-    {
-        "id": "vu55_LhT8k8",
-        "videoId": "vu55_LhT8k8",
-        "title": "Vous avez déjà Microsoft Copilot au travail : 9 fonctions à exploiter enfin",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=vu55_LhT8k8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Vous avez déjà Microsoft Copilot au travail : 9 fonctions à exploiter enfin...",
         "isShort": false
     }
 ];
