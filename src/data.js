@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-07T12:24:49.719Z
+// Fichier généré automatiquement le 2026-11-08T12:44:23.588Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:24:49 PM 11/7/2026";
+export const lastUpdate = "12:44:23 PM 11/8/2026";
 
 export const sources = [
     {
@@ -172,6 +172,54 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "X8V_lgEOTHc",
+        "videoId": "X8V_lgEOTHc",
+        "title": "Genie 4 : créer des mondes virtuels",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-08",
+        "url": "https://www.youtube.com/watch?v=X8V_lgEOTHc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Genie 4 : créer des mondes virtuels...",
+        "isShort": false
+    },
+    {
+        "id": "qQ7y_Yk9DVc",
+        "videoId": "qQ7y_Yk9DVc",
+        "title": "3 vidéos YouTube pour être meilleur que 99% des gens sur Claude.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=qQ7y_Yk9DVc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 3 vidéos YouTube pour être meilleur que 99% des gens sur Claude....",
+        "isShort": false
+    },
+    {
+        "id": "DX3nAkCnhxs",
+        "videoId": "DX3nAkCnhxs",
+        "title": "Claude devient un chasseur d’emploi !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=DX3nAkCnhxs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude devient un chasseur d’emploi !...",
+        "isShort": false
+    },
+    {
+        "id": "PtYSqKYBnvY",
+        "videoId": "PtYSqKYBnvY",
+        "title": "Pourquoi tu as besoin d’un NAS pour ton IA ?",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=PtYSqKYBnvY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Pourquoi tu as besoin d’un NAS pour ton IA ?...",
+        "isShort": false
+    },
+    {
         "id": "qfEVT50D-zM",
         "videoId": "qfEVT50D-zM",
         "title": "Derrière les chiffres d’Anthropic",
@@ -184,6 +232,54 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "a8sxKqfj5YE",
+        "videoId": "a8sxKqfj5YE",
+        "title": "Une alternative GRATUITE à Shopify (open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=a8sxKqfj5YE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Une alternative GRATUITE à Shopify (open source)...",
+        "isShort": false
+    },
+    {
+        "id": "cZewjVfNUpQ",
+        "videoId": "cZewjVfNUpQ",
+        "title": "Claude Code m'a monté une vidéo de A à Z (Open Montage) #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=cZewjVfNUpQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Claude Code m'a monté une vidéo de A à Z (Open Montage) #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "XPJZWQEVEpM",
+        "videoId": "XPJZWQEVEpM",
+        "title": "Toute l'IA du monde dépend de cette île  #intelligenceartificielle #ia #nvidia",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=XPJZWQEVEpM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Toute l'IA du monde dépend de cette île  #intelligenceartificielle #ia #nvidia...",
+        "isShort": false
+    },
+    {
+        "id": "bkO4vEW8v6o",
+        "videoId": "bkO4vEW8v6o",
+        "title": "Ces skills Claude te permettront de piloter entièrement ton profil LinkedIn (+120k impressions)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=bkO4vEW8v6o",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Ces skills Claude te permettront de piloter entièrement ton profil LinkedIn (+120k impressions)...",
+        "isShort": false
+    },
+    {
         "id": "s3IUrOqM280",
         "videoId": "s3IUrOqM280",
         "title": "Ne donne surtout pas cet Outil Incroyable à Claude Code ou Codex !!",
@@ -193,6 +289,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=s3IUrOqM280",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Ne donne surtout pas cet Outil Incroyable à Claude Code ou Codex !!...",
+        "isShort": false
+    },
+    {
+        "id": "eltuUk9uuOQ",
+        "videoId": "eltuUk9uuOQ",
+        "title": "Datacenters : Musk bloqué au Texas",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-07",
+        "url": "https://www.youtube.com/watch?v=eltuUk9uuOQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Datacenters : Musk bloqué au Texas...",
         "isShort": false
     },
     {
@@ -856,18 +964,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "avLSrbhDTEY",
-        "videoId": "avLSrbhDTEY",
-        "title": "Taxe au giga : qui paiera vraiment ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=avLSrbhDTEY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Taxe au giga : qui paiera vraiment ?...",
-        "isShort": false
-    },
-    {
         "id": "rjHf_t5qkt4",
         "videoId": "rjHf_t5qkt4",
         "title": "Livrer un outil IA à 5 000 € à une PME avec Claude Code (De A à Z)",
@@ -1288,30 +1384,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "hI4yePa1QLo",
-        "videoId": "hI4yePa1QLo",
-        "title": "Cette astuce GitHub est incroyable !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-26",
-        "url": "https://www.youtube.com/watch?v=hI4yePa1QLo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Cette astuce GitHub est incroyable !...",
-        "isShort": false
-    },
-    {
-        "id": "yuk_v37Z8_4",
-        "videoId": "yuk_v37Z8_4",
-        "title": "Règle ta vie en 4 prompts avec Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-26",
-        "url": "https://www.youtube.com/watch?v=yuk_v37Z8_4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Règle ta vie en 4 prompts avec Claude !...",
-        "isShort": false
-    },
-    {
         "id": "QGoA6SQZ-p8",
         "videoId": "QGoA6SQZ-p8",
         "title": "NCM : une nouvelle façon d’écrire #actu",
@@ -1357,18 +1429,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=CUaoommIlGw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Un géophysicien licencié a trouvé un job grâce à Claude Code...",
-        "isShort": false
-    },
-    {
-        "id": "Y2Pt0Rqr77Q",
-        "videoId": "Y2Pt0Rqr77Q",
-        "title": "Le NOUVEAU système Claude qui trouve un job à ta place (Tuto Complet)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-10-26",
-        "url": "https://www.youtube.com/watch?v=Y2Pt0Rqr77Q",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Le NOUVEAU système Claude qui trouve un job à ta place (Tuto Complet)...",
         "isShort": false
     },
     {
@@ -1465,18 +1525,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=j7trK8Mk44U",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L’IA a une nouvelle façon d’écrire #actu...",
-        "isShort": false
-    },
-    {
-        "id": "EsKLX4pITWs",
-        "videoId": "EsKLX4pITWs",
-        "title": "REA + Claude Code : la méthode pour recréer N'IMPORTE quoi (TUTO)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=EsKLX4pITWs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : REA + Claude Code : la méthode pour recréer N'IMPORTE quoi (TUTO)...",
         "isShort": false
     },
     {
@@ -1732,18 +1780,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "18UkO_boDrE",
-        "videoId": "18UkO_boDrE",
-        "title": "Tu connais Jarvis ? On va le construire pour de vrai #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=18UkO_boDrE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Tu connais Jarvis ? On va le construire pour de vrai #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "nHltw9WtwAQ",
         "videoId": "nHltw9WtwAQ",
         "title": "Utiliser ChatGPT comme les PRO en 30 minutes !",
@@ -1900,18 +1936,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "oQurHKU05OY",
-        "videoId": "oQurHKU05OY",
-        "title": "La mort des applications #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-11",
-        "url": "https://www.youtube.com/watch?v=oQurHKU05OY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La mort des applications #actu...",
-        "isShort": false
-    },
-    {
         "id": "43m8e7TJeqU",
         "videoId": "43m8e7TJeqU",
         "title": "Claude Code vient de lancer les MODS. (Maîtrisez-les en 10 minutes)",
@@ -1981,18 +2005,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=qcu0auBQB7A",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Créer un site web magnifique avec l'IA !...",
-        "isShort": false
-    },
-    {
-        "id": "HR97H1yqgVc",
-        "videoId": "HR97H1yqgVc",
-        "title": "La plus grosse mise à jour de ChatGPT : ce qu'il faut savoir",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=HR97H1yqgVc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La plus grosse mise à jour de ChatGPT : ce qu'il faut savoir...",
         "isShort": false
     },
     {
@@ -2329,18 +2341,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eCx5lTP_OoM",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Lucas Reverdy : Comment Construire Votre Équipe Marketing IA avec Claude Code (Guide Complet)...",
-        "isShort": false
-    },
-    {
-        "id": "sLHJPgxBVUQ",
-        "videoId": "sLHJPgxBVUQ",
-        "title": "J'ai donné 1h à ChatGPT pour lancer un Business de 0",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=sLHJPgxBVUQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à ChatGPT pour lancer un Business de 0...",
         "isShort": false
     }
 ];
