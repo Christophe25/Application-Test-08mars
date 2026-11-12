@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-11T13:32:11.014Z
+// Fichier généré automatiquement le 2026-11-12T14:37:26.137Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "1:32:11 PM 11/11/2026";
+export const lastUpdate = "2:37:26 PM 11/12/2026";
 
 export const sources = [
     {
@@ -172,6 +172,102 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "rBpbk46PrnA",
+        "videoId": "rBpbk46PrnA",
+        "title": "Ils ont trouvé comment supprimer la censure des IA (HERETIC 2.0)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=rBpbk46PrnA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Ils ont trouvé comment supprimer la censure des IA (HERETIC 2.0)...",
+        "isShort": false
+    },
+    {
+        "id": "zYfNpbfQjwU",
+        "videoId": "zYfNpbfQjwU",
+        "title": "Le Weight-Space programming !",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=zYfNpbfQjwU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Le Weight-Space programming !...",
+        "isShort": false
+    },
+    {
+        "id": "gfBQd_GdzTE",
+        "videoId": "gfBQd_GdzTE",
+        "title": "31 choses que des gens font vraiment avec Claude #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=gfBQd_GdzTE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 31 choses que des gens font vraiment avec Claude #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "-Y9jcGqbYos",
+        "videoId": "-Y9jcGqbYos",
+        "title": "L'erreur à ne pas faire sur Claude IA ! #claude #claudeia #claudecode",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=-Y9jcGqbYos",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : L'erreur à ne pas faire sur Claude IA ! #claude #claudeia #claudecode...",
+        "isShort": false
+    },
+    {
+        "id": "qXSRAFU08RM",
+        "videoId": "qXSRAFU08RM",
+        "title": "Vercel a sorti un outil qui permet de prendre le contrôle de ton Ordinateur",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=qXSRAFU08RM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Vercel a sorti un outil qui permet de prendre le contrôle de ton Ordinateur...",
+        "isShort": false
+    },
+    {
+        "id": "zpqh-gdITXU",
+        "videoId": "zpqh-gdITXU",
+        "title": "Nvidia : une liaison d’État",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=zpqh-gdITXU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Nvidia : une liaison d’État...",
+        "isShort": false
+    },
+    {
+        "id": "s6wsXA111Mk",
+        "videoId": "s6wsXA111Mk",
+        "title": "L’IA ne te prendra JAMAIS ces 5 choses (Fable 5.2)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=s6wsXA111Mk",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : L’IA ne te prendra JAMAIS ces 5 choses (Fable 5.2)...",
+        "isShort": false
+    },
+    {
+        "id": "2HOLG0YxDDs",
+        "videoId": "2HOLG0YxDDs",
+        "title": "5 compétences à connaitre dans l'IA !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=2HOLG0YxDDs",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 5 compétences à connaitre dans l'IA !...",
+        "isShort": false
+    },
+    {
         "id": "TySSyP5xjeg",
         "videoId": "TySSyP5xjeg",
         "title": "Yann LeCun vient de marquer un point contre les LLM (actu IA)",
@@ -181,6 +277,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=TySSyP5xjeg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Yann LeCun vient de marquer un point contre les LLM (actu IA)...",
+        "isShort": false
+    },
+    {
+        "id": "3EgUhjI1QH8",
+        "videoId": "3EgUhjI1QH8",
+        "title": "Google apprend aux IA à DORMIR pour devenir plus intelligentes",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=3EgUhjI1QH8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Google apprend aux IA à DORMIR pour devenir plus intelligentes...",
         "isShort": false
     },
     {
@@ -196,6 +304,30 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "x-7Q7AdzFDY",
+        "videoId": "x-7Q7AdzFDY",
+        "title": "Claude Fable 5.2 : TEST du modèle le + PUISSANT (SANS PITIÉ)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=x-7Q7AdzFDY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Fable 5.2 : TEST du modèle le + PUISSANT (SANS PITIÉ)...",
+        "isShort": false
+    },
+    {
+        "id": "P5YNfmympN8",
+        "videoId": "P5YNfmympN8",
+        "title": "Zelda Ocarina of Time tourne déjà sur PC",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=P5YNfmympN8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Zelda Ocarina of Time tourne déjà sur PC...",
+        "isShort": false
+    },
+    {
         "id": "F1qWG0T3aXI",
         "videoId": "F1qWG0T3aXI",
         "title": "31 façons INCROYABLES d'utiliser Claude en 2027",
@@ -205,6 +337,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F1qWG0T3aXI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : 31 façons INCROYABLES d'utiliser Claude en 2027...",
+        "isShort": false
+    },
+    {
+        "id": "uflwSMEmTJ0",
+        "videoId": "uflwSMEmTJ0",
+        "title": "Grosse nouveauté ChatGPT : les pages ENTREPRISE #chatgpt #outilsIA #intelligenceartificielle",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=uflwSMEmTJ0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Grosse nouveauté ChatGPT : les pages ENTREPRISE #chatgpt #outilsIA #intelligenceartificielle...",
         "isShort": false
     },
     {
@@ -220,6 +364,18 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "Diuo9SW5_tw",
+        "videoId": "Diuo9SW5_tw",
+        "title": "Arrête de faire tourner Claude Code sur ton ordinateur et fais le plutôt tourner sur un serveur",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=Diuo9SW5_tw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Arrête de faire tourner Claude Code sur ton ordinateur et fais le plutôt tourner sur un serveur...",
+        "isShort": false
+    },
+    {
         "id": "IfPJXb_jH3I",
         "videoId": "IfPJXb_jH3I",
         "title": "Un monteur ou Claude Code + Higgsfield ?",
@@ -229,6 +385,42 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IfPJXb_jH3I",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Un monteur ou Claude Code + Higgsfield ?...",
+        "isShort": false
+    },
+    {
+        "id": "DRZ3GboMKhI",
+        "videoId": "DRZ3GboMKhI",
+        "title": "Claude Fable lâche 1000 agents",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=DRZ3GboMKhI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Fable lâche 1000 agents...",
+        "isShort": false
+    },
+    {
+        "id": "ZNFT0unnZ1M",
+        "videoId": "ZNFT0unnZ1M",
+        "title": "Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=ZNFT0unnZ1M",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin...",
+        "isShort": false
+    },
+    {
+        "id": "SlEsUih6upY",
+        "videoId": "SlEsUih6upY",
+        "title": "Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin + Futur de l'Espace",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=SlEsUih6upY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin + Futur de l'Espace...",
         "isShort": false
     },
     {
@@ -294,13 +486,13 @@ export const allVideos = [
     {
         "id": "gwYn3LJG3mg",
         "videoId": "gwYn3LJG3mg",
-        "title": "Vers la fin de l'entraînement traditionnel des IA ?",
+        "title": "Weight-Space Programming : vers la fin du fine-tuning ?",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-11-10",
         "url": "https://www.youtube.com/watch?v=gwYn3LJG3mg",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Vers la fin de l'entraînement traditionnel des IA ?...",
+        "summary": "Nouveauté de Nerdy Kings : Weight-Space Programming : vers la fin du fine-tuning ?...",
         "isShort": false
     },
     {
@@ -385,18 +577,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=97TcHFr2yxM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Ton second cerveau de design avec Claude Code...",
-        "isShort": false
-    },
-    {
-        "id": "SlEsUih6upY",
-        "videoId": "SlEsUih6upY",
-        "title": "Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin + Futur de l'Espace",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=SlEsUih6upY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin + Futur de l'Espace...",
         "isShort": false
     },
     {
@@ -880,42 +1060,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "p-6o-02FECA",
-        "videoId": "p-6o-02FECA",
-        "title": "ChatGPT crée vos GIF en 1 phrase",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=p-6o-02FECA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT crée vos GIF en 1 phrase...",
-        "isShort": false
-    },
-    {
-        "id": "DgOviaeRC_g",
-        "videoId": "DgOviaeRC_g",
-        "title": "Images 2.6, Musk perd le Texas, IA en physique, et robot géant",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=DgOviaeRC_g",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Images 2.6, Musk perd le Texas, IA en physique, et robot géant...",
-        "isShort": false
-    },
-    {
-        "id": "nNUaGo3GkOQ",
-        "videoId": "nNUaGo3GkOQ",
-        "title": "Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=nNUaGo3GkOQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Images 2.6, Musk perd le Texas, IA en physique, et robot géant + Test OpenAI Images 2.6...",
-        "isShort": false
-    },
-    {
         "id": "qnLZRHcphLA",
         "videoId": "qnLZRHcphLA",
         "title": "18 façons BIZARRE d'utiliser Claude en 2027.",
@@ -1300,30 +1444,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "v8sLL2-fP_Q",
-        "videoId": "v8sLL2-fP_Q",
-        "title": "Les huit outils IA que j’utilise le plus souvent. Ils sont tous branchés à Claude Code",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=v8sLL2-fP_Q",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Les huit outils IA que j’utilise le plus souvent. Ils sont tous branchés à Claude Code...",
-        "isShort": false
-    },
-    {
-        "id": "RKViguOIe-I",
-        "videoId": "RKViguOIe-I",
-        "title": "Le nouveau modèle GPT-6.1 Terra utilise ton ordi plus vite que toi (Actus IA de la semaine)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=RKViguOIe-I",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Le nouveau modèle GPT-6.1 Terra utilise ton ordi plus vite que toi (Actus IA de la semaine)...",
-        "isShort": false
-    },
-    {
         "id": "RWPl7MUbn38",
         "videoId": "RWPl7MUbn38",
         "title": "Vous utilisez NotebookLM à 20 % (cette extension débloque le reste)",
@@ -1624,30 +1744,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "1dBnLp3HRms",
-        "videoId": "1dBnLp3HRms",
-        "title": "Le danger caché des modèles IA locaux",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=1dBnLp3HRms",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Le danger caché des modèles IA locaux...",
-        "isShort": false
-    },
-    {
-        "id": "sLW6qemTHsg",
-        "videoId": "sLW6qemTHsg",
-        "title": "Crée ton jeu vidéo dans Unreal Engine en parlant à Claude",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=sLW6qemTHsg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Crée ton jeu vidéo dans Unreal Engine en parlant à Claude...",
-        "isShort": false
-    },
-    {
         "id": "M-iDxo8jVFA",
         "videoId": "M-iDxo8jVFA",
         "title": "Comment gagner de l'argent avec l'IA ? La meilleure méthode !",
@@ -1657,18 +1753,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=M-iDxo8jVFA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Comment gagner de l'argent avec l'IA ? La meilleure méthode !...",
-        "isShort": false
-    },
-    {
-        "id": "66Kmt2upTbs",
-        "videoId": "66Kmt2upTbs",
-        "title": "5 632 exercices animés pour ton appli de muscu (open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=66Kmt2upTbs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : 5 632 exercices animés pour ton appli de muscu (open source)...",
         "isShort": false
     },
     {
@@ -1756,18 +1840,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "SkNyQrTx36M",
-        "videoId": "SkNyQrTx36M",
-        "title": "NCM : la VRAIE fin des LLM ? (31x plus rapide)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-22",
-        "url": "https://www.youtube.com/watch?v=SkNyQrTx36M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : NCM : la VRAIE fin des LLM ? (31x plus rapide)...",
-        "isShort": false
-    },
-    {
         "id": "7j1am3c75Y0",
         "videoId": "7j1am3c75Y0",
         "title": "Anthropic vient d’annoncer la FIN du salariat.",
@@ -1789,18 +1861,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=m13J9J-epiA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le secret pour booster votre stratégie marketing avec l'IA !...",
-        "isShort": false
-    },
-    {
-        "id": "kfAZy9aYvZ4",
-        "videoId": "kfAZy9aYvZ4",
-        "title": "31× plus rapide : NCM peut-il remplacer les LLM actuels ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-21",
-        "url": "https://www.youtube.com/watch?v=kfAZy9aYvZ4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : 31× plus rapide : NCM peut-il remplacer les LLM actuels ?...",
         "isShort": false
     },
     {
@@ -1888,18 +1948,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "tMZvyOYDGWU",
-        "videoId": "tMZvyOYDGWU",
-        "title": "Copie n'importe quel site web au pixel près en 5 minutes #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=tMZvyOYDGWU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Copie n'importe quel site web au pixel près en 5 minutes #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "nHltw9WtwAQ",
         "videoId": "nHltw9WtwAQ",
         "title": "Utiliser ChatGPT comme les PRO en 30 minutes !",
@@ -1969,18 +2017,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4c5L4M7YKcA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Comment mieux utiliser Higgsfield que 99 % des utilisateurs...",
-        "isShort": false
-    },
-    {
-        "id": "MyxCcLqCmuY",
-        "videoId": "MyxCcLqCmuY",
-        "title": "Gemini 4 : le plan de Google pour dominer l'IA.",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-10-14",
-        "url": "https://www.youtube.com/watch?v=MyxCcLqCmuY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Gemini 4 : le plan de Google pour dominer l'IA....",
         "isShort": false
     },
     {
@@ -2065,18 +2101,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fe3JdscTHQg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Les mods de Claude Code sont sortis 👀...",
-        "isShort": false
-    },
-    {
-        "id": "V-vbQ-AJr44",
-        "videoId": "V-vbQ-AJr44",
-        "title": "Le plus gros mensonge sur l'Intelligence Artificielle.",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-10-11",
-        "url": "https://www.youtube.com/watch?v=V-vbQ-AJr44",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Le plus gros mensonge sur l'Intelligence Artificielle....",
         "isShort": false
     },
     {
@@ -2185,18 +2209,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5Z6OLjTg1uo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Opus 5.5 pour le montage vidéo (C'est INCROYABLE)...",
-        "isShort": false
-    },
-    {
-        "id": "orJgU0_x-Ks",
-        "videoId": "orJgU0_x-Ks",
-        "title": "Le secret derrière les meilleures IA : le Harness !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=orJgU0_x-Ks",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le secret derrière les meilleures IA : le Harness !...",
         "isShort": false
     },
     {
