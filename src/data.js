@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-14T12:58:14.605Z
+// Fichier généré automatiquement le 2026-11-15T13:25:55.107Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:58:14 PM 11/14/2026";
+export const lastUpdate = "1:25:55 PM 11/15/2026";
 
 export const sources = [
     {
@@ -172,6 +172,66 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "V7VvCyE7_0M",
+        "videoId": "V7VvCyE7_0M",
+        "title": "Tu peux maintenant faire combattre 100 Claude entre eux !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=V7VvCyE7_0M",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux maintenant faire combattre 100 Claude entre eux !...",
+        "isShort": false
+    },
+    {
+        "id": "F7lH35QHJJk",
+        "videoId": "F7lH35QHJJk",
+        "title": "L’impact des data centers sur les élections 🇺🇸 #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=F7lH35QHJJk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’impact des data centers sur les élections 🇺🇸 #actu...",
+        "isShort": false
+    },
+    {
+        "id": "Em6jumdEC1k",
+        "videoId": "Em6jumdEC1k",
+        "title": "Une appli qui m'engueule au moindre tic #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=Em6jumdEC1k",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Une appli qui m'engueule au moindre tic #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "-bDYZKlmc5k",
+        "videoId": "-bDYZKlmc5k",
+        "title": "Des espions chinois pour copier une machine IA  #intelligenceartificielle #outilsia #ia",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=-bDYZKlmc5k",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Des espions chinois pour copier une machine IA  #intelligenceartificielle #outilsia #ia...",
+        "isShort": false
+    },
+    {
+        "id": "9VLINUbuAew",
+        "videoId": "9VLINUbuAew",
+        "title": "Claude + VPS: mettez vos app en ligne sans rien toucher de technique",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=9VLINUbuAew",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude + VPS: mettez vos app en ligne sans rien toucher de technique...",
+        "isShort": false
+    },
+    {
         "id": "GrNfTwMPoP4",
         "videoId": "GrNfTwMPoP4",
         "title": "Claude cache une fonction finance !",
@@ -181,6 +241,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GrNfTwMPoP4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude cache une fonction finance !...",
+        "isShort": false
+    },
+    {
+        "id": "HToELB4N2ms",
+        "videoId": "HToELB4N2ms",
+        "title": "L’IA peut vraiment réécrire une autre IA ? #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=HToELB4N2ms",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’IA peut vraiment réécrire une autre IA ? #actu...",
         "isShort": false
     },
     {
@@ -196,6 +268,54 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "ONoR52UMjjo",
+        "videoId": "ONoR52UMjjo",
+        "title": "Ton jeu solo devient multijoueur grâce à l'IA (gratuit, open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=ONoR52UMjjo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ton jeu solo devient multijoueur grâce à l'IA (gratuit, open source)...",
+        "isShort": false
+    },
+    {
+        "id": "foQ2b_LDOL0",
+        "videoId": "foQ2b_LDOL0",
+        "title": "Son drone est un vigile grâce à Claude #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=foQ2b_LDOL0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Son drone est un vigile grâce à Claude #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "AevsYkz9vl0",
+        "videoId": "AevsYkz9vl0",
+        "title": "Claude imprime son journal chaque matin #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=AevsYkz9vl0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Claude imprime son journal chaque matin #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "G907y5BOC90",
+        "videoId": "G907y5BOC90",
+        "title": "Il a craqué son Kindle avec Claude #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=G907y5BOC90",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Il a craqué son Kindle avec Claude #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "zqGO3r2uf-k",
         "videoId": "zqGO3r2uf-k",
         "title": "Il a recodé l'appli de sa clim #Shorts",
@@ -208,6 +328,30 @@ export const allVideos = [
         "isShort": true
     },
     {
+        "id": "dm5hczmpDJw",
+        "videoId": "dm5hczmpDJw",
+        "title": "Prouvé scientifiquement ? Le piège à connaître ! #arnaque #ia #intelligenceartificielle",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=dm5hczmpDJw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Prouvé scientifiquement ? Le piège à connaître ! #arnaque #ia #intelligenceartificielle...",
+        "isShort": false
+    },
+    {
+        "id": "Q6axXz-YOcY",
+        "videoId": "Q6axXz-YOcY",
+        "title": "Ne laisse jamais Claude Code coder  sans ces règles !",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=Q6axXz-YOcY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Ne laisse jamais Claude Code coder  sans ces règles !...",
+        "isShort": false
+    },
+    {
         "id": "JWXnlpsqzMU",
         "videoId": "JWXnlpsqzMU",
         "title": "Créer un jeu 3D avec Claude Code et Blender et biensur cet outil incroyable",
@@ -217,6 +361,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=JWXnlpsqzMU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Créer un jeu 3D avec Claude Code et Blender et biensur cet outil incroyable...",
+        "isShort": false
+    },
+    {
+        "id": "Q6D2QsZqsB4",
+        "videoId": "Q6D2QsZqsB4",
+        "title": "Claude lance son Office IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-14",
+        "url": "https://www.youtube.com/watch?v=Q6D2QsZqsB4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude lance son Office IA...",
         "isShort": false
     },
     {
@@ -438,13 +594,13 @@ export const allVideos = [
     {
         "id": "nZhmfRfJhTM",
         "videoId": "nZhmfRfJhTM",
-        "title": "GPT-6 réalise tes vidéos à ta place (3 scénarios)",
+        "title": "ChatGPT fait maintenant tes vidéos (je montre TOUT)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-11-12",
         "url": "https://www.youtube.com/watch?v=nZhmfRfJhTM",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : GPT-6 réalise tes vidéos à ta place (3 scénarios)...",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT fait maintenant tes vidéos (je montre TOUT)...",
         "isShort": false
     },
     {
@@ -940,30 +1096,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "115CCcT9JEc",
-        "videoId": "115CCcT9JEc",
-        "title": "L'IA nous rend plus intelligents ou plus crétins ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=115CCcT9JEc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA nous rend plus intelligents ou plus crétins ?...",
-        "isShort": false
-    },
-    {
-        "id": "oh3BRjAPIfw",
-        "videoId": "oh3BRjAPIfw",
-        "title": "Gemini retouche vos vidéos pour 1$",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=oh3BRjAPIfw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gemini retouche vos vidéos pour 1$...",
-        "isShort": false
-    },
-    {
         "id": "BkJcDka6x48",
         "videoId": "BkJcDka6x48",
         "title": "15 pièges à éviter pour maîtriser Claude !",
@@ -1276,30 +1408,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "DigyVgY2dfU",
-        "videoId": "DigyVgY2dfU",
-        "title": "VibeVoice : l'IA vocale que Microsoft a retirée #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=DigyVgY2dfU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : VibeVoice : l'IA vocale que Microsoft a retirée #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "JO36fDfbuXU",
-        "videoId": "JO36fDfbuXU",
-        "title": "Est-ce la fin des monteurs vidéo ? Open Montage + Claude Code #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=JO36fDfbuXU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Est-ce la fin des monteurs vidéo ? Open Montage + Claude Code #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "ANTnVgR_ji4",
         "videoId": "ANTnVgR_ji4",
         "title": "Vendue 37 271 fois… cette rose n'existe pas ! #arnaque #ia #intelligenceartificielle",
@@ -1384,30 +1492,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "bcGuy__NFdU",
-        "videoId": "bcGuy__NFdU",
-        "title": "J'ai demandé à Claude Code de trouver des clients sur Google Maps #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=bcGuy__NFdU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai demandé à Claude Code de trouver des clients sur Google Maps #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "FzMivV8Lp0M",
-        "videoId": "FzMivV8Lp0M",
-        "title": "Le signal d'achat : trouver des clients sans payer de pub #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=FzMivV8Lp0M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Le signal d'achat : trouver des clients sans payer de pub #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "CDGyYQDbM3E",
         "videoId": "CDGyYQDbM3E",
         "title": "ChatGPT fait maintenant des GIF (nouveau Images 2.6) #chatgpt #intelligenceartificielle #outilsia",
@@ -1429,18 +1513,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lXLq6iqq7sc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Fermez l'ordi, Claude continue de bosser ! #Claude #ClaudeIA #ClaudeCode...",
-        "isShort": false
-    },
-    {
-        "id": "EJAJHePzNPQ",
-        "videoId": "EJAJHePzNPQ",
-        "title": "Vidéo de lancement pour applications grâce a ce repo GitHub",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=EJAJHePzNPQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Vidéo de lancement pour applications grâce a ce repo GitHub...",
         "isShort": false
     },
     {
@@ -1528,18 +1600,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "iTsKSV_bwSI",
-        "videoId": "iTsKSV_bwSI",
-        "title": "Cette petite île contrôle l'IA (et c'est un problème)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=iTsKSV_bwSI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Cette petite île contrôle l'IA (et c'est un problème)...",
-        "isShort": false
-    },
-    {
         "id": "F7dJf3U6NyY",
         "videoId": "F7dJf3U6NyY",
         "title": "Une IA médicale open source chinoise #actu",
@@ -1561,18 +1621,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Endo7pWZVzo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Tes jeux Switch sur ton iPhone, gratuitement (même pas un émulateur)...",
-        "isShort": false
-    },
-    {
-        "id": "jFIn6IMpg-Q",
-        "videoId": "jFIn6IMpg-Q",
-        "title": "Si t’arrêtes pas d’atteindre ta limite Claude, essaie de faire ça",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=jFIn6IMpg-Q",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si t’arrêtes pas d’atteindre ta limite Claude, essaie de faire ça...",
         "isShort": false
     },
     {
@@ -1696,30 +1744,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "EDJtJnWWiNg",
-        "videoId": "EDJtJnWWiNg",
-        "title": "Marre des frais Stripe ? Une page de paiement UPI sans frais de passerelle",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=EDJtJnWWiNg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Marre des frais Stripe ? Une page de paiement UPI sans frais de passerelle...",
-        "isShort": false
-    },
-    {
-        "id": "JgWrV55wFjU",
-        "videoId": "JgWrV55wFjU",
-        "title": "Claude 2.0 : Tout comprendre sur le nouveau Claude IA",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=JgWrV55wFjU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Claude 2.0 : Tout comprendre sur le nouveau Claude IA...",
-        "isShort": false
-    },
-    {
         "id": "r8kWla-p6RY",
         "videoId": "r8kWla-p6RY",
         "title": "Créer ton 1er Agent IA dans Microsoft Copilot !",
@@ -1825,30 +1849,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=nqFhLLELd4o",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : DeepSeek choque encore toute l'industrie de l'IA (actu IA)...",
-        "isShort": false
-    },
-    {
-        "id": "QGoA6SQZ-p8",
-        "videoId": "QGoA6SQZ-p8",
-        "title": "NCM : une nouvelle façon d’écrire #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-26",
-        "url": "https://www.youtube.com/watch?v=QGoA6SQZ-p8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : NCM : une nouvelle façon d’écrire #actu...",
-        "isShort": false
-    },
-    {
-        "id": "vmxPb-I0rxE",
-        "videoId": "vmxPb-I0rxE",
-        "title": "Les data centers annulés aux US #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-26",
-        "url": "https://www.youtube.com/watch?v=vmxPb-I0rxE",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Les data centers annulés aux US #actu...",
         "isShort": false
     },
     {
