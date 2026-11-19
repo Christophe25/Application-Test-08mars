@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-18T15:04:18.392Z
+// Fichier généré automatiquement le 2026-11-19T15:12:39.359Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "3:04:18 PM 11/18/2026";
+export const lastUpdate = "3:12:39 PM 11/19/2026";
 
 export const sources = [
     {
@@ -172,6 +172,90 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "8B-9rBKZ-w4",
+        "videoId": "8B-9rBKZ-w4",
+        "title": "Claude m’a banni #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=8B-9rBKZ-w4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Claude m’a banni #actu...",
+        "isShort": false
+    },
+    {
+        "id": "NIX47qhjZUg",
+        "videoId": "NIX47qhjZUg",
+        "title": "L’IA apprend en dormant ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=NIX47qhjZUg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : L’IA apprend en dormant ?...",
+        "isShort": false
+    },
+    {
+        "id": "cuniDYYiqIY",
+        "videoId": "cuniDYYiqIY",
+        "title": "950 agents IA découvrent une enzyme #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=cuniDYYiqIY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 950 agents IA découvrent une enzyme #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "rNytUPQmpAQ",
+        "videoId": "rNytUPQmpAQ",
+        "title": "J'ai automatisé mes vidéos faceless avec Claude Opus 5.5 : Voici le résultat",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=rNytUPQmpAQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : J'ai automatisé mes vidéos faceless avec Claude Opus 5.5 : Voici le résultat...",
+        "isShort": false
+    },
+    {
+        "id": "2WjvB32zXnM",
+        "videoId": "2WjvB32zXnM",
+        "title": "La Chine va envahir Taïwan pour l'IA ? #intelligenceartificielle #outilsia #ia",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=2WjvB32zXnM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : La Chine va envahir Taïwan pour l'IA ? #intelligenceartificielle #outilsia #ia...",
+        "isShort": false
+    },
+    {
+        "id": "AaXfidA7Kbo",
+        "videoId": "AaXfidA7Kbo",
+        "title": "Microsoft Ignite, l'IA d'entreprise change tout",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=AaXfidA7Kbo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Microsoft Ignite, l'IA d'entreprise change tout...",
+        "isShort": false
+    },
+    {
+        "id": "ygqWbi-zHfo",
+        "videoId": "ygqWbi-zHfo",
+        "title": "Le plan machiavélique de Claude pour DOMINER l'économie.",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=ygqWbi-zHfo",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Le plan machiavélique de Claude pour DOMINER l'économie....",
+        "isShort": false
+    },
+    {
         "id": "O_YrirV6w24",
         "videoId": "O_YrirV6w24",
         "title": "Claude peut tester ton idée de business avant que tu ne dépense de l’argent !",
@@ -181,6 +265,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=O_YrirV6w24",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude peut tester ton idée de business avant que tu ne dépense de l’argent !...",
+        "isShort": false
+    },
+    {
+        "id": "Hu5_Z6yEhKE",
+        "videoId": "Hu5_Z6yEhKE",
+        "title": "n8n explose la concurrence avec son agent (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=Hu5_Z6yEhKE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : n8n explose la concurrence avec son agent (actu IA)...",
         "isShort": false
     },
     {
@@ -194,6 +290,42 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La fin de la censure IA ?...",
         "isShort": false
+    },
+    {
+        "id": "FytPZO-MQss",
+        "videoId": "FytPZO-MQss",
+        "title": "Le Xbox Game Pass sur ta PS5 jailbreakée",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=FytPZO-MQss",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Le Xbox Game Pass sur ta PS5 jailbreakée...",
+        "isShort": false
+    },
+    {
+        "id": "tiu7FdKvmG8",
+        "videoId": "tiu7FdKvmG8",
+        "title": "Cantina et les 10 000 dollars #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=tiu7FdKvmG8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Cantina et les 10 000 dollars #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "kJoZbZbwFOs",
+        "videoId": "kJoZbZbwFOs",
+        "title": "Sa biotech solo rachetée par Anthropic #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=kJoZbZbwFOs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Sa biotech solo rachetée par Anthropic #Shorts...",
+        "isShort": true
     },
     {
         "id": "RQqKJGx8LUs",
@@ -230,6 +362,30 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Terafab : l'usine géante d'Elon Musk, en vraies images #Shorts...",
         "isShort": true
+    },
+    {
+        "id": "Zm4dSBNG0Vs",
+        "videoId": "Zm4dSBNG0Vs",
+        "title": "J'ai laissé Claude Fable 5.2 CRÉER une FORMATION de A à Z",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=Zm4dSBNG0Vs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J'ai laissé Claude Fable 5.2 CRÉER une FORMATION de A à Z...",
+        "isShort": false
+    },
+    {
+        "id": "W0b5Cd-538o",
+        "videoId": "W0b5Cd-538o",
+        "title": "Escapade à SF pour le Microsoft Ignite",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=W0b5Cd-538o",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Escapade à SF pour le Microsoft Ignite...",
+        "isShort": false
     },
     {
         "id": "3BLH26yN2UQ",
@@ -376,18 +532,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "vAO6OHKw3IY",
-        "videoId": "vAO6OHKw3IY",
-        "title": "Escapade à SF pour le Microsoft Ignite",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-17",
-        "url": "https://www.youtube.com/watch?v=vAO6OHKw3IY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Escapade à SF pour le Microsoft Ignite...",
-        "isShort": false
-    },
-    {
         "id": "eIbmcfCw-Yk",
         "videoId": "eIbmcfCw-Yk",
         "title": "Gamma 5 est disponible !",
@@ -496,30 +640,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "ZfxeoeKgS24",
-        "videoId": "ZfxeoeKgS24",
-        "title": "Sa maison dans une appli faite par l'IA #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=ZfxeoeKgS24",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Sa maison dans une appli faite par l'IA #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "I004IPJNdig",
-        "videoId": "I004IPJNdig",
-        "title": "1 million $ pour lire un rouleau brûlé par le Vésuve #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=I004IPJNdig",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : 1 million $ pour lire un rouleau brûlé par le Vésuve #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "HNbohLFSrrQ",
         "videoId": "HNbohLFSrrQ",
         "title": "10 Cas incroyables de Claude Fable 5.2 !",
@@ -614,30 +734,6 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Enregistre tes réunions sans bot et récupère tes tâches (gratuit)...",
         "isShort": false
-    },
-    {
-        "id": "xBSQcAZ-ujM",
-        "videoId": "xBSQcAZ-ujM",
-        "title": "Des IA qui négocient à ta place #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-15",
-        "url": "https://www.youtube.com/watch?v=xBSQcAZ-ujM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Des IA qui négocient à ta place #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "kG5qmp0twIc",
-        "videoId": "kG5qmp0twIc",
-        "title": "Il a viré ses abonnements grâce à Claude #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-15",
-        "url": "https://www.youtube.com/watch?v=kG5qmp0twIc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Il a viré ses abonnements grâce à Claude #Shorts...",
-        "isShort": true
     },
     {
         "id": "-bDYZKlmc5k",
@@ -1060,18 +1156,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "zpqh-gdITXU",
-        "videoId": "zpqh-gdITXU",
-        "title": "Nvidia : une liaison d’État",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-12",
-        "url": "https://www.youtube.com/watch?v=zpqh-gdITXU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Nvidia : une liaison d’État...",
-        "isShort": false
-    },
-    {
         "id": "s6wsXA111Mk",
         "videoId": "s6wsXA111Mk",
         "title": "L’IA ne te prendra JAMAIS ces 5 choses (Fable 5.2)",
@@ -1201,18 +1285,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IfPJXb_jH3I",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Un monteur ou Claude Code + Higgsfield ?...",
-        "isShort": false
-    },
-    {
-        "id": "DRZ3GboMKhI",
-        "videoId": "DRZ3GboMKhI",
-        "title": "Claude Fable lâche 1000 agents",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=DRZ3GboMKhI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Fable lâche 1000 agents...",
         "isShort": false
     },
     {
@@ -1612,18 +1684,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "ANTnVgR_ji4",
-        "videoId": "ANTnVgR_ji4",
-        "title": "Vendue 37 271 fois… cette rose n'existe pas ! #arnaque #ia #intelligenceartificielle",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=ANTnVgR_ji4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Vendue 37 271 fois… cette rose n'existe pas ! #arnaque #ia #intelligenceartificielle...",
-        "isShort": false
-    },
-    {
         "id": "qnLZRHcphLA",
         "videoId": "qnLZRHcphLA",
         "title": "18 façons BIZARRE d'utiliser Claude en 2027.",
@@ -1657,18 +1717,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WL7LH1o7Og4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Tes jeux PC sur ton iPhone, sans jailbreak (gratuit et open source)...",
-        "isShort": false
-    },
-    {
-        "id": "CDGyYQDbM3E",
-        "videoId": "CDGyYQDbM3E",
-        "title": "ChatGPT fait maintenant des GIF (nouveau Images 2.6) #chatgpt #intelligenceartificielle #outilsia",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=CDGyYQDbM3E",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : ChatGPT fait maintenant des GIF (nouveau Images 2.6) #chatgpt #intelligenceartificielle #outilsia...",
         "isShort": false
     },
     {
@@ -1708,18 +1756,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "pNViy9d9fQ0",
-        "videoId": "pNViy9d9fQ0",
-        "title": "50GW de compute dans le monde en 2027 #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=pNViy9d9fQ0",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : 50GW de compute dans le monde en 2027 #actu...",
-        "isShort": false
-    },
-    {
         "id": "ZLYJXe7V3NU",
         "videoId": "ZLYJXe7V3NU",
         "title": "DeepSeek lance un concurrent OPEN SOURCE à Claude Code !",
@@ -1741,30 +1777,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wbVQkORuRyQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : 171 jeux gratuits à lancer dans ton navigateur (Mario, GTA, Call of Duty)...",
-        "isShort": false
-    },
-    {
-        "id": "F7dJf3U6NyY",
-        "videoId": "F7dJf3U6NyY",
-        "title": "Une IA médicale open source chinoise #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-03",
-        "url": "https://www.youtube.com/watch?v=F7dJf3U6NyY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Une IA médicale open source chinoise #actu...",
-        "isShort": false
-    },
-    {
-        "id": "Endo7pWZVzo",
-        "videoId": "Endo7pWZVzo",
-        "title": "Tes jeux Switch sur ton iPhone, gratuitement (même pas un émulateur)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-03",
-        "url": "https://www.youtube.com/watch?v=Endo7pWZVzo",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Tes jeux Switch sur ton iPhone, gratuitement (même pas un émulateur)...",
         "isShort": false
     },
     {
@@ -1825,18 +1837,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2R10nIG5S9k",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : LFM3 dépasse Qwen3.5-9B avec 6× moins de paramètres...",
-        "isShort": false
-    },
-    {
-        "id": "QYjXnL4RwtA",
-        "videoId": "QYjXnL4RwtA",
-        "title": "Deepseek s’améliore seul ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-11-01",
-        "url": "https://www.youtube.com/watch?v=QYjXnL4RwtA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Deepseek s’améliore seul ?...",
         "isShort": false
     },
     {
