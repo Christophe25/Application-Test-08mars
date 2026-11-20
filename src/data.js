@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-19T15:12:39.359Z
+// Fichier généré automatiquement le 2026-11-20T14:53:09.811Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "3:12:39 PM 11/19/2026";
+export const lastUpdate = "2:53:09 PM 11/20/2026";
 
 export const sources = [
     {
@@ -172,6 +172,54 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "h0JqkVsYm7o",
+        "videoId": "h0JqkVsYm7o",
+        "title": "Maintenant Claude peut entrer dans tes réunions !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=h0JqkVsYm7o",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Maintenant Claude peut entrer dans tes réunions !...",
+        "isShort": false
+    },
+    {
+        "id": "Or10P5w8MsY",
+        "videoId": "Or10P5w8MsY",
+        "title": "À 9 ans, elle crée son site web #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=Or10P5w8MsY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : À 9 ans, elle crée son site web #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "u5Loma35hjc",
+        "videoId": "u5Loma35hjc",
+        "title": "Claude est nul en montage vidéo !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=u5Loma35hjc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude est nul en montage vidéo !...",
+        "isShort": false
+    },
+    {
+        "id": "3R0QaSfyh0g",
+        "videoId": "3R0QaSfyh0g",
+        "title": "3 Nouveautés incroyables dans Copilot !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=3R0QaSfyh0g",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 3 Nouveautés incroyables dans Copilot !...",
+        "isShort": false
+    },
+    {
         "id": "8B-9rBKZ-w4",
         "videoId": "8B-9rBKZ-w4",
         "title": "Claude m’a banni #actu",
@@ -194,6 +242,54 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : L’IA apprend en dormant ?...",
         "isShort": false
+    },
+    {
+        "id": "p_VC8dSHle4",
+        "videoId": "p_VC8dSHle4",
+        "title": "CapCut, c'est terminé : le montage pro devient gratuit",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=p_VC8dSHle4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : CapCut, c'est terminé : le montage pro devient gratuit...",
+        "isShort": false
+    },
+    {
+        "id": "H_SifgEY0n4",
+        "videoId": "H_SifgEY0n4",
+        "title": "Automaton, l'IA qui meurt sans argent #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=H_SifgEY0n4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Automaton, l'IA qui meurt sans argent #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "JYch924QT88",
+        "videoId": "JYch924QT88",
+        "title": "Mon avatar et ma voix, sans rien filmer #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=JYch924QT88",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Mon avatar et ma voix, sans rien filmer #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "sqhwh84Gyxc",
+        "videoId": "sqhwh84Gyxc",
+        "title": "Il a traduit le jeu de son fils #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=sqhwh84Gyxc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Il a traduit le jeu de son fils #Shorts...",
+        "isShort": true
     },
     {
         "id": "cuniDYYiqIY",
@@ -229,6 +325,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2WjvB32zXnM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : La Chine va envahir Taïwan pour l'IA ? #intelligenceartificielle #outilsia #ia...",
+        "isShort": false
+    },
+    {
+        "id": "ER3aFPTVKJg",
+        "videoId": "ER3aFPTVKJg",
+        "title": "Même prompt entre Claude Fable 5.2 et Claude Opus 5.5 mais résultats complètements différents !!",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=ER3aFPTVKJg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Même prompt entre Claude Fable 5.2 et Claude Opus 5.5 mais résultats complètements différents !!...",
         "isShort": false
     },
     {
@@ -590,54 +698,6 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Google DeepMind vient de franchir une nouvelle étape avec l'IA...",
         "isShort": false
-    },
-    {
-        "id": "GjHWb8gZi6E",
-        "videoId": "GjHWb8gZi6E",
-        "title": "Les gagnants de ce concours codent avec Claude Code #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=GjHWb8gZi6E",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Les gagnants de ce concours codent avec Claude Code #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "vh7ROgOoQfg",
-        "videoId": "vh7ROgOoQfg",
-        "title": "Claude a trouvé un virus sur son Mac #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=vh7ROgOoQfg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Claude a trouvé un virus sur son Mac #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "R8xFKmCcc5Q",
-        "videoId": "R8xFKmCcc5Q",
-        "title": "À 21 ans, il lit un mot vieux de 2 000 ans #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=R8xFKmCcc5Q",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : À 21 ans, il lit un mot vieux de 2 000 ans #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "6CIbR3x7_jw",
-        "videoId": "6CIbR3x7_jw",
-        "title": "1 000 $, puis 50 000 $ pour lire des papyrus #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=6CIbR3x7_jw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : 1 000 $, puis 50 000 $ pour lire des papyrus #Shorts...",
-        "isShort": true
     },
     {
         "id": "HNbohLFSrrQ",
@@ -1588,18 +1648,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "DX3nAkCnhxs",
-        "videoId": "DX3nAkCnhxs",
-        "title": "Claude devient un chasseur d’emploi !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=DX3nAkCnhxs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude devient un chasseur d’emploi !...",
-        "isShort": false
-    },
-    {
         "id": "PtYSqKYBnvY",
         "videoId": "PtYSqKYBnvY",
         "title": "Pourquoi tu as besoin d’un NAS pour ton IA ?",
@@ -1645,30 +1693,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XPJZWQEVEpM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Toute l'IA du monde dépend de cette île  #intelligenceartificielle #ia #nvidia...",
-        "isShort": false
-    },
-    {
-        "id": "bkO4vEW8v6o",
-        "videoId": "bkO4vEW8v6o",
-        "title": "Ces skills Claude te permettront de piloter entièrement ton profil LinkedIn (+120k impressions)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=bkO4vEW8v6o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Ces skills Claude te permettront de piloter entièrement ton profil LinkedIn (+120k impressions)...",
-        "isShort": false
-    },
-    {
-        "id": "-VuGyFmkTZc",
-        "videoId": "-VuGyFmkTZc",
-        "title": "Les gens piratent leur télé avec Claude Code !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=-VuGyFmkTZc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Les gens piratent leur télé avec Claude Code !...",
         "isShort": false
     },
     {
@@ -1765,18 +1789,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZLYJXe7V3NU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek lance un concurrent OPEN SOURCE à Claude Code !...",
-        "isShort": false
-    },
-    {
-        "id": "wbVQkORuRyQ",
-        "videoId": "wbVQkORuRyQ",
-        "title": "171 jeux gratuits à lancer dans ton navigateur (Mario, GTA, Call of Duty)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=wbVQkORuRyQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : 171 jeux gratuits à lancer dans ton navigateur (Mario, GTA, Call of Duty)...",
         "isShort": false
     },
     {
@@ -2104,18 +2116,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "QGJUqEDTw6o",
-        "videoId": "QGJUqEDTw6o",
-        "title": "La Skill ChatGPT qui va tout changer !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=QGJUqEDTw6o",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : La Skill ChatGPT qui va tout changer !...",
-        "isShort": false
-    },
-    {
         "id": "louRH8iFt5g",
         "videoId": "louRH8iFt5g",
         "title": "Une journée de travail avec Microsoft Copilot (tuto complet 2026)",
@@ -2353,18 +2353,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tCHQnoSj5hM",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Cédric Girard : Vibecoding : J'ai codé et déployé un projet SEO de A à Z avec l'IA...",
-        "isShort": false
-    },
-    {
-        "id": "IanuaQIt-p8",
-        "videoId": "IanuaQIt-p8",
-        "title": "Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=IanuaQIt-p8",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur...",
         "isShort": false
     }
 ];
