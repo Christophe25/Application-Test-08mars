@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-22T14:01:59.462Z
+// Fichier généré automatiquement le 2026-11-23T17:16:58.901Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "2:01:59 PM 11/22/2026";
+export const lastUpdate = "5:16:58 PM 11/23/2026";
 
 export const sources = [
     {
@@ -172,6 +172,150 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "iALg1JF6gD4",
+        "videoId": "iALg1JF6gD4",
+        "title": "Un modèle qui lit l’ADN #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=iALg1JF6gD4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Un modèle qui lit l’ADN #actu...",
+        "isShort": false
+    },
+    {
+        "id": "_LrO-DDzYVM",
+        "videoId": "_LrO-DDzYVM",
+        "title": "Claude m'a créé une série DRAMA 100 % IA (de A à Z)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=_LrO-DDzYVM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude m'a créé une série DRAMA 100 % IA (de A à Z)...",
+        "isShort": false
+    },
+    {
+        "id": "3f60AZ4NirU",
+        "videoId": "3f60AZ4NirU",
+        "title": "Il apprend le drone sans en casser #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=3f60AZ4NirU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Il apprend le drone sans en casser #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "pih20oZN_14",
+        "videoId": "pih20oZN_14",
+        "title": "Des émotions dans sa voix clonée #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=pih20oZN_14",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Des émotions dans sa voix clonée #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "XZnBqOd2slc",
+        "videoId": "XZnBqOd2slc",
+        "title": "J'ai donné 2 semaines à 42 personnes pour créer leur JARVIS (voici ce qui s'est passé)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=XZnBqOd2slc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : J'ai donné 2 semaines à 42 personnes pour créer leur JARVIS (voici ce qui s'est passé)...",
+        "isShort": false
+    },
+    {
+        "id": "Dw055rVv0oc",
+        "videoId": "Dw055rVv0oc",
+        "title": "Appli devenue payante ? il l'a recodée #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=Dw055rVv0oc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Appli devenue payante ? il l'a recodée #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "kMIBqLAaQQ4",
+        "videoId": "kMIBqLAaQQ4",
+        "title": "25 façons d'utiliser Claude qui vont changer votre vie",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=kMIBqLAaQQ4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : 25 façons d'utiliser Claude qui vont changer votre vie...",
+        "isShort": false
+    },
+    {
+        "id": "NzzmiwHbURA",
+        "videoId": "NzzmiwHbURA",
+        "title": "Anthropic casse tout, Gemini Néon est dingue, OpenAI floppe, Genie est bluffant",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=NzzmiwHbURA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Anthropic casse tout, Gemini Néon est dingue, OpenAI floppe, Genie est bluffant...",
+        "isShort": false
+    },
+    {
+        "id": "IIhDcQY8xHk",
+        "videoId": "IIhDcQY8xHk",
+        "title": "Anthropic casse tout, Gemini Néon est dingue, OpenAI floppe, Genie est bluffant + IA, le Harnais",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=IIhDcQY8xHk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Anthropic casse tout, Gemini Néon est dingue, OpenAI floppe, Genie est bluffant + IA, le Harnais...",
+        "isShort": false
+    },
+    {
+        "id": "eRdwMBKLYYA",
+        "videoId": "eRdwMBKLYYA",
+        "title": "OpenAI paie 300.000$ pour ce métier IA (et les TPE en ont besoin)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=eRdwMBKLYYA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : OpenAI paie 300.000$ pour ce métier IA (et les TPE en ont besoin)...",
+        "isShort": false
+    },
+    {
+        "id": "FkVoDcgYeeI",
+        "videoId": "FkVoDcgYeeI",
+        "title": "Comment Créer Ton Premier Agent IA avec Claude (Sans Coder)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=FkVoDcgYeeI",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Comment Créer Ton Premier Agent IA avec Claude (Sans Coder)...",
+        "isShort": false
+    },
+    {
+        "id": "zIEExR36s6g",
+        "videoId": "zIEExR36s6g",
+        "title": "Je visite une usine IA en Chine 🇨🇳",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=zIEExR36s6g",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Je visite une usine IA en Chine 🇨🇳...",
+        "isShort": false
+    },
+    {
         "id": "ttCBwQkq8dE",
         "videoId": "ttCBwQkq8dE",
         "title": "n8n sort son agent IA #actu",
@@ -184,6 +328,66 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "gJPt4dmn7ZI",
+        "videoId": "gJPt4dmn7ZI",
+        "title": "Tes jeux PS5 tournent en natif sur PC (AnyPS5)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=gJPt4dmn7ZI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Tes jeux PS5 tournent en natif sur PC (AnyPS5)...",
+        "isShort": false
+    },
+    {
+        "id": "DloqtcKxObc",
+        "videoId": "DloqtcKxObc",
+        "title": "Google Flow, l'interface en 40 secondes #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=DloqtcKxObc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Google Flow, l'interface en 40 secondes #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Tsxmtw8GwB0",
+        "videoId": "Tsxmtw8GwB0",
+        "title": "Le sprite qui fait parler l'avatar #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=Tsxmtw8GwB0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Le sprite qui fait parler l'avatar #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "nc351prUTxE",
+        "videoId": "nc351prUTxE",
+        "title": "Un vieil iPad recyclé avec Claude #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=nc351prUTxE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Un vieil iPad recyclé avec Claude #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LjrtgYYqQK8",
+        "videoId": "LjrtgYYqQK8",
+        "title": "HyperFrames, c'est du code #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=LjrtgYYqQK8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : HyperFrames, c'est du code #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "UzHANJ1aF9U",
         "videoId": "UzHANJ1aF9U",
         "title": "Il a réparé son Wi-Fi en 5 minutes #Shorts",
@@ -194,6 +398,18 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Il a réparé son Wi-Fi en 5 minutes #Shorts...",
         "isShort": true
+    },
+    {
+        "id": "t8kRDYn_RNA",
+        "videoId": "t8kRDYn_RNA",
+        "title": "La mort d'Internet (1983 - 2027)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=t8kRDYn_RNA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : La mort d'Internet (1983 - 2027)...",
+        "isShort": false
     },
     {
         "id": "RfZtFqQlMrk",
@@ -210,13 +426,13 @@ export const allVideos = [
     {
         "id": "_i12oRKm8pc",
         "videoId": "_i12oRKm8pc",
-        "title": "Regarde ça avant de créer ton agent IA",
+        "title": "Tout comprendre aux agents IA en 28 minutes",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=_i12oRKm8pc",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Regarde ça avant de créer ton agent IA...",
+        "summary": "Nouveauté de Eliott Meunier : Tout comprendre aux agents IA en 28 minutes...",
         "isShort": false
     },
     {
@@ -352,30 +568,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "YaSP775QjfI",
-        "videoId": "YaSP775QjfI",
-        "title": "Le lit rentre ? Claude te le montre #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=YaSP775QjfI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Le lit rentre ? Claude te le montre #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Or10P5w8MsY",
-        "videoId": "Or10P5w8MsY",
-        "title": "À 9 ans, elle crée son site web #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=Or10P5w8MsY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : À 9 ans, elle crée son site web #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "u5Loma35hjc",
         "videoId": "u5Loma35hjc",
         "title": "Claude est nul en montage vidéo !",
@@ -433,66 +625,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=p_VC8dSHle4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : CapCut, c'est terminé : le montage pro devient gratuit...",
-        "isShort": false
-    },
-    {
-        "id": "H_SifgEY0n4",
-        "videoId": "H_SifgEY0n4",
-        "title": "Automaton, l'IA qui meurt sans argent #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-19",
-        "url": "https://www.youtube.com/watch?v=H_SifgEY0n4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Automaton, l'IA qui meurt sans argent #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "JYch924QT88",
-        "videoId": "JYch924QT88",
-        "title": "Mon avatar et ma voix, sans rien filmer #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-19",
-        "url": "https://www.youtube.com/watch?v=JYch924QT88",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Mon avatar et ma voix, sans rien filmer #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "sqhwh84Gyxc",
-        "videoId": "sqhwh84Gyxc",
-        "title": "Il a traduit le jeu de son fils #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-19",
-        "url": "https://www.youtube.com/watch?v=sqhwh84Gyxc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Il a traduit le jeu de son fils #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "cuniDYYiqIY",
-        "videoId": "cuniDYYiqIY",
-        "title": "950 agents IA découvrent une enzyme #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-19",
-        "url": "https://www.youtube.com/watch?v=cuniDYYiqIY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : 950 agents IA découvrent une enzyme #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "rNytUPQmpAQ",
-        "videoId": "rNytUPQmpAQ",
-        "title": "J'ai automatisé mes vidéos faceless avec Claude Opus 5.5 : Voici le résultat",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-19",
-        "url": "https://www.youtube.com/watch?v=rNytUPQmpAQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai automatisé mes vidéos faceless avec Claude Opus 5.5 : Voici le résultat...",
         "isShort": false
     },
     {
@@ -592,18 +724,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "tiu7FdKvmG8",
-        "videoId": "tiu7FdKvmG8",
-        "title": "Cantina et les 10 000 dollars #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-18",
-        "url": "https://www.youtube.com/watch?v=tiu7FdKvmG8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Cantina et les 10 000 dollars #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "Zm4dSBNG0Vs",
         "videoId": "Zm4dSBNG0Vs",
         "title": "J'ai laissé Claude Fable 5.2 CRÉER une FORMATION de A à Z",
@@ -625,18 +745,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=W0b5Cd-538o",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Escapade à SF pour le Microsoft Ignite...",
-        "isShort": false
-    },
-    {
-        "id": "3BLH26yN2UQ",
-        "videoId": "3BLH26yN2UQ",
-        "title": "Microsoft Ignite : Le nouveau copilot va tout changer",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-18",
-        "url": "https://www.youtube.com/watch?v=3BLH26yN2UQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Microsoft Ignite : Le nouveau copilot va tout changer...",
         "isShort": false
     },
     {
@@ -1288,18 +1396,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "NWyEhgOomvE",
-        "videoId": "NWyEhgOomvE",
-        "title": "Starship, Starlink, la Lune : un streamer spatial nous explique tout",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-12",
-        "url": "https://www.youtube.com/watch?v=NWyEhgOomvE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Starship, Starlink, la Lune : un streamer spatial nous explique tout...",
-        "isShort": false
-    },
-    {
         "id": "s6wsXA111Mk",
         "videoId": "s6wsXA111Mk",
         "title": "L’IA ne te prendra JAMAIS ces 5 choses (Fable 5.2)",
@@ -1540,18 +1636,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "_zbTm6xK8jk",
-        "videoId": "_zbTm6xK8jk",
-        "title": "Faut-il investir dans Anthropic ? #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=_zbTm6xK8jk",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Faut-il investir dans Anthropic ? #actu...",
-        "isShort": false
-    },
-    {
         "id": "cUIicxlz_bQ",
         "videoId": "cUIicxlz_bQ",
         "title": "Deepseek lance un concurrent de Claude code",
@@ -1648,18 +1732,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "X8V_lgEOTHc",
-        "videoId": "X8V_lgEOTHc",
-        "title": "Genie 4 : créer des mondes virtuels",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-08",
-        "url": "https://www.youtube.com/watch?v=X8V_lgEOTHc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Genie 4 : créer des mondes virtuels...",
-        "isShort": false
-    },
-    {
         "id": "TFteX4z5m4E",
         "videoId": "TFteX4z5m4E",
         "title": "Ta carte graphique est bridée en IA : ce module open source la débride",
@@ -1693,42 +1765,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OrIUpD2x-8U",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Transforme Claude Code et Codex en une équipe d’agents IA boostés...",
-        "isShort": false
-    },
-    {
-        "id": "a8sxKqfj5YE",
-        "videoId": "a8sxKqfj5YE",
-        "title": "Une alternative GRATUITE à Shopify (open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=a8sxKqfj5YE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Une alternative GRATUITE à Shopify (open source)...",
-        "isShort": false
-    },
-    {
-        "id": "XPJZWQEVEpM",
-        "videoId": "XPJZWQEVEpM",
-        "title": "Toute l'IA du monde dépend de cette île  #intelligenceartificielle #ia #nvidia",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=XPJZWQEVEpM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Toute l'IA du monde dépend de cette île  #intelligenceartificielle #ia #nvidia...",
-        "isShort": false
-    },
-    {
-        "id": "kPwzJ8T2Dbo",
-        "videoId": "kPwzJ8T2Dbo",
-        "title": "Claude Code + GitHub : le setup que personne n’utilise (GRATUIT)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=kPwzJ8T2Dbo",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Code + GitHub : le setup que personne n’utilise (GRATUIT)...",
         "isShort": false
     },
     {
@@ -2257,18 +2293,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5Z6OLjTg1uo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Opus 5.5 pour le montage vidéo (C'est INCROYABLE)...",
-        "isShort": false
-    },
-    {
-        "id": "lLTLG0h6y54",
-        "videoId": "lLTLG0h6y54",
-        "title": "JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=lLTLG0h6y54",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)...",
         "isShort": false
     },
     {
