@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-23T17:16:58.901Z
+// Fichier généré automatiquement le 2026-11-24T16:58:26.916Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "5:16:58 PM 11/23/2026";
+export const lastUpdate = "4:58:26 PM 11/24/2026";
 
 export const sources = [
     {
@@ -172,6 +172,90 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "bZKvzmgGCnk",
+        "videoId": "bZKvzmgGCnk",
+        "title": "Claude vient de lancer une mise à jour énorme !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=bZKvzmgGCnk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de lancer une mise à jour énorme !...",
+        "isShort": false
+    },
+    {
+        "id": "T9QYyMeiF8k",
+        "videoId": "T9QYyMeiF8k",
+        "title": "6 skills qui transforment Claude en Studio d’animation !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=T9QYyMeiF8k",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 6 skills qui transforment Claude en Studio d’animation !...",
+        "isShort": false
+    },
+    {
+        "id": "zXxotnwF54E",
+        "videoId": "zXxotnwF54E",
+        "title": "Le script écrit par Claude avec des recherches web #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=zXxotnwF54E",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Le script écrit par Claude avec des recherches web #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "lTtdwpUSFho",
+        "videoId": "lTtdwpUSFho",
+        "title": "40 h de podcast résumées par Claude #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=lTtdwpUSFho",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 40 h de podcast résumées par Claude #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "MYVQ19hAqWk",
+        "videoId": "MYVQ19hAqWk",
+        "title": "IA : Comprendre la puissance du Harnais",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=MYVQ19hAqWk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : Comprendre la puissance du Harnais...",
+        "isShort": false
+    },
+    {
+        "id": "Z3h7AHWW9no",
+        "videoId": "Z3h7AHWW9no",
+        "title": "Gemini 4 Neon : le piège du prix",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=Z3h7AHWW9no",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini 4 Neon : le piège du prix...",
+        "isShort": false
+    },
+    {
+        "id": "WQrXCDuQamA",
+        "videoId": "WQrXCDuQamA",
+        "title": "CLAUDE Meetings : tout comprendre en 9 min",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=WQrXCDuQamA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE Meetings : tout comprendre en 9 min...",
+        "isShort": false
+    },
+    {
         "id": "iALg1JF6gD4",
         "videoId": "iALg1JF6gD4",
         "title": "Un modèle qui lit l’ADN #actu",
@@ -181,6 +265,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iALg1JF6gD4",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Un modèle qui lit l’ADN #actu...",
+        "isShort": false
+    },
+    {
+        "id": "xtA6J2yV7vo",
+        "videoId": "xtA6J2yV7vo",
+        "title": "Claude vient de résoudre un mystère des trous noirs",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=xtA6J2yV7vo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude vient de résoudre un mystère des trous noirs...",
         "isShort": false
     },
     {
@@ -194,6 +290,30 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude m'a créé une série DRAMA 100 % IA (de A à Z)...",
         "isShort": false
+    },
+    {
+        "id": "pOBYnp-WqZw",
+        "videoId": "pOBYnp-WqZw",
+        "title": "Outils IA : pas ça, plutôt ça #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=pOBYnp-WqZw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Outils IA : pas ça, plutôt ça #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "0HDc8laMnAU",
+        "videoId": "0HDc8laMnAU",
+        "title": "Son avatar à partir de deux photos #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=0HDc8laMnAU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Son avatar à partir de deux photos #Shorts...",
+        "isShort": true
     },
     {
         "id": "3f60AZ4NirU",
@@ -244,6 +364,18 @@ export const allVideos = [
         "isShort": true
     },
     {
+        "id": "xpPRVuuoV7Y",
+        "videoId": "xpPRVuuoV7Y",
+        "title": "5 choses à demander à Claude Code pour ta maison",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=xpPRVuuoV7Y",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : 5 choses à demander à Claude Code pour ta maison...",
+        "isShort": false
+    },
+    {
         "id": "kMIBqLAaQQ4",
         "videoId": "kMIBqLAaQQ4",
         "title": "25 façons d'utiliser Claude qui vont changer votre vie",
@@ -253,6 +385,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kMIBqLAaQQ4",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : 25 façons d'utiliser Claude qui vont changer votre vie...",
+        "isShort": false
+    },
+    {
+        "id": "ZduisWJpkxE",
+        "videoId": "ZduisWJpkxE",
+        "title": "Anthropic : record fou en Bourse",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=ZduisWJpkxE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Anthropic : record fou en Bourse...",
         "isShort": false
     },
     {
@@ -282,13 +426,13 @@ export const allVideos = [
     {
         "id": "eRdwMBKLYYA",
         "videoId": "eRdwMBKLYYA",
-        "title": "OpenAI paie 300.000$ pour ce métier IA (et les TPE en ont besoin)",
+        "title": "Comment je deviendrais Forward Deployed Engineer en 2027 (sans savoir coder)",
         "author": "Simon Music",
         "source": "@Simon_bcome",
         "date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=eRdwMBKLYYA",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : OpenAI paie 300.000$ pour ce métier IA (et les TPE en ont besoin)...",
+        "summary": "Nouveauté de Simon Music : Comment je deviendrais Forward Deployed Engineer en 2027 (sans savoir coder)...",
         "isShort": false
     },
     {
@@ -484,42 +628,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "USsnVmvNnMw",
-        "videoId": "USsnVmvNnMw",
-        "title": "Claude refait son arbre généalogique #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=USsnVmvNnMw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Claude refait son arbre généalogique #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "SL5HRaQHygw",
-        "videoId": "SL5HRaQHygw",
-        "title": "Cloner sa voix avec 41 secondes d'audio #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=SL5HRaQHygw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Cloner sa voix avec 41 secondes d'audio #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "SLrBDHIULm0",
-        "videoId": "SLrBDHIULm0",
-        "title": "Il visite sa maison avant les murs #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=SLrBDHIULm0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Il visite sa maison avant les murs #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "2at-25OUbNE",
         "videoId": "2at-25OUbNE",
         "title": "Claude ajoute un filigrane sur tes textes !",
@@ -554,18 +662,6 @@ export const allVideos = [
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Maintenant Claude peut entrer dans tes réunions !...",
         "isShort": false
-    },
-    {
-        "id": "EC4ZZUr6wrQ",
-        "videoId": "EC4ZZUr6wrQ",
-        "title": "Arena, le mode d'emploi #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=EC4ZZUr6wrQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Arena, le mode d'emploi #Shorts...",
-        "isShort": true
     },
     {
         "id": "u5Loma35hjc",
@@ -1264,54 +1360,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "LlmVFlCWYuM",
-        "videoId": "LlmVFlCWYuM",
-        "title": "Jensen Huang tombe, Chatgpt et Anthropic se lachent ! + Tuto Claude + VPS = magie !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=LlmVFlCWYuM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Jensen Huang tombe, Chatgpt et Anthropic se lachent ! + Tuto Claude + VPS = magie !...",
-        "isShort": false
-    },
-    {
-        "id": "vYkhMRoOueI",
-        "videoId": "vYkhMRoOueI",
-        "title": "IA : 16 États, zéro sanction",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=vYkhMRoOueI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : 16 États, zéro sanction...",
-        "isShort": false
-    },
-    {
-        "id": "nZhmfRfJhTM",
-        "videoId": "nZhmfRfJhTM",
-        "title": "ChatGPT fait maintenant tes vidéos (je montre TOUT)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-12",
-        "url": "https://www.youtube.com/watch?v=nZhmfRfJhTM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT fait maintenant tes vidéos (je montre TOUT)...",
-        "isShort": false
-    },
-    {
-        "id": "POh4lmX5ecM",
-        "videoId": "POh4lmX5ecM",
-        "title": "La plupart des gens installent toujours les mêmes skills Claude.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-12",
-        "url": "https://www.youtube.com/watch?v=POh4lmX5ecM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens installent toujours les mêmes skills Claude....",
-        "isShort": false
-    },
-    {
         "id": "DG8wUtLntDs",
         "videoId": "DG8wUtLntDs",
         "title": "Claude : Créer ta première équipe d'Agents IA en 30 min ! (sans coder)",
@@ -1381,18 +1429,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=qXSRAFU08RM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Vercel a sorti un outil qui permet de prendre le contrôle de ton Ordinateur...",
-        "isShort": false
-    },
-    {
-        "id": "yB_FKYI_ghw",
-        "videoId": "yB_FKYI_ghw",
-        "title": "Frigos sabotés : l’Iran accusé",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-12",
-        "url": "https://www.youtube.com/watch?v=yB_FKYI_ghw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Frigos sabotés : l’Iran accusé...",
         "isShort": false
     },
     {
@@ -1525,18 +1561,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IfPJXb_jH3I",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Un monteur ou Claude Code + Higgsfield ?...",
-        "isShort": false
-    },
-    {
-        "id": "wv9llP3BnTw",
-        "videoId": "wv9llP3BnTw",
-        "title": "CLAUDE 2.0 est INCROYABLE (je t'explique tout)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=wv9llP3BnTw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE 2.0 est INCROYABLE (je t'explique tout)...",
         "isShort": false
     },
     {
@@ -1756,18 +1780,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "OrIUpD2x-8U",
-        "videoId": "OrIUpD2x-8U",
-        "title": "Transforme Claude Code et Codex en une équipe d’agents IA boostés",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-08",
-        "url": "https://www.youtube.com/watch?v=OrIUpD2x-8U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Transforme Claude Code et Codex en une équipe d’agents IA boostés...",
-        "isShort": false
-    },
-    {
         "id": "qnLZRHcphLA",
         "videoId": "qnLZRHcphLA",
         "title": "18 façons BIZARRE d'utiliser Claude en 2027.",
@@ -1873,18 +1885,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=rjHf_t5qkt4",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Livrer un outil IA à 5 000 € à une PME avec Claude Code (De A à Z)...",
-        "isShort": false
-    },
-    {
-        "id": "2R10nIG5S9k",
-        "videoId": "2R10nIG5S9k",
-        "title": "LFM3 dépasse Qwen3.5-9B avec 6× moins de paramètres",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-11-01",
-        "url": "https://www.youtube.com/watch?v=2R10nIG5S9k",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : LFM3 dépasse Qwen3.5-9B avec 6× moins de paramètres...",
         "isShort": false
     },
     {
