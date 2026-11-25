@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-24T16:58:26.916Z
+// Fichier généré automatiquement le 2026-11-25T16:47:05.695Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "4:58:26 PM 11/24/2026";
+export const lastUpdate = "4:47:05 PM 11/25/2026";
 
 export const sources = [
     {
@@ -172,6 +172,78 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "mAiRdqQ-i9o",
+        "videoId": "mAiRdqQ-i9o",
+        "title": "7 jours, 7 certificats IA de plus en plus difficiles !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=mAiRdqQ-i9o",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 7 jours, 7 certificats IA de plus en plus difficiles !...",
+        "isShort": false
+    },
+    {
+        "id": "g63rCnLgzC4",
+        "videoId": "g63rCnLgzC4",
+        "title": "Tes GPTs s'arrêtent le 11 décembre #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=g63rCnLgzC4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Tes GPTs s'arrêtent le 11 décembre #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "5yXFN39CrYc",
+        "videoId": "5yXFN39CrYc",
+        "title": "La fonctionnalité Claude la plus SOUS-ESTIMÉE (Claude Artéfacts)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=5yXFN39CrYc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : La fonctionnalité Claude la plus SOUS-ESTIMÉE (Claude Artéfacts)...",
+        "isShort": false
+    },
+    {
+        "id": "udvi2dMXExg",
+        "videoId": "udvi2dMXExg",
+        "title": "Jensen is back, la Super-Intelligence aussi ! L'actu IA est dingue",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=udvi2dMXExg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Jensen is back, la Super-Intelligence aussi ! L'actu IA est dingue...",
+        "isShort": false
+    },
+    {
+        "id": "HexUSYqBKPU",
+        "videoId": "HexUSYqBKPU",
+        "title": "Jensen is back, la Super-Intelligence aussi ! L'actu IA est dingue + Interview Robotique !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=HexUSYqBKPU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Jensen is back, la Super-Intelligence aussi ! L'actu IA est dingue + Interview Robotique !...",
+        "isShort": false
+    },
+    {
+        "id": "rAWp7z5aEHU",
+        "videoId": "rAWp7z5aEHU",
+        "title": "Genie 4 : l’IA crée des mondes",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=rAWp7z5aEHU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Genie 4 : l’IA crée des mondes...",
+        "isShort": false
+    },
+    {
         "id": "bZKvzmgGCnk",
         "videoId": "bZKvzmgGCnk",
         "title": "Claude vient de lancer une mise à jour énorme !",
@@ -196,6 +268,66 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "BJ0pX_RqneY",
+        "videoId": "BJ0pX_RqneY",
+        "title": "Olares One : ce MONSTRE fait tourner mes agents IA en local",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=BJ0pX_RqneY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Olares One : ce MONSTRE fait tourner mes agents IA en local...",
+        "isShort": false
+    },
+    {
+        "id": "jWZcEjRs9ZA",
+        "videoId": "jWZcEjRs9ZA",
+        "title": "Les séries drama 100 % IA font des millions de vues",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=jWZcEjRs9ZA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Les séries drama 100 % IA font des millions de vues...",
+        "isShort": false
+    },
+    {
+        "id": "esRoY1NnKvA",
+        "videoId": "esRoY1NnKvA",
+        "title": "Mon équipe de collègues IA #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=esRoY1NnKvA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Mon équipe de collègues IA #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "sy69u5jhiRU",
+        "videoId": "sy69u5jhiRU",
+        "title": "Publier partout avec Blotato #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=sy69u5jhiRU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Publier partout avec Blotato #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "G5U6ahNX8S0",
+        "videoId": "G5U6ahNX8S0",
+        "title": "Ces vieux jeux revivent grâce à Claude #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=G5U6ahNX8S0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Ces vieux jeux revivent grâce à Claude #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "zXxotnwF54E",
         "videoId": "zXxotnwF54E",
         "title": "Le script écrit par Claude avec des recherches web #Shorts",
@@ -218,6 +350,18 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : 40 h de podcast résumées par Claude #Shorts...",
         "isShort": true
+    },
+    {
+        "id": "kw9En-R64JM",
+        "videoId": "kw9En-R64JM",
+        "title": "GPT-6.2 Astra : record ou fiasco ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=kw9En-R64JM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6.2 Astra : record ou fiasco ?...",
+        "isShort": false
     },
     {
         "id": "MYVQ19hAqWk",
@@ -520,30 +664,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "LjrtgYYqQK8",
-        "videoId": "LjrtgYYqQK8",
-        "title": "HyperFrames, c'est du code #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-22",
-        "url": "https://www.youtube.com/watch?v=LjrtgYYqQK8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : HyperFrames, c'est du code #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "UzHANJ1aF9U",
-        "videoId": "UzHANJ1aF9U",
-        "title": "Il a réparé son Wi-Fi en 5 minutes #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-22",
-        "url": "https://www.youtube.com/watch?v=UzHANJ1aF9U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Il a réparé son Wi-Fi en 5 minutes #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "t8kRDYn_RNA",
         "videoId": "t8kRDYn_RNA",
         "title": "La mort d'Internet (1983 - 2027)",
@@ -602,30 +722,6 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Clipper les streams GTA 6 gratuitement avec Claude Code...",
         "isShort": false
-    },
-    {
-        "id": "jzz1nC5jk_k",
-        "videoId": "jzz1nC5jk_k",
-        "title": "Sellbird, l'agent Claude qui prospecte #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=jzz1nC5jk_k",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Sellbird, l'agent Claude qui prospecte #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "D8j52ULwFIc",
-        "videoId": "D8j52ULwFIc",
-        "title": "Le test Starlink, de l'idée à la vidéo #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=D8j52ULwFIc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Le test Starlink, de l'idée à la vidéo #Shorts...",
-        "isShort": true
     },
     {
         "id": "2at-25OUbNE",
@@ -1192,30 +1288,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "Q6D2QsZqsB4",
-        "videoId": "Q6D2QsZqsB4",
-        "title": "Claude lance son Office IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=Q6D2QsZqsB4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude lance son Office IA...",
-        "isShort": false
-    },
-    {
-        "id": "BE9R_Xz5T6M",
-        "videoId": "BE9R_Xz5T6M",
-        "title": "ChatGPT, le nouveau Google Business",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=BE9R_Xz5T6M",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT, le nouveau Google Business...",
-        "isShort": false
-    },
-    {
         "id": "IQx2GrPA2yk",
         "videoId": "IQx2GrPA2yk",
         "title": "Construire une équipe YouTube avec Claude !",
@@ -1225,18 +1297,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IQx2GrPA2yk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Construire une équipe YouTube avec Claude !...",
-        "isShort": false
-    },
-    {
-        "id": "Kp59WuE_geE",
-        "videoId": "Kp59WuE_geE",
-        "title": "Voici 10 de mes incontournables pour utiliser les meilleures fonctions de Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=Kp59WuE_geE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Voici 10 de mes incontournables pour utiliser les meilleures fonctions de Claude...",
         "isShort": false
     },
     {
@@ -1333,30 +1393,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=KZDWU_2p8eo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Copier le marketing de n’importe quelle application avec Claude Code et cet outil caché…...",
-        "isShort": false
-    },
-    {
-        "id": "sqXqTOdvqYk",
-        "videoId": "sqXqTOdvqYk",
-        "title": "Nvidia : la chute de Jensen Huang",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=sqXqTOdvqYk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Nvidia : la chute de Jensen Huang...",
-        "isShort": false
-    },
-    {
-        "id": "dARnVjQHIew",
-        "videoId": "dARnVjQHIew",
-        "title": "Jensen Huang tombe, Chatgpt et Anthropic se lachent",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=dARnVjQHIew",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Jensen Huang tombe, Chatgpt et Anthropic se lachent...",
         "isShort": false
     },
     {
@@ -1756,30 +1792,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "TFteX4z5m4E",
-        "videoId": "TFteX4z5m4E",
-        "title": "Ta carte graphique est bridée en IA : ce module open source la débride",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-08",
-        "url": "https://www.youtube.com/watch?v=TFteX4z5m4E",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ta carte graphique est bridée en IA : ce module open source la débride...",
-        "isShort": false
-    },
-    {
-        "id": "phyCb38bkLU",
-        "videoId": "phyCb38bkLU",
-        "title": "Claude ou Claude Code ? Quand choisir quoi ? #Claude #Claudecode #ClaudeIA #IA",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-11-08",
-        "url": "https://www.youtube.com/watch?v=phyCb38bkLU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Claude ou Claude Code ? Quand choisir quoi ? #Claude #Claudecode #ClaudeIA #IA...",
-        "isShort": false
-    },
-    {
         "id": "qnLZRHcphLA",
         "videoId": "qnLZRHcphLA",
         "title": "18 façons BIZARRE d'utiliser Claude en 2027.",
@@ -1825,18 +1837,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WMN1Ugsb15E",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Voici l’IA à Absolument Connaître en 2027 (personne n’en parle)...",
-        "isShort": false
-    },
-    {
-        "id": "ZLYJXe7V3NU",
-        "videoId": "ZLYJXe7V3NU",
-        "title": "DeepSeek lance un concurrent OPEN SOURCE à Claude Code !",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=ZLYJXe7V3NU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek lance un concurrent OPEN SOURCE à Claude Code !...",
         "isShort": false
     },
     {
