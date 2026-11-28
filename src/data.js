@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-27T16:05:28.848Z
+// Fichier généré automatiquement le 2026-11-28T15:02:12.644Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "4:05:28 PM 11/27/2026";
+export const lastUpdate = "3:02:12 PM 11/28/2026";
 
 export const sources = [
     {
@@ -172,6 +172,54 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "zAZrV7edGRU",
+        "videoId": "zAZrV7edGRU",
+        "title": "Inkling mini 3 : le modèle qui boucle #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-28",
+        "url": "https://www.youtube.com/watch?v=zAZrV7edGRU",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Inkling mini 3 : le modèle qui boucle #actu...",
+        "isShort": false
+    },
+    {
+        "id": "I3-7X4bGNPA",
+        "videoId": "I3-7X4bGNPA",
+        "title": "15 000 € par mois avec un seul système #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-28",
+        "url": "https://www.youtube.com/watch?v=I3-7X4bGNPA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 15 000 € par mois avec un seul système #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "RJVwnyJ4jTE",
+        "videoId": "RJVwnyJ4jTE",
+        "title": "Tier list des 10 nouveaux agents IA #claudecode #agentsia",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-28",
+        "url": "https://www.youtube.com/watch?v=RJVwnyJ4jTE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Tier list des 10 nouveaux agents IA #claudecode #agentsia...",
+        "isShort": false
+    },
+    {
+        "id": "8V8x0jk-YVI",
+        "videoId": "8V8x0jk-YVI",
+        "title": "7 utilisations INCROYABLES de GEMINI 4 Neon (c'est FOU)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=8V8x0jk-YVI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 7 utilisations INCROYABLES de GEMINI 4 Neon (c'est FOU)...",
+        "isShort": false
+    },
+    {
         "id": "djbQlIhP5gY",
         "videoId": "djbQlIhP5gY",
         "title": "Claude viens de tuer Instagram !",
@@ -196,6 +244,54 @@ export const allVideos = [
         "isShort": false
     },
     {
+        "id": "XBn5aJPq6RU",
+        "videoId": "XBn5aJPq6RU",
+        "title": "Claude a-t-il résolu l'hypothèse de Riemann ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=XBn5aJPq6RU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude a-t-il résolu l'hypothèse de Riemann ?...",
+        "isShort": false
+    },
+    {
+        "id": "8ovbGgTjno0",
+        "videoId": "8ovbGgTjno0",
+        "title": "Zelda Ocarina of Time se joue maintenant à deux sur PC",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=8ovbGgTjno0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Zelda Ocarina of Time se joue maintenant à deux sur PC...",
+        "isShort": false
+    },
+    {
+        "id": "7E7hF67dvgU",
+        "videoId": "7E7hF67dvgU",
+        "title": "Retouche photo IA sans code secret #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=7E7hF67dvgU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Retouche photo IA sans code secret #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LFd_U9MlwRU",
+        "videoId": "LFd_U9MlwRU",
+        "title": "Les ingénieurs d'Anthropic ont arrêté de créer un agent par tâche #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=LFd_U9MlwRU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Les ingénieurs d'Anthropic ont arrêté de créer un agent par tâche #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "IKLESPNelAk",
         "videoId": "IKLESPNelAk",
         "title": "Sellbird s'installe en une phrase dans Claude Code #Shorts",
@@ -206,6 +302,18 @@ export const allVideos = [
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Sellbird s'installe en une phrase dans Claude Code #Shorts...",
         "isShort": true
+    },
+    {
+        "id": "d_ipyw3f53I",
+        "videoId": "d_ipyw3f53I",
+        "title": "Claude permet de transformer un artefact en app !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=d_ipyw3f53I",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude permet de transformer un artefact en app !...",
+        "isShort": false
     },
     {
         "id": "wHrHXtnIgfE",
@@ -688,18 +796,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "lTtdwpUSFho",
-        "videoId": "lTtdwpUSFho",
-        "title": "40 h de podcast résumées par Claude #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-24",
-        "url": "https://www.youtube.com/watch?v=lTtdwpUSFho",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : 40 h de podcast résumées par Claude #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "kw9En-R64JM",
         "videoId": "kw9En-R64JM",
         "title": "GPT-6.2 Astra : record ou fiasco ?",
@@ -772,30 +868,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "pOBYnp-WqZw",
-        "videoId": "pOBYnp-WqZw",
-        "title": "Outils IA : pas ça, plutôt ça #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=pOBYnp-WqZw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Outils IA : pas ça, plutôt ça #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "0HDc8laMnAU",
-        "videoId": "0HDc8laMnAU",
-        "title": "Son avatar à partir de deux photos #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=0HDc8laMnAU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Son avatar à partir de deux photos #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "xpPRVuuoV7Y",
         "videoId": "xpPRVuuoV7Y",
         "title": "5 choses à demander à Claude Code pour ta maison",
@@ -829,18 +901,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZduisWJpkxE",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Anthropic : record fou en Bourse...",
-        "isShort": false
-    },
-    {
-        "id": "NzzmiwHbURA",
-        "videoId": "NzzmiwHbURA",
-        "title": "Anthropic casse tout, Gemini Néon est dingue, OpenAI floppe, Genie est bluffant",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=NzzmiwHbURA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Anthropic casse tout, Gemini Néon est dingue, OpenAI floppe, Genie est bluffant...",
         "isShort": false
     },
     {
@@ -1240,18 +1300,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "Z8aR_mmWZ20",
-        "videoId": "Z8aR_mmWZ20",
-        "title": "Claude scanne 27 programmes de fidélité en même temps !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=Z8aR_mmWZ20",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude scanne 27 programmes de fidélité en même temps !...",
-        "isShort": false
-    },
-    {
         "id": "P1ciDsrNWYY",
         "videoId": "P1ciDsrNWYY",
         "title": "J’ai visité une usine d’IA en Chine 🇨🇳",
@@ -1636,18 +1684,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "TySSyP5xjeg",
-        "videoId": "TySSyP5xjeg",
-        "title": "Yann LeCun vient de marquer un point contre les LLM (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=TySSyP5xjeg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Yann LeCun vient de marquer un point contre les LLM (actu IA)...",
-        "isShort": false
-    },
-    {
         "id": "3EgUhjI1QH8",
         "videoId": "3EgUhjI1QH8",
         "title": "Google apprend aux IA à DORMIR pour devenir plus intelligentes",
@@ -1732,18 +1768,6 @@ export const allVideos = [
         "isShort": false
     },
     {
-        "id": "IfPJXb_jH3I",
-        "videoId": "IfPJXb_jH3I",
-        "title": "Un monteur ou Claude Code + Higgsfield ?",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=IfPJXb_jH3I",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Un monteur ou Claude Code + Higgsfield ?...",
-        "isShort": false
-    },
-    {
         "id": "gwYn3LJG3mg",
         "videoId": "gwYn3LJG3mg",
         "title": "Weight-Space Programming : une révolution pour l'IA?",
@@ -1753,30 +1777,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gwYn3LJG3mg",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Weight-Space Programming : une révolution pour l'IA?...",
-        "isShort": false
-    },
-    {
-        "id": "PKrLYWnqhqI",
-        "videoId": "PKrLYWnqhqI",
-        "title": "LFM3 dépasse Qwen 3.5-9B avec 6x moins de paramètres",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=PKrLYWnqhqI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : LFM3 dépasse Qwen 3.5-9B avec 6x moins de paramètres...",
-        "isShort": false
-    },
-    {
-        "id": "FINo5UG8XMQ",
-        "videoId": "FINo5UG8XMQ",
-        "title": "Il m'a copié de A à Z (même son test sur Dragon Ball)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=FINo5UG8XMQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Il m'a copié de A à Z (même son test sur Dragon Ball)...",
         "isShort": false
     },
     {
@@ -2341,18 +2341,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VI0FCySkw9A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Voici comment j'ai rendu Hermes 10X plus puissant (vraiment)...",
-        "isShort": false
-    },
-    {
-        "id": "Ku6x7imReY4",
-        "videoId": "Ku6x7imReY4",
-        "title": "Devenez maître dans l'art d'écrire vos Skills Claude",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=Ku6x7imReY4",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Devenez maître dans l'art d'écrire vos Skills Claude...",
         "isShort": false
     }
 ];
